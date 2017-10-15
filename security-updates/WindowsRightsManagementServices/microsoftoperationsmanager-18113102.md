@@ -1,0 +1,55 @@
+---
+TOCTitle: 使用 Microsoft Operations Manager 監控
+Title: 使用 Microsoft Operations Manager 監控
+ms:assetid: 'ce372598-7421-4f1f-b8eb-f62da26e85d1'
+ms:contentKeyID: 18113102
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc747758(v=WS.10)'
+---
+
+使用 Microsoft Operations Manager 監控
+======================================
+
+RMS 包含可以與 Microsoft® Operations Manager (MOM) 搭配使用的管理套件。MOM 可透過執行下列操作來協助您管理組織中的伺服器操作：
+
+-   監看 RMS 記錄於應用程式事件日誌中的事件。
+-   將可能表示服務中斷或設定問題的事件反白，以便迅速採取修正或防範的動作。
+-   發生警告與錯誤時通知，例如當您的伺服器授權人憑證到期時或 Web 服務失敗時。
+
+RMS 管理套件 (RMS\_MOMPack.akm) 與 RMS 一同安裝於 %programfiles%\\Windows Rights Management Services\\Tools 資料夾中。
+
+此管理套件包含下列規則集，可用於協助 RMS 管理員管理 RMS 伺服器部署。
+
+**RMS MOM 管理套件規則**
+
+1.  PMC Measure - Activation Proxy total failures
+2.  PMC Measure - Activation Proxy Total time
+3.  PMC Measure - Activation Total Processing Time
+4.  PMC Measure - Activation Total Reqs
+5.  PMC Measure - ActivationProxy total reqs
+6.  PMC Measure - AD cache (DB cache) hits
+7.  PMC Measure - AD cache (DB cache) misses
+8.  PMC Measure - Average License Processing time
+9.  Event - Configuration Info corruption
+10. PMC Measure - Dead GC connections
+11. PMC Measure - Enroll failures
+12. Event - General Error
+13. Event - Init Failure
+14. Event - Licensor Cert has expired
+15. Event - Licensor Cert Request Failure
+16. Event - Logging service failure
+17. PMC Measure - Max GC connections available
+18. Event - Missing License Acq Point generation plugin
+19. PMC Measure - MSMQ Queue length on all RM servers
+20. Event - No GCs available
+21. Event - Plugin Init Failure
+22. Event - PrivateKey protection password changed
+23. Event - RM Server Shut Down
+24. Event - RM Server ShutDown Failure
+25. Event - Server Startup Failure
+26. PMC Measure - SubEnroll failures
+27. Event - SuperUser privileged override power was invoked
+28. PMC Threshold - Too Many GetLicensorCert failures
+29. Event - Upcoming Licensor Cert Expiry - 1 Month
+30. Event - Upcoming Licensor Cert expiry - 1 Week
+
+如需關於如何在您的組織中部署 MOM 管理套件的詳細資訊，請參閱 [Microsoft 網站](http://www.microsoft.com/)(http://www.microsoft.com/)。

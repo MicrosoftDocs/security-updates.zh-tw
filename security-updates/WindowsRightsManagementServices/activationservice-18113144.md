@@ -1,0 +1,28 @@
+---
+TOCTitle: 探索 Activation Service
+Title: 探索 Activation Service
+ms:assetid: 'e178d81b-b35c-4958-87ef-e077e2204b32'
+ms:contentKeyID: 18113144
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc747697(v=WS.10)'
+---
+
+探索 Activation Service
+=======================
+
+啟動服務會為 RMS 1.0 版用戶端發行 lockbox 與 RMS 電腦憑證。它支援與 RMS 1.0 版的回溯相容性。RMS 根憑證伺服器可提供啟動 Proxy 服務，將在公司網路中執行的用戶端電腦所發出的 RMS 電腦啟動要求轉寄到啟動服務。
+
+要傳送 RMS 電腦啟動要求，RMS 1.0 版用戶端先要從 Active Directory 中擷取根憑證伺服器 (啟動 Proxy 服務所在) Certification 虛擬目錄的 URL。然後它就會附加啟動 Proxy 服務的路徑。
+
+例如，根憑證伺服器上 Certification 虛擬目錄的 URL 以下列格式儲存於 Active Directory 中：
+
+http://*server\_name*/\_wmcs/Certification
+
+當用戶端要求 RMS 電腦啟動時，會在 URL 後加上啟動 Proxy 服務的檔案名稱，如下所示：
+
+http://*server\_name*/\_wmcs/Certification/Activation.asmx
+
+在公司網路以外執行的用戶端會將 UDDI 用於服務探索，以找到啟動服務。如需詳細資訊，請參閱本主題前面的＜[發行 Microsoft 服務](https://technet.microsoft.com/7ee8cb4d-1b46-48be-8a4c-5ff6a458231a)＞。
+
+| ![](images/Cc747697.note(WS.10).gif)附註    |
+|--------------------------------------------------------------------------|
+| 如果在 RMS 伺服器中啟用了 SSL，則這些 URL 會使用 https:// 連線通訊協定。 |

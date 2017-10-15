@@ -1,0 +1,138 @@
+---
+TOCTitle: '以 Microsoft 虛擬私人網路實作隔離服務規劃指南 - 感謝'
+Title: '以 Microsoft 虛擬私人網路實作隔離服務規劃指南 - 感謝'
+ms:assetid: '18cf38d9-1c76-424c-986d-2a55c71578d9'
+ms:contentKeyID: 20214451
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Dd548269(v=TechNet.10)'
+---
+
+以 Microsoft 虛擬私人網路實作隔離服務規劃指南
+=============================================
+
+### 感謝
+
+更新日期: 2005 年 5 月 24 日
+
+Microsoft Solutions for Security 小組 (MSS) 與 Security Center of Excellence (SCoE) 在此感謝編寫《以 Microsoft 虛擬私人網路實作隔離服務規劃指南》的團隊。下列人士有的直接負責本解決方案的撰寫、開發以及測試，有的則提供實質的貢獻。
+
+##### 本頁內容
+
+[](#egaa)[作者](#egaa)
+[](#efaa)[審閱者](#efaa)
+[](#eeaa)[測試人員](#eeaa)
+[](#edaa)[編輯者](#edaa)
+[](#ecaa)[專案經理](#ecaa)
+[](#ebaa)[發行經理](#ebaa)
+[](#eaaa)[其他參與者](#eaaa)
+
+### 作者
+
+Anthony Steven, *Content Master*
+
+Terry Tull, *Content Master*
+
+Lee Walker
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 審閱者
+
+Chase Carpenter
+
+Santosh Chandwani
+
+Charles Denny
+
+Kurt Dillard
+
+Karl Grunwald
+
+John Hawkins
+
+Greg Lenti
+
+Elliot Lewis
+
+Claudio Vacalebre
+
+Didier Vandenbroeck
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 測試人員
+
+Ashish Java, *Infosys Technologies*
+
+Mehul Mediwala, *Infosys Technologies*
+
+Gaurav Singh Bora, *Infosys Technologies*
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 編輯者
+
+Deborah Jay, *Content Master*
+
+Jennifer Kerns, *Content Master*
+
+Frank Manning, *Volt*
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 專案經理
+
+Neil Bufton, *Content Master*
+
+Chase Carpenter
+
+Alison Woolford, *Content Master*
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 發行經理
+
+Flicka Crandell
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 其他參與者
+
+Tony Bailey
+
+Krishna Bhardwaj, *Vidyatech Solutions*
+
+Prabish Chandran, *Vidyatech Solutions*
+
+Christine Duell, *Valente Solutions*
+
+Amy Frampton
+
+Michael Glass, *Volt*
+
+Joanne Kennedy
+
+Karina Larson, *Volt*
+
+Chrissy Lewis, *Siemens*
+
+Vivek Manohar Prabhu, *Vidyatech Solutions*
+
+Don McGowan
+
+Bivin Pachatt, *Vidyatech Solutions*
+
+Tessa Porterfield
+
+Stacey Tsurusaki, *Volt*
+
+David Visintainer, *Volt*
+
+Vikas Walia, *Vidyatech Solutions*
+
+[](#mainsection)[回到頁首](#mainsection)
+
+##### Download
+
+[![](images/Dd548269.icon_exe(zh-tw,TechNet.10).gif)以 Microsoft 虛擬私人網路實作隔離服務規劃指南 (英文)](http://go.microsoft.com/fwlink/?linkid=41308)
+
+[](#mainsection)[回到頁首](#mainsection)
