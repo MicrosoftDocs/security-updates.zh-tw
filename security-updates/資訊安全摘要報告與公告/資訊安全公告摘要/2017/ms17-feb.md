@@ -12,7 +12,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms17-feb(v=Security.10)
 
 發行日期：2017 年 2 月 21 日
 
-**版本：**1.0
+**版本：** 1.0
 
 此公告摘要列出 2017 年 2 月份發行的資訊安全公告。
 
@@ -30,6 +30,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 
 如需受影響軟體的詳細資訊，請參閱下一節**＜受影響的軟體＞**。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -77,7 +78,7 @@ Adobe Flash Player</td>
 
 下方欄位「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">

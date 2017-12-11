@@ -12,7 +12,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms17-jan(v=Security.10)
 
 發行日期：2017 年 1 月 10 日
 
-**版本：**1.1
+**版本：** 1.1
 
 此佈告摘要列出 2017 年 1 月份發行之資訊安全佈告欄。
 
@@ -20,7 +20,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms17-jan(v=Security.10)
 
 Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何非安全性更新的優先順序，其中這些非安全性更新的發行日期與每月安全性更新的發行日期相同。請參閱**其他資訊**一節。
 
-**注意：**2017 年 1 月，星期二的更新版本中沒有安全性修正或者質量改進。同樣的，本月也沒有「僅限安全性質量更新」或者「每月安全性質量彙總套件」版本。
+**注意：** 2017 年 1 月，星期二的更新版本中沒有安全性修正或者質量改進。同樣的，本月也沒有「僅限安全性質量更新」或者「每月安全性質量彙總套件」版本。
 
 提醒您，[「安全性更新導覽」](https://portal.msrc.microsoft.com/zh-tw/security-guidance)將會在 2017 年 2 月前取代資訊安全公告。請參閱我們的部落格文章[將我們的承諾延續至安全性更新（英文）](https://blogs.technet.microsoft.com/msrc/2016/11/08/furthering-our-commitment-to-security-updates/)，取得詳細資訊。
 
@@ -32,6 +32,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 
 如需受影響軟體的詳細資訊，請參閱下一節**＜受影響的軟體＞**。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -110,7 +111,7 @@ Adobe Flash Player</td>
   
 下方欄位「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -264,7 +265,7 @@ Local Security Authority Subsystem Service 阻斷服務弱點
 
 ### Windows 作業系統與元件
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="4">
@@ -1458,7 +1459,7 @@ Windows Server 2012 R2
  
 ### Microsoft Office 套裝及軟體
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -1514,7 +1515,7 @@ Microsoft Word 2016 (64 位元版本)
  
 ### Microsoft Office Services 和 Web Apps
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

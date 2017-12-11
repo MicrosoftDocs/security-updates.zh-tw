@@ -12,7 +12,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms17-mar(v=Security.10)
 
 發行日期：2017 年 3 月 14 日 | 更新日期：2017 年 8 月 8 日
 
-**版本：**4.0
+**版本：** 4.0
 
 此公告摘要列出 2017 年 3 月份所發行的資訊安全公告。
 
@@ -30,6 +30,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 
 如需受影響軟體的詳細資訊，請參閱下一節**＜受影響的軟體＞**。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -256,7 +257,7 @@ Adobe Flash Player</td>
 
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -3486,7 +3487,7 @@ Microsoft XML Core Services 資訊洩漏弱點
 
 ### Windows 作業系統及元件 (表格 2 之 1)
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="9">
@@ -6389,7 +6390,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 ### Windows 作業系統及元件 (表格 2 之 2)
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="9">
@@ -9205,7 +9206,7 @@ Microsoft XML Core Services 3.0
 
 ### Microsoft Office 套件及軟體
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -9757,7 +9758,7 @@ Microsoft Word Viewer
 
 ### Microsoft Office Services 和 Web Apps
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -9974,7 +9975,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 
 ### Microsoft 伺服器軟體
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -10152,7 +10153,7 @@ Microsoft Exchange Server 2016 累積更新 3
 
 ### Microsoft 通訊平台和軟體
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -10620,7 +10621,7 @@ Microsoft Lync for Mac 2011
 
 ### Microsoft 開發人員工具和軟體
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
