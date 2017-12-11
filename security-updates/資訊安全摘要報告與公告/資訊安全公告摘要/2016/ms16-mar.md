@@ -782,7 +782,7 @@ Microsoft Edge 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="6">
-[**MS16-025：用來解決遠端執行程式碼的 Windows Library Loading 安全性更新 (3140709) **](https://technet.microsoft.com/zh-tw/library/security/ms16-025)
+[**MS16-025：用來解決遠端執行程式碼的 Windows Library Loading 安全性更新 (3140709)**](https://technet.microsoft.com/zh-tw/library/security/ms16-025)
 
 </td>
 </tr>
@@ -5260,8 +5260,6 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 **MS16-029 注意事項**
 
 本公告涉及多個軟體分類。請參閱本節中的其他表格，瞭解其他受影響的軟體。
-
- 
 
 偵測與部署工具及指南
 --------------------

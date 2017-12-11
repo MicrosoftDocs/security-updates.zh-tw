@@ -5625,7 +5625,6 @@ Microsoft Exchange Server 2016 累積更新 2
  
 ### Microsoft 開發者工具和軟體
 
- 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5635,12 +5634,11 @@ Microsoft Exchange Server 2016 累積更新 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號             **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
 [**MS16-109**](http://go.microsoft.com/fwlink/?linkid=824768)
-
 </td>
 </tr>
 <tr>
