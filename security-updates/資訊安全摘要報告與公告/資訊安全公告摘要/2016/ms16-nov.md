@@ -2100,7 +2100,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2228,7 +2228,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2394,7 +2394,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2552,7 +2552,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2718,7 +2718,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2876,7 +2876,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2955,7 +2955,7 @@ Windows RT 8.1<span></span>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3190,7 +3190,7 @@ Windows RT 8.1<span></span>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3266,7 +3266,7 @@ Windows RT 8.1<span></span>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3543,7 +3543,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -3675,7 +3675,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -3844,7 +3844,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -4042,7 +4042,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -4240,7 +4240,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -4438,7 +4438,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -4636,7 +4636,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -4727,7 +4727,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -4989,7 +4989,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -5081,7 +5081,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -5420,7 +5420,7 @@ Windows Server 2012 R2<span></span>(Server Core 安裝)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -5502,7 +5502,7 @@ Internet Explorer 9 
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -5605,7 +5605,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -5731,7 +5731,7 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -5857,7 +5857,7 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -5999,7 +5999,7 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -6141,7 +6141,7 @@ Internet Explorer 11 
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -6206,7 +6206,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -6392,7 +6392,7 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -6454,7 +6454,7 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">

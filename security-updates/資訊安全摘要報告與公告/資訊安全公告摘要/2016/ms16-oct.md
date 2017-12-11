@@ -1475,7 +1475,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -1633,7 +1633,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -1831,7 +1831,7 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2017,7 +2017,7 @@ Internet Explorer 11 
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2215,7 +2215,7 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2405,7 +2405,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2498,7 +2498,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -2828,7 +2828,7 @@ Microsoft Edge
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3149,7 +3149,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3267,7 +3267,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3415,7 +3415,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3597,7 +3597,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3779,7 +3779,7 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -3961,7 +3961,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -4143,7 +4143,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -4234,7 +4234,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -4496,7 +4496,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
@@ -6248,8 +6248,8 @@ Microsoft Live Meeting 2007 用戶端
 </td>
 <td style="border:1px solid black;">
 安裝在 Mac 上的 Microsoft Silverlight 5  
-(3193713)**  
-(**重要)
+(3193713)  
+(重要)
 
 </td>
 </tr>
@@ -6260,8 +6260,8 @@ Microsoft Live Meeting 2007 用戶端
 </td>
 <td style="border:1px solid black;">
 安裝在 Mac 上的 Microsoft Silverlight 5 Developer 執行階段  
-(3193713)**  
-(**重要)
+(3193713)  
+(重要)
 
 </td>
 </tr>
@@ -6272,8 +6272,8 @@ Microsoft Live Meeting 2007 用戶端
 </td>
 <td style="border:1px solid black;">
 安裝在所有受支援版本的 Microsoft Windows 用戶端上的 Microsoft Silverlight 5  
-(3193713)**  
-(**重要)
+(3193713)  
+(重要)
 
 </td>
 </tr>
@@ -6284,8 +6284,8 @@ Microsoft Live Meeting 2007 用戶端
 </td>
 <td style="border:1px solid black;">
 安裝在所有受支援版本的 Microsoft Windows 用戶端上的 Microsoft Silverlight 5 Developer 執行階段  
-(3193713)**  
-(**重要)
+(3193713)  
+(重要)
 
 </td>
 </tr>
@@ -6296,8 +6296,8 @@ Microsoft Live Meeting 2007 用戶端
 </td>
 <td style="border:1px solid black;">
 安裝在所有受支援版本的 Microsoft Windows 伺服器上的 Microsoft Silverlight 5  
-(3193713)**  
-(**重要)
+(3193713)  
+(重要)
 
 </td>
 </tr>
@@ -6308,8 +6308,8 @@ Microsoft Live Meeting 2007 用戶端
 </td>
 <td style="border:1px solid black;">
 安裝在所有受支援版本的 Microsoft Windows 伺服器上的 Microsoft Silverlight 5 Developer 執行階段  
-(3193713)**  
-(**重要)
+(3193713)  
+(重要)
 
 </td>
 </tr>
