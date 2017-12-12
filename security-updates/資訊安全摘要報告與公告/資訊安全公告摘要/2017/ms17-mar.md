@@ -10657,7 +10657,7 @@ Microsoft Lync for Mac 2011
 <td style="border:1px solid black;">
 安裝在所有受支援 Microsoft Windows 用戶端版本上的 Microsoft Silverlight 5  
 (4013867)  
-****(重大)
+(重大)
 
 </td>
 </tr>
@@ -10669,7 +10669,7 @@ Microsoft Lync for Mac 2011
 <td style="border:1px solid black;">
 安裝在所有受支援 Microsoft Windows 用戶端版本上的 Microsoft Silverlight 5 開發人員執行階段  
 (4013867)  
-****(重大)
+(重大)
 
 </td>
 </tr>
@@ -10681,7 +10681,7 @@ Microsoft Lync for Mac 2011
 <td style="border:1px solid black;">
 安裝在所有受支援 Microsoft Windows 伺服器版本上的 Microsoft Silverlight 5  
 (4013867)  
-****(重大)
+(重大)
 
 </td>
 </tr>
@@ -10693,7 +10693,7 @@ Microsoft Lync for Mac 2011
 <td style="border:1px solid black;">
 安裝在所有受支援 Microsoft Windows 伺服器版本上的 Microsoft Silverlight 5 開發人員執行階段  
 (4013867)  
-****(重大)
+(重大)
 
 </td>
 </tr>
