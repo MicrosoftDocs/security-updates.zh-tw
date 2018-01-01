@@ -1,0 +1,35 @@
+---
+TOCTitle: '安裝 Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) 為 RMS 提供資料庫支援'
+Title: '安裝 Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) 為 RMS 提供資料庫支援'
+ms:assetid: 'c9b9cd08-98c4-424f-b3fc-d685f57c002e'
+ms:contentKeyID: 18113103
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc747667(v=WS.10)'
+---
+
+安裝 Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) 為 RMS 提供資料庫支援
+===============================================================================
+
+安裝 Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) 為 RMS 提供資料庫支援
+-------------------------------------------------------------------------------
+
+#### 安裝 Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) 為 RMS 提供資料庫支援
+
+1.  使用您想要安裝 Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) 的伺服器本機 Administrators 群組成員的網域帳號登入。
+
+2.  從 [Microsoft 網站](http://www.microsoft.com/)(http://www.microsoft.com/) 下載 MSDE 2000 並儲存在您的電腦中。
+
+3.  執行 MSDE2000A.exe 檔案，將 MSDE 2000 安裝套件解壓縮到某個資料夾。根據預設值，此資料夾將命名為 MSDERelA，但您可以指定不同的名稱。
+
+4.  開啟命令提示並瀏覽到您儲存 MSDE 2000 安裝的位置。
+
+5.  鍵入下列命令以使用正確的設定安裝 Microsoft SQL Server 2000 Desktop Engine 應用程式，以便配合 RMS 運作，並且以您所選擇的強性密碼取代 *password*：
+
+    **Setup.exe /i setup\\sqlrun10.msi INSTANCENAME=RMS DISABLEAGENTSTARTUP=1 SAPWD=***password*
+
+    | ![](images/Cc747667.Important(WS.10).gif)重要事項                                                                                 |
+    |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+    | MSDE 服務在安裝後必須啟動。您可以從 **\[控制台\]** 內的 **\[服務\]** 中啟動此服務。我們建議您將此服務設定為自動啟動，以確保 MSDE 資料庫在 RMS 執行時永遠可用。 |
+
+在您安裝資料庫以支援 RMS 設定資料庫之前，請不要在伺服器上提供 RMS。
+
+建議您只在測試環境中使用 Microsoft SQL Server Desktop Engine 來支援 RMS 資料庫，因為 Microsoft SQL Server Desktop Engine 不包含全面操作和支援整個企業資料庫所需的工具。此外，由於 MSDE 不支援遠端網路，您必須將其安裝在與 RMS 相同的伺服器上，且無法將其他 RMS 伺服器新增至 RMS 叢集。Microsoft SQL Server Desktop Engine 的使用條款也言明不可使用 SQL Server 用戶端工具來操作 Microsoft SQL Server Desktop Engine 資料庫。由於這樣的限制，您無法備份和還原 RMS 設定資料庫、檢視記錄資訊，或直接修改儲存在設定資料庫中的資料。
