@@ -11,9 +11,7 @@ RMS：DirectoryServices 效能計數器
 
 下列表格顯示 RMS 可用的效能計數器：DirectoryServices 效能物件。
 
-###  
-
- 
+<p></p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

@@ -23,6 +23,5 @@ http://*server\_name*/\_wmcs/Certification/Activation.asmx
 
 在公司網路以外執行的用戶端會將 UDDI 用於服務探索，以找到啟動服務。如需詳細資訊，請參閱本主題前面的＜[發行 Microsoft 服務](https://technet.microsoft.com/7ee8cb4d-1b46-48be-8a4c-5ff6a458231a)＞。
 
-| ![](images/Cc747697.note(WS.10).gif)附註    |
-|--------------------------------------------------------------------------|
-| 如果在 RMS 伺服器中啟用了 SSL，則這些 URL 會使用 https:// 連線通訊協定。 |
+> [!NOTE]  
+> 如果在 RMS 伺服器中啟用了 SSL，則這些 URL 會使用 https:// 連線通訊協定。

@@ -79,10 +79,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc747586(v=WS.10)'
 </tbody>
 </table>
   
-| ![](images/Cc747586.Caution(WS.10).gif)注意                         |  
-|--------------------------------------------------------------------------------------------------|  
-| 非正確編寫的登錄項目可能會嚴重損害您的系統。在變更登錄項目前，您應該先備份電腦中的任何重要資料。 |
+> [!CAUTION]  
+> 非正確編寫的登錄項目可能會嚴重損害您的系統。在變更登錄項目前，您應該先備份電腦中的任何重要資料。
   
-| ![](images/Cc747586.note(WS.10).gif)附註                                                                                                                                                                               |  
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| **PrincipalCacheExpireMinutes**、**GroupIDCacheExpireMinutes**、**GroupMembershipCacheExpireMinutes** 及 **ContactMembersofGroupCacheExpireMinutes** 登錄項目還可控制資料庫伺服器的目錄服務資料庫中儲存的本機 Active Directory 快取中的快取到期日。 |
+> [!NOTE]  
+> **PrincipalCacheExpireMinutes**、**GroupIDCacheExpireMinutes**、**GroupMembershipCacheExpireMinutes** 及 **ContactMembersofGroupCacheExpireMinutes** 登錄項目還可控制資料庫伺服器的目錄服務資料庫中儲存的本機 Active Directory 快取中的快取到期日。
