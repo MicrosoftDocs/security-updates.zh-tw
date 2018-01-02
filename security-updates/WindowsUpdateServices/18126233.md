@@ -14,6 +14,7 @@ You can access update status from various locations in the WSUS console. The fol
 ### Update Status Definitions
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

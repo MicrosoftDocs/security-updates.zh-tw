@@ -21,6 +21,7 @@ The following table shows WUA success codes.
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -83,6 +84,7 @@ The following table shows WUA error codes.
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -535,7 +537,7 @@ The following table shows WUA error codes.
 <tr class="even">
 <td style="border:1px solid black;">0x80242FFF</td>
 <td style="border:1px solid black;">WU_E_UH_UNEXPECTED</td>
-<td style="border:1px solid black;">An update handler error not covered by another WU_E_UH_* code.</td>
+<td style="border:1px solid black;">An update handler error not covered by another WU_E_UH_\* code.</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">0x80243001</td>
@@ -570,12 +572,12 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x80243FFF</td>
 <td style="border:1px solid black;">WU_E_AUCLIENT_UNEXPECTED</td>
-<td style="border:1px solid black;">There was a user interface error not covered by another WU_E_AUCLIENT_* error code.</td>
+<td style="border:1px solid black;">There was a user interface error not covered by another WU_E_AUCLIENT_\* error code.</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x80244000</td>
 <td style="border:1px solid black;">WU_E_PT_SOAPCLIENT_BASE</td>
-<td style="border:1px solid black;">WU_E_PT_SOAPCLIENT_* error codes map to the SOAPCLIENT_ERROR enum of the ATL Server Library.</td>
+<td style="border:1px solid black;">WU_E_PT_SOAPCLIENT_\* error codes map to the SOAPCLIENT_ERROR enum of the ATL Server Library.</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">0x80244001</td>
@@ -600,7 +602,7 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x80244005</td>
 <td style="border:1px solid black;">WU_E_PT_SOAPCLIENT_SEND</td>
-<td style="border:1px solid black;">SOAPCLIENT_SEND_ERROR - SOAP client failed to send a message for reasons of WU_E_WINHTTP_* error codes.</td>
+<td style="border:1px solid black;">SOAPCLIENT_SEND_ERROR - SOAP client failed to send a message for reasons of WU_E_WINHTTP_\* error codes.</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x80244006</td>
@@ -610,7 +612,7 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x80244007</td>
 <td style="border:1px solid black;">WU_E_PT_SOAPCLIENT_SOAPFAULT</td>
-<td style="border:1px solid black;">SOAPCLIENT_SOAPFAULT - SOAP client failed because there was a SOAP fault for reasons of WU_E_PT_SOAP_* error codes.</td>
+<td style="border:1px solid black;">SOAPCLIENT_SOAPFAULT - SOAP client failed because there was a SOAP fault for reasons of WU_E_PT_SOAP_\* error codes.</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x80244008</td>
@@ -785,7 +787,7 @@ The following table shows WUA error codes.
 <tr class="even">
 <td style="border:1px solid black;">0x8024402B</td>
 <td style="border:1px solid black;">WU_E_PT_HTTP_STATUS_NOT_MAPPED</td>
-<td style="border:1px solid black;">The HTTP request could not be completed and the reason did not correspond to any of the WU_E_PT_HTTP_* error codes.</td>
+<td style="border:1px solid black;">The HTTP request could not be completed and the reason did not correspond to any of the WU_E_PT_HTTP_\* error codes.</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">0x8024402C</td>
@@ -830,7 +832,7 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x80244FFF</td>
 <td style="border:1px solid black;">WU_E_PT_UNEXPECTED</td>
-<td style="border:1px solid black;">A communication error not covered by another WU_E_PT_* error code</td>
+<td style="border:1px solid black;">A communication error not covered by another WU_E_PT_\* error code</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x80245001</td>
@@ -860,7 +862,7 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x80245FFF</td>
 <td style="border:1px solid black;">WU_E_REDIRECTOR_UNEXPECTED</td>
-<td style="border:1px solid black;">The redirector failed for reasons not covered by another WU_E_REDIRECTOR_* error code.</td>
+<td style="border:1px solid black;">The redirector failed for reasons not covered by another WU_E_REDIRECTOR_\* error code.</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x80246001</td>
@@ -920,7 +922,7 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x80246FFF</td>
 <td style="border:1px solid black;">WU_E_DM_UNEXPECTED</td>
-<td style="border:1px solid black;">There was a download manager error not covered by another WU_E_DM_* error code.</td>
+<td style="border:1px solid black;">There was a download manager error not covered by another WU_E_DM_\* error code.</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x80247001</td>
@@ -1085,7 +1087,7 @@ The following table shows WUA error codes.
 <tr class="even">
 <td style="border:1px solid black;">0x80248FFF</td>
 <td style="border:1px solid black;">WU_E_DS_UNEXPECTED</td>
-<td style="border:1px solid black;">A data store error not covered by another WU_E_DS_* code.</td>
+<td style="border:1px solid black;">A data store error not covered by another WU_E_DS_\* code.</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">0x80249001</td>
@@ -1180,7 +1182,7 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x8024CFFF</td>
 <td style="border:1px solid black;">WU_E_DRV_UNEXPECTED</td>
-<td style="border:1px solid black;">A driver error not covered by another WU_E_DRV_* code.</td>
+<td style="border:1px solid black;">A driver error not covered by another WU_E_DRV_\* code.</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x8024D001</td>
@@ -1280,7 +1282,7 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x8024DFFF</td>
 <td style="border:1px solid black;">WU_E_SETUP_UNEXPECTED</td>
-<td style="border:1px solid black;">Windows Update Agent could not be updated because of an error not covered by another WU_E_SETUP_* error code.</td>
+<td style="border:1px solid black;">Windows Update Agent could not be updated because of an error not covered by another WU_E_SETUP_\* error code.</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x8024E001</td>
@@ -1320,7 +1322,7 @@ The following table shows WUA error codes.
 <tr class="odd">
 <td style="border:1px solid black;">0x8024EFFF</td>
 <td style="border:1px solid black;">WU_E_EE_UNEXPECTED</td>
-<td style="border:1px solid black;">There was an expression evaluator error not covered by another WU_E_EE_* error code.</td>
+<td style="border:1px solid black;">There was an expression evaluator error not covered by another WU_E_EE_\* error code.</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">0x8024F001</td>
