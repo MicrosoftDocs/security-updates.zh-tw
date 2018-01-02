@@ -13,9 +13,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc720225(v=WS.10)'
 
 您可以安裝 RMS SP2，而不需移除現有的 RMS SP1 安裝。RMS SP2 的安裝程式會偵測到已安裝 RMS SP1，並新增必要的其他功能與設定。
 
-| ![](images/Cc720225.note(WS.10).gif)附註                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 不支援從不含 Service Pack 的 RMS 伺服器升級到 RMS SP2。如果您使用不含 Service Pack 的 RMS 伺服器，在升級為 RMS SP2 之前，必須先升級為 RMS SP1。RMS 用戶端可從任何舊版的 RMS 用戶端升級。 |
+> [!Note]  
+> 不支援從不含 Service Pack 的 RMS 伺服器升級到 RMS SP2。如果您使用不含 Service Pack 的 RMS 伺服器，在升級為 RMS SP2 之前，必須先升級為 RMS SP1。RMS 用戶端可從任何舊版的 RMS 用戶端升級。 
 
 **本主題中的內容**
 
@@ -73,9 +72,7 @@ Windows Rights Management Services Service Pack 2 安裝精靈偵測到您的 R
 -   只有執行 RMS SP1 及更新版的用戶端能自我啟用。
 -   下表描述混合環境中所支援的功能：
 
-###  
-
- 
+<p></p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />

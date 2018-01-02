@@ -13,17 +13,15 @@ RMS provides the proxy-addresses schema attribute for the discovery of additiona
 
 By default the values in the proxy-addresses schema attribute are not replicated to the Global Catalog. You must either adjust the settings on the proxy-addresses schema attribute manually or install Microsoft Exchange Server.
 
-| ![](images/Cc720282.Important(WS.10).gif)重要事項                                                               |
-|----------------------------------------------------------------------------------------------------------------------------------------------|
-| If you are using Microsoft Exchange Server, these steps are not required because Exchange Server enables this attribute during installation. |
+> [!Important]  
+> If you are using Microsoft Exchange Server, these steps are not required because Exchange Server enables this attribute during installation.
 
 If you are not using Microsoft Exchange Server in your environment but would like to take advantage of the proxy-addresses schema attribute, you must enable and populate the proxy-addresses schema attribute manually.
 
 This can be done by using the ADSI Edit tool. ADSI Edit is available with Windows Server 2003 Support Tools and allows an Active Directory administrator to modify all Active Directory schema attributes from a central console.
 
-| ![](images/Cc720282.note(WS.10).gif)附註                                                                                    |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| The following procedures assume that a user account named User1 is in a domain named cpandl.com. You should substitute these names for your environment. |
+> [!Note]  
+> The following procedures assume that a user account named User1 is in a domain named cpandl.com. You should substitute these names for your environment. 
 
 First, follow these steps to install ADSI Edit:
 
@@ -32,9 +30,8 @@ First, follow these steps to install ADSI Edit:
 
 2.  Insert the Windows Server 2003 product CD and navigate to Support\\Tools.
 
-    | ![](images/Cc720282.Caution(WS.10).gif)注意                                                                  |
-    |-------------------------------------------------------------------------------------------------------------------------------------------|
-    | In a production environment, the Windows Server 2003 Support Tools should be installed on a client computer that is joined to the domain. |
+    > [!Caution]  
+	> In a production environment, the Windows Server 2003 Support Tools should be installed on a client computer that is joined to the domain. 
 
 3.  Double-click suptools.msi to start the installation.
 
