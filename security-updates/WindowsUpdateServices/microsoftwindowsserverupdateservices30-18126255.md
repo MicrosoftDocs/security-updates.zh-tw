@@ -1,0 +1,649 @@
+---
+TOCTitle: 'Microsoft Windows Server Update Services 3.0 版本資訊'
+Title: 'Microsoft Windows Server Update Services 3.0 版本資訊'
+ms:assetid: '94d1385f-4872-4c29-8822-3a4ec5e45ae4'
+ms:contentKeyID: 18126255
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc708491(v=WS.10)'
+---
+
+Microsoft Windows Server Update Services 3.0 版本資訊
+=====================================================
+
+這些版本資訊說明會影響 Microsoft® Windows® Server Update Services (WSUS) 3.0 的已知問題，並且包括安裝此應用程式的相關建議和需求。這些版本資訊包含下列章節：
+
+-   WSUS 3.0 伺服器安裝的系統需求
+-   WSUS 3.0 伺服器安裝的設定需求
+-   WSUS 3.0 遠端主控台安裝的系統需求
+-   WSUS 3.0 遠端主控台的設定需求
+-   用戶端安裝的系統需求
+-   WSUS 3.0 伺服器安裝的軟體需求
+-   WSUS 3.0 伺服器安裝的磁碟空間最低需求
+-   WSUS 3.0 升級需求
+-   設定命令列參數
+-   設定與升級問題
+-   已知的問題
+-   WSUS 3.0 用於 Windows Server® 2008
+-   WSUS 3.0 用於 Windows Small Business Server 2003
+
+| ![](images/Cc708491.note(WS.10).gif)附註                                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 如果需要本文件的可下載複本，請至 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=71220) ([http://go.microsoft.com/fwlink/?LinkId=71220](http://go.microsoft.com/fwlink/?linkid=71220))。 |
+
+重要的設定問題：您必須覆寫組態精靈中的 Proxy 伺服器密碼。
+---------------------------------------------------------
+
+如果您使用的 Proxy 伺服器需要使用者名稱/密碼驗證，而且您在執行 WSUS 伺服器組態精靈時，沒有覆寫 Proxy 伺服器密碼，則 WSUS 伺服器可能無法同步處理更新。因為組態精靈會在設定結束後自動啟動，所以您從舊版 WSUS 升級至 WSUS 3.0 之後，這個問題可能會造成同步處理錯誤。
+
+您可以在升級後取消組態精靈，或在組態精靈執行時重新輸入正確的 Proxy 密碼，以避免發生此問題。如果要在這個問題發生之後修復，請移至 \[選項\] 頁面上的 \[更新來源\] 和 \[Proxy 伺服器\]，重新輸入 Proxy 密碼，然後儲存設定。
+
+WSUS 3.0 伺服器安裝的系統需求
+-----------------------------
+
+#### Windows Server 2003 Service Pack 1 與 Windows Server 2008 支援 WSUS 3.0 伺服器
+
+Windows Server 2003 Service Pack 1 與 Windows Server 2008 支援 WSUS 3.0 伺服器。
+
+#### WSUS 3.0 伺服器不支援 Windows 2000 Server
+
+WSUS 3.0 伺服器不支援 Microsoft Windows® 2000 Server 作業系統。
+
+#### 執行終端機服務的伺服器不支援 WSUS 3.0
+
+雖然 WSUS 3.0 可能仍在執行終端機服務的伺服器上執行，但是我們不支援或建議如此作。WSUS 3.0 無法在設定為使用遠端 SQL Server 實作、執行終端機服務的伺服器上執行。由於終端機伺服器授權伺服器將以系統帳戶身分來執行所有的遠端自訂動作 (包括安裝)，且伺服器的系統帳戶對遠端 SQL Server 未必擁有權限，而可能導致安裝失敗。
+
+WSUS 3.0 伺服器安裝的設定需求
+-----------------------------
+
+#### 必須安裝 IIS
+
+Microsoft Windows Server Update Services 3.0 必須搭配網際網路資訊服務 (IIS)，但是在 Microsoft Windows Server 2003 或 Windows Server 2008 上並未預設安裝此服務。如果您嘗試在沒有 IIS 的情況下安裝 WSUS 3.0，Windows Server Update Services 安裝程式會顯示錯誤訊息，表示尚未安裝 IIS
+
+#### 若 IIS 在 IIS 5.0 隔離模式中執行，安裝將會失敗
+
+如果您已將伺服器從 Windows 2000 Server 升級為 Windows Server 2003，IIS 可能可以在 IIS 5.0 相容模式中執行。您可能也可以在 IIS 管理員中啟用 IIS 5.0 隔離模式。這會造成安裝失敗。您在安裝 WSUS 3.0 之前，必須停用 IIS 5.0 隔離模式。
+
+#### 如果在 64 位元平台上以 32 位元相容模式安裝任何 IIS 元件，可能導致 WSUS 3.0 安裝失敗
+
+64 位元平台應一律以原始模式安裝所有的 IIS 元件。若有任何 IIS 元件是以 32 位元相容模式安裝，則可能無法順利安裝。
+
+#### Proxy 伺服器必須同時支援 HTTP 和 HTTPS
+
+當您設定根 WSUS 伺服器 (直接從 Microsoft Update 取得更新的 WSUS 伺服器) 時，以及在 WSUS 伺服器與網際網路之間會有 Proxy 伺服器時，此 Proxy 伺服器必須同時支援 HTTP 和 HTTPS。
+
+#### 如果有二或多個網站已在連接埠 80 上執行，在安裝 WSUS 之前，請保留其中一個網站，並刪除其餘網站。
+
+如果有二或多個網站在連接埠 80 上執行 (例如 Windows® SharePoint® Services)，在安裝 WSUS 之前，請保留其中一個網站，並刪除其餘網站。如果您不這麼作，伺服器的用戶端可能無法自行更新。
+
+#### 安裝 WSUS 3.0 之前可能需要停用防毒程式
+
+安裝 WSUS 3.0 之前，可能需要停用防毒程式才能順利執行安裝。停用防毒程式後，請先重新啟動電腦，然後再開始安裝 WSUS。重新啟動電腦可以讓安裝程序存取到所需的檔案而不致鎖定。不過在安裝完成後，請務必重新啟用防毒程式。如需有關如何停用與重新啟用防毒程式和版本的確切步驟，請造訪防毒程式廠商的網站。
+
+| ![](images/Cc708491.Caution(WS.10).gif)注意                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 這項因應措施可能會使您的電腦或網路更容易遭受居心不良的使用者或病毒等惡意軟體的攻擊。我們並不建議這麼做，而是僅提供參考資訊讓您自己決定是否施行這項措施。請自行承擔施行後可能遭致的一切風險。 |
+
+| ![](images/Cc708491.note(WS.10).gif)附註                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 防毒程式是為保護您的電腦免受病毒入侵而設計。在停用防毒程式期間，切勿下載或開啟取自不受您信任來源的檔案、造訪您不信任的網站，或是開啟電子郵件附件。 |
+
+#### WSUS 3.0 要求 SQL Server 必須啟用巢狀觸發程序選項
+
+巢狀觸發程序選項預設為啟用，但 SQL Server 系統管理員可以將其關閉。
+
+若您打算使用 SQL Server 資料庫做為 Windows Server Update Services 資料存放區，則在 WSUS 3.0 系統管理員安裝 WSUS 3.0 並於安裝期間指定資枓庫之前，SQL Server 系統管理員應先確認伺服器已啟用巢狀觸發程序選項。
+
+WSUS 3.0 安裝程式會啟用 RECURSIVE\_TRIGGERS 選項 (此為資料庫特定選項)，但不會啟用巢狀觸發程序選項 (此為伺服器全域選項)。
+
+若要查看是否已啟用巢狀觸發程序選項，請使用下列命令：
+
+**sp\_configure 'nested triggers'**
+
+若要啟用 SQL Server 的巢狀觸發程序選項，請在執行 SQL Server 的電腦上，利用批次檔執行下列命令：
+
+**sp\_configure 'nested triggers', 1**
+
+**GO**
+
+**RECONFIGURE**
+
+**GO**
+
+如果您的伺服器並沒有 SQL Server Management Studio，則可從命令列執行 SQL 指令碼。您可從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=70728) (http://go.microsoft.com/fwlink/?LinkId=70728) 取得「Microsoft SQL Server 2005 命令列查詢公用程式」。接著請執行 **sqlcmd** 以啟動公用程式。
+
+如果您要對 Windows Internal Database 執行 SQL 指令碼，您還必須從相同的下載網頁下載 SQL Native Client。
+
+#### 遠端 SQL 的限制與需求
+
+WSUS 3.0 支援由一部電腦執行資料庫軟體，而由另一部電腦執行 WSUS 3.0 應用程式的其餘部分。若要設定遠端 SQL 安裝，必須符合一些需求。
+
+-   設定為網域控制站的伺服器不能當作遠端 SQL 配對的後端。
+-   將作為遠端 SQL 安裝之前端伺服器的電腦上，不能執行終端機伺服器。
+-   如果電腦是執行 Windows Server 2003，必須至少使用 Microsoft SQL Server 2005 Service Pack 1 ([Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=66143) (http://go.microsoft.com/fwlink/?LinkId=66143) 有提供)，以作為後端電腦的資料庫軟體，而如果電腦是執行 Windows Server® 2008，則必須至少使用 SQL Server 2005 Service Pack 2。
+-   前端與後端電腦都必須加入 Active Directory 網域，但若處於不同網域中，您執行 WSUS 設定之前，必須在這些網域之間建立跨網域信任。
+-   若您已在遠端 SQL 設定下安裝 WSUS 2.0，且想要升級到 WSUS 3.0，請使用 \[控制台\] 的 \[新增或移除程式\]，來解除安裝後端電腦的 WSUS 2.0，但務必完整保留現有的資料庫。接著，您應安裝 SQL Server 2005 SP1 或 SP2，並升級現有的資料庫。最後，您應在前端電腦上安裝 WSUS 3.0。
+
+#### 如果安裝了某些發行前版本的 Internet Explorer 7 及終端機服務，WSUS 將無法安裝。
+
+在某些 Internet Explorer 7 候選版本搭配終端機服務的環境下，WSUS 安裝程式將會失敗。
+
+WSUS 3.0 遠端主控台安裝的系統需求
+---------------------------------
+
+WSUS 3.0 遠端主控台可安裝於下列平台上：
+
+-   Windows Server 2008
+-   Windows Vista®
+-   Windows Server 2003 SP1
+-   Windows XP SP2
+
+WSUS 3.0 遠端主控台的設定需求
+-----------------------------
+
+#### 遠端管理主控台與 WSUS 3.0 伺服器之間應使用寬頻連線
+
+如果使用窄頻 WAN 連線將遠端管理主控台連線到 WSUS 3.0 伺服器，則可能發生效能問題。您可以篩選更新與電腦檢視，以限制看到的更新與電腦數量，但是建議您在遠端管理主控台與 WSUS 3.0 伺服器之間使用寬頻連線。如果遠端主控台發生效能問題，我們建議您使用終端機伺服器連線至伺服器，以進行遠端管理。
+
+用戶端安裝的系統需求
+--------------------
+
+「自動更新」是 WSUS 用戶端軟體。它可配合 WSUS 在下列任何作業系統上使用：
+
+-   Windows Vista
+-   Windows Server 2008
+-   Microsoft Windows Server 2003 的任何版本
+-   Microsoft Windows XP Professional SP2
+-   Microsoft Windows 2000 Professional SP4、Windows 2000 Server SP4 或 Windows 2000 Advanced Server SP4
+
+WSUS 3.0 伺服器安裝的軟體需求
+-----------------------------
+
+下表列出 Windows Server 2003 SP1 平台的必要軟體。Windows Server 2008 所需的軟體將會在討論 WSUS 3.0 用於 Windows Server 2008 的章節中詳述。
+
+執行 WSUS 3.0 安裝程式之前，請確定 WSUS 3.0 伺服器符合這份清單所列的需求。如果其中的任何更新要求您在安裝完成時重新啟動電腦，則應該先執行重新啟動，然後再安裝 WSUS 3.0。
+
+###  
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >需求</th>
+<th style="border:1px solid black;" >詳細資料</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Microsoft 網際網路資訊服務 (IIS)</td>
+<td style="border:1px solid black;">從作業系統安裝。
+請參閱「問題 1：必須安裝 IIS」。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Microsoft .NET Framework 2.0 版可轉散發套件 (x86)</td>
+<td style="border:1px solid black;">請造訪 <a href="http://go.microsoft.com/fwlink/?linkid=68935">Microsoft 下載中心</a> (http://go.microsoft.com/fwlink/?LinkId=68935)，參閱有關 Microsoft .NET Framework 2.0 版可轉散發套件 (x86) 的文件。如果需要 64 位元平台的詳細資訊，請參閱有關 Microsoft .NET Framework 2.0 版可轉散發套件 (x64) 的文件，網址：<a href="http://go.microsoft.com/fwlink/?linkid=70637">Microsoft 下載中心</a> (http://go.microsoft.com/fwlink/?LinkId=70637)</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">適用於 Windows Server 2003 的 Microsoft Management Console 3.0</td>
+<td style="border:1px solid black;">這是使用 WSUS 3.0 UI 的先決條件。請造訪 <a href="http://go.microsoft.com/fwlink/?linkid=70412">Microsoft 下載中心</a> (http://go.microsoft.com/fwlink/?LinkId=70412)，參閱知識庫文件 907265 有關適用於 Windows Server 2003 的 Microsoft Management Console 3.0。如果需要 64 位元平台的詳細資訊，參閱知識庫文件 907265 有關適用於 Windows Server 2003 x64 Edition 的 Microsoft Management Console 3.0，網址：<a href="http://go.microsoft.com/fwlink/?linkid=70638">Microsoft 下載中心</a> (http://go.microsoft.com/fwlink/?LinkId=70638)。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Microsoft Report Viewer</td>
+<td style="border:1px solid black;">這是使用 WSUS 3.0 UI 的先決條件。請造訪 <a href="http://go.microsoft.com/fwlink/?linkid=70410">Microsoft 下載中心</a> (http://go.microsoft.com/fwlink/?LinkId=70410)，參閱有關 Microsoft 可轉散發報表檢視器 2005 的文件。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">SQL Server 2005 (選用)</td>
+<td style="border:1px solid black;">如果尚未安裝相容版本的 SQL Server，WSUS 3.0 將為您安裝 Windows Internal Database。如果您計畫使用完整的 SQL Server 資料庫，則在 Windows Server 2003 上至少必須使用 SQL Server 2005 SP1 (<a href="http://go.microsoft.com/fwlink/?linkid=66143">Microsoft 下載中心</a> (http://go.microsoft.com/fwlink/?LinkId=66143) 有提供)，或在 Windows Server 2008 上必須使用 SQL Server 2005 SP2 (<a href="http://go.microsoft.com/fwlink/?linkid=84823">Microsoft 下載中心</a> (http://go.microsoft.com/fwlink/?LinkId=84823) 有提供)。</td>
+</tr>
+</tbody>
+</table>
+  
+| ![](images/Cc708491.note(WS.10).gif)附註                                                                                                                                                                                                        |  
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
+| 如果先前已安裝 WSUS 2.0，而且是使用 SQL Server 2000、SQL Server Desktop Engine 2000，或 SQL Server 2005 SP1 之前的任何 SQL Server 資料庫 (或在 Windows Server 2008 上使用 SQL Server 2005 SP2)，WSUS 3.0 安裝程式將會安裝 Windows® Internal Database，再將資料庫遷移至其中。 |
+  
+WSUS 3.0 伺服器安裝的磁碟空間最低需求  
+-------------------------------------
+  
+下列是安裝 Windows Server Update Services 的磁碟空間最低需求：
+  
+-   系統磁碟分割上至少要有 1 GB  
+-   存放資料庫檔案的磁碟區至少要有 2 GB  
+-   存放內容的磁碟區至少要有 20 GB
+  
+| ![](images/Cc708491.Important(WS.10).gif)重要事項 |  
+|--------------------------------------------------------------------------------|  
+| WSUS 3.0 不可安裝在壓縮的磁碟機上，請檢查您選擇的磁碟機有沒有壓縮。            |
+  
+WSUS 3.0 升級需求  
+-----------------
+  
+#### 請確認 WSUS 安裝正確執行，並在升級前備份 WSUS 資料庫
+  
+如果是從舊版升級到 WSUS 3.0，請確認目前的安裝正確執行，並在升級前備份 WSUS 資料庫。
+  
+1.  檢查事件日誌內的最近錯誤、下游伺服器與上游伺服器之間的同步處理問題，或用戶端未報告的相關問題。請確認這些問題已經解決，然後才能繼續。  
+2.  您可能要執行 DBCC CHECKDB，以確保 WSUS 資料庫的索引已正確編製。如需 CHECKDB 的相關資訊，請參閱 [DBCC CHECKDB](http://go.microsoft.com/fwlink/?linkid=86948) (英文) (http://go.microsoft.com/fwlink/?LinkId=86948)。  
+3.  備份 WSUS 資料庫。
+  
+#### 應解除安裝 Software Update Services 1.0
+  
+如果同一部電腦已安裝 Software Update Services 1.0，安裝 WSUS 3.0 將會失敗。安裝 WSUS 3.0 之前，請先解除安裝 Software Update Services 1.0。
+  
+#### 不支援從 Beta 版的 WSUS 3.0 升級為 RTM 版的 WSUS 3.0，但是可以從 RC 版升級為 RTM 版
+  
+如果您已安裝 WSUS 3.0 的 Beta 版本，您必須先解除安裝並刪除它的資料庫，然後才能安裝 WSUS 3.0 的 RTM 版本。升級僅限於從 RC 版本升級為 RTM 版本。
+  
+#### 在 64 位元的作業系統上無法從 WSUS 2.0 升級為 WSUS 3.0
+  
+64 位元的作業系統不支援 WSUS 2.0，在 64 位元的系統上無法從 WSUS 2.0 升級為 WSUS 3.0。
+  
+設定命令列參數  
+--------------
+  
+您可以使用 WSUS 命令列參數來執行 WSUS 3.0 的自動安裝。下表列出 WSUS 3.0 的命令列參數。
+  
+###  
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >選項</th>
+<th style="border:1px solid black;" >說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>/q</strong></td>
+<td style="border:1px solid black;">執行無訊息安裝。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>/u</strong></td>
+<td style="border:1px solid black;">解除安裝產品。另外，也會解除安裝 Windows Internal Database 例項 (若有安裝)。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>/p</strong></td>
+<td style="border:1px solid black;">只檢查先決條件。不安裝產品，但檢查系統並報告任何遺失的先決條件。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>/?，/h</strong></td>
+<td style="border:1px solid black;">顯示命令列參數與其說明。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>/g</strong></td>
+<td style="border:1px solid black;">從 WSUS 2.0 版升級。此選項唯一適用的參數是 /q (無訊息安裝)。此選項唯一有效的內容是 DEFAULT_WEBSITE。</td>
+</tr>
+</tbody>
+</table>
+  
+下表列出 WSUS 3.0 的命令列屬性。
+  
+###  
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >內容</th>
+<th style="border:1px solid black;" >描述</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">CONTENT_LOCAL</td>
+<td style="border:1px solid black;">0=內容裝載於本機，1=裝載於 Microsoft Update</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">CONTENT_DIR</td>
+<td style="border:1px solid black;">內容目錄的路徑。預設為 <em>WSUSInstallationDrive</em><strong>\WSUS\WSUSContent</strong>，其中 <em>WSUSInstallationDrive</em> 是具有最多可用空間的本機磁碟機。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">WYUKON_DATA_DIR</td>
+<td style="border:1px solid black;">Windows Internal Database 資料目錄的路徑。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SQLINSTANCE_NAME</td>
+<td style="border:1px solid black;">名稱的格式應該是 <em>ServerName</em>\<em>SQLInstanceName</em>。如果資料庫例項是在本機電腦上，請使用 %COMPUTERNAME% 環境變數。如果沒有現有的例項，預設值為 %COMPUTERNAME%\WSUS。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">DEFAULT_WEBSITE</td>
+<td style="border:1px solid black;">0=連接埠 8530，1=連接埠 80</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">PREREQ_CHECK_LOG</td>
+<td style="border:1px solid black;">記錄檔的路徑和檔案名稱</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">CONSOLE_INSTALL</td>
+<td style="border:1px solid black;">0=安裝 WSUS 伺服器，1=只安裝主控台</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">ENABLE_INVENTORY</td>
+<td style="border:1px solid black;">0=不要安裝清查功能，1=安裝清查功能</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">DELETE_DATABASE</td>
+<td style="border:1px solid black;">0=保留資料庫，1=移除資料庫</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">DELETE_CONTENT</td>
+<td style="border:1px solid black;">0=保留內容檔案，1=移除內容檔案</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">DELETE_LOGS</td>
+<td style="border:1px solid black;">0=保留記錄檔，1=移除記錄檔 (配合 /u 安裝參數使用)。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">CREATE_DATABASE</td>
+<td style="border:1px solid black;">0=使用目前的資料庫，1=建立資料庫</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">PROGRESS_WINDOW_HANDLE</td>
+<td style="border:1px solid black;">要傳回 MSI 進度訊息的視窗控制碼</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">MU_ROLLUP</td>
+<td style="border:1px solid black;">1=參加 Microsoft Update 改進方案，0=不參加</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">FRONTEND_SETUP</td>
+<td style="border:1px solid black;">1=不要將內容位置寫入資料庫，0=將內容位置寫入資料庫 (適用於 NLB)</td>
+</tr>
+</tbody>
+</table>
+  
+#### 範例使用方式
+  
+```  
+WSUSSetup.exe /q DEFAULT\_WEBSITE=0 (install in quiet mode using port 8530) WSUSSetup.exe /q /u (uninstall WSUS)  
+```  
+| ![](images/Cc708491.Important(WS.10).gif)重要事項                                               |  
+|------------------------------------------------------------------------------------------------------------------------------|  
+| 若電腦尚未安裝妥所有先決條件，即以安靜模式 (/q) 安裝 WSUS 3.0，安裝程式將在 %TEMP% 目錄下產生 WSUSPreReqCheck.xml 這個檔案。 |
+  
+安裝問題  
+--------
+  
+#### WSUS 3.0 安裝期間會重新啟動 IIS
+  
+WSUS 3.0 安裝程式會無預警地重新啟動 IIS，因而貴組織現有的網站可能受到影響。如果 IIS 沒有執行，WSUS 3.0 安裝程式將會啟動它。
+  
+#### 如果已開啟與現有 WSUS 資料庫的連線，安裝可能會失敗
+  
+從現有的安裝升級到 WSUS 3.0 時，若仍然開啟與現有 WSUS 資料庫的連線 (例如，SQL Server Management Studio 依舊開啟)，則可能導致安裝失敗。請先關閉所有連線再重新安裝 WSUS 3.0。
+  
+#### WSUS 安裝程式顯示的資料庫檔案目錄不正確
+  
+在 WSUS 安裝中，\[安裝準備就緒\] 會誤將資料庫的父目錄報告為資料庫位置。例如，預設位置為 %systemdrive%\\WSUS\\UpdateServicesDbFiles，但是這個位置卻顯示為 %systemdrive%\\WSUS。
+  
+#### 如果 WSUS 安裝於具有多語系使用者介面語言套件、且預設語言不是英文的機器上，則 \[說明\] 將以預設語言顯示，而非以英文顯示
+  
+如果您的機器具有多語系使用者介面語言套件，而且預設語言不是英文，則當目前使用者的地區設定是英文時，您仍然能安裝 WSUS。UI 將以英文顯示，但是您必須使用因應措施，使 \[說明\] 以英文顯示。將英文的說明 .chm 檔案 (*WSUSInstallDir*\\documentation\\mui\\0409\\WSUS30Help.chm) 複製到主要說明文件目錄中 (*WSUSInstallDir*\\documentation\\WSUS30Help.chm)。此時，所有語言的 \[說明\] 應正確顯示。
+  
+升級問題  
+--------
+  
+#### 從 WSUS 3.0 RC 升級至 WSUS 3.0 RTM 時，會造成 SSL 憑證未指派給 WSUS 網站
+  
+從 WSUS 3.0 RC 升級至 WSUS 3.0 RTM 的期間，WSUS 網站會刪除並重新建立。因此，SSL 憑證不再指派給 WSUS 網站。您在升級後必須重新指派憑證。
+  
+#### 從升級失敗中復原
+  
+如果您從 WSUS 2.0 升級到 WSUS 3.0 卻因故而升級失敗，則必須重新安裝 WSUS 2.0 並從備份來還原資料庫。
+  
+#### 如果原先安裝產品的 WSUS 3.0 資料庫還在，將無法從 WSUS 2.0 升級到 WSUS 3.0
+  
+如果您之前已安裝 WSUS 3.0 而後又重新安裝了 WSUS 2.0，則下次重新安裝 WSUS 3.0 時必須先刪除電腦上的 WSUS 3.0 資料庫。
+  
+#### 升級為 WSUS 3.0 之前變更電腦名稱可能會導致升級失敗
+  
+如果在安裝 WSUS 2.0 之後、升級為 WSUS 3.0 之前，變更電腦名稱，升級可能會失敗。
+  
+請用下列指令碼移除再重新加入 ASPNET 和 WSUS 系統管理員群組，然後再執行一次升級。
+  
+您必須用資料庫安裝所在的資料夾取代 *&lt;DBLocation&gt;*，並且用本機儲存資料夾取代 *&lt;ContentDirectory&gt;*。
+  
+```  
+sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=name from sysusers WHERE name like '%ASPNET' EXEC sp\_revokedbaccess @asplogin" sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=name from sysusers WHERE name like '%WSUS Administrators' EXEC sp\_revokedbaccess @wsusadminslogin"   sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=HOST\_NAME()+'\\ASPNET' EXEC sp\_grantlogin @asplogin EXEC sp\_grantdbaccess @asplogin EXEC sp\_addrolemember webService,@asplogin" sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=HOST\_NAME()+'\\WSUS Administrators' EXEC sp\_grantlogin @wsusadminslogin EXEC sp\_grantdbaccess @wsusadminslogin EXEC sp\_addrolemember webService,@wsusadminslogin"   sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "backup database SUSDB to disk=N'*&lt;ContentDirectory&gt;*\\SUSDB.Dat' with init"  
+```
+  
+#### 安裝程式可能會覆寫先前的資料庫備份
+  
+WSUS 3.0 安裝程式在會安裝期間將資料庫新增到指定的目錄，而預設的目錄就是 *%systemdrive%*\\WSUS\\UpdateServicesDbFiles。如果這個目錄中有先前的資料庫備份，新的資料庫就會覆寫它。系統管理員應該先備份資料庫檔案，然後再將更新套用到資料庫所在的電腦。
+  
+#### 如果您已經從 MSDE 遷移至 SQL Server 2000 (或在 WSUS 2.0 上遷移至 SQL Server 2005)，則您必須變更登錄值
+  
+如果您已經安裝 WSUS 2.0，並已從 SQL Server 2000 或 SQL Server 2005 遷移，則您必須將 **HKLM\\SOFTWARE\\Microsoft\\Update Services\\Server\\Setup\\WmsdeInstalled** 的值從 1 變更為 0。如果您在升級至 WSUS 3.0 之前沒有這麼作，升級將會失敗。
+  
+#### 如果 WSUS 2.0 安裝程式啟動後又被取消，它將會刪除 WSUS 登錄機碼
+  
+如果您啟動 WSUS 2.0 安裝程式然後又取消它，WSUS 登錄機碼將會被刪除。如果您已經安裝了 WSUS 3.0，這種情況將會造成問題。如果您開始解除安裝 WSUS 2.0 又取消作業，然後又嘗試從 WSUS 2.0 升級為 WSUS 3.0，在這種情況下也會發生同樣的問題。
+  
+#### 如果您解除安裝 WSUS 3.0 但是未移除記錄檔，在重新安裝後這些檔案可能會沒有正確的權限
+  
+解除安裝 WSUS 3.0 時您可以選擇是否要保留此安裝的記錄檔。但是在重新安裝 WSUS 3.0 時，舊的記錄檔將會喪失它們的權限 (通常是僅限於 WSUS 管理員使用)。您應該還原這些記錄檔的權限。
+  
+#### 如果 Windows SharePoint Services 是在 WSUS 3.0 RC 之後安裝，升級為 WSUS 3.0 RTM 只能藉由特定解決方法執行
+  
+如果您安裝了 WSUS 3.0 RC，然後又在同一部電腦上安裝 Windows SharePoint Services，那麼您只能選擇安裝在自訂連接埠 (連接埠 8530) 上才能升級為 WSUS 3.0 RTM。如果要從命令列執行這項安裝，請開啟命令殼層，然後輸入下列命令：**WSUSSetup /q / g/ DEFAULT\_WEBSITE=0** (如果要使用 UI 執行這項安裝，請輸入 **WSUSSetup /g DEFAULT\_WEBSITE=0**)。
+  
+如果 WSUS 安裝於具有多語系使用者介面語言套件的機器上，則 \[說明\] 將以預設語言顯示，而非使用者目前的語言
+  
+#### 如果 WSUS 2.0 用戶端擁有「不適用」狀態的更新，在升級至 WSUS 3.0 之後，更新在一小段期間內會顯示為「不明」
+  
+如果 WSUS 2.0 伺服器擁有具「不適用」更新的用戶端，伺服器升級至 WSUS 3.0 之後，這些更新在一小段期間內會顯示為「不明」狀態。下一次用戶端進行掃瞄之後，更新狀態就會恢復為「不適用」。
+  
+已知的問題  
+----------
+  
+#### 多次下載錯誤或用戶端同步處理不斷失敗的疑難排解
+  
+如果 WSUS 3.0 用戶端回報多次下載錯誤，或用戶端已有一段時間均無法與 WSUS 3.0 伺服器進行同步處理，可能表示用戶端下載快取已經毀損。若要解決此狀況，請嘗試從檔案系統刪除用戶端下載快取。
+  
+刪除用戶端下載快取：
+  
+1.  從用戶端電腦上，刪除這個位置下的所有檔案和子目錄：**%windir%\\SoftwareDistribution\\Download**  
+2.  將用戶端電腦與 WSUS 3.0 再次進行同步處理，以嘗試安裝更新。此次安裝應該會失敗而出現下列錯誤：**WU\_E\_DM\_NOTDOWNLOADED，「尚未下載更新」。**  
+3.  發生此錯誤後，用戶端電腦將會自動重新開始下載並能繼續安裝。
+  
+#### 如果同步處理失敗，請重試
+  
+如果同步處理失敗，進行疑難排解的第一要務便是再次嘗試同步處理伺服器。如果後續同步處理依舊失敗，請參閱 [Windows Server Update Services 3.0 作業指南](http://go.microsoft.com/fwlink/?linkid=81072) (http://go.microsoft.com/fwlink/?LinkId=81072) 中提供的疑難排解資訊。
+  
+#### 不支援直接在資料庫中變更 WSUS 3.0 設定
+  
+Windows Server Update Services 會將其設定資料存放在 SQL Server 資枓庫。不過，不支援直接存取資料庫來變更設定資料。切勿試圖直接存取資料庫修改 WSUS 3.0 設定。如需變更 WSUS 3.0 設定，請使用 WSUS 3.0 主控台或呼叫 WSUS 3.0 API。
+  
+#### 如果已啟用磁碟配額，將未能及時回報下載失敗
+  
+如果已啟用磁碟配額並且達到配額限制時，WSUS 伺服器上的更新下載失敗可能無法及時回報。為避免此問題，請停用磁碟配額或提高配額上限。
+  
+#### 如果使用 SSL 部署 WSUS 3.0，用戶端電腦可能失敗，並傳回錯誤碼 0x8024400a
+  
+當用戶端電腦使用 SSL 與 WSUS 3.0 伺服器通訊時，若干情況下可能傳回錯誤碼 "0x8024400a" 表示失敗。如果要取得解決此問題的更新，請參閱[知識庫文件 905422](http://go.microsoft.com/fwlink/?linkid=70593) (http://go.microsoft.com/fwlink/?LinkId=70593)。
+  
+#### 解除安裝 WSUS 時不會刪除 WSUS Administrators 網域帳戶
+  
+WSUS Administrators 群組係建立成網域控制站上的網域帳戶 (而非本機帳戶)，所以如果在解除安裝 WSUS 時刪除了這個網域帳戶，則所有使用該帳戶的安裝都將被停用。基於此，解除安裝 WSUS 時不會刪除 WSUS Administrators 網域帳戶。
+  
+#### 如果將下游伺服器轉換成上游伺服器，必須重新匯入類別目錄網站更新
+  
+將下游伺服器升級為上游伺服器時，也必須重新匯入所有的類別目錄網站更新。否則，網站便無法將新的類別目錄網站更新修訂同步處理到該部伺服器。
+  
+#### 如果 IIS 使用 SSL 但並未選取 \[需要安全通道\]，則仍有可能透過未加密的方式存取
+  
+若是安裝憑證而將 IIS 設定為使用 SSL，便應選取 \[需要安全通道\] 選項，否則仍有可能透過未加密 HTTP 存取網站。如需詳細資訊，請參閱[啟用加密](http://go.microsoft.com/fwlink/?linkid=70601) (http://go.microsoft.com/fwlink/?LinkId=70601)。
+  
+#### 沒有 %windir%\\TEMP 資料夾的讀取/寫入權限，類別目錄網站匯入可能會失敗
+  
+執行類別目錄網站匯入時，如果 Network Service 帳戶沒有 %windir%\\TEMP 資料夾的讀取/寫入權限，匯入可能會失敗並傳回類似以下的錯誤訊息：「伺服器無法處理要求。---&gt; 找不到檔案 'C:\\WINDOWS\\TEMP\\*tempFileName*.dll'」。
+  
+#### 當 WSUS 3.0 與執行 WSUS 2.0 的下游複寫伺服器進行同步處理時，效能可能變差
+  
+如果 WSUS 3.0 安裝在上游伺服器，而嘗試與執行 WSUS 2.0 的下游複寫伺服器進行同步處理，則可能發生效能問題。要解決此問題，請參閱[知識庫文件 910847](http://go.microsoft.com/fwlink/?linkid=70669) (http://go.microsoft.com/fwlink/?LinkId=70669)。
+  
+#### 如果無法連線到郵件伺服器或伺服器已停機，電子郵件通知將會無聲無息地失敗
+  
+如果網路的電子郵件伺服器已離線，WSUS 3.0 將無法傳送電子郵件通知且不會告知失敗。不過它會在事件記錄中寫入事件 10052 (HealthCoreEmailNotificationRed)。
+  
+#### 上游伺服器已變更的設定不會立即發送至下游伺服器
+  
+上游伺服器一旦變更設定，這些設定變更可能需要稍待片刻之後才會實際生效。例如，假設您在變更上游伺服器的設定 (例如選取新語言) 後就立刻與下游伺服器進行同步處理，則並不會顯現該項變更。相反地，該變更將會在排定的下一次同步處理時間才發送至下游伺服器。等候時間會隨著上游伺服器中更新數目的增多而拉長。
+  
+#### 解除安裝 WSUS 3.0 不會解除安裝資料庫例項
+  
+解除安裝 WSUS 3.0 將不會解除安裝資料庫例項。可能會多個應用程式共用此例項，如果移除可能會導致其他應用程式失敗。
+  
+若有必要解除安裝 Windows Internal Database，則可使用下列命令解除安裝應用程式：
+  
+(32 位元平台)
+  
+```  
+msiexec /x {CEB5780F-1A70-44A9-850F-DE6C4F6AA8FB} callerid=ocsetup.exe  
+```  
+(64 位元平台)
+  
+```  
+msiexec /x {BDD79957-5801-4A2D-B09E-852E7FA64D01} callerid=ocsetup.exe  
+```  
+如果您要從 Windows Server 2008 解除安裝 Windows Internal Database Service Pack 2，您可以利用「伺服器管理員」來執行。
+  
+然而，移除應用程式未必會移除預設的 .mdf 和 .ldf 檔案，而且可能導致日後安裝 WSUS 3.0 發生失敗。您可以從 %windir%\\SYSMSI\\SSEE 目錄刪除這些檔案。
+  
+#### 如果下游伺服器改以另一部伺服器做為上游伺服器，則狀態「不明」的更新會回報成「不適用」
+  
+如果下游伺服器改從另一部上游伺服器同步處理，新的上游伺服器會將原本狀態「不明」的更新回報成「不適用」。這種狀態只是暫時的，等到下游伺服器與其用戶端進行同步處理後，下次回報狀態時就會更正。
+  
+#### 如果 WSUS 3.0 複寫伺服器管理一部以上同名的電腦，報告彙總將會失敗
+  
+如果 WSUS 3.0 複寫伺服器管理一部以上同名的電腦，報告彙總將會失敗。因此，提交給 WSUS 根伺服器的報告將不夠完整。只要將複寫伺服器上所有重複的電腦項目刪除到僅剩一個，此問題即可獲得解決。
+  
+#### 如果從遠端主控台對多部伺服器執行伺服器清理精靈，而其中一部伺服器執行精靈發生逾時，則與所有伺服器的連線都將中斷
+  
+您可以從單一遠端主控台對多部伺服器執行伺服器清理精靈。然而，只要其中有一部伺服器執行清理程序發生逾時，主控台與所有伺服器的連線都將中斷。這樣並不會遺失任何資料，但系統管理員必須重設與每一部伺服器的遠端連線。
+  
+#### 伺服器清理精靈會在三十天之後 (最晚不超過三個月) 刪除檔案
+  
+伺服器清理精靈中的某些文字不精確。精靈顯示：「刪除已過期而且三個月都未核准的更新，並且刪除超過三個月都未核准的舊版更新修訂」。正確的時間長度是三十天，不是三個月。
+  
+#### 快速連續啟動或停止連線會導致組態精靈出現「無失敗」錯誤訊息
+  
+設定 WSUS 時，您必須連線到上游伺服器 (Microsoft Update 或內部網路上游伺服器)，才能傳輸有關此伺服器的基本資訊。如果您按一下 \[開始連線\] 然後立刻又按 \[停止連線\]，您將會看到「沒有任何同步處理失敗」的錯誤訊息。
+  
+#### 使用 Windows Vista RTM 的 WSUS 用戶端現在可以在 Microsoft Update 上搜尋更新
+  
+在先前的 WSUS 版本中，使用 Windows Vista RTM 的用戶端只能從 WSUS 伺服器取得更新。採用 WSUS 3.0 RTM 之後，Vista 用戶端現在也可以從 Microsoft Updates 取得更新。您可以從 \[控制台\] 按一下 \[從線上檢查來自 Microsoft Update Service 的更新\] 超連結開啟 Windows Update，將 Vista 用戶端導引到 Microsoft Update。如果啟用了 \[群組原則\] 中的 \[移除所有 Windows Update 功能的存取\] 選項，Windows Update 將不會顯示這個超連結。
+  
+WSUS 3.0 用於 Windows Server 2008  
+---------------------------------
+  
+#### 支援的版本
+  
+WSUS 3.0 支援 Windows Server 2008 32 位元及 64 位元版本。
+  
+#### 先決條件
+  
+###  
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >需求</th>
+<th style="border:1px solid black;" >詳細資料</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Microsoft 網際網路資訊服務 (IIS)</td>
+<td style="border:1px solid black;">從作業系統安裝。請啟用下列元件：
+Windows 驗證  
+靜態內容  
+ASP.NET  
+6.0 管理相容性
+IIS Metabase 相容性</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Microsoft .NET Framework 2.0 版可轉散發套件 (x86)</td>
+<td style="border:1px solid black;">在 Windows Server 2008 上不一定需要，已經安裝為作業系統的一部分。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Microsoft Management Console 3.0</td>
+<td style="border:1px solid black;">在 Windows Server 2008 上不一定需要，已經安裝為作業系統的一部分。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Microsoft 報表檢視器</td>
+<td style="border:1px solid black;">這是使用 WSUS UI 的先決條件。請造訪 <a href="http://go.microsoft.com/fwlink/?linkid=70410">Microsoft 下載中心</a> (http://go.microsoft.com/fwlink/?LinkId=70410)，參閱 Microsoft 可轉散發報表檢視器 2005 的文件。</td>
+</tr>
+</tbody>
+</table>
+  
+#### 問題 1：必須先升級 IIS 7.0 組態檔，然後才能執行 WSUS 3.0
+  
+在 Windows Server 2008 上執行 WSUS 3.0 之前，必須先更新 IIS 組態檔。請按下列步驟進行：
+  
+1. 開啟 IIS 組態檔：%WINDIR%\\system32\\inetsrv\\applicationhost.config
+  
+2. 在 &lt;System.webServer&gt;&lt;modules&gt; 標記中，移除 &lt;add name="CustomErrorMode"&gt; (如果有)。
+  
+3. 在 &lt;System.webServer&gt;&lt;modules&gt; 標記中，新增 &lt;remove name="CustomErrorMode"&gt;。
+  
+產生的標記應該像下面這樣：
+  
+```  
+ &lt;System.webServer&gt; &lt;modules&gt; &lt;remove name="CustomErrorMode"&gt; &lt;/modules&gt; &lt;/System.webServer&gt;  
+```
+  
+#### 問題 2：如果您要在 Windows Server 2008 Beta 3 的自訂連接埠上安裝 WSUS 3.0，必須事先建立網站
+  
+如果您要在 Windows Server 2008 Beta 3 上安裝 WSUS 3.0，而且要設定 WSUS 使用自訂連接埠 8530，則在啟動 WSUS 安裝程式之前，必須在連接埠 8530 上建立名為 "WSUS Administration" 的網站。
+  
+WSUS 3.0 用於 Windows Small Business Server 2003  
+------------------------------------------------
+  
+#### 問題 1：如果 IIS 虛擬根目錄限制了某些 IP 位址或網域名稱，WSUS 3.0 伺服器將無法自行更新
+  
+某些 Windows Small Business Server 安裝可能會為 IIS 預設網站設定「IP 位址及網域名稱限制」。如果是這種情況，伺服器上的 Windows Update 用戶端可能無法更新它自己
+  
+#### 問題 2：在 Small Business Server 上安裝 WSUS 3.0 - 整合問題
+  
+-   如果 Windows Small Business Server 2003 使用 ISA Proxy 伺服器來存取網際網路，則必須在 \[設定\] 使用者介面中輸入下列值：Proxy 伺服器設定、Proxy 伺服器名稱和連接埠。  
+-   如果 ISA 使用 Windows 驗證，則 Proxy 伺服器認證應該以「網域\\使用者」格式輸入，而且使用者應屬於 Internet Users (網際網路使用者) 群組的成員。
+  
+#### 問題 3：如果網路不是使用 Windows SBS 精靈新增子網路，則必須執行此處指示的程序
+  
+WSUS 伺服器安裝程序會在伺服器上安裝兩個 IIS vroots：SelfUpdate 和 ClientWebService。安裝程式也會在預設網站 (連接埠 80) 的主目錄下存放一些檔案，讓用戶端電腦可以透過預設網站自行更新。依預設，預設網站係設定成只能存取 localhost 或依附於伺服器的特定子網路，除此之外拒絕存取任何 IP 位址。因此，不是位於 localhost 或這些特定子網路上的用戶端電腦均無法自行更新。如果您的網路不是使用 Microsoft Windows Small Business Server 2003 (Windows SBS) 精靈來新增子網路，則必須執行下列程序。
+  
+1.  在 \[伺服器管理\] 中，依序展開 \[進階管理\]、\[網際網路資訊服務\]、\[網站\] 和 \[預設的網站\]，再用滑鼠右鍵按一下 \[Selfupdate\] 虛擬目錄，然後按一下 \[內容\]。  
+2.  按一下 \[目錄安全設定\]。  
+3.  從 \[IP 位址及網域名稱限制\] 下方按一下 \[編輯\]，再按一下 \[授予存取權\]。  
+4.  按一下 \[確定\]，再用滑鼠右鍵按一下 \[ClientWebService\] 虛擬目錄，然後按一下 \[內容\]。  
+5.  按一下 \[目錄安全設定\]。  
+6.  從 \[IP 位址及網域名稱限制\] 下方按一下 \[編輯\]，再按一下 \[授予存取權\]。
+  
+#### 著作權
+  
+本文件所支援的初版軟體產品在商業發行定案前可能陸續會有變更，且其所載內容均為 Microsoft Corporation 之機密及專利資訊。本文件係依收受者與 Microsoft 所成立之保密合約，受其規範而不得洩露予第三者。本文件僅供資訊參考之用途，Microsoft 對本文件內容不負任何明示或默示擔保責任。本文件中的資訊 (包含 URL 及其他網際網路網站參考資料) 如有變更恕不另行通知。使用本文件或因使用本文件而衍生之一切後果概由使用者自行承擔。除非另有聲明，文中範例所描述之公司、組織、產品、網域名稱、電子郵件地址、商標圖樣、人員、地點及事件均屬虛構，並非影射任何真實的公司、組織、產品、網域名稱、電子郵件地址、商標圖樣、人員、地點及事件。遵守所有適用之著作權法係使用者的責任。除著作權本得享有之權利外，未經 Microsoft Corporation 書面許可， 貴用戶不得為任何目的使用任何形式或方法 (電子形式、機械形式、影印、記錄或其他方式) 複製或傳送本文件的任何部分，也不得將本文件的任何部分儲存或放入檢索系統 (Retrieval System)。
+  
+Microsoft 可能擁有本文件所提及內容中所含之專利權、專利優先權、商標、著作權，或其他智慧財產權。除非 Microsoft 書面授權合約所明示規定者外，提供本文件並不授予 貴用戶上述專利權、商標、著作權或其他智慧財產權。
+  
+© 2007 Microsoft Corporation.All rights reserved.
+  
+Microsoft、SQL Server、Windows 和 Windows Server 是 Microsoft Corporation 在美國和/或其他國家 (地區) 的註冊商標或商標。
+  
+其他商標為其所有人的資產。
