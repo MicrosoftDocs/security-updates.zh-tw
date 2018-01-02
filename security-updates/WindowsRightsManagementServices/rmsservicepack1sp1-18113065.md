@@ -74,9 +74,7 @@ RMS SP1 安裝精靈偵測到您的 RMS 安裝時，只會新增新檔案，或�
 -   只有執行 RMS SP1 的用戶端能自我啟用。
 -   下表描述混合環境中所支援的功能：
 
-###  
-
- 
+<p></p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
