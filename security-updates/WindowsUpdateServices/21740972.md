@@ -22,7 +22,18 @@ One way of inadvertently overtaxing your WSUS server is to have antivirus softwa
 
 #### Get an error looking at a network load balanced cluster if the "master" is unavailable
 
-        ```
+If you are looking at a WSUS server on a network load balanced cluster from a remote administration console, and the server that is currently the "master" server becomes unavailable, you may see the following error:
+
+```
+System.Net.Sockets.SocketException Message:
+No connection could be made because the target machine actively refused it
+Source: System
+Stack Trace:
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.InternalConnect(EndPoint remoteEP)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Int32 timeout, Exception& exception)
+```
+
 You should wait at least 30 seconds before clicking **Reset** on the error message.
 
 #### Cannot see client computers in the WSUS administration console
@@ -39,7 +50,16 @@ If you want to distribute an .msc file that connects to a server, you cannot cre
 
 #### Get error accessing WSUS 3.0 servers from the WSUS administration console because the WWW Publishing service is configured to allow interaction with the desktop
 
-        ```
+If you attempt to access the WSUS administration console and fail to connect to the server, you may have gotten the following error:
+
+```
+The WSUS administration console was unable to connect to the WSUS Server via the remote API. 
+Verify that the Update Services service, IIS, and SQL are running on the server. If the problem persists, try restarting IIS, SQL, and the Update Services Service.
+The WSUS administration console has encountered an unexpected error. This may be a transient error; try restarting the administration console. If this error persists, try removing the persisted preferences for the console by deleting the wsus file under %appdata%\Microsoft\MMC\.
+System.IO.IOException -- The handshake failed due to an unexpected packet format.
+…
+```
+
 This error is probably due to the WWW Publishing service being configured to allow interaction with the desktop. To solve this problem, take the following steps:
 
 1.  Open the Services snap-in (click **Start**, click **Run**, and then type **services.msc**).
