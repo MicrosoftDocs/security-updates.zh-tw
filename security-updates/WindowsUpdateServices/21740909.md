@@ -1,0 +1,33 @@
+---
+TOCTitle: 'Windows Server Update Services 3.0 SP2 逐步指南'
+Title: 'Windows Server Update Services 3.0 SP2 逐步指南'
+ms:assetid: '4b504edc-93b3-45b0-a7e8-d0107f1a4442'
+ms:contentKeyID: 21740909
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Dd939822(v=WS.10)'
+---
+
+Windows Server Update Services 3.0 SP2 逐步指南
+===============================================
+
+Windows Server Update Services 3.0 Service Pack 2 (WSUS 3.0 SP2) 提供全面的解決方案，可讓您管理您網路上的更新。此指南提供基本安裝與部署工作的指示，可協助您在您的網路上開始使用 WSUS 3.0 SP2。此指南包含下列各節：
+
+-   [步驟 1：確認 WSUS 3.0 SP2 安裝需求](https://technet.microsoft.com/ec01bd75-5def-4899-8cee-ddab827bbd83)。
+-   [步驟 2：安裝 WSUS 伺服器或管理主控台](https://technet.microsoft.com/6db6fcb0-c55d-43b9-9b07-4040c6267759)
+-   [步驟 3：設定網路連線](https://technet.microsoft.com/42a144c5-f08e-4a6e-b360-47ddea77bd24)
+-   [步驟 4：設定更新與同步處理](https://technet.microsoft.com/deeaa7e1-9b50-45cb-9537-d75f70de3405)
+-   [步驟 5：設定用戶端更新](https://technet.microsoft.com/5ae60ead-3e94-456c-a692-c0f193ea5d5a)
+-   [步驟 6：設定電腦群組](https://technet.microsoft.com/70518732-2179-4e41-9609-7f9999867f41)
+-   [步驟 7：核准與部署 WSUS 更新](https://technet.microsoft.com/c4e58e17-d5e3-4194-8f26-b459e0c03b86)
+
+其他相關參考資料
+----------------
+
+WSUS 3.0 SP2 是功能豐富的更新管理解決方案。如需關於安裝與使用 WSUS 的完整資訊，請參閱下列資訊：
+
+《WSUS 部署指南》，網址是：[http://go.microsoft.com/fwlink/?LinkId=139832](http://go.microsoft.com/fwlink/?linkid=139832) (可能為英文網頁)。
+
+《WSUS 作業指南》，網址是：[http://go.microsoft.com/fwlink/?LinkId=139838](http://go.microsoft.com/fwlink/?linkid=139838) (可能為英文網頁)。
+
+《WSUS 版本資訊》，網址是：[http://go.microsoft.com/fwlink/?LinkId=139840](http://go.microsoft.com/fwlink/?linkid=139840) (可能為英文網頁)。
+
+WSUS 管理主控台線上說明。
