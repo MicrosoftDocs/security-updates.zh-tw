@@ -42,7 +42,19 @@ WSUS setup creates a configuration file that enables you to add an explicit list
 
 Use the `<authorization>` element to define an authentication list. You must add the `<authorization>` element below the `<configuration>` and `<system.web>` elements.
 
-        ```
+Consider the example below:
+
+```
+<configuration>
+    <system.web>
+        <authorization>
+           <allow users="domain\computer_name,domain\computer_name" />
+           <deny users="domain\computer_name,domain\computer_name" />
+        </authorization>
+     </system.web>
+</configuration>
+```
+
 Within the opening and closing `<authorization>` tags, you specify a list of computers that are allowed a connection to the Web service. You must enter these computers as `domain\computer_name`. If you want multiple computers, use a comma to separate the names. You can also specify an explicit list of computers that are denied access. Order in this list is important, as the evaluation stops with the first item that applies to the user. If the `<allow users>` element is absent or empty, all servers are allowed.
 
 The XML schema for this list can be found on the [MSDN Web site](http://go.microsoft.com/fwlink/?linkid=47691) at http://go.microsoft.com/fwlink/?LinkId=47691.

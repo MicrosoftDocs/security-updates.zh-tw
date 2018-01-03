@@ -42,7 +42,24 @@ To ensure that the self-update tree is working properly, first make sure there i
 
 **cscript** *WSUSInstallDirectory***\\setup\\installselfupdateonport80.vbs**
 
-        ```
+where WSUSInstallDirectory is the directory in which WSUS is installed. If the script is successful, you should see the following output:
+
+```
+Microsoft (R) Windows Script Host Version 5.6
+Copyright (C) Microsoft Corporation 1996-2001. All rights reserved.
+
+SetupSelfupdateTree: Finding the index of the Web site on which WUS is installed...
+SetupSelfupdateTree: Leaving GetWUSWebSiteIndex.
+SetupSelfupdateTree: Finding the index of the web site bound to port 80...
+SetupSelfupdateTree: iWebSiteIndex: 1 ServerBindings: :80:index: 0
+SetupSelfupdateTree: Found the index of site on Port 80: 1
+SetupSelfupdateTree: rootMetabasePath: IIS://LocalHost/W3SVC/1/ROOT
+SetupSelfupdateTree: szPort80RootPath=c:\inetpub\wwwroot
+SetupSelfupdateTree: iWusWebSiteIndex=1 iPort80WebSiteIndex=1
+SetupSelfupdateTree: Warning: This is standalone WUS install. No need to do configuration for SxS install.
+Success: InstallSelfupdateOnPort80 succeeded.
+```
+
 If you have WSUS client self-update running on port 80 of the WSUS server, see the next section.
 
 #### Check IIS logs on the WSUS Server
