@@ -52,7 +52,12 @@ Setup can fail because it uses the DNS domain name instead of the NetBiosDomainN
 
 The ASP.Net Web service extension may occasionally be listed twice in the IIS configuration. If this is the case, WSUS setup will fail when it tries to install and configure its v-roots.
 
-        ```
+-   Check WSUSSetup.log for the following entry:
+
+    ```
+    Error IISCustomAction Command /Install FailedSystem.ArgumentException: Item has already been added. Key in dictionary: "enableasp.net"  Key being added: "enableasp.net"
+    ```
+
 -   Disable and then reenable the ASP.NET V2.0.50727 Web service extension through the IIS UI. Make sure that the final status of this Web service extension is “allowed.”
 
 #### There is a SUSDB database from an earlier installation
