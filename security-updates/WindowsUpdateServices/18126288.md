@@ -28,6 +28,7 @@ The following software is required for running WSUS on Windows Server 2003:
 -   Microsoft Internet Information Services (IIS) 6.0.
 -   Background Intelligent Transfer Service (BITS) 2.0; go to the [Download Center](http://go.microsoft.com/fwlink/?linkid=47251) at http://go.microsoft.com/fwlink/?LinkId=47251.
 -   Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003; go to the [Download Center](http://go.microsoft.com/fwlink/?linkid=47358) at http://go.microsoft.com/fwlink/?LinkId=47358.
+
     An alternative is to go to [Windows Update](http://go.microsoft.com/fwlink/?linkid=47370) at http://go.microsoft.com/fwlink/?linkid=47370 and scan for Critical Updates and Service Packs. Install Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003.
 
 #### Windows 2000 Server
@@ -41,6 +42,7 @@ The following software is required for running WSUS on Windows 2000 Server:
 -   Microsoft Internet Explorer 6.0 Service Pack 1; go to the [Download Center](http://go.microsoft.com/fwlink/?linkid=47359) at http://go.microsoft.com/fwlink/?LinkId=47359.
 -   Microsoft .NET Framework Version 1.1 Redistributable Package; go to the[Download Center](http://go.microsoft.com/fwlink/?linkid=47369) at http://go.microsoft.com/fwlink/?LinkId=47369.
 -   Microsoft .NET Framework 1.1 Service Pack 1; go to the [Download Center](http://go.microsoft.com/fwlink/?linkid=47379) at http://go.microsoft.com/fwlink/?LinkId=47379.
+
     An alternative is to go to [Windows Update](http://go.microsoft.com/fwlink/?linkid=47370) at http://go.microsoft.com/fwlink/?linkid=47370 and scan for Critical Updates and Service Packs. Install Microsoft .NET Framework 1.1 Service Pack 1 for Windows 2000 Server.
 
 Disk Requirements and Recommendations
