@@ -1,0 +1,160 @@
+---
+TOCTitle: '以 Microsoft 虛擬私人網路實作隔離服務規劃指南 - 附錄 A'
+Title: '以 Microsoft 虛擬私人網路實作隔離服務規劃指南 - 附錄 A'
+ms:assetid: '1caaf373-8e57-4776-97f9-2d3b89909274'
+ms:contentKeyID: 20214452
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Dd548270(v=TechNet.10)'
+---
+
+以 Microsoft 虛擬私人網路實作隔離服務規劃指南
+=============================================
+
+### 附錄 A - 範例隔離指令碼
+
+更新日期: 2005 年 5 月 24 日
+
+##### 本頁內容
+
+[](#ecaa)[隔離指令碼範例](#ecaa)
+[](#ebaa)[遠端存取元件](#ebaa)
+[](#eaaa)[啟動 Windows Update 指令碼](#eaaa)
+
+### 隔離指令碼範例
+
+下節描述一些可從 Microsoft 網站下載的範例指令碼。這些指令碼是包含在名為 VPN Quarantine Sample Scripts.exe 的自動解壓縮執行檔中。這個檔案包含 readme.txt 檔案及每個指令碼的相關文件。
+
+如需有關虛擬私人網路 (VPN) 隔離指令碼的詳細資訊，請參閱 [驗證用戶端狀態設定的 VPN 隔離範例指令碼](http://www.microsoft.com/downloads/details.aspx?familyid=a290f2ee-0b55-491e-bc4c-8161671b2462&displaylang=en) (英文)，網址為：www.microsoft.com/downloads/details.aspx?FamilyID=a290f2ee-0b55-491e-bc4c-8161671b2462&displaylang=en
+
+這些指令碼是範例，可能必須變更，才能套用至您的環境。下表列出指令碼並描述其用途。
+
+**表格 A.1：範例隔離指令碼**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >指令碼名稱</th>
+<th style="border:1px solid black;" >說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Qsamples.cmd</td>
+<td style="border:1px solid black;">這是頂層檔案，從連線管理員設定檔中呼叫為連線後動作，並啟動其他指令碼。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">AV.Bat</td>
+<td style="border:1px solid black;">檢查用戶端的防毒軟體是否為最新版並包含最新病毒碼。這個指令碼只執行 eTrust 防毒軟體的驗證。請向您的廠商尋求為其他防毒軟體封裝開發類似指令碼的協助。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">CheckHotFixes.vbs</td>
+<td style="border:1px solid black;">檢查用戶端電腦上是否有重要更新。管理員必須提供必要更新的清單。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">ICS.vbs</td>
+<td style="border:1px solid black;">檢查網際網路連線共用，並在必要時加以停用。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Passwd.vbs</td>
+<td style="border:1px solid black;">比對公司原則檢查密碼。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">ScrSaver.vbs</td>
+<td style="border:1px solid black;">檢查目前使用者的螢幕保護裝置的設定，並確定其已啟用且受到密碼保護。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">WF.vbs</td>
+<td style="border:1px solid black;">檢查並在必要時啟用所有網路介面上的 Windows 防火牆。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 遠端存取元件
+  
+下節描述兩個遠端存取隔離元件的語法。
+  
+#### 遠端存取隔離代理程式服務 (RQS) 語法
+  
+若要啟動遠端存取隔離代理程式服務，請在命令列上輸入：
+  
+```  
+Net start rqs  
+```  
+若要停止遠端存取隔離代理程式服務，請在命令列上輸入：
+  
+```  
+Net stop rqs  
+```  
+#### 遠端存取隔離用戶端代理程式 (RQC) 語法
+  
+RQC 有下列語法：
+  
+```  
+rqc ConnName TunnelConnName Port Domain UserName String  
+```  
+下表列出遠端存取隔離用戶端代理程式參數及其描述。
+  
+**表格 A.2 RQC 代理程式參數**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >參數</th>
+<th style="border:1px solid black;" >說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>ConnName</strong></td>
+<td style="border:1px solid black;">指定主機上遠端存取伺服器連線的名稱。這個參數的值可以繼承自連線管理員設定檔 %DialRasEntry% 變數。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>TunnelConnName</strong></td>
+<td style="border:1px solid black;">指定主機上遠端存取伺服器通道連線的名稱。這個參數的值可以繼承自連線管理員設定檔 %TunnelRasEntry% 變數。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>Port</strong></td>
+<td style="border:1px solid black;">指定隔離字串傳送至的連接埠。遠端存取伺服器上遠端存取隔離代理程式 (RQS) 的預設連接埠是 TCP 連接埠 7250。只有在 RQS 使用不同的連接埠號碼時，才能為 RQC 指定不同的連接埠號碼。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>Domain</strong></td>
+<td style="border:1px solid black;">指定連線使用者的網域。這個參數的值可以繼承自連線管理員設定檔 %Domain% 變數。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>UserName</strong></td>
+<td style="border:1px solid black;">指定連線使用者的使用者名稱。這個參數的值可以繼承自連線管理員設定檔 %UserName% 變數。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>String</strong></td>
+<td style="border:1px solid black;">指定包含管理員所建立之指令碼版本的文字字串。除了 /0 字元順序以外，所有其他字元都是可接受的。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 啟動 Windows Update 指令碼
+  
+下列程式碼可搭配 CheckHotFixes.vbs 指令碼使用，以引導使用者進入 Microsoft® Windows® Update 網站安裝最新的安全性更新：
+  
+```  
+Prog = """C:\\Program Files\\Internet Explorer\\iexplore.exe""" WUSite= " http://windowsupdate.microsoft.com" Set WshShell = CreateObject("Wscript.Shell") WshShell.Run(prog & WUsite),1,TRUE  
+```  
+[](#mainsection)[回到頁首](#mainsection)
+  
+##### 下載
+  
+[![](images/Dd548270.icon_exe(zh-tw,TechNet.10).gif)](http://go.microsoft.com/fwlink/?linkid=41308)[以 Microsoft 虛擬私人網路實作隔離服務規劃指南 (英文)](http://go.microsoft.com/fwlink/?linkid=41308)
+  
+[](#mainsection)[回到頁首](#mainsection)

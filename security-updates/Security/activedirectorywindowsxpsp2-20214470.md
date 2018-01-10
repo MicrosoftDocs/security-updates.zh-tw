@@ -1,0 +1,1611 @@
+---
+TOCTitle: 如何在 Active Directory 環境中設定 Windows XP SP2 的網路保護技術
+Title: 如何在 Active Directory 環境中設定 Windows XP SP2 的網路保護技術
+ms:assetid: 'b95d0f4a-e3a6-450b-b6b8-58514a8969eb'
+ms:contentKeyID: 20214470
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc700817(v=TechNet.10)'
+---
+
+如何在 Active Directory 環境中設定 Windows XP SP2 的網路保護技術
+================================================================
+
+發佈日期: 2004 年 12 月 10 日
+
+##### 本頁內容
+
+[](#ekaa)[簡介](#ekaa)
+[](#ejaa)[開始之前](#ejaa)
+[](#eiaa)[在管理工作站及 Windows Small Business Server 2003 中新增 Hotfix](#eiaa)
+[](#ehaa)[更新現有的群組原則物件](#ehaa)
+[](#egaa)[設定資訊安全中心的設定值](#egaa)
+[](#efaa)[設定 Windows 防火牆的設定值](#efaa)
+[](#eeaa)[設定 Internet Explorer 安全性設定](#eeaa)
+[](#edaa)[設定網際網路通訊管理的設定值](#edaa)
+[](#ecaa)[設定 DCOM 存取設定](#ecaa)
+[](#ebaa)[設定 RPC 設定值](#ebaa)
+[](#eaaa)[相關資訊](#eaaa)
+
+### 簡介
+
+群組原則設定值會依據企業組織的 Microsoft Active Directory 實作情形而套用，並且可以將標準設定套用到各類使用者及電腦，協助保護電腦環境。Microsoft Windows XP Service Pack 2 (SP2) 的新群組原則網路保護設定包括：
+
+-   **Windows 防火牆**。設定這些原則設定值，即可開啟或關閉防火牆、管理程式與連接埠例外，並定義特定案例的例外，如允許遠端管理目標電腦。
+
+-   **Internet Explorer**。使用這些新的原則設定值，可以設定 Microsoft Internet Explorer 的安全性設定。此外，原則設定值可針對不同的處理程序，啟用或停用 Internet Explorer 的安全性功能。
+
+-   **網際網路通訊管理**。您能設定這些設定值以控制 Windows XP SP2 內的不同元件如何在網際網路中進行工作通訊，而這些工作涉及企業組織與網際網路中電腦間的資訊交換。
+
+-   **DCOM 安全性**。您能設定這些設定值以控制分散式元件物件模型 (DCOM) 的安全性設定。DCOM 基礎結構包括新的存取控制限制，協助將網路攻擊引起的安全性風險降到最低。
+
+-   **資訊安全中心**。您能設定這些設定值，以集中管理 Windows 資訊安全中心。資訊安全中心是 Windows XP SP2 的新功能，讓您監視企業組織內的電腦，確保它們具備最新的安全性更新，並在電腦發生安全性風險時提醒使用者。
+
+-   **遠端程序呼叫** **(RPC)**。您能設定 RPC 原則設定值以封鎖遠端匿名存取系統上的 RPC 介面，並防止匿名存取 RPC 結束點對應程式介面。
+
+本文件說明如何部署網路保護群組原則設定值，以保障 Windows XP SP2 用戶端電腦的安全。
+
+如需推薦設定完整清單，請參閱下列文件：
+
+-   Microsoft TechNet 網站上的＜[Windows XP 安全性指南附錄 A：Windows XP Service Pack 2 其他指南](http://go.microsoft.com/fwlink/?linkid=35465)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35465
+
+您在 Active Directory 網域的群組原則物件 (GPO) 上執行工作。當中的一部分工作可以從網域控制站執行，但是通常是在含有 Active Directory 管理工具的 Windows XP SP2 用戶端電腦上執行工作。
+
+**注意：**如需更多有關如何部署 GPO 的資訊，請參閱下列文件：
+
+-   Microsoft Windows Server System 網站上的＜[設計管理環境：執行群組原則部署](http://go.microsoft.com/fwlink/?linkid=35498)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35498
+
+若要在 Active Directory 環境中設定網路保護，您必須執行下列工作：
+
+-   為管理工作站新增 Hotfix
+
+-   更新現有的 GPO
+
+-   設定資訊安全中心的設定值
+
+-   設定 Windows 防火牆的設定值
+
+-   設定 Internet Explorer 的設定值
+
+-   設定網際網路通訊管理的設定值
+
+-   設定 DCOM 安全性的設定值
+
+-   設定 RPC 設定值
+
+**重要：**本文中所有說明步驟，都會從安裝作業系統時預設會出現的 \[開始\] 功能表開始操作。若您已經修改過 \[開始\] 功能表，整個步驟可能稍有不同。
+
+如需安全性相關名詞的定義，請參閱下列資訊：
+
+-   Microsoft 網站上的＜[Microsoft 資訊安全辭彙](http://go.microsoft.com/fwlink/?linkid=35468)＞(英文)，網址是：http://go.microsoft.com/fwlink/?LinkId=35468
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 開始之前
+
+Windows XP SP2 在使用執行下列任何版本的網域控制站的 Active Directory 網域內，可作為 Windows 網域用戶端來使用：
+
+-   Microsoft Windows Server 2003
+
+-   Microsoft Windows Small Business Server 2003
+
+-   Microsoft Windows 2000 Server SP3 或更新版
+
+在您安裝 Hotfix 之前，請確認已經備份電腦，包括備份登錄。
+
+如需更多有關如何備份登錄的資訊，請參閱下列文件：
+
+-   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 322756](http://go.microsoft.com/fwlink/?linkid=36365)，網址是：http://go.microsoft.com/fwlink/?linkid=36365
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 在管理工作站及 Windows Small Business Server 2003 中新增 Hotfix
+
+若您在執行早期作業系統或 Service Pack (例如：Windows XP with  SP1 或 Windows Server 2003) 的電腦上管理群組原則物件設定值，則必須安裝 Hotfix (KB842933)，原則設定值才會正確顯示在群組原則物件編輯器內。
+
+若您使用 Small Business Server 2003 (SBS 2003)，還必須套用 Hotfix (KB872769)，因為根據預設 SBS 2003 會關閉 Windows 防火牆。Hotfix 能解決這個問題。
+
+**注意：**列出的 Hotfix 並不會包含在 Windows Update 中，因此您必須另外進行安裝。Hotfix 必須個別套用到所有受影響的系統。
+
+KB842933 應套用到下列版本：
+
+-   Microsoft Windows Server 2003, Web Edition
+
+-   Microsoft Windows Server 2003, Standard Edition
+
+-   Microsoft Windows Server 2003, Enterprise Edition
+
+-   Microsoft Windows Server 2003, 64-Bit Enterprise Edition
+
+-   Microsoft Windows XP Professional SP1
+
+-   Microsoft Windows Small Business Server 2003, Premium Edition
+
+-   Microsoft Windows Small Business Server 2003, Standard Edition
+
+-   Microsoft Windows 2000 Advanced Server
+
+-   Microsoft Windows 2000 Server
+
+-   Microsoft Windows 2000 Professional
+
+KB872769 應套用到下列版本：
+
+-   Microsoft Windows Small Business Server 2003, Standard Edition
+
+-   Microsoft Windows Small Business Server 2003, Premium Edition
+
+    **注意：**若要取得這些 Hotfix 以及更多資訊，請參閱下列文件：
+
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 842933](http://go.microsoft.com/fwlink/?linkid=35474)，網址是：http://go.microsoft.com/fwlink/?linkid=35474
+
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 872769](http://go.microsoft.com/fwlink/?linkid=35477)，網址是：http://go.microsoft.com/fwlink/?linkid=35477
+
+#### 執行此工作的需求
+
+-   憑證：您必須以 Domain Administrators 安全性群組，或 Local Administrators 安全性群組的成員身份登入用戶端電腦。
+
+-   工具：針對您的作業系統下載的適合 Hotfix，請參考知識庫文件編號 842933 及 872769 說明。
+
+##### 在 Windows Small Business Server 2003、Windows 2000 Server SP3 或更新版、Windows XP SP1 或 Windows Server 2003 中新增 Hotfix 842933
+
+**新增 Hotfix**
+
+1.  從 Windows 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入所下載 Hotfix 的路徑與檔案名稱，然後按一下 \[確定\]。
+
+2.  在 \[歡迎使用 KB842933 設定精靈\] 頁面上，按一下 \[下一步\]。
+
+3.  在 \[授權\] 頁面上，按一下 \[我同意\]，然後按一下 \[下一步\]。
+
+4.  在 \[完成 KB842933 設定精靈\] 頁面上，若要結束 Hotfix 的安裝並重新啟動電腦，請按一下 \[完成\]。
+
+5.  在套用 Hotfix 的所有系統 (伺服器與管理工作站) 上，重複上述步驟。
+
+##### 在 Windows Small Business Server 2003 中新增 Hotfix 872769
+
+**新增 Hotfix**
+
+1.  從 Windows 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入所下載 872769 Hotfix 的路徑與檔案名稱，然後按一下 \[確定\]。
+
+2.  在 \[歡迎使用 KB872769 設定精靈\] 頁面上，按一下 \[下一步\]。
+
+3.  在 \[授權\] 頁面上，按一下 \[我同意\]，然後按一下 \[下一步\]。
+
+4.  在 \[完成 KB872769 設定精靈\] 頁面上，若要結束 Hotfix 的安裝並重新啟動電腦，請按一下 \[完成\]。
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 更新現有的群組原則物件
+
+Windows XP SP2 會在系統管理範本中新增其他設定值。若要設定這些新的設定值，每一 GPO 必須以 Windows XP SP2 內的新系統管理範本進行更新。除非群組原則物件經過更新，否則無法使用 Windows 防火牆的相關設定。
+
+您可以使用安裝了 Windows XP SP2 的電腦上所安裝的群組原則物件編輯器嵌入式管理單元，以 Microsoft Management Console (MMC) 更新 GPO。
+
+在 GPO 更新後，您能在執行 Windows XP SP2 的電腦上，設定適合的網路保護設定。
+
+#### 執行此工作的需求
+
+-   憑證：您必須以 Domain Admins 或 Group Policy Creator/Owner 安全性群組的成員身份，登入屬於 Active Directory 網域用戶端的 Windows XP SP2 電腦。
+
+-   工具：已經安裝群組原則物件編輯器嵌入式管理單元的 Microsoft Management Console (MMC)。
+
+##### 更新群組原則物件
+
+**更新群組原則物件**
+
+1.  從 Windows XP SP2 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入 **mmc**，然後按一下 \[確定\]。
+
+2.  在 \[檔案\] 功能表上，按一下 \[新增/移除嵌入式管理單元\]。
+
+3.  在 \[獨立\] 索引標籤上，按一下 \[新增\]。
+
+4.  在 \[可用的獨立嵌入式管理單元\] 清單中，按一下 \[群組原則物件編輯器\]，然後按一下 \[新增\]。
+
+5.  在 \[選取群組原則物件\] 對話方塊中，按一下 \[瀏覽\]。
+
+    ![](images/Cc700817.adprte01(zh-tw,TechNet.10).gif)
+
+    **圖 1   瀏覽群組原則物件**
+
+6.  在 \[瀏覽群組原則物件\] 對話方塊中，選取您要以新的 Windows 防火牆設定值進行更新的群組原則物件。
+
+7.  按一下 \[確定\]，然後按一下 \[完成\] 以關閉群組原則精靈。
+
+    如此新的系統管理範本就會套用到選取的 GPO 上。
+
+8.  在 \[新增獨立嵌入式管理單元\] 對話方塊中，按一下 \[關閉\]。
+
+9.  在 \[新增/移除嵌入式管理單元\] 對話方塊中，按一下 \[確定\]。
+
+10. 關閉 MMC，按一下 \[檔案\]，然後結束而不將變更儲存到主控台設定中。
+
+    **注意：**雖然您沒有儲存主控台的變更，但上述程序會將新的系統管理範本從 Windows XP SP2 匯入到 GPO 內。範本必須匯入到每一定義的 GPO 內。
+
+11. 對於將群組原則套用到已安裝 Windows XP SP2 的電腦上之 GPO，請對每一 GPO 重複這些步驟。
+
+    **注意：**若要更新使用 Active Directory 及 Windows XP SP1 的網路環境的 GPO，Microsoft 建議您使用可免費下載的群組原則管理主控台。如需更多資訊，請參閱下列文件：
+
+    -   Microsoft Windows Server System 網站上的《[以群組原則管理主控台管理企業](http://www.microsoft.com/taiwan/windowsserver2003/gpmc/default.mspx)》，網址是：http://www.microsoft.com/taiwan/windowsserver2003/gpmc/default.mspx
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 設定資訊安全中心的設定值
+
+資訊安全中心是 Windows XP SP2 的新服務，提供中央位置以變更安全性設定、學習有關安全性的更多知識，並確保使用者的電腦能以 Microsoft 建議的基本安全性設定維持最新狀態。
+
+在 Windows 網域環境中，您可使用群組原則來啟用資訊安全中心，以監視使用者的電腦，確保它們具有最新的安全性更新，並在電腦可能發生風險時通知使用者。
+
+資訊安全中心服務是作為幕後處理程序來執行，並會檢查下列元件在使用者電腦上的狀態：
+
+-   **防火牆**。資訊安全中心會檢查 Windows 防火牆是開啟或關閉，也會檢查部分其他軟體防火牆是否存在。為了檢查其他防火牆，資訊安全中心會查詢特定的 Windows Management Instrumentation (WMI) 提供者，這是由參與的供應商所提供。
+
+-   **病毒防護**。資訊安全中心會檢查是否有防毒軟體。為了檢查電腦是否裝有防毒軟體，資訊安全中心會查詢由參與的供應商所提供的特定 WMI 提供者。若能取得資訊，資訊安全中心服務也會判斷軟體是否為最新，以及即時掃描是否開啟。
+
+-   **自動更新**。資訊安全中心會進行檢查，以確保自動更新的設定是建議的設定，也就是將重要的更新自動下載並安裝到使用者的電腦中。若自動更新關閉，或未設定為建議的設定，資訊安全中心會提出合適的建議。
+
+若發現元件遺失，或不符安全性原則，資訊安全中心會以工作列通知區域內的紅色圖示提醒您，且登入時會出現提醒訊息。這個訊息包含了用於開啟資訊安全中心使用者介面的連結，而此介面提供問題的相關資訊，以及如何修正問題的建議。
+
+若您執行資訊安全中心未偵測到的防火牆或防毒軟體，則可將資訊安全中心設為略過對該元件的提醒。
+
+您可以使用群組原則設定值，以集中管理 Windows 網域內的電腦的資訊安全中心功能。
+
+若您啟用 \[開啟資訊安全中心 (僅網域 PC)\] 原則設定值，資訊安全中心會監視基本的安全性設定 (防火牆、防毒、自動更新)，並在電腦可能面臨風險時通知使用者。根據預設，\[開啟資訊安全中心 (僅網域 PC)\] 原則設定值不會啟用，這表示資訊安全中心關閉時它也會關閉，而通知及資訊安全中心的狀態均不會顯示。
+
+#### 執行此工作的需求
+
+-   憑證：您必須以 Domain Admins 安全性群組的成員身份，並開啟 \[群組原則物件\]，才能登入屬於 Active Directory 網域用戶端的 Windows XP SP2 電腦。
+
+-   工具：已經安裝群組原則物件編輯器嵌入式管理單元的 Microsoft Management Console (MMC)。
+
+##### 設定資訊安全中心的設定值
+
+使用這個設定允許執行 Windows XP SP2 的電腦使用者能使用資訊安全中心，以便提醒他們防火牆、防毒軟體，以及自動更新等事項。
+
+**設定資訊安全中心的設定值**
+
+1.  從 Windows XP SP2 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入 **mmc**，然後按一下 \[確定\]。
+
+2.  在 \[檔案\] 功能表上，按一下 \[新增/移除嵌入式管理單元\]。
+
+3.  在 \[獨立\] 索引標籤上，按一下 \[新增\]。
+
+4.  在 \[可用的獨立嵌入式管理單元\] 清單中，尋找並按一下 \[群組原則物件編輯器\]，然後按一下 \[新增\]。
+
+5.  在 \[選取群組原則物件\] 對話方塊中，按一下 \[瀏覽\]。
+
+6.  選取您要從清單中設定的群組原則物件。按一下 \[確定\]，然後按一下 \[完成\] 以關閉群組原則精靈。
+
+7.  按一下 \[關閉\] 以結束 \[新增獨立嵌入式管理單元\] 對話方塊，然後按一下 \[確定\] 以結束 \[新增/移除嵌入式管理單元\] 對話方塊，並回到管理主控台。
+
+8.  在主控台樹狀目錄中，依序開啟 \[電腦設定\]、\[系統管理範本\]、\[Windows 元件\]、\[資訊安全中心\]。
+
+    [![](images/Cc700817.adprte02(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte02_big(zh-tw,technet.10).gif)
+
+    **圖 2   資訊安全中心的設定值**
+
+9.  按兩下 \[開啟資訊安全中心 (僅網域 PC)\]，按一下 \[已啟用\]，然後按一下 \[確定\]。
+
+#### 以 GPUpdate 套用設定
+
+GPUpdate 公用程式能更新以 Active Directory 為基礎的群組原則設定值，其中包括安全性設定。在設定群組原則之後，可等待標準更新週期將設定值套用到用戶端電腦上。根據預設，這些更新週期是每 90 分鐘為一週期，隨機差距為加減 30 分鐘。
+
+若要在標準週期之間更新群組原則，請使用 GPUpdate 公用程式。
+
+##### 執行 GPUpdate
+
+**執行 GPUpdate**
+
+1.  從 Windows XP 桌面，按一下 \[開始\]，再按 \[執行\]。
+
+2.  在 \[開啟\] 方塊，鍵入 **cmd**，然後按一下 \[確定\]。
+
+    **注意：**若需使用 GPUpdate 時可用選項的完整描述，請參閱下列文件：
+
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 298444](http://go.microsoft.com/fwlink/?linkid=35504)，網址是：http://go.microsoft.com/fwlink/?linkid=35504
+
+3.  在命令提示字元中，鍵入 **GPUpdate**，然後按下 ENTER。
+
+    [![](images/Cc700817.adprte03(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte03_big(zh-tw,technet.10).gif)
+
+    **圖 3   命令列上的 GPUpdate**
+
+4.  若要關閉命令提示字元，鍵入 **Exit**，然後按下 ENTER。
+
+#### 確認資訊安全中心的設定值已經套用
+
+**確認資訊安全中心設定值已經套用**
+
+1.  從 Windows XP 桌面，按一下 \[開始\]，再按 \[控制台\]。
+
+2.  在 \[選取類別目錄\] 下，按一下 \[資訊安全中心\]。
+
+3.  確認資訊安全中心啟動。
+
+    **注意：**若您的設定值沒有套用，您必須排解群組原則應用程式的問題。若要排解群組原則應用程式的問題，請參閱下列文件：
+
+    -   Microsoft 下載中心網站上的《[Windows Server 2003 群組原則的疑難排解](http://go.microsoft.com/fwlink/?linkid=35481)》(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35481
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 設定 Windows 防火牆的設定值
+
+您要設定三組 Windows 防火牆的設定值：
+
+-   **允許經過驗證的 IPSec 繞道**。企業組織使用網際網路通訊協定安全性 (IPSec) 以保護資料傳輸，並啟用 Windows 防火牆時，則使用這項設定。
+
+-   **網域設定檔**。電腦連接含有網域控制站的網路，而電腦屬於該網域成員時，則使用這些設定。
+
+-   **標準設定檔**。電腦沒有連接網路時，例如：攜帶筆記型電腦旅遊時，則電腦會使用這些設定。
+
+若您不設定標準設定檔的設定值，則預設值將維持不變。Microsoft 建議您設定網域及標準設定檔的設定值，而且要為這兩個設定檔啟用 Windows 防火牆。唯一的例外是當您已經使用協力廠商的主機防火牆產品時。
+
+若您已經使用協力廠商的主機防火牆產品，Microsoft 建議您停用 Windows 防火牆。
+
+若您決定要停用整個企業組織網路的 Windows 防火牆，而網路包含了執行 Windows XP SP2、Windows XP SP1 與沒有安裝 Service Pack 的 Windows XP 電腦，那麼您應設定下列群組原則設定值：
+
+-   \[禁止在您的 DNS 網域網路中使用網際網路連線防火牆\] 設定為 \[已啟用\]
+
+-   \[網域設定檔 – Windows 防火牆: 保護所有網路連線\] 設定為 \[已停用\]
+
+-   \[標準設定檔 – Windows 防火牆: 保護所有網路連線\] 設定為 \[已停用\]
+
+    **注意：**無論電腦是否連接您的企業組織網路，這個標準設定檔的設定值都會確保不使用 Windows 防火牆。若要確保您的企業組織網路不使用 Windows 防火牆，但是在電腦不連接企業組織網路時會使用防火牆，請將這個設定變更為 \[已啟用\]。
+
+標準設定檔的設定值通常比網域設定檔更為受限，因為標準設定檔的設定值並不包含只在受管理的網域環境內使用的應用程式與服務。
+
+在 GPO 中，網域設定檔與標準設定檔均含有同一組 Windows 防火牆設定值。Windows XP SP2 必須藉由網路判斷，以套用正確的設定檔。
+
+**注意：**如需更多有關網路如何判斷的資訊，請參閱下列文件：
+
+-   Microsoft TechNet 網站上的＜[網路相關群組原則設定的網路判斷行為](http://www.microsoft.com/taiwan/technet/community/columns/cableguy/cg0504.mspx)＞，網址是：http://www.microsoft.com/taiwan/technet/community/columns/cableguy/cg0504.mspx
+
+本章節描述 GPO 內可能的 Windows 防火牆設定值、對於企業環境的建議設定，並示範如何啟用四種類型的設定。
+
+#### 執行此工作的需求
+
+-   憑證：您必須以 Domain Admins 安全性群組的成員身份，並開啟您在先前工作中修改的 \[群組原則物件\]，才能登入屬於 Active Directory 網域用戶端的 Windows XP SP2 電腦。
+
+-   工具：已經安裝群組原則物件編輯器嵌入式管理單元的 Microsoft Management Console (MMC)
+
+    **注意：**若要開啟 GPO，您可以使用包含群組原則物件編輯器嵌入式管理單元的 MMC，或使用 \[Active Directory 使用者和電腦\] 主控台。若要使用 Windows XP 用戶端電腦上的 \[Active Directory 使用者和電腦\] 主控台，您必須從 Windows Server 2003 CD 執行 adminpak.msi。
+
+##### 使用群組原則以設定 Windows 防火牆設定值
+
+您使用群組原則物件編輯器嵌入式管理單元，或使用 \[Active Directory 使用者和電腦\]，以便修改合適 GPO 內的 Windows 防火牆設定值。
+
+您已經設定 Windows 防火牆設定值之後，電腦設定群組原則在下一次更新後會下載新的 Windows 防火牆設定值，並將設定套用到執行 Windows XP SP2 的電腦上。
+
+**設定 Windows 防火牆設定值**
+
+1.  從 Windows XP SP2 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入 **mmc**，然後按一下 \[確定\]。
+
+2.  在 \[檔案\] 功能表上，按一下 \[新增/移除嵌入式管理單元\]。
+
+3.  在 \[獨立\] 索引標籤上，按一下 \[新增\]。
+
+4.  在 \[可用的獨立嵌入式管理單元\] 清單中，尋找並按一下 \[群組原則物件編輯器\]，然後按一下 \[新增\]。
+
+5.  在 \[選取群組原則物件\] 對話方塊中，按一下 \[瀏覽\]。
+
+6.  選取您要設定的群組原則物件，按一下 \[確定\]，然後按一下 \[完成\]，以結束群組原則精靈。
+
+7.  按一下 \[關閉\] 以結束 \[新增獨立嵌入式管理單元\] 對話方塊，然後按一下 \[確定\] 以結束 \[新增/移除嵌入式管理單元\] 對話方塊，並回到管理主控台。
+
+8.  在主控台樹狀目錄中，依序開啟 \[電腦設定\]、\[系統管理範本\]、\[網路\]、\[網路連線\]、然後是 \[Windows 防火牆\]。
+
+    [![](images/Cc700817.adprte04(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte04_big(zh-tw,technet.10).gif)
+
+    **圖 4   群組原則內的 Windows 防火牆選項**
+
+9.  按兩下 \[Windows 防火牆: 允許經過驗證的 IPSec 繞道\]。
+
+    ![](images/Cc700817.adprte05(zh-tw,TechNet.10).gif)
+
+    **圖 5   允許經過驗證的 IPSec 繞道**
+
+    \[表 1\] 摘要說明 \[允許經過驗證的 IPSec 繞道\] 的各選項。
+
+    **表 1   針對企業的 \[允許經過驗證的 IPSec 繞道\] 設定值**
+
+ 
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="33%" />
+    <col width="33%" />
+    <col width="33%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th style="border:1px solid black;" >設定</th>
+    <th style="border:1px solid black;" >描述</th>
+    <th style="border:1px solid black;" >附註</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>尚未設定</strong></td>
+    <td style="border:1px solid black;">這個 GPO 將不會改變 Windows 防火牆的目前設定</td>
+    <td style="border:1px solid black;"> </td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>已啟用</strong></td>
+    <td style="border:1px solid black;">Windows 防火牆並不處理受到 IPSec 保護的資料傳輸，除非是來自於原則內所列的使用者或群組的資料傳輸。</td>
+    <td style="border:1px solid black;">用於列出使用者與群組的語法是採用 SDDL 標準。如需更多資訊，請參閱下列文件：
+    MSDN 網站上的＜<a href="http://go.microsoft.com/fwlink/?linkid=35503">安全性描述元的定義語言</a>＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35503</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>已停用</strong></td>
+    <td style="border:1px solid black;">Windows 防火牆處理受到 IPSec 保護的資料傳輸。</td>
+    <td style="border:1px solid black;"> </td>
+    </tr>
+    </tbody>
+    </table>
+  
+10. 使用 \[表 1\] 內的資訊，並按一下 \[已啟用\] 或 \[已停用\]。
+  
+    **注意：**若您按一下 \[已啟用\]，則可以建立使用者或群組的清單，而他們會獲得允許，可將受到 IPSec 保護的資料傳送到您電腦上。
+  
+11. 按一下 \[確定\]，    
+  
+12. 選取 \[網域設定檔\] 或 \[標準設定檔\]。
+  
+    [![](images/Cc700817.adprte06(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte06_big(zh-tw,technet.10).gif)
+  
+    **圖 6   群組原則內的 Windows 防火牆設定值**
+  
+    \[表 2\] 摘要說明對於網域及標準設定檔而建議的 Windows 防火牆群組原則設定值。
+  
+    **表 2   對於企業而建議的 Windows 防火牆設定值**
+
+ 
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th style="border:1px solid black;" >設定</th>
+    <th style="border:1px solid black;" >描述</th>
+    <th style="border:1px solid black;" >網域設定檔</th>
+    <th style="border:1px solid black;" >標準設定檔</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>保護所有網路連線</strong></td>
+    <td style="border:1px solid black;">指定所有網路連線均啟用 Windows 防火牆</td>
+    <td style="border:1px solid black;">已啟用</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>不允許例外</strong></td>
+    <td style="border:1px solid black;">指定丟棄所有來路不明的連入資料傳輸，其中包括例外的資料傳輸</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">已啟用，除非您必須設定程式例外</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>定義程式例外</strong></td>
+    <td style="border:1px solid black;">以程式檔案的名稱來定義例外的資料傳輸</td>
+    <td style="border:1px solid black;">以您網路上執行 Windows XP SP2 的電腦所使用的程式 (應用程式及服務)，予以啟用及設定</td>
+    <td style="border:1px solid black;">以您網路上執行 Windows XP SP2 的電腦所使用的程式 (應用程式及服務)，予以啟用及設定</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>允許本機程式例外</strong></td>
+    <td style="border:1px solid black;">允許程式例外的本機設定</td>
+    <td style="border:1px solid black;">已停用，除非您要本機系統管理員在本機上設定程式例外</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>允許遠端系統管理例外</strong></td>
+    <td style="border:1px solid black;">允許使用工具設定遠端設定</td>
+    <td style="border:1px solid black;">已停用，除非您要能以 MMC 嵌入式管理單元從遠端管理電腦</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>允許檔案和印表機共用例外</strong></td>
+    <td style="border:1px solid black;">指定是否允許檔案和印表機共用資料傳輸</td>
+    <td style="border:1px solid black;">已停用，除非執行 Windows XP SP2 的電腦共用本機資源</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>允許 ICMP 例外</strong></td>
+    <td style="border:1px solid black;">指定允許的 ICMP 訊息類型</td>
+    <td style="border:1px solid black;">已停用，除非您要使用 ping 命令進行疑難排解</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>允許遠端桌面例外</strong></td>
+    <td style="border:1px solid black;">指定電腦是否能接受來自於遠端桌面的連線要求</td>
+    <td style="border:1px solid black;">已啟用</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>允許 UPnP 架構例外</strong></td>
+    <td style="border:1px solid black;">指定電腦是否能接收來路不明的 UPnP 訊息</td>
+    <td style="border:1px solid black;">已停用</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>禁止通知</strong></td>
+    <td style="border:1px solid black;">停用通知</td>
+    <td style="border:1px solid black;">已停用</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>允許記錄</strong></td>
+    <td style="border:1px solid black;">允許您記錄資料傳輸，並設定記錄檔的設定值</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>禁止單點傳送回應到多點傳送或廣播要求</strong></td>
+    <td style="border:1px solid black;">放棄對於多點傳送或廣播要求訊息的回應中，所收到的單點傳送封包</td>
+    <td style="border:1px solid black;">已啟用</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>定義連接埠例外</strong></td>
+    <td style="border:1px solid black;">以 TCP 及 UDP 的名稱來指定例外的資料傳輸</td>
+    <td style="border:1px solid black;">已停用</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>允許本機連接埠例外</strong></td>
+    <td style="border:1px solid black;">允許連接埠例外的本機設定</td>
+    <td style="border:1px solid black;">已停用</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    </tbody>
+    </table>
+  
+##### 啟用連接埠例外
+  
+**啟用連接埠例外**
+  
+1.  在 \[網域設定檔\] 或 \[標準設定檔\] 的設定區域中，按兩下 \[Windows 防火牆: 定義連接埠例外\]。
+  
+    ![](images/Cc700817.adprte07(zh-tw,TechNet.10).gif)
+  
+    圖 7   Windows 防火牆: 定義連接埠例外內容
+  
+2.  按一下 \[已啟用\]，然後按一下 \[顯示\]。    
+  
+    [![](images/Cc700817.adprte08(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte08_big(zh-tw,technet.10).gif)
+  
+    **圖 8   顯示內容**
+  
+3.  按一下 \[新增\]。
+  
+    ![](images/Cc700817.adprte09(zh-tw,TechNet.10).gif)
+  
+    **圖 9   新增項目**
+  
+4.  鍵入您要以下列語法封鎖或啟用的連接埠資訊：
+  
+    **連接埠:傳輸:範圍:狀態:名稱**
+  
+    其中「連接埠」是指連接埠編號；「傳輸」是指 TCP 或 UDP；「範圍」是 \* (表示所有系統) 或獲得允許存取連接埠的電腦清單；「狀態」是啟用或停用；「名稱」是作為這個項目的標籤的文字字串。
+  
+    若使用範圍，則不支援主機名稱、網域名稱系統 (DNS) 名稱、或 DNS 尾碼。若是 IPv4 位址範圍，您能使用有小數點的十進位子網路遮罩或首碼長度，來指定範圍。您使用有小數點的十進位子網路遮罩時，可以將範圍指定為 IPv4 網路識別碼 (例如 10.47.81.0/255.255.255.0)，或使用範圍內的 IPv4 位址 (例如 10.47.81.231/255.255.255.0)。您使用網路首碼長度時，可以將範圍指定為 IPv4 網路識別碼 (例如 10.47.81.0/24)，或使用範圍內的 IPv4 位址 (例如 10.47.81.231/24)。
+  
+    如需 TCP/IP 定址及子網路的詳細資訊，請參閱下列文件：
+  
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 164015](http://go.microsoft.com/fwlink/?linkid=36370)，網址是：http://go.microsoft.com/fwlink/?linkid=36370
+  
+    **注意：**若來源清單的項目之間有任何空格或無效字元，範圍就會被忽略，設定的行為就如同遭到停用。在儲存變更之前，請反覆檢查範圍語法。
+  
+    這個範例使用名為 "WebTest" 的連接埠例外，並啟用 TCP 連接埠 80 以進行所有連線。
+  
+5.  按一下 \[確定\] 以關閉 \[新增項目\]。
+  
+    [![](images/Cc700817.adprte10(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte10_big(zh-tw,technet.10).gif)
+  
+    **圖 10   顯示內容**
+  
+6.  按一下 \[確定\] 以關閉 \[顯示內容\]。
+  
+7.  按一下 \[關閉\] 以關閉 \[Windows 防火牆: 定義連接埠例外內容\]。
+  
+    **注意：**若選取 \[不允許例外\]，任何連接埠例外都會遭到忽略。
+  
+##### 啟用程式例外
+  
+**啟用程式例外**
+  
+1.  在 \[網域設定檔\] 或 \[標準設定檔\] 的設定區域中，按兩下 \[Windows 防火牆: 定義程式例外\]。
+  
+    ![](images/Cc700817.adprte11(zh-tw,TechNet.10).gif)
+  
+    **圖 11   Windows 防火牆: 定義程式例外內容**
+  
+2.  按一下 \[已啟用\]，然後按一下 \[顯示\]。
+  
+    [![](images/Cc700817.adprte12(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte12_big(zh-tw,technet.10).gif)
+  
+    **圖 12   顯示內容**
+  
+3.  **按一下** \[新增\]。
+  
+    ![](images/Cc700817.adprte13(zh-tw,TechNet.10).gif)
+  
+    **圖 13   新增項目**
+  
+4.  鍵入您要以下列語法封鎖或啟用的程式資訊：
+  
+    **路徑:範圍:狀態:名稱**
+  
+    其中「路徑」是指程式路徑及檔案名稱；「範圍」是 \* (表示所有系統) 或獲得允許存取程式的電腦清單；「狀態」是啟用或停用；「名稱」是作為這個項目的標籤的文字字串。
+  
+    本範例在所有連線上啟用 Windows Messenger。
+  
+    如需 TCP/IP 定址及子網路的詳細資訊，請參閱下列文件：
+  
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 164015](http://go.microsoft.com/fwlink/?linkid=36370)，網址是：http://go.microsoft.com/fwlink/?linkid=36370
+  
+5.  按一下 \[確定\] 以關閉 \[新增項目\]。
+  
+    [![](images/Cc700817.adprte14(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte14_big(zh-tw,technet.10).gif)
+  
+    **圖 14   顯示內容**
+  
+6.  按一下 \[確定\] 以關閉 \[顯示內容\]。
+  
+7.  按一下 \[關閉\] 以關閉 \[Windows 防火牆: 定義程式例外內容\]。
+  
+##### 設定基本 ICMP 選項
+  
+如需 ICMP 的資訊，請參閱下列文件：
+  
+-   Microsoft Windows XP 網站上的＜[網際網路控制訊息通訊協定 (ICMP)](http://go.microsoft.com/fwlink/?linkid=35499)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35499
+  
+**設定基本 ICMP 選項**
+  
+1.  在 \[網域設定檔\] 或 \[標準設定檔\] 的設定區域中，按兩下 \[Windows 防火牆: 允許 ICMP 例外\]。
+  
+2.  按一下 \[已啟用\]。
+  
+    ![](images/Cc700817.adprte15(zh-tw,TechNet.10).gif)
+  
+    **圖 15   Windows 防火牆: 允許 ICMP 例外內容**
+  
+3.  選取合適的 ICMP 例外以便啟用。本範例選取允許輸入回應要求。
+  
+4.  按一下 \[確定\] 以關閉 \[Windows 防火牆: 允許 ICMP 例外內容\]。
+  
+##### 記錄丟棄的封包和成功的連線
+  
+**記錄丟棄的封包和成功的連線**
+  
+1.  在 \[網域設定檔\] 或 \[標準設定檔\] 的設定區域中，按兩下 \[Windows 防火牆: 允許記錄\]。
+  
+    ![](images/Cc700817.adprte16(zh-tw,TechNet.10).gif)
+  
+    **圖 16   Windows 防火牆: 允許記錄內容**
+  
+2.  按一下 \[已啟用\]，選取 \[記錄丟棄的封包\] 和 \[記錄成功的連線\]，鍵入記錄檔的路徑和名稱，然後按一下 \[確定\]。
+  
+    **注意：**用於儲存記錄檔的位置必須加以保護，以防止記錄遭到刪除或竄改。
+  
+3.  關閉群組原則編輯器。
+  
+4.  若系統提示您儲存主控台設定，請按一下 \[否\]。
+  
+#### 以 GPUpdate 套用設定
+  
+GPUpdate 公用程式能更新以 Active Directory 為基礎的群組原則設定值，其中包括安全性設定。在設定群組原則之後，可等待標準更新週期將設定值套用到用戶端電腦上。根據預設，這些更新週期是每 90 分鐘為一週期，隨機差距為加減 30 分鐘。
+  
+若要在標準週期之間更新群組原則，請使用 GPUpdate 公用程式。
+  
+##### 執行 GPUpdate
+  
+**執行 GPUpdate**
+  
+1.  從 Windows XP 桌面，按一下 \[開始\]，再按 \[執行\]。
+  
+2.  在 \[開啟\] 方塊，鍵入 **cmd**，然後按一下 \[確定\]。
+  
+    **注意：**若需使用 GPUpdate 時可用選項的完整描述，請參閱下列文件：
+  
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 298444](http://go.microsoft.com/fwlink/?linkid=35504)，網址是：http://go.microsoft.com/fwlink/?linkid=35504
+  
+3.  在命令提示字元中，鍵入 **GPUpdate**，然後按下 ENTER。
+  
+    [![](images/Cc700817.adprte17(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte17_big(zh-tw,technet.10).gif)
+  
+    **圖 17   命令列上的 GPUpdate**
+  
+4.  若要關閉命令提示字元，鍵入 **Exit**，然後按下 ENTER。
+  
+#### 確認 Windows 防火牆設定值已經套用
+  
+**注意：**當您使用群組原則來設定 Windows 防火牆時，設定值可能不允許本機系統管理員變更設定的部分元素。使用者的本機電腦無法使用 \[Windows 防火牆\] 對話方塊內的某些索引標籤和選項。
+  
+**確認 Windows 防火牆設定值已經套用**
+  
+1.  從 \[資訊安全中心\] 的 \[管理下列的安全性設定\] 之下，按一下 \[Windows 防火牆\]。
+  
+2.  按一下 \[一般\]、\[例外\] 及 \[進階\] 索引標籤，確認所要的設定已經套用到電腦上的 Windows 防火牆，然後按一下 \[確定\] 以關閉 Windows 防火牆。
+  
+    **注意：**若您的設定值沒有套用，您必須排解群組原則應用程式的問題。若要排解群組原則應用程式的問題，請參閱下列文件：
+  
+    -   Microsoft 下載中心網站上的《[Windows Server 2003 群組原則的疑難排解](http://go.microsoft.com/fwlink/?linkid=35481)》(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35481
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 設定 Internet Explorer 安全性設定
+  
+Windows XP SP2 使用者能以新的群組原則設定值，管理電腦及使用者設定的所有 Internet Explorer 安全性設定。
+  
+Windows XP SP2 使用原則設定值的兩個主要部分：
+  
+-   安全性功能
+  
+-   URL 動作
+  
+安全性功能原則設定值讓您管理可能會影響 Internet Explorer 安全性的特定案例。在多數狀況下，您會希望防止特定行為，因此您必須確定安全性功能啟用。例如，在本機電腦區域 (而非網際網路區域) 內執行的惡意程式碼，有可能會嘗試提升本身的權限。為協助防止這種攻擊，您可以使用 \[來自區域高度的保護\] 原則設定。
+  
+對於每一個安全性功能原則設定值，您可以用下列方法指定會控制安全性功能行為的原則設定值：
+  
+-   Internet Explorer 處理程序
+  
+-   已定義處理程序的清單
+  
+-   所有處理程序，無論是從哪裡啟動
+  
+統一資源定位器 (URL) 動作是指瀏覽器可能採取、且可能對本機電腦造成安全性風險的動作，例如嘗試執行 Java Applet 或 ActiveX 控制項。URL 動作會回應登錄內的安全性設定，而該登錄會為 URL 所在安全性區域內的 URL 動作而識別應採取的動作。URL 動作設定包括啟用、停用、提示，以及其他適用的項目。
+  
+若要提供 Internet Explorer 內 URL 動作的安全性管理，請使用 \[網際網路控制台\] 之下的新安全性畫面群組原則設定值。藉著使用群組原則以控制 URL 動作的安全性，您可以為企業組織內的所有使用者及電腦建立標準的 Internet Explorer 設定。
+  
+若要提供安全性，您可以使用安全性區域範本原則設定值來啟用所有 URL 區域的原則。對於每一 URL 動作範本原則設定值，您可以指定下列其中一個安全性層級：
+  
+-   **低安全性**。通常用於含有使用者完全信任的網站的 URL 安全性區域。這是 \[信任的網站\] 區域的預設安全性層級。
+  
+-   **中低安全性**。可用於含有不太可能對您的電腦或資料造成損壞的網站的 URL 安全性區域。這是 \[近端內部網路\] 區域的預設安全性層級。
+  
+-   **中安全性**。可用於含有既非信任、也非不信任的網站的 URL 安全性區域。這是 \[網際網路\] 區域的預設安全性層級。
+  
+-   **高安全性**。用於含有可能對使用者電腦或資料造成損壞的網站的 URL 安全性區域。這是 \[限制的網站\] 區域的預設安全性層級。
+  
+如需關於安全性功能控制項的更多資訊，請參閱下列文件：
+  
+-   Microsoft TechNet 網站上的《[Microsoft Windows XP Service Pack 2 功能變更](http://go.microsoft.com/fwlink/?linkid=35487)》(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35487
+  
+#### 執行此工作的需求
+  
+-   憑證：您必須以 Domain Admins 安全性群組的成員身份，並開啟 \[群組原則物件\]，才能登入屬於 Active Directory 網域用戶端的 Windows XP SP2 電腦。
+  
+-   工具：已經安裝群組原則物件編輯器嵌入式管理單元的 Microsoft Management Console (MMC)
+  
+##### 設定 Internet Explorer 安全性設定
+  
+**設定 Internet Explorer 的設定值**
+  
+1.  從 Windows XP SP2 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入 **mmc**，然後按一下 \[確定\]。
+  
+2.  在 \[檔案\] 功能表上，按一下 \[新增/移除嵌入式管理單元\]。
+  
+3.  在 \[獨立\] 索引標籤上，按一下 \[新增\]。
+  
+4.  在 \[可用的獨立嵌入式管理單元\] 清單中，尋找並按一下 \[群組原則物件編輯器\]，然後按一下 \[新增\]。
+  
+5.  在 \[選取群組原則物件\] 對話方塊中，按一下 \[瀏覽\]。
+  
+6.  選取您要設定的群組原則物件，按一下 \[確定\]，然後按一下 \[完成\]，以結束群組原則精靈。
+  
+7.  按一下 \[關閉\] 以結束 \[新增獨立嵌入式管理單元\] 對話方塊，然後按一下 \[確定\] 以結束 \[新增/移除嵌入式管理單元\] 對話方塊，並回到管理主控台。
+  
+8.  在主控台樹狀目錄中，依序開啟 \[電腦設定\]、\[系統管理範本\]、\[Windows 元件\]、\[Internet Explorer\]、\[資訊安全中心\]。
+  
+    [![](images/Cc700817.adprte18(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte18_big(zh-tw,technet.10).gif)
+  
+    **圖 18   Internet Explorer 群組原則安全性設定**
+  
+9.  使用 \[表 3\] 內的資訊來設定 Internet Explorer 安全性設定。
+  
+    **表 3   Internet Explorer 安全性功能設定**
+
+ 
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th style="border:1px solid black;" >設定</th>
+    <th style="border:1px solid black;" >描述</th>
+    <th style="border:1px solid black;" >預設設定</th>
+    <th style="border:1px solid black;" >對於企業環境的建議設定</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>二進位行為安全性限制原則</strong></td>
+    <td style="border:1px solid black;">控制要防止或允許二進位行為安全性限制設定</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">將企業組織獲得核准的任何行為新增到 #package#behavior 標示內 [系統管理員已批准的行為] 清單中。</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>MK 通訊協定安全性限制</strong></td>
+    <td style="border:1px solid black;">藉由避免 MK 通訊協定，降低易受攻擊的表面範圍</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>本機電腦區域鎖定安全性</strong></td>
+    <td style="border:1px solid black;">協助降低使用本機電腦區域來載入惡意 HTML 程式碼的攻擊</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>一致的 Mime 處理</strong></td>
+    <td style="border:1px solid black;">決定 Internet Explorer 是否要求 Web 伺服器提供的所有檔案類型資訊必須一致</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>Mime 探查安全功能</strong></td>
+    <td style="border:1px solid black;">判定 Internet Explorer MIME 探查是否會防止檔案類型升級到有危險性的檔案類型。</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>物件快取保護</strong></td>
+    <td style="border:1px solid black;">定義使用者在瀏覽同一個網域或新網域時，是否能存取物件的參照</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>已撰寫指令碼的 Windows 安全性限制</strong></td>
+    <td style="border:1px solid black;">限制快顯視窗，並禁止指令碼顯示使用者無法看到標題與狀態列的視窗，或會與其他標題與狀態列造成混亂的視窗。</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>來自區域高度的保護</strong></td>
+    <td style="border:1px solid black;">協助保護本機電腦安全性區域</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>資訊列</strong></td>
+    <td style="border:1px solid black;">在檔案或程式碼安裝受到限制時，決定是否要為 Internet Explorer 的處理程序而顯示資訊列</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>限制 ActiveX 安裝</strong></td>
+    <td style="border:1px solid black;">允許您封鎖 Internet Explorer 處理程序的 ActiveX® 控制項安裝提示</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>限制檔案下載</strong></td>
+    <td style="border:1px solid black;">允許您封鎖非由使用者啟動的檔案下載提示</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">對所有處理程序啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>附加元件管理</strong></td>
+    <td style="border:1px solid black;">允許您確保未在 [附加元件清單] 原則設定內列出的任何 Internet Explorer 附加元件都會遭到拒絕</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">為所有附加元件而啟用，除非在附加元件清單內特別允許</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>網路通訊協定鎖定</strong></td>
+    <td style="border:1px solid black;">為網際網路、內部網路、信任的網站、限制的網站，以及本機電腦安全性區域指定受限制的通訊協定清單</td>
+    <td style="border:1px solid black;">尚未設定</td>
+    <td style="border:1px solid black;">啟用每一安全性區域的特定通訊協定</td>
+    </tr>
+    </tbody>
+    </table>
+  
+10. 展開 \[網際網路控制台\]
+  
+    [![](images/Cc700817.adprte19(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte19_big(zh-tw,technet.10).gif)
+  
+    **圖 19   網際網路控制台設定**
+  
+11. 啟用每一設定，防止使用者存取列出的 Internet Explorer 設定頁面。若要這樣做，請按兩下每一設定、按一下 \[已啟用\]，然後按一下 \[確定\]。
+  
+12. 展開 \[安全性畫面\]。
+  
+    [![](images/Cc700817.adprte20(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte20_big(zh-tw,technet.10).gif)
+  
+    **圖 20   網際網路控制台安全性畫面設定**
+  
+13. 有兩種方式可以設定安全性區域；您可以使用範本，或選擇每一區域的各項設定。  
+    您可以：
+  
+    -   使用 \[表 4\] 內的資訊，以區域範本來設定每一安全性區域。按兩下每一範本選項，然後按一下 \[已啟用\]。
+  
+        或
+  
+    -   使用 \[表 5\] 內的資訊，個別設定每一安全性區域
+  
+        **表 4   每一安全性區域的網際網路控制台設定**
+
+ 
+        <table style="border:1px solid black;">
+        <colgroup>
+        <col width="33%" />
+        <col width="33%" />
+        <col width="33%" />
+        </colgroup>
+        <thead>
+        <tr class="header">
+        <th style="border:1px solid black;" >設定</th>
+        <th style="border:1px solid black;" >建議的設定</th>
+        <th style="border:1px solid black;" >建議的層級</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>網際網路區域範本</strong></td>
+        <td style="border:1px solid black;">已啟用</td>
+        <td style="border:1px solid black;">中安全性</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>內部網路區域範本</strong></td>
+        <td style="border:1px solid black;">已啟用</td>
+        <td style="border:1px solid black;">中低安全性</td>
+        </tr>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>信任的網站區域範本</strong></td>
+        <td style="border:1px solid black;">已啟用</td>
+        <td style="border:1px solid black;">低安全性</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>受限制的網站區域範本</strong></td>
+        <td style="border:1px solid black;">已啟用</td>
+        <td style="border:1px solid black;">高安全性</td>
+        </tr>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>本機電腦區域範本</strong></td>
+        <td style="border:1px solid black;">已啟用</td>
+        <td style="border:1px solid black;">低安全性</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>鎖定的本機電腦區域範本</strong></td>
+        <td style="border:1px solid black;">已啟用</td>
+        <td style="border:1px solid black;">高安全性</td>
+        </tr>
+        </tbody>
+        </table>
+  
+        **表 5   每一安全性區域的網際網路控制台設定**
+
+ 
+        <table style="border:1px solid black;">
+        <colgroup>
+        <col width="33%" />
+        <col width="33%" />
+        <col width="33%" />
+        </colgroup>
+        <thead>
+        <tr class="header">
+        <th style="border:1px solid black;" >設定</th>
+        <th style="border:1px solid black;" >描述</th>
+        <th style="border:1px solid black;" >預設設定</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>下載經簽署的 ActiveX 控制項</strong></td>
+        <td style="border:1px solid black;">對於含有控制項的 HTML 頁面的 URL 區域，管理由其中下載經簽署的 ActiveX 控制項的功能。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>下載未簽署的 ActiveX 控制項</strong></td>
+        <td style="border:1px solid black;">對於含有控制項的 HTML 頁面的 URL 區域，管理由其中下載未簽署的 ActiveX 控制項的功能。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>將未標示成安全的 ActiveX 控制項初始化並執行指令碼</strong></td>
+        <td style="border:1px solid black;">管理從區域內 HTML 頁面執行 ActiveX 控制項及外掛程式的功能。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>執行 ActiveX 控制項與插件</strong></td>
+        <td style="border:1px solid black;">決定是否為 URL 安全性區域內的頁面而覆蓋或強制使用 ActiveX 控制項物件安全性。唯有在區域內頁面上可能互動的所有 ActiveX 控制項及指令碼可受信任、不會破壞安全性時，才能覆蓋物件安全性。這是 URLACTION_ACTIVEX_OVERRIDE_DATA_SAFETY 與 URLACTION_ACTIVEX_OVERRIDE_SCRIPT_SAFETY 的彙總。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>允許使用中的指令碼處理</strong></td>
+        <td style="border:1px solid black;">決定是否執行 URL 安全性區域內頁面上的指令碼。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>Java 小程式的指令碼化</strong></td>
+        <td style="border:1px solid black;">決定當 URL 安全性區域內 HTML 頁面上的指令碼可以接觸到 Java 小程式 (Applet) 的內容、方法及事件時，是否允許指令碼使用小程式。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>執行標示成安全的 ActiveX 控制項的指令碼</strong></td>
+        <td style="border:1px solid black;">決定指令碼是否能用於安全的 ActiveX 控制項。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>存取跨網路的資料來源</strong></td>
+        <td style="border:1px solid black;">決定是否允許資源存取各網域的資料來源。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>允許透過指令碼執行貼上動作</strong></td>
+        <td style="border:1px solid black;">決定指令碼是否能執行貼上作業。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>傳送未加密表單資料</strong></td>
+        <td style="border:1px solid black;">決定是否允許 URL 安全性區域內頁面上的 HTML 表單，或送出到區域內的伺服器。URLACTION_HTML_SUBMIT_FORMS_FROM 與 URLACTION_HTML_SUBMIT_FORMS_TO 標幟的彙總。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>允許字型下載</strong></td>
+        <td style="border:1px solid black;">決定是否允許 HTML 字型下載。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="even">
+        <td style="border:1px solid black;"><strong>保留使用者資料</strong></td>
+        <td style="border:1px solid black;">決定是否啟用保留使用者資料的功能。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        <tr class="odd">
+        <td style="border:1px solid black;"><strong>查閱不同網域內的子框架</strong></td>
+        <td style="border:1px solid black;">決定是否允許在不同網域內查閱子框架。</td>
+        <td style="border:1px solid black;">尚未設定</td>
+        </tr>
+        </tbody>
+        </table>
+  
+#### 以 GPUpdate 套用設定
+  
+GPUpdate 公用程式能更新以 Active Directory 為基礎的群組原則設定值，其中包括安全性設定。在設定群組原則之後，可等待標準更新週期將設定值套用到用戶端電腦上。根據預設，這些更新週期是每 90 分鐘為一週期，隨機差距為加減 30 分鐘。
+  
+若要在標準週期之間更新群組原則，請使用 GPUpdate 公用程式。
+  
+##### 執行 GPUpdate
+  
+**執行 GPUpdate**
+  
+1.  從 Windows XP 桌面，按一下 \[開始\]，再按 \[執行\]。
+  
+2.  在 \[開啟\] 方塊，鍵入 **cmd**，然後按一下 \[確定\]。
+  
+    **注意：**若需使用 GPUpdate 時可用選項的完整描述，請參閱下列文件：
+  
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 298444](http://go.microsoft.com/fwlink/?linkid=35504)，網址是：http://go.microsoft.com/fwlink/?linkid=35504
+  
+3.  在命令提示字元中，鍵入 **GPUpdate**，然後按下 ENTER。
+  
+    [![](images/Cc700817.adprte21(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte21_big(zh-tw,technet.10).gif)
+  
+    **圖 21   命令列上的 GPUpdate**
+  
+4.  若要關閉命令提示字元，鍵入 **Exit**，然後按下 ENTER。
+  
+#### 確認 Internet Explorer 安全性設定已經套用
+  
+**注意：**當您使用群組原則來設定 Internet Explorer 時，設定值可能不允許本機系統管理員變更設定的部分元素。使用者的本機電腦無法使用對話方塊內的某些索引標籤和選項。
+  
+##### 確認 Internet Explorer 安全性設定已經套用
+  
+**確認 Internet Explorer 設定已經套用**
+  
+1.  從 \[資訊安全中心\] 的 \[管理下列的安全性設定\] 之下，按一下 \[網際網路選項\]。
+  
+2.  依序按一下 \[安全性\]、\[隱私權\] 以及 \[進階\] 索引標籤，確認所要的設定已經套用到電腦上的 Internet Explorer，然後按一下 \[確定\] 以關閉 \[網際網路內容\]。
+  
+    **注意：**若您的設定值沒有套用，您必須排解群組原則應用程式的問題。若要排解群組原則應用程式的問題，請參閱下列文件：
+  
+    -   Microsoft 下載中心網站上的《[Windows Server 2003 群組原則的疑難排解](http://go.microsoft.com/fwlink/?linkid=35481)》(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35481
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 設定網際網路通訊管理的設定值
+  
+Windows XP SP2 提供新的群組原則設定值，這些設定的主要目的是控制 Windows XP SP2 內的元件和網際網路的通訊方式。群組原則設定值允許您管理下列功能：
+  
+-   線上訂購相片
+  
+-   使用線上儲存空間
+  
+-   發佈到網站
+  
+在 Windows XP SP2 中，使用者按一下 Windows 檔案總管內的工作後即可在線上訂購相片 (線上沖印訂購精靈)、註冊提供線上儲存空間的服務 (新增網路位置精靈)、或發佈能以瀏覽器檢視的檔案 (網頁發佈精靈)，以及其他工作。工作或精靈是從以下兩個來源取得這些服務提供者的名稱與 URL：本機上儲存的清單 (在登錄中)，以及儲存於 Microsoft 網站上的清單。根據預設，除了登錄中列出的提供者之外，Windows 還會顯示 Microsoft 網站上清單中的提供者。
+  
+您可使用下列群組原則設定值控制這些精靈與工作的運作方式，並控制這些元件與網際網路進行通訊的方式。
+  
+-   **關閉檔案及資料夾的 \[發佈到網站\] 工作**。這項原則設定值可指定是否能從 Windows 資料夾內的檔案及資料夾工作，使用須發佈到網站的工作。工作包括 \[將這個檔案發佈到網站\]、\[將這個資料夾發佈到網站\]，以及 \[將選取的項目公佈到網頁\]。
+  
+-   **關閉網頁發佈和線上訂購精靈的網際網路下載**。這個原則設定值指定 Windows 是否要下載 \[網頁發佈精靈\]、\[新增網路位置精靈\] 以及 \[線上沖印訂購精靈\]。根據預設，除了登錄中指定的提供者之外，Windows 還會顯示從 Windows 網站下載的提供者。
+  
+-   **關閉 \[訂購沖印\] 圖片工作**。這個原則設定值指定 Windows 資料夾內的相片工作是否提供線上沖印訂購工作。這項設定值會停用 \[線上沖印訂購精靈\]。
+  
+\[使用者設定\] 與 \[電腦設定\] 都能使用這些原則設定值。
+  
+如需如何控制 \[新增網路位置精靈\] 與 \[網頁發佈精靈\] 的使用的更多資訊，請參閱下列文件：
+  
+-   Microsoft TechNet 網站上的《[在管理環境中使用 Windows XP Professional Service Pack 2：控制網際網路通訊](http://go.microsoft.com/fwlink/?linkid=35489)》(英文)，網址是：http://go.microsoft.com/fwlink/?LinkId=35489
+  
+#### 執行此工作的需求
+  
+-   憑證：您必須以 Domain Admins 安全性群組的成員身份，並開啟 \[群組原則物件\]，才能登入屬於 Active Directory 網域用戶端的 Windows XP SP2 電腦。
+  
+-   工具：已經安裝群組原則物件編輯器嵌入式管理單元的 Microsoft Management Console (MMC)。
+  
+##### 設定網際網路通訊管理的設定值
+  
+**設定網際網路通訊管理的設定值**
+  
+1.  從 Windows XP SP2 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入 **mmc**，然後按一下 \[確定\]。
+  
+2.  在 \[檔案\] 功能表上，按一下 \[新增/移除嵌入式管理單元\]。
+  
+3.  在 \[獨立\] 索引標籤上，按一下 \[新增\]。
+  
+4.  在 \[可用的獨立嵌入式管理單元\] 清單中，尋找並按一下 \[群組原則物件編輯器\]，然後按一下 \[新增\]。
+  
+5.  在 \[選取群組原則物件\] 對話方塊中，按一下 \[瀏覽\]。
+  
+6.  選取您要設定的群組原則物件，按一下 \[確定\]，然後按一下 \[完成\]，以結束群組原則精靈。
+  
+7.  按一下 \[關閉\] 以結束 \[新增獨立嵌入式管理單元\] 對話方塊，然後按一下 \[確定\] 以結束 \[新增/移除嵌入式管理單元\] 對話方塊，並回到管理主控台。
+  
+8.  在主控台樹狀目錄中，依序開啟 \[電腦設定\]、\[系統管理範本\]、\[系統\]、\[網際網路通訊管理\]。
+  
+    [![](images/Cc700817.adprte22(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte22_big(zh-tw,technet.10).gif)
+  
+    **圖 22   \[網際網路通訊管理\] 的設定值**
+  
+9.  將 \[限制網際網路通訊\] 設定設為 \[已停用\]，以停用 \[網際網路通訊\] 設定之下的所有設定；或設為 \[已啟用\]，以啟用 \[網際網路通訊\] 設定之下的所有設定。
+  
+10. 若要個別設定每一設定值，請展開 \[網際網路通訊設定\]，然後使用 \[表 6\] 來設定。
+  
+    **表 6   建議的網際網路通訊設定**
+
+ 
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="33%" />
+    <col width="33%" />
+    <col width="33%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th style="border:1px solid black;" >設定</th>
+    <th style="border:1px solid black;" >描述</th>
+    <th style="border:1px solid black;" >建議的設定</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>關閉檔案及資料夾的 [發佈到網站] 工作</strong></td>
+    <td style="border:1px solid black;">指定是否能從 Windows 資料夾內的 [檔案及資料夾工作] 中使用 [將這個檔案發佈到網站]、[將這個資料夾發佈到網站]，以及 [將選取的項目公佈到網頁]。</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>關閉網頁發佈和線上訂購精靈的網際網路下載</strong></td>
+    <td style="border:1px solid black;">控制 Windows 是否將提供者清單下載到 [網頁發佈精靈] 以及 [線上沖印訂購精靈]。</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>關閉 Windows Messenger 客戶經驗改進</strong>
+    <strong>計畫</strong></td>
+    <td style="border:1px solid black;">指定 Windows Messenger 是否收集有關如何使用 Windows Messenger 軟體及服務的相關匿名資訊</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>關閉搜尋小幫手內容頁更新</strong></td>
+    <td style="border:1px solid black;">指定 [搜尋小幫手] 在本機與網際網路搜尋時，是否自動下載內容更新</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>關閉 HTTP 上的列印</strong></td>
+    <td style="border:1px solid black;">允許您停用從這個用戶端透過 HTTP 列印的功能</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="even">
+    <td style="border:1px solid black;"><strong>關閉透過 HTTP 下載列印驅動程式</strong></td>
+    <td style="border:1px solid black;">控制電腦是否能透過 HTTP 下載列印驅動程式套件</td>
+    <td style="border:1px solid black;">已啟用</td>
+    </tr>
+    <tr class="odd">
+    <td style="border:1px solid black;"><strong>關閉 Windows Update 裝置驅動程式搜尋</strong></td>
+    <td style="border:1px solid black;">指定在本機上沒有裝置的驅動程式時，Windows 是否在 Windows Update 中搜尋裝置驅動程式</td>
+    <td style="border:1px solid black;">已停用</td>
+    </tr>
+    </tbody>
+    </table>
+  
+    **注意：**\[表 6\] 包含對於網際網路通訊的所有建議設定。
+  
+#### 以 GPUpdate 套用設定
+  
+GPUpdate 公用程式能更新以 Active Directory 為基礎的群組原則設定值，其中包括安全性設定。在設定群組原則之後，可等待標準更新週期將設定值套用到用戶端電腦上。根據預設，這些更新週期是每 90 分鐘為一週期，隨機差距為加減 30 分鐘。
+  
+若要在標準週期之間更新群組原則，請使用 GPUpdate 公用程式。
+  
+##### 執行 GPUpdate
+  
+**執行 GPUpdate**
+  
+1.  從 Windows XP 桌面，按一下 \[開始\]，再按 \[執行\]。
+  
+2.  在 \[開啟\] 方塊，鍵入 **cmd**，然後按一下 \[確定\]。
+  
+    **注意：**若需使用 GPUpdate 時可用選項的完整描述，請參閱下列文件：
+  
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 298444](http://go.microsoft.com/fwlink/?linkid=35504)，網址是：http://go.microsoft.com/fwlink/?linkid=35504
+  
+3.  在命令提示字元中，鍵入 **GPUpdate**，然後按下 ENTER。
+  
+    [![](images/Cc700817.adprte23(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte23_big(zh-tw,technet.10).gif)
+  
+    **圖 23   命令列上的 GPUpdate**
+  
+4.  若要關閉命令提示字元，鍵入 **Exit**，然後按下 ENTER。
+  
+#### 確認 \[網際網路通訊管理\] 的設定值已經套用
+  
+**確認 \[網際網路通訊管理\] 的設定值已經套用**
+  
+1.  按一下 \[開始\]，然後按一下 \[我的圖片\]。
+  
+2.  確認 \[圖片工作\] 下未顯示 \[從線上訂購相片\]。
+  
+3.  確認 \[檔案及資料夾工作\] 下未顯示 \[將這個資料夾發佈到網站\]。
+  
+4.  關閉 \[我的圖片\]。
+  
+    **注意：**若您的設定值沒有套用，您必須排解群組原則應用程式的問題。若要排解群組原則應用程式的問題，請參閱下列文件：
+  
+    -   Microsoft 下載中心網站上的《[Windows Server 2003 群組原則的疑難排解](http://go.microsoft.com/fwlink/?linkid=35481)》(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35481
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 設定 DCOM 存取設定
+  
+Microsoft 元件物件模型 (COM) 是一套系統，用於建立互動的軟體應用程式。DCOM 允許這些應用程式在各位置進行分送。DCOM Wire 通訊協定可流暢支援 COM 元件之間的通訊。
+  
+**注意：**如需 DCOM 安全性的更多資訊，請參閱下列文件：
+  
+-   Microsoft TechNet 網站上的＜[減少 RPC 與 DCOM 弱點的最佳實務範例](http://go.microsoft.com/fwlink/?linkid=36371)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=36371
+  
+許多 COM 應用程式包括某些特定的安全性程式碼，但卻採用安全性不足的設定，經常允許元件之間進行未驗證的存取。Windows XP SP2 變更了 COM，以提供電腦存取控制功能，而這些功能負責管理電腦上所有呼叫、啟用或啟動的要求。Windows XP SP2 提供最低的授權標準，必須通過這個標準才能存取電腦上的 COM 伺服器。
+  
+**注意：**如需 Windows XP SP2 內 COM 修正的更多資訊，請參閱下列文件：
+  
+-   ＜ [Windows XP Service Pack 2 的 Com+ 修正項目](http://support.microsoft.com/default.aspx?scid=kb;en-us;838211)＞(英文)，網址是：http://support.microsoft.com/default.aspx?scid=kb;en-us;838211
+  
+系統會檢查每一 DCOM 要求上的電腦存取控制清單 (ACL)。若檢查失敗，要求就會遭到拒絕。以下具有電腦存取控制清單：
+  
+-   **啟動和啟用權限**。若伺服器尚未執行，而且具有下列四種存取權限，則這些控制授權會在 COM 啟用期間啟動 COM 伺服器。
+  
+    -   本機啟動
+  
+    -   遠端啟動
+  
+    -   本機啟用
+  
+    -   遠端啟用
+  
+-   **存取權限**。這些控制授權用於呼叫執行的 COM 伺服器，並具有兩種存取權限：
+  
+    -   本機呼叫
+  
+    -   遠端呼叫
+  
+        **注意：**本機 COM 訊息透過本機呼叫而抵達，而遠端 COM 訊息則透過遠端呼叫而抵達。
+  
+這些權限可透過元件服務 Microsoft Management Console (MMC) 來設定，並提供必須通過的最低安全性標準，而無論特定 COM 伺服器應用程式的設定為何。
+  
+**注意：**根據預設，Windows 防火牆會封鎖執行 Windows XP SP2 的電腦上的這個 MMC 嵌入式管理單元。若您收到因這個影響而產生的安全性提示，則必須按一下 \[解除封鎖\]。
+  
+預設的 Windows XP SP2 電腦限制設定請參閱 \[表 7\]。
+  
+**表 7   預設的 DCOM 存取控制限制**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >權限</th>
+<th style="border:1px solid black;" >系統管理員 (Administrator)</th>
+<th style="border:1px solid black;" >任何人 (Everyone)</th>
+<th style="border:1px solid black;" >匿名 (Anonymous)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">啟動與啟用</td>
+<td style="border:1px solid black;">本機啟動
+本機啟用  
+遠端啟動
+遠端啟用</td>
+<td style="border:1px solid black;">本機啟動
+本機啟用</td>
+<td style="border:1px solid black;">沒有設定權限</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">存取</td>
+<td style="border:1px solid black;">沒有設定權限</td>
+<td style="border:1px solid black;">本機呼叫
+遠端呼叫</td>
+<td style="border:1px solid black;">本機呼叫</td>
+</tr>
+</tbody>
+</table>
+  
+預設的設定讓所有本機活動可不經軟體或作業系統修改就能運作。預設也會啟用多數的 COM 用戶端案例，並停用非系統管理員對已安裝 COM 伺服器的遠端啟用。
+  
+若您實作 COM 伺服器，而且希望能支援非系統管理 COM 用戶端或遠端未驗證呼叫的遠端啟用，則必須變更這項功能的預設設定。
+  
+**注意：**雖然本文件說明如何修改預設的設定，但是若您如實執行，可能會使電腦更易遭受攻擊。
+  
+#### 執行此工作的需求
+  
+-   憑證：您必須以 Domain Admins 安全性群組的成員身份，並開啟 \[群組原則物件\]，才能登入屬於 Active Directory 網域用戶端的 Windows XP SP2 電腦。
+  
+-   工具：已經安裝群組原則物件編輯器嵌入式管理單元的 Microsoft Management Console (MMC)。
+  
+##### 設定 DCOM 設定值
+  
+**設定 DCOM 設定值**
+  
+1.  從 Windows XP SP2 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入 **mmc**，然後按一下 \[確定\]。
+  
+2.  在 \[檔案\] 功能表上，按一下 \[新增/移除嵌入式管理單元\]。
+  
+3.  在 \[獨立\] 索引標籤上，按一下 \[新增\]。
+  
+4.  在 \[可用的獨立嵌入式管理單元\] 清單中，尋找並按一下 \[群組原則物件編輯器\]，然後按一下 \[新增\]。
+  
+5.  在 \[選取群組原則物件\] 對話方塊中，按一下 \[瀏覽\]。
+  
+6.  選取您要設定的群組原則物件，按一下 \[確定\]，然後按一下 \[完成\]，以結束群組原則精靈。
+  
+7.  按一下 \[關閉\] 以結束 \[新增獨立嵌入式管理單元\] 對話方塊，然後按一下 \[確定\] 以結束 \[新增/移除嵌入式管理單元\] 對話方塊，並回到管理主控台。
+  
+8.  在主控台樹狀目錄中，依序開啟 \[電腦設定\]、\[Windows 設定\]、\[安全性設定\]、\[本機原則\]、\[安全性選項\]。
+  
+    [![](images/Cc700817.adprte24(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte24_big(zh-tw,technet.10).gif)
+  
+    **圖 24   安全性選項**
+  
+9.  按兩下 \[DCOM: 在 Security Descriptor Definition Language (SDDL) 語法中的電腦存取限制\]。
+  
+    **注意：**如需 SDDL 的更多資訊，請參閱下列文件：
+  
+    -   MSDN 網站上的＜[安全性描述元的定義語言](http://go.microsoft.com/fwlink/?linkid=35503)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35503
+  
+    ![](images/Cc700817.adprte25(zh-tw,TechNet.10).gif)
+  
+    **圖 25   DCOM: 電腦存取限制**
+  
+10. 按一下 \[編輯安全性\]。
+  
+    ![](images/Cc700817.adprte26(zh-tw,TechNet.10).gif)
+  
+    **圖 26   存取權限**
+  
+11. 若要給予企業內的 DCOM 應用程式特定使用者存取您所有電腦的權限，請按一下 \[新增\]。
+  
+    ![](images/Cc700817.adprte27(zh-tw,TechNet.10).gif)
+  
+    **圖 27   選擇使用者、電腦或群組**
+  
+12. 鍵入使用者名稱，然後按一下 \[確定\]。
+  
+13. 按一下 \[確定\] 以關閉 \[存取權限\] 對話方塊，然後按一下 \[確定\] 以關閉 \[DCOM: 在 Security Descriptor Definition Language (SDDL) 語法中的電腦存取限制\] 方塊。
+  
+14. 按兩下 \[DCOM: 在 Security Descriptor Definition Language (SDDL) 語法中的電腦啟動限制\]，然後按一下 \[編輯安全性\]。若要給予企業內的 DCOM 應用程式特定使用者啟動或啟用您所有電腦的權限，請按一下 \[新增\]。
+  
+15. 鍵入使用者名稱，然後按一下 \[確定\]。
+  
+16. 按一下 \[確定\] 以關閉 \[存取權限\] 對話方塊，然後按一下 \[確定\] 以關閉 \[DCOM: 在 Security Descriptor Definition Language (SDDL) 語法中的電腦啟動限制\] 方塊。
+  
+17. 關閉主控台。
+  
+#### 以 GPUpdate 套用設定
+  
+GPUpdate 公用程式能更新以 Active Directory 為基礎的群組原則設定值，其中包括安全性設定。在設定群組原則之後，可等待標準更新週期將設定值套用到用戶端電腦上。根據預設，這些更新週期是每 90 分鐘為一週期，隨機差距為加減 30 分鐘。
+  
+若要在標準週期之間更新群組原則，請使用 GPUpdate 公用程式。
+  
+##### 執行 GPUpdate
+  
+**執行 GPUpdate**
+  
+1.  從 Windows XP 桌面，按一下 \[開始\]，再按 \[執行\]。
+  
+2.  在 \[開啟\] 方塊，鍵入 **cmd**，然後按一下 \[確定\]。
+  
+    **注意：**若需使用 GPUpdate 時可用選項的完整描述，請參閱下列文件：
+  
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 298444](http://go.microsoft.com/fwlink/?linkid=35504)，網址是：http://go.microsoft.com/fwlink/?linkid=35504
+  
+3.  在命令提示字元中，鍵入 **GPUpdate**，然後按下 ENTER。
+  
+    [![](images/Cc700817.adprte28(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte28_big(zh-tw,technet.10).gif)
+  
+    **圖 28   命令列上的 GPUpdate**
+  
+4.  若要關閉命令提示字元，鍵入 **Exit**，然後按下 ENTER。
+  
+#### 確認 DCOM 安全性設定已經套用
+  
+**確認 DCOM 設定已經套用**
+  
+1.  按一下 \[開始\]，再按 \[控制台\]。
+  
+2.  按一下 \[效能及維護\]。
+  
+3.  在 \[或選取 \[控制台\] 圖示\] 之下，按一下 \[系統管理工具\]。  
+  
+4.  在 \[系統管理工具\] 中，按兩下 \[元件服務\]。
+  
+5.  在 \[元件服務\] 主控台中，按兩下 \[元件服務\] 及 \[電腦\]，以滑鼠右鍵按一下 \[我的電腦\]，然後按一下 \[內容\]。  
+  
+6.  按一下 \[COM 安全設定\]，並按兩個 \[編輯預設值\] 按鈕，驗證所要的 DCOM 設定已經套用，然後按一下 \[確定\] 以關閉 \[COM 安全設定\]。
+  
+7.  關閉 \[元件服務\]，然後關閉 \[系統管理工具\]。
+  
+8.  關閉 \[控制台\]。
+  
+    **注意：**若您的設定值沒有套用，您必須排解群組原則應用程式的問題。若要排解群組原則應用程式的問題，請參閱下列文件：
+  
+    -   Microsoft 下載中心網站上的《[Windows Server 2003 群組原則的疑難排解](http://go.microsoft.com/fwlink/?linkid=35481)》(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35481
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 設定 RPC 設定值
+  
+Windows XP SP2 包含對於 RPC 服務的變更，旨在預設協助保障 RPC 介面的安全，並減小 Windows XP 的攻擊面。其中新增了兩項新的原則設定值：
+  
+-   **未經驗證的 RPC 用戶端限制**。本原則設定值允許您修改系統上所有 RPC 介面的行為，且會根據預設消除遠端匿名存取系統上的 RPC 介面 (有若干例外)。
+  
+-   **RPC 結束點對應程式用戶端驗證**。這個原則設定值允許您將必須和 \[結束點對應程式服務\] 進行通訊的 RPC 用戶端導向到驗證，但條件是結束點必須解析的 RPC 呼叫具有驗證資訊。  
+  
+您要求 RPC 呼叫執行驗證時，即使相對低層級的驗證也能協助保護介面，避免遭受攻擊。有些蠕蟲能以匿名連線叫用緩衝區溢位弱點，而這個方法尤其能抵禦蠕蟲的攻擊。
+  
+如需關於 RPC 安全性的詳細資訊，請參閱下列文件：
+  
+-   Microsoft TechNet 網站上的＜[減少 RPC 與 DCOM 弱點的最佳實務範例](http://go.microsoft.com/fwlink/?linkid=36371)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=36371
+  
+#### 執行此工作的需求
+  
+-   憑證：您必須以 Domain Admins 安全性群組的成員身份，並開啟 \[群組原則物件\]，才能登入屬於 Active Directory 網域用戶端的 Windows XP SP2 電腦。
+  
+-   工具：已經安裝群組原則物件編輯器嵌入式管理單元的 Microsoft Management Console (MMC)。
+  
+##### 設定 RPC 設定值
+  
+您啟用 \[未經驗證的 RPC 用戶端限制\] 原則設定值時，可使用下列其中一個選項來設定 \[要套用的 RPC Runtime 未經驗證用戶端限制\]：
+  
+-   **已驗證** (預設值)。這個選項「僅」允許經過驗證的 RPC 用戶端，連接在套用原則設定值的電腦上執行的 RPC 伺服器。要求免除這項限制的介面將獲得免除。這個選項代表 RPC\_RESTRICT\_REMOTE\_CLIENT\_DEFAULT (1) 值。
+  
+-   **已在無例外下驗證**。這個選項「僅」允許經過驗證的 RPC 用戶端，連接在套用原則設定值的電腦上執行的 RPC 伺服器，並「不」允許例外。若您選取這個選項，系統將「無法」使用 RPC 接收遠端匿名呼叫；這提供最高層級的安全性。這個選項代表 RPC\_RESTRICT\_REMOTE\_CLIENT\_HIGH (2) 值。
+  
+-   **無**。這個選項允許所有 RPC 用戶端，連接在套用原則的電腦上執行的 RPC 伺服器。若您選取這個選項，系統會略過新的 RPC 介面限制。這個選項相當於 Windows 先前版本內的 RPC 行為。這個選項代表 RPC\_RESTRICT\_REMOTE\_CLIENT\_NONE (0) 值。
+  
+當您啟用 \[RPC 結束點對應程式用戶端驗證\] 原則設定值時，必須和 \[結束點對應程式服務\] 進行通訊的 RPC 用戶端會進行驗證，但是結束點需要解析的 RPC 呼叫應具有驗證資訊。
+  
+當您停用 \[RPC 結束點對應程式用戶端驗證\] 原則設定值時，必須和 \[結束點對應程式服務\] 進行通訊的 RPC 用戶端「不會」進行驗證。Microsoft Windows NT® 4.0 作業系統電腦上的 \[結束點對應程式服務\] 無法處理以這種方式提供的驗證資訊。這表示若您啟用用戶端電腦上的這項設定，而且需要結束點解析，該用戶端就無法和使用 RPC 的 Windows NT 4.0 伺服器進行通訊。
+  
+**設定 RPC 設定值**
+  
+1.  從 Windows XP SP2 桌面上，按一下 \[開始\]，再按 \[執行\]，鍵入 **mmc**，然後按一下 \[確定\]。
+  
+2.  在 \[檔案\] 功能表上，按一下 \[新增/移除嵌入式管理單元\]。
+  
+3.  在 \[獨立\] 索引標籤上，按一下 \[新增\]。
+  
+4.  在 \[可用的獨立嵌入式管理單元\] 清單中，尋找並按一下 \[群組原則物件編輯器\]，然後按一下 \[新增\]。
+  
+5.  在 \[選取群組原則物件\] 對話方塊中，按一下 \[瀏覽\]。
+  
+6.  選取您要從清單中設定的群組原則物件。按一下 \[確定\]，然後按一下 \[完成\] 以關閉群組原則精靈。
+  
+7.  按一下 \[關閉\] 以結束 \[新增獨立嵌入式管理單元\] 對話方塊，然後按一下 \[確定\] 以結束 \[新增/移除嵌入式管理單元\] 對話方塊，並回到管理主控台。
+  
+8.  在主控台樹狀目錄中，依序開啟 \[電腦設定\]、\[系統管理範本\]、\[系統\]、\[遠端程序呼叫\]。
+  
+    [![](images/Cc700817.adprte29(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte29_big(zh-tw,technet.10).gif)
+  
+    **圖 29   RPC 設定值**
+  
+9.  使用上述設定資訊，按兩下 \[未經驗證的 RPC 用戶端限制\]，按一下 \[已啟用\]，然後選取 \[已在無例外下驗證\]，然後按一下 \[確定\]。
+  
+10. 使用上述設定資訊，按兩下 \[RPC 結束點對應程式用戶端驗證\]，按一下 \[已啟用\]，然後按一下 \[確定\]。
+  
+11. 關閉 \[群組原則物件\]。
+  
+#### 以 GPUpdate 套用設定
+  
+GPUpdate 公用程式能更新以 Active Directory 為基礎的群組原則設定值，其中包括安全性設定。在設定群組原則之後，可等待標準更新週期將設定值套用到用戶端電腦上。根據預設，這些更新週期是每 90 分鐘為一週期，隨機差距為加減 30 分鐘。
+  
+若要在標準週期之間更新群組原則，請使用 GPUpdate 公用程式。
+  
+##### 執行 GPUpdate
+  
+**執行 GPUpdate**
+  
+1.  從 Windows XP 桌面，按一下 \[開始\]，再按 \[執行\]。
+  
+2.  在 \[開啟\] 方塊，鍵入 **cmd**，然後按一下 \[確定\]。
+  
+    **注意：**若需使用 GPUpdate 時可用選項的完整描述，請參閱下列文件：
+  
+    -   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 298444](http://go.microsoft.com/fwlink/?linkid=35504)，網址是：http://go.microsoft.com/fwlink/?linkid=35504
+  
+3.  在命令提示字元中，鍵入 **GPUpdate**，然後按下 ENTER。
+  
+    [![](images/Cc700817.adprte30(zh-tw,TechNet.10).gif)](https://technet.microsoft.com/zh-tw/cc700817.adprte30_big(zh-tw,technet.10).gif)
+  
+    **圖 30   命令列上的 GPUpdate**
+  
+4.  若要關閉命令提示字元，鍵入 **Exit**，然後按下 ENTER。
+  
+#### 確認 RPC 設定值已經套用
+  
+這個程序包含如何編輯登錄的相關資訊。編輯登錄之前，請務必先備份，並確保您瞭解在發生問題時，如何將登錄資料還原。如需有關如何備份、還原與編輯登錄的資訊，請參閱下列文件：
+  
+-   Microsoft 技術支援服務網站上的 [Microsoft 知識庫文件編號 256986](http://go.microsoft.com/fwlink/?linkid=35500)，網址是：http://go.microsoft.com/fwlink/?linkid=35500
+  
+##### 確認 RPC 設定值已經套用
+  
+**確認 RPC 設定值已經套用**
+  
+1.  按一下 \[開始\]，然後按一下 \[執行\]。
+  
+2.  鍵入 **Regedit**，然後按一下 \[確定\]。
+  
+3.  在 \[登錄編輯程式\] 中按兩下 \[HKEY\_LOCAL\_MACHINE\]，然後依序按兩下 SOFTWARE\\Policies\\Microsoft\\Windows NT\\Rpc。  
+  
+4.  確認登錄中有下列項目：
+  
+    **EnableAuthEPResolution REG\_DWORD 0x000000001**
+  
+    **RestrictRemoteClientsIn REG\_DWORD 0x000000002**
+  
+5.  關閉 \[登錄編輯程式\]。
+  
+    **注意：**若您的設定值沒有套用，您必須排解群組原則應用程式的問題。若要排解群組原則應用程式的問題，請參閱下列文件：
+  
+    -   Microsoft 下載中心網站上的《[Windows Server 2003 群組原則的疑難排解](http://go.microsoft.com/fwlink/?linkid=35481)》(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35481
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 相關資訊
+  
+如需更多關於 Windows XP SP2 網路保護的詳細資訊，請參閱下列文件：
+  
+-   Microsoft TechNet 網站上的＜[Microsoft Windows XP Service Pack 2 功能的變更，第二部分：網路保護技術](http://go.microsoft.com/fwlink/?linkid=35486)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35486
+  
+-   Microsoft TechNet 網站上的＜[使用群組原則管理 Windows XP Service Pack 2](http://go.microsoft.com/fwlink/?linkid=35485)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35485
+  
+-   Microsoft 技術支援服務網站上的＜[對管理群組原則系統管理範本 (.adm) 檔案的建議](http://go.microsoft.com/fwlink/?linkid=35502)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35502
+  
+如需更多關於 Windows XP SP2 安全性的詳細資訊，請參閱下列文件：
+  
+-   Microsoft 下載中心網站上的《[Windows XP Service Pack 2 安全性指南第二版](http://go.microsoft.com/fwlink/?linkid=35309)》(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35309
+  
+-   Microsoft TechNet 網站上的＜[Windows XP 安全性指南附錄 A：Windows XP Service Pack 2 其他指南](http://go.microsoft.com/fwlink/?linkid=35465)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35465
+  
+-   Microsoft TechNet 網站上的＜[使用群組原則部署 Windows XP Service Pack 2 (SP2)](http://go.microsoft.com/fwlink/?linkid=35501)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35501
+  
+如需安全性相關名詞的定義，請參閱下列資訊：
+  
+-   Microsoft 網站上的＜[Microsoft 資訊安全辭彙](http://go.microsoft.com/fwlink/?linkid=35468)＞(英文)，網址是：http://go.microsoft.com/fwlink/?linkid=35468
+  
+[](#mainsection)[回到頁首](#mainsection)

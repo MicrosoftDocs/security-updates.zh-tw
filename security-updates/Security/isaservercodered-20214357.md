@@ -1,0 +1,68 @@
+---
+TOCTitle: 如何設定 ISA Server 來防止 Code Red 病毒
+Title: 如何設定 ISA Server 來防止 Code Red 病毒
+ms:assetid: 'ede122e0-7f51-4b43-918c-9e68301409a9'
+ms:contentKeyID: 20214357
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Dd548174(v=TechNet.10)'
+---
+
+如何設定 ISA Server 來防止 Code Red 病毒
+========================================
+
+作者：Mike Chan
+Technical Product Manager
+Microsoft Corporation
+
+　　ISA Server 可以防止 Code Red 病毒及其目前 (到 2001 年 8 月 24 日止) 變體 (例如，**Code Red 和 Code Red II**) 擴散。至於新的變體 **Code Red.d**，尚未測試。
+
+　　現在我們要介紹一些對策，說明如何防止目前的 Code Red 版本擴散到您的網路中，以及萬一內部電腦中毒時，如何防止 Code Red 擴散到您的網路外。內部封鎖案例，已經做過測試。外部封鎖案例，尚未測試。這些程序不保證能對抗未來的 Code Red 變體。為確保系統安全，請隨時使用下列網址中的修補程式，更新您的 IIS 伺服器：[http://www.microsoft.com/technet/security/bulletin/MS01-033.mspx](http://www.microsoft.com/technet/security/bulletin/ms01-033.mspx)
+
+**免責聲明
+**本資訊不負任何保證。作者對於使用或發佈本資訊造成的任何損失，不具任何責任。使用者使用本資訊時，必須自行承擔風險。
+
+我們將討論二個案例：
+
+-   **第一個案例是如何防止 Code Red 進入您的網路。**
+-   **第二個案例是萬一中毒了，如何防止 Code Red 擴散到您的網路外。**
+
+Code Red 要求可能像：
+
+`GET http://<ipaddress>/default.ida?NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN   NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN%u9090%u6858%uc bd3%u7801%u9090%u6858%ucbd3%u7801%u9090%u6858%ucbd3%u7801%u9090%u9090%u8190%u00c3%u0003%u8 b00%u531b%u53ff%u0078%u0000%u00=a HTTP/1.0`
+
+有些變體不顯示 NNNN，它的 GET 要求內都是 XXXX's 或 OOOO's。有一個變體要求的***&lt;ip address&gt;* 內是 *www.worm.com***。
+
+### 防止 Code Red 入侵內部
+
+　　Code Red 入侵網路有二個途徑。下列規則可以防止 Code Red 入侵您的網路。
+
+> -   **發行規則內不要加入 *www.worm.com***。
+> -   發行規則中的目的地設定，應該使用 DNS 名稱，而非實際的 IP。例如，定義時應該使用 "microsoft.com"，而非 xxx.xxx.xxx.xxx (x 是 IP 位址數字)。
+> -   不伺服發行通訊埠 80 (否則 Code Red 會入侵任何未受保護的電腦)。
+> -   執行 Web 發行時，如前所述，一定使用定義的目的地設定，絕不使用 \[套用到\] 一節中的 \[所有目的地\]。
+
+### 防止 Code Red 侵襲外部
+
+　　防止中毒的內部網路電腦侵襲伺服器外部：
+
+> -   建立一個目的地設定，(任何主機的) 目的地是 \*，路徑是 /default.ida\*。
+> -   使用目的地設定，建立明確的拒絕內容規則。
+> -   任何規則都不允許「任何目的地」及「任何使用者」。
+> -   使用一個規則，以驗證過的使用者或內部 IP 用戶端設定來判斷能否授權存取。
+
+### 摘要
+
+　　設定正確後，ISA Server 就能保護您的網路不受 Code Red 的內外入侵。
+
+> -   遵循前述「防止 Code Red 入侵內部」一節中的指示，可以保護內部 IIS 伺服器不受侵擊。 這讓系統管理員有時間在內部準備 IIS 修補程式。
+> -   遵循前述「防止 Code Red 侵襲外部」一節中的指示，可以防止中毒的 IIS 伺服器侵擊您的網路外部。 這樣可以減少公司「侵襲」其他網路時可能出現的法律行為。
+
+### 相關資訊
+
+　您可以到下列位置查閱這方面的其他相關資訊。
+
+-   [Microsoft TechNet Security 站台](http://www.microsoft.com/taiwan/technet/security/)
+-   [Code Red II 病毒的可用工具](http://www.microsoft.com/technet/security/tools/redfix.mspx)
+-   [Microsoft TechNet 的 Microsoft ISA Server 技術中心](http://www.microsoft.com/technet/prodtechnol/isa/default.mspx)
+-   [如何維護安全的相關文章](http://www.microsoft.com/taiwan/technet/itsolutions/howto/sechow.mspx)
+
+[](#mainsection)[回到頁首](#mainsection)

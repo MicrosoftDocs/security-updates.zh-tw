@@ -1,0 +1,171 @@
+---
+TOCTitle: '檢查清單 - Windows Server 2003 網域控制站'
+Title: '檢查清單 - Windows Server 2003 網域控制站'
+ms:assetid: '5aac7a50-da89-46ac-a515-4ca1dd22a075'
+ms:contentKeyID: 20214396
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Dd548213(v=TechNet.10)'
+---
+
+檢查清單 - Windows Server 2003 網域控制站
+=========================================
+
+發佈日期: 2003 年 12 月 31 日 | 更新日期: 2004 年 7 月 1 日
+
+##### 本頁內容
+
+[](#ebaa)[](#ebaa)
+
+使用下列檢查清單，有助在強化 Microsoft® Windows Server™ 2003 作業系統網域控制站時，正確執行所有的安全性設定與程序。
+
+#### 準備 Active Directory 網域控制站組織單位：
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >  </th>
+<th style="border:1px solid black;" >步驟</th>
+<th style="border:1px solid black;" >注意：</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">建立網域控制站基準線原則 (DCBP)。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">將 DCBP 連結到網域控制站組織單位。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">確定 DCBP 擁有最高的優先權。</td>
+<td style="border:1px solid black;">GPO 應該在清單的最前面。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">將對應的用戶端環境安全性範本匯入到新建立的 GPO。</td>
+<td style="border:1px solid black;">例如，企業用戶端環境的 Enterprise Client — Domain Controller.inf。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">新增指定網域群組到「使用者指派權限」。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">設定 DCBP 內其他的終端機服務設定。</td>
+<td style="border:1px solid black;">DCBP 內的路徑： Computer Configuration\Administrative Templates\Windows Components\Terminal Services\Encryption and Security。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">停用 DCBP 內的錯誤報告。</td>
+<td style="border:1px solid black;">DCBP 內的路徑： Computer Configuration\Administrative Templates\System\Error Reporting。</td>
+</tr>
+</tbody>
+</table>
+  
+#### 強化網域控制站的步驟：
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >  </th>
+<th style="border:1px solid black;" >步驟</th>
+<th style="border:1px solid black;" >注意：</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">重新放置 Microsoft Active Directory® 目錄服務資料庫與記錄檔。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">調整 Active Directory 記錄檔大小。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">考慮執行 Syskey。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">保護 DNS 伺服器。<br />
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /> 設定安全動態更新。<br />
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /> 限制只有授權系統方可執行區域轉送。<br />
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /> 調整 DNS 服務記錄大小。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">保護已知的帳號。</td>
+<td style="border:1px solid black;">重新命名 Administrator 帳號，指派一個複雜的密碼。確定 Guest 帳號已停用。 變更預設帳號描述。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">保護服務帳號。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">考慮執行 IPSec 篩選器。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">驗證 DCBP 在網域控制站之間覆寫。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">執行 GPUPDATE.EXE /FORCE</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">重新啟動網域控制站。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"> 
+<img src="images/Dd548213.mnp_checkbox(zh-tw,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">查看事件日誌以檢查錯誤。</td>
+<td style="border:1px solid black;">  </td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)

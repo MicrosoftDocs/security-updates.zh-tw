@@ -1,0 +1,66 @@
+---
+TOCTitle: 2007 Microsoft Office 安全性指南
+Title: 2007 Microsoft Office 安全性指南
+ms:assetid: 'a0d984f9-5827-4a62-a45d-cd79f405a71a'
+ms:contentKeyID: 20214468
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc500475(v=TechNet.10)'
+---
+
+2007 Microsoft Office 安全性指南
+================================
+
+發佈日期: 2007 年 11 月 11 日 | 更新日期: 2007 年 11 月 11 日
+
+歡迎使用 2007 Microsoft Office 安全性指南。
+
+雖然電子郵件系統與桌面應用程式是重要的協同與生產工具，不過附件、巨集以及增益集可能會包含病毒或其他惡意程式。本「解決方法加速器」是專門設定來幫助您保持使用者產生力，同時又能保護系統以及資料的安全。
+
+2007 Microsoft® Office 版本的設計是用來幫助擊敗針對電子郵件與桌面文件為目標的攻擊。目前共有上百種安全性與隱私權設定，讓您可以用來保證 2007 Office 版本的部署可以在組織對於安全性與功能的需求之間取得平衡。
+
+《2007 Microsoft Office 安全性指南》提供 IT 專業人員最佳實務以及自動化工具，幫助強化執行 Windows Vista (TM) 或 Windows (R) XP SP2 以及下列應用程式的電腦安全性：
+
+-   Microsoft Office Access (TM) 2007
+
+-   Microsoft Office Excel (R) 2007
+
+-   Microsoft Office InfoPath (R) 2007
+
+-   Microsoft Office Outlook (R) 2007
+
+-   Microsoft Office PowerPoint (R) 2007
+
+-   Microsoft Office Word 2007
+
+##### 本頁內容
+
+[](#ebaa)[2007 Microsoft Office 安全性指南元件](#ebaa)
+
+### 2007 Microsoft Office 安全性指南元件
+
+《2007 Microsoft Office 安全性指南》包含下列元件：
+
+-   [執行概觀 (英文)](http://www.microsoft.com/technet/security/guidance/clientsecurity/2007office/overview/default.mspx)。本文件為業務與技術經理彙整此「解決方案加速器」的指導與工具，有利於您的組織。
+
+-   [安全性指導 (英文)](http://www.microsoft.com/technet/security/guidance/clientsecurity/2007office/securityguide/default.mspx)。本指導描述 2007 Microsoft Office 版本的安全性模型以及新的安全性特性與功能。內容包括在兩個不同環境中落實安全性設定前的 建議指導方針，以及最佳實務。其一為「企業用戶端」(EC) 環境，它會尋求功能與安全性之間的平衡，適合大部分組織，另外則是「特定安全性、限定功能性」(SSLF) 環境，它只適合需要相當牢靠的安全性，但犧牲應用程式功能的組織。SSLF 設定會限制部分應用程式功能。
+
+-   [安全威脅與因應對策 (英文)](http://www.microsoft.com/technet/security/guidance/clientsecurity/2007office/tandc/default.mspx)本指導是一份深入詳細的技術參考，解釋 6 個參考應用程式的安全性與隱私權設定、它們建議的架構以及克服的威脅。它也包含所有設定的 「一般設定列舉」(CCE) 識別碼。CCE 提供識別碼給系統架構，以便在多個資訊來源與工具中快速且正確地更正架構資料。
+
+-   [安全性設定試算表 (英文)](http://www.microsoft.com/technet/security/guidance/clientsecurity/2007office/tandc/default.mspx)。此 Office Excel 試算表會列示 6 個參考應用程式的安全性設定，和它們為 EC 和 SSLF 環境建議的架構，以及所有設定的「一 般設定列舉」(CCE) 識別碼。
+
+-   [GPOAccelerator (英文)](http://go.microsoft.com/fwlink/?linkid=103569)。此工具可以幫助您自動在組織中部署 2007 Microsoft Office 版本的安全性架構，也可以用來部署 Windows (R) XP 與 Windows Vista (R) 的安全性設定。
+
+**下載**
+
+-   [取得《2007 Microsoft Office 安全性指南》(英文)](http://www.microsoft.com/downloads/details.aspx?familyid=a12eca33-a20d-45e2-895c-5e021f3ae4c5&displaylang=en)
+
+-   [取得 GPOAccelerator (英文)](http://www.microsoft.com/downloads/details.aspx?familyid=a46f1dbe-760c-4807-a82f-4f02ae3c97b0&displaylang=en)
+
+**更新通知**
+
+-   [登入以瞭解更新與新版本 (英文)](http://www.microsoft.com/technet/solutionaccelerators/updates/default.mspx)
+
+**意見反應**
+
+-   [傳送您的意見或建議給我們](mailto:cisfdbk@microsoft.com?subject=windows%20security%20and%20directory%20services%20for%20unix%20guide)
+
+[](#mainsection)[回到頁首](#mainsection)
