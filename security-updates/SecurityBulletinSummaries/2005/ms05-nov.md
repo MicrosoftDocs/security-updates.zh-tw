@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-nov(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2005 年 11 月份 Microsoft 資訊安全公告摘要
 ==========================================
 
@@ -58,6 +56,7 @@ Security Bulletin Summary
 **受影響的軟體及下載位置**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

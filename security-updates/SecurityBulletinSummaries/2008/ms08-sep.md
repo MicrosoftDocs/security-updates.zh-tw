@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms08-sep(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2008 年 9 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -86,6 +84,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -470,6 +469,7 @@ Windows Server 2008
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -747,6 +747,7 @@ Microsoft Office OneNote 2007
 #### Microsoft 伺服器軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -839,6 +840,7 @@ QFE 更新：
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -972,6 +974,7 @@ Microsoft Platform SDK Redistributable： GDI+
 #### Microsoft 安全性軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >

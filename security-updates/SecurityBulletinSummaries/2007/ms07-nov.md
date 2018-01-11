@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms07-nov(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2007 年 11 月份 Microsoft 資訊安全公告摘要
 ==========================================
 
@@ -71,6 +69,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 **受影響的軟體及下載位置**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
