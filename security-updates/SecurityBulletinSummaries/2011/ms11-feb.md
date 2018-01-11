@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms11-feb(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2011 年 2 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -37,6 +35,7 @@ Microsoft 也會提供資訊協助客戶排定每月 資訊安全更新以及任
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -187,6 +186,7 @@ Internet Explorer</td>
 請用這個表格來瞭解您可能需要安裝的每個 資訊安全更新，與 30 天內已發行的可利用程式碼受影響之可能性。 您應該檢閱下列的每個評估，按照特定的設定，將部署以優先次序排序。 如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft資訊安全風險索引](http://technet.microsoft.com/en-us/security/cc998259.aspx)。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -366,6 +366,7 @@ Internet Explorer</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1577,6 +1578,7 @@ Windows Server 2008 R2
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >

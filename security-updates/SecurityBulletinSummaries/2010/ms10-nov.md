@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms10-nov(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2010 年 11 月份 Microsoft 資訊安全公告摘要
 ==========================================
 
@@ -37,6 +35,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -121,6 +120,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -356,6 +356,7 @@ Microsoft PowerPoint Viewer
 #### Microsoft 遠端存取軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >

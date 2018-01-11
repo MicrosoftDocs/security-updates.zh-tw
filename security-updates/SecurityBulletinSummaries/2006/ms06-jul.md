@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-jul(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2006 年 7 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -110,6 +108,7 @@ Security Bulletin Summary
 #### 受影響的軟體及下載位置 (MS06-033 至 MS06-036)
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -246,6 +245,7 @@ Security Bulletin Summary
 #### 受影響的軟體及下載位置 (MS06-037 至 MS06-039)
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />

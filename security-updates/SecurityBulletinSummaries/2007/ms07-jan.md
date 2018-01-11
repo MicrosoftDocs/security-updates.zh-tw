@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms07-jan(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2007 年 1 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -87,6 +85,7 @@ Security Bulletin Summary
 **受影響的軟體及下載位置 (MS07-001 至 MS07-004)**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />

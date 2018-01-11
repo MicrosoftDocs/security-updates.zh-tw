@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms11-dec(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2011 年 12 月份 Microsoft 安全性公告摘要
 ========================================
 
@@ -39,6 +37,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -436,6 +435,7 @@ Internet Explorer</td>
 **表 1**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="7">
@@ -1174,6 +1174,7 @@ Windows Server 2008 R2
 **表 2**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="4">
@@ -1754,6 +1755,7 @@ Windows Server 2008 R2
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="6">

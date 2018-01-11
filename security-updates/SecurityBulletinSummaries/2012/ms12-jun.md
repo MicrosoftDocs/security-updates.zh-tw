@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-jun(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2012 年 6 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -37,6 +35,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -177,6 +176,7 @@ Internet Explorer</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="6">
@@ -1241,13 +1241,14 @@ Server Core 安裝選項
 </tr>
 </table>
  
-MS12-038 ***注意事項*****
+MS12-038 ***注意事項***
 
 <sup>[1]</sup>.NET Framework 4 和 .NET Framework 4 Client Profile 會受到影響。可在兩個設定檔中使用 .NET Framework 第 4 版可轉散發套件： .NET Framework 4 和 .NET Framework 4 Client Profile。.NET Framework 4 Client Profile 是 .NET Framework 4 的子集。此更新所解決的資訊安全風險會同時影響到 .NET Framework 4 和 .NET Framework 4 Client Profile。如需詳細資訊，請參閱 MSDN 文章：安裝 .NET Framework。
 
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1311,6 +1312,7 @@ MS12-039 ***注意事項***
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1367,6 +1369,7 @@ MS12-039 注意事項
 #### Microsoft Enterprise Resource Planning (ERP) 解決方案
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1414,6 +1417,7 @@ MS12-040 注意事項
 #### Microsoft 通訊平台和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

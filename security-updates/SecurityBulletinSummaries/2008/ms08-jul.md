@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms08-jul(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2008 年 7 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -86,6 +84,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Windows 作業系統
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -477,6 +476,7 @@ DNS 伺服器更新：
 #### Microsoft 伺服器軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft SQL Server</caption>
 <tbody>
@@ -613,6 +613,7 @@ QFE 更新：<br />
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Exchange Server</caption>
 <tbody>
