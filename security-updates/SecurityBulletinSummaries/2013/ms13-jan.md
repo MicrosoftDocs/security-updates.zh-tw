@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms13-jan(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2013 年 1 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -36,7 +34,8 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -141,7 +140,7 @@ Microsoft .NET Framework</td>
 資訊安全風險入侵指數
 --------------------
 
-<span></span>
+
 下表提供本月所述每個資訊安全風險的利用性評估。資訊安全風險皆根據公告編號和 CVE 編號依序列出。僅包含資訊安全公告中，嚴重性等級為「重大」或「重要」的資訊安全風險。
 
 **我該如何使用這個表格？**
@@ -150,7 +149,8 @@ Microsoft .NET Framework</td>
 
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
- 
+
+<p></p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -281,7 +281,7 @@ Microsoft 已發現嘗試透過 Internet Explorer 8 利用此資訊安全風險�
 受影響的軟體及下載位置
 ----------------------
 
-<span></span>
+
 下表依據主要的軟體類別和嚴重性依序列出公告。
 
 **我該如何使用這些表格？**
@@ -292,7 +292,8 @@ Microsoft 已發現嘗試透過 Internet Explorer 8 利用此資訊安全風險�
 
 #### Windows 作業系統與元件
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="8">
@@ -2311,11 +2312,11 @@ Windows Server 2012 (Server Core 安裝)
 
 <sup>[3]</sup>Windows RT 資訊安全更新是透過 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 提供。
 
-**MS13-005***注意事項***
+<strong>MS13-005 *注意事項*</strong>
 
 <sup>[1]</sup>Windows RT 資訊安全更新是透過 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 提供。
 
-**MS13-006***注意事項***
+<strong>MS13-006 *注意事項*</strong>
 
 <sup>[1]</sup>Windows RT 資訊安全更新是透過 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 提供。
 
@@ -2325,7 +2326,8 @@ Windows Server 2012 (Server Core 安裝)
 
 #### Microsoft Office 套件及軟體
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2437,7 +2439,8 @@ Microsoft Office 相容性套件 Service Pack 3
 
 #### Microsoft 開發者工具和軟體
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2488,7 +2491,8 @@ Microsoft Expression Web 2
 
 #### Microsoft 伺服器軟體
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -2681,7 +2685,7 @@ Microsoft System Center Operations Manager 2007 R2
 
 另請參閱＜受影響的軟體及下載位置＞一節中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。本公告涉及多個軟體分類。
 
-**MS13-003***注意事項***
+<strong>MS13-003 *注意事項*<strong>
 
 <sup>[1]</sup>這個更新程式僅可以從 Microsoft 下載中心取得。
 
@@ -2690,7 +2694,7 @@ Microsoft System Center Operations Manager 2007 R2
 偵測與部署工具及指南
 --------------------
 
-<span></span>
+
 **資訊安全中心**
 
 管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。如需更多資訊，請參閱 [TechNet 更新管理中心](http://technet.microsoft.com/zh-tw/updatemanagement/default.aspx) (英文)。[TechNet 資訊安全技術中心](http://technet.microsoft.com/zh-tw/security/default.aspx)提供 Microsoft 產品資訊安全的其他資訊。一般消費者可造訪 [Microsoft Safety & Security Center](http://technet.microsoft.com/zh-tw/security/default.aspx) (英文)，並點選 \[Security Updates\] (資訊安全更新) 來取得上述資訊。

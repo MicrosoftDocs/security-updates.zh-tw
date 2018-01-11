@@ -23,11 +23,11 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 提要
 ----
 
-<span id="sectionToggle0"></span>
 下表依嚴重性摘要說明本月份資訊安全公告。
 
 如需受影響的軟體之詳細資料，請參閱下節＜**受影響的軟體**＞。
 
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -182,7 +182,6 @@ Microsoft Lync Server</td>
 弱點入侵指數  
 ------------
   
-<span id="sectionToggle1"></span>
 下表提供本月所述每個弱點的利用性評估。會依序按公告編號及 CVE ID 的順序列出弱點。只會包含公告中嚴重性等級為「重大」或「重要」的弱點。
   
 **我該如何使用這個表格？**
@@ -191,6 +190,7 @@ Microsoft Lync Server</td>
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
   
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -666,7 +666,6 @@ Microsoft Lync Server</td>
 受影響的軟體  
 ------------
   
-<span id="sectionToggle2"></span>
 下表依據主要的軟體類別和嚴重性依序列出公告。
   
 請用這些表格來瞭解可能需要安裝的資訊安全更新有哪些。您應該查看此處列出的每一種軟體程式或元件，看看是否有與安裝相關的資訊安全更新。清單中若列出軟體程式或元件，軟體更新的嚴重性等級也會列出來。
@@ -676,6 +675,7 @@ Microsoft Lync Server</td>
 ### Windows 作業系統及元件 (表格 2 之 1)
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -685,27 +685,27 @@ Microsoft Lync Server</td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -715,7 +715,7 @@ Microsoft Lync Server</td>
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -727,11 +727,11 @@ Microsoft Lync Server</td>
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -825,27 +825,27 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -855,7 +855,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**普通**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>普通</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -863,15 +863,15 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1004,27 +1004,27 @@ Internet Explorer 7
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -1034,7 +1034,7 @@ Internet Explorer 7
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1046,11 +1046,11 @@ Internet Explorer 7
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1144,27 +1144,27 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -1174,7 +1174,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**普通**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>普通</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1182,15 +1182,15 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1277,27 +1277,27 @@ Internet Explorer 8
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -1307,7 +1307,7 @@ Internet Explorer 8
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1319,11 +1319,11 @@ Internet Explorer 8
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1463,27 +1463,27 @@ Internet Explorer 11
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -1493,7 +1493,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**普通**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>普通</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1501,15 +1501,15 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1589,27 +1589,27 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -1619,7 +1619,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1631,11 +1631,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1711,27 +1711,27 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -1741,11 +1741,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1753,11 +1753,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1837,27 +1837,27 @@ Microsoft Edge
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-094**](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
+[<strong>MS15-094</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-094)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-095**](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
+[<strong>MS15-095</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-095)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-096**](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
+[<strong>MS15-096</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-096)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-098**](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
+[<strong>MS15-098</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-098)
 
 </td>
 </tr>
@@ -1875,11 +1875,11 @@ Microsoft Edge
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2069,6 +2069,7 @@ Windows Server 2012 R2
 ### Windows 作業系統及元件 (表格 2 之 2)
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="5">
@@ -2078,23 +2079,23 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -2104,15 +2105,15 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2214,23 +2215,23 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -2244,11 +2245,11 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2375,23 +2376,23 @@ Microsoft .NET Framework 4
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -2401,15 +2402,15 @@ Microsoft .NET Framework 4
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2511,23 +2512,23 @@ Microsoft .NET Framework 4.6
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -2541,11 +2542,11 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2631,23 +2632,23 @@ Microsoft .NET Framework 4
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -2657,19 +2658,19 @@ Microsoft .NET Framework 4
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2855,23 +2856,23 @@ Microsoft .NET Framework 4.6
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -2885,15 +2886,15 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2989,23 +2990,23 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -3019,11 +3020,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3115,23 +3116,23 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -3145,15 +3146,15 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3225,23 +3226,23 @@ Microsoft .NET Framework 4.6
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-100**](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
+[<strong>MS15-100</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-100)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-101**](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
+[<strong>MS15-101</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-101)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-102**](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
+[<strong>MS15-102</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-102)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-105**](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
+[<strong>MS15-105</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-105)
 
 </td>
 </tr>
@@ -3255,15 +3256,15 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3458,6 +3459,7 @@ Windows Server 2012 R2
 ### Microsoft 伺服器軟體
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -3467,15 +3469,15 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-099**](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
+[<strong>MS15-099</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-103**](https://technet.microsoft.com/zh-tw/library/security/ms15-103)
+[<strong>MS15-103</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-103)
 
 </td>
 </tr>
@@ -3485,11 +3487,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3572,6 +3574,7 @@ Microsoft Exchange Server 2013 Service Pack 1
 ### Microsoft Office 套件及軟體
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -3581,15 +3584,15 @@ Microsoft Exchange Server 2013 Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-099**](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
+[<strong>MS15-099</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
 
 </td>
 </tr>
@@ -3599,11 +3602,11 @@ Microsoft Exchange Server 2013 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3636,15 +3639,15 @@ Microsoft Excel 2007 Service Pack 3
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-099**](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
+[<strong>MS15-099</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
 
 </td>
 </tr>
@@ -3654,11 +3657,11 @@ Microsoft Excel 2007 Service Pack 3
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3712,15 +3715,15 @@ Microsoft Excel 2010 Service Pack 2 (64 位元版本)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-099**](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
+[<strong>MS15-099</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
 
 </td>
 </tr>
@@ -3734,7 +3737,7 @@ Microsoft Excel 2010 Service Pack 2 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3784,15 +3787,15 @@ Microsoft Excel 2013 Service Pack 1 (64 位元版本)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-099**](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
+[<strong>MS15-099</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
 
 </td>
 </tr>
@@ -3806,7 +3809,7 @@ Microsoft Excel 2013 Service Pack 1 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3837,15 +3840,15 @@ Microsoft Excel 2013 RT Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-099**](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
+[<strong>MS15-099</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
 
 </td>
 </tr>
@@ -3859,7 +3862,7 @@ Microsoft Excel 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3909,15 +3912,15 @@ Microsoft Excel 2016 (64 位元版本)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-099**](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
+[<strong>MS15-099</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
 
 </td>
 </tr>
@@ -3931,7 +3934,7 @@ Microsoft Excel 2016 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3975,15 +3978,15 @@ Microsoft Excel 2016 for Mac
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-099**](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
+[<strong>MS15-099</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-099)
 
 </td>
 </tr>
@@ -3997,7 +4000,7 @@ Microsoft Excel 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4042,6 +4045,7 @@ Microsoft Excel Viewer
 ### Microsoft 通訊平台和軟體
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -4051,15 +4055,15 @@ Microsoft Excel Viewer
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-104**](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
+[<strong>MS15-104</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
 
 </td>
 </tr>
@@ -4069,7 +4073,7 @@ Microsoft Excel Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4101,15 +4105,15 @@ Microsoft Live Meeting 2007 Console
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-104**](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
+[<strong>MS15-104</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
 
 </td>
 </tr>
@@ -4119,7 +4123,7 @@ Microsoft Live Meeting 2007 Console
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4203,15 +4207,15 @@ Microsoft Lync 2010 Attendee
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-104**](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
+[<strong>MS15-104</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
 
 </td>
 </tr>
@@ -4221,7 +4225,7 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4309,15 +4313,15 @@ Microsoft Lync Basic 2013 Service Pack 1 (64 位元)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-104**](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
+[<strong>MS15-104</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
 
 </td>
 </tr>
@@ -4327,7 +4331,7 @@ Microsoft Lync Basic 2013 Service Pack 1 (64 位元)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重大</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4375,15 +4379,15 @@ Microsoft Lync Basic 2013 Service Pack 1 (64 位元)
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-104**](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
+[<strong>MS15-104</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
 
 </td>
 </tr>
@@ -4397,7 +4401,7 @@ Microsoft Lync Basic 2013 Service Pack 1 (64 位元)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4427,15 +4431,15 @@ Microsoft Lync Server 2013
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告編號                                                 **
+**公告編號**
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-097**](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
+[<strong>MS15-097</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-097)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-104**](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
+[<strong>MS15-104</strong>](https://technet.microsoft.com/zh-tw/library/security/ms15-104)
 
 </td>
 </tr>
@@ -4449,7 +4453,7 @@ Microsoft Lync Server 2013
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[<strong>重要</strong>](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4478,7 +4482,6 @@ Microsoft Lync Server 2013
 偵測與部署工具及指南
 --------------------
 
-<span id="sectionToggle3"></span>
 有幾項資源可協助系統管理員部署資訊安全更新。
 
 Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，查看是否遺漏資訊安全更新及一般資訊安全設定錯誤的狀況。
@@ -4492,13 +4495,11 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 感謝
 ----
 
-<span id="sectionToggle4"></span>
 Microsoft 了解資訊安全業界所做的努力，其盡責地透露弱點來協助我們保護客戶。請參閱[致謝](https://technet.microsoft.com/zh-tw/library/security/dn903755.aspx) (英文) 以取得詳細資訊。
 
 其他資訊
 --------
 
-<span id="sectionToggle5"></span>
 ### Microsoft Windows 惡意軟體移除工具 (英文)
 
 針對每個月第二個星期二發行的公告，Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Services 及下載中心發行更新版本的 Microsoft Windows 惡意軟體移除工具。不定期資訊安全公告發行不提供更新版本的 Microsoft Windows 惡意軟體移除工具。
