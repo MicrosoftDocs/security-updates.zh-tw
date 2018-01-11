@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-aug(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2012 年 8 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -2296,7 +2294,7 @@ Microsoft Exchange Server 2010 Service Pack 2
 </tr>
 </table>
  
-***MS12-0*60** ***注意事***項**
+***MS12-0*60** **注意事項**
 
 <sup>[1]</sup>此更新與 Microsoft Office 2003 的 KB2726929 更新相同
 

@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-jul(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2012 年 7 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -2547,7 +2545,7 @@ Microsoft SharePoint Foundation 2010 Service Pack 1
 
 另請參閱＜受影響的軟體及下載位置＞一節中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。本公告涉及多個軟體分類。
 
-**MS12-050注意*事項***
+**MS12-050注意事項**
 
 另請參閱＜受影響的軟體及下載位置＞一節中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。本公告涉及多個軟體分類。
 

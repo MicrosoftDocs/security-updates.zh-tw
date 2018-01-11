@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-dec(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2005 年 12 月份 Microsoft 資訊安全公告摘要
 ==========================================
 

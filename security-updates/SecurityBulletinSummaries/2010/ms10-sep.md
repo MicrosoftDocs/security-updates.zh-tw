@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms10-sep(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2010 年 9 月份 Microsoft 安全性公告摘要
 =======================================
 

@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-jan(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2005 年 1 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -16,7 +14,7 @@ Security Bulletin Summary
 
 **版本:** 1.0
 
-**發佈日期：**2005 年 1 月 12 日
+**發佈日期：**2005 年 1 月 12 日  
 **版本號碼：**1.0
 
 請參考[此處](http://www.microsoft.com/taiwan/security/default.mspx)所提供的使用者版本資訊。

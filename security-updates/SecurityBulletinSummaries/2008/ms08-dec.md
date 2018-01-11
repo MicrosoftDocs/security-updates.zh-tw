@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms08-dec(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2008 年 12 月份 Microsoft 資訊安全公告摘要
 ==========================================
 
@@ -1478,22 +1476,22 @@ Microsoft Office SharePoint Server 2007
 </tr>
 </table>
  
-**MS08-070 注意事項**
+**MS08-070 注意事項**  
 另請參閱下節＜Microsoft 開發者工具和軟體＞，瞭解更多更新檔案。 本公告涉及 Microsoft Office 與 Microsoft 開發者工具和軟體。
 
-**MS08-077 注意事項**
+**MS08-077 注意事項**  
 另請參閱＜Microsoft 伺服器軟體＞小節，瞭解更多更新檔案。 本公告涉及 Microsoft Office 套件和軟體，以及 Microsoft 伺服器軟體。
 
-**MS08-070 中的 Microsoft Office FrontPage 注意事項**
+**MS08-070 中的 Microsoft Office FrontPage 注意事項**  
 \* 此更新程式僅適用於簡體中文 (中國)、泛亞中文 (香港)、繁體中文 (臺灣) 和韓文版本的 FrontPage 2002 Service Pack 3。
 
-**MS08-072 和 MS08-074 中的 Microsoft Office for Mac 注意事項**
+**MS08-072 和 MS08-074 中的 Microsoft Office for Mac 注意事項**  
 \*\*MS08-072 和 MS08-074 中的對應更新是相同的。因為這些弱點存在於相同檔案中，所以這兩個公告所提及的更新均相同。
 
-**MS08-072 中的 Works 8 注意事項**
+**MS08-072 中的 Works 8 注意事項**  
 \*\*\*為能接收此安全性更新，執行 Microsoft Works 8.0 的客戶必須先更新到 Works 8.5，如 [Microsoft Works Update](http://www.microsoft.com/products/works/international/update_1001.mspx) 中所述。 所有使用 Microsoft Works 8.0、Works Suite 2004、及 Works Suite 2005 的客戶也包括在內。至於執行 Works Suite 2006 的客戶，Works 8.5 已包含其中。
 
-**MS08-074 中 Microsoft Office Excel 2007 和 Microsoft Office Excel 2007 Service Pack 1 的注意事項**
+**MS08-074 中 Microsoft Office Excel 2007 和 Microsoft Office Excel 2007 Service Pack 1 的注意事項**  
 \*\*\*\*針對 Microsoft Office Excel 2007 和 Microsoft Office Excel 2007 Service Pack 1，除了安全性更新套件 KB958437 外，客戶也需安裝[適用於 Word、Excel 及 PowerPoint 2007 檔案格式的 Microsoft Office 相容性套件的安全性更新](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=99cca4ed-f1f9-4cfd-a986-edbec82ced4f) (KB958439)，以免受 MS08-074 中描述的弱點影響。已成功安裝 KB958437 和 KB958439 更新套件的客戶不必重新安裝。
 
 #### Microsoft 開發者工具和軟體

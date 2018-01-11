@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms08-apr(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2008 年 4 月份 Microsoft 資訊安全公告摘要
 =========================================
 

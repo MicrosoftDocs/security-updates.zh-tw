@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms09-jul(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2009 年 7 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -656,13 +654,13 @@ Windows Server 2008
 
 **MS09-032 注意事項**
 
-**\*\***嚴重性等級不適用此更新，因為此公告討論的弱點不會影響此軟體。 但是，做為在未來保護所識別之任何新模式的深度防禦措施，Microsoft 建議此軟體的客戶套用此安全性更新。
+*\*嚴重性等級不適用此更新，因為此公告討論的弱點不會影響此軟體。 但是，做為在未來保護所識別之任何新模式的深度防禦措施，Microsoft 建議此軟體的客戶套用此安全性更新。
 
 **MS09-028 注意事項**
 
-**\*\*\***DirectX 8.1 的更新也適用於 DirectX 8.1b。
+\***DirectX 8.1 的更新也適用於 DirectX 8.1b。
 
-**\*\*\***DirectX 9.0 的更新也適用於 DirectX 9.0a、DirectX 9.0b 及 DirectX 9.0c。
+\***DirectX 9.0 的更新也適用於 DirectX 9.0a、DirectX 9.0b 及 DirectX 9.0c。
 
 #### Microsoft Office 套件及軟體
 

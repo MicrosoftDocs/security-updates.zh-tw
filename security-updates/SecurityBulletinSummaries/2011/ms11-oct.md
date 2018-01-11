@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms11-oct(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2011 年 10 月份 Microsoft 安全性公告摘要
 ========================================
 
@@ -1452,7 +1450,7 @@ Microsoft Forefront Unified Access Gateway
 </tr>
 </table>
  
-**MS11-07**9**** **注意事項**
+**MS11-079** **注意事項**
 
 <sup>[1]</sup>這個更新程式僅可以從 Microsoft 下載中心取得。
 

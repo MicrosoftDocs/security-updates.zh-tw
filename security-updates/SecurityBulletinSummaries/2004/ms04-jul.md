@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms04-jul(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2004 年 7 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -16,7 +14,7 @@ Security Bulletin Summary
 
 **版本:** 2.0
 
-**發佈日期：** 2004 年 7 月 14 日
+**發佈日期：** 2004 年 7 月 14 日  
 **版本：** 1.0
 
 請參考[此處](http://www.microsoft.com/taiwan/technet/security/)所提供的使用者版本資訊。

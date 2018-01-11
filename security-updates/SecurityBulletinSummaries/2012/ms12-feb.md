@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-feb(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2012 年 2 月份 Microsoft 安全性公告摘要
 =======================================
 
