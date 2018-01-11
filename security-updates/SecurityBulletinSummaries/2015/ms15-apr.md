@@ -1921,7 +1921,7 @@ Windows Server 2012 R2 (Server Core 安裝)
  
 **MS15-032 和 MS15-034 注意事項**
 
-Windows Technical Preview 和 Windows Server Technical Preview 會受影響。建議執行這些作業系統的客戶透過 [Windows Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-tw) 套用此更新。** **
+Windows Technical Preview 和 Windows Server Technical Preview 會受影響。建議執行這些作業系統的客戶透過 [Windows Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-tw) 套用此更新。
 
 ** **
 
