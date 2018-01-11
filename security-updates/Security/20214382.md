@@ -1,0 +1,946 @@
+---
+TOCTitle: Windows Server 2003 安全性事件
+Title: Windows Server 2003 安全性事件
+ms:assetid: '5d277bbc-416e-4789-955d-282abb4cc22d'
+ms:contentKeyID: 20214382
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Dd548199(v=TechNet.10)'
+---
+
+Windows Server 2003 安全性事件
+==============================
+
+Overview
+
+發佈日期: 2003 年 12 月 31 日 | 更新日期: 2006 年 4 月 26 日
+
+##### 本頁內容
+
+[](#elaa)[目標](#elaa)
+[](#ekaa)[適用於](#ekaa)
+[](#ejaa)[如何使用本單元](#ejaa)
+[](#eiaa)[帳戶登入事件](#eiaa)
+[](#ehaa)[帳戶管理事件](#ehaa)
+[](#egaa)[目錄服務存取事件](#egaa)
+[](#efaa)[稽核登入事件](#efaa)
+[](#eeaa)[物件存取事件](#eeaa)
+[](#edaa)[稽核原則變更事件](#edaa)
+[](#ecaa)[特殊權限使用事件](#ecaa)
+[](#ebaa)[詳細的追蹤事件](#ebaa)
+[](#eaaa)[稽核系統事件](#eaaa)
+
+### 目標
+
+透過本單元即可：
+
+-   識別由 Microsoft® Windows Server™ 2003 作業系統所產生的安全性事件。
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 適用於
+
+本單元適用於下列產品及技術：
+
+-   Windows Server 2003
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 如何使用本單元
+
+本單元隨附於《Windows Server 2003 Security Guide (英文)》。使用此單元中的表格作為快速參考，來協助識別記錄在 Microsoft® Windows 作業系統事件日誌中的安全性相關事件。您還可以使用此單元來協助您設定系統監視軟體，例如 Microsoft 作業管理員 (Microsoft Operations Manager，MOM)。
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 帳戶登入事件
+
+\[表 1\] 顯示由**稽核帳戶登入事件**安全性範本設定所產生的安全性事件。
+
+\[表 1\]：稽核帳戶登入事件
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >事件說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">672</td>
+<td style="border:1px solid black;">驗證服務 (AS) 票證已成功發出，而且也通過驗證。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">673</td>
+<td style="border:1px solid black;">已授與票證授與服務 (TGS) 的票證。TGS 為由 Kerberos 第 5 版票證授與服務 TGS 所核發的票證，讓使用者能夠向網域中的特定服務驗證。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">674</td>
+<td style="border:1px solid black;">安全性主體已更新 AS 票證或 TGS 票證。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">675</td>
+<td style="border:1px solid black;">預先驗證失敗。此事件是當使用者鍵入不正確的密碼時，在金鑰發佈中心 (KDC) 上產生的。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">676</td>
+<td style="border:1px solid black;">驗證票證要求已失敗。此事件不是在 Windows XP Professional 或 Windows Server 系列的成員中產生的。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">677</td>
+<td style="border:1px solid black;">未授與 TGS 票證。此事件不是在 Windows XP Professional 或 Windows Server 系列的成員中產生的。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">678</td>
+<td style="border:1px solid black;">帳戶已成功地對應至網域帳戶。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">681</td>
+<td style="border:1px solid black;">登入失敗。嘗試進行網域帳戶登入。此事件不是在 Windows XP Professional 或 Windows Server 系列的成員中產生的。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">682</td>
+<td style="border:1px solid black;">使用者已重新連線至中斷連線的終端機伺服器工作階段。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">683</td>
+<td style="border:1px solid black;">使用者未登出就將終端機伺服器工作階段中斷連線。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 帳戶管理事件
+  
+\[表 2\] 顯示由**稽核帳戶管理**安全性範本設定所產生的安全性事件。
+  
+\[表 2\]：稽核帳戶管理事件
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >事件說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">624</td>
+<td style="border:1px solid black;">已建立使用者帳戶。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">627</td>
+<td style="border:1px solid black;">已變更使用者密碼。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">628</td>
+<td style="border:1px solid black;">已設定使用者密碼。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">630</td>
+<td style="border:1px solid black;">已刪除使用者帳戶。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">631</td>
+<td style="border:1px solid black;">已建立通用群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">632</td>
+<td style="border:1px solid black;">成員已加入通用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">633</td>
+<td style="border:1px solid black;">已將成員自通用群組中移除。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">634</td>
+<td style="border:1px solid black;">已刪除通用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">635</td>
+<td style="border:1px solid black;">已建立新的本機群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">成員已加入本機群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">637</td>
+<td style="border:1px solid black;">已將成員自本機群組中移除。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">638</td>
+<td style="border:1px solid black;">已刪除本機群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">639</td>
+<td style="border:1px solid black;">已變更本機群組帳戶。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">641</td>
+<td style="border:1px solid black;">已變更通用群組帳戶。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">642</td>
+<td style="border:1px solid black;">已變更使用者帳戶。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">643</td>
+<td style="border:1px solid black;">已修改網域原則。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">644</td>
+<td style="border:1px solid black;">已自動鎖定使用者帳戶。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">645</td>
+<td style="border:1px solid black;">已建立電腦帳戶。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">646</td>
+<td style="border:1px solid black;">已變更電腦帳戶。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">647</td>
+<td style="border:1px solid black;">已刪除電腦帳戶。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">648</td>
+<td style="border:1px solid black;">已建立停用安全性的本機安全性群組。<br />
+<strong>注意</strong>：正式名稱中的 SECURITY_DISABLED 表示此群組不能在存取檢查中用來授與權限。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">649</td>
+<td style="border:1px solid black;">已變更停用安全性的本機安全性群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">650</td>
+<td style="border:1px solid black;">成員已加入停用安全性的本機安全性群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">651</td>
+<td style="border:1px solid black;">已將成員自停用安全性的本機安全性群組中移除。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">652</td>
+<td style="border:1px solid black;">已刪除停用安全性的本機群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">653</td>
+<td style="border:1px solid black;">已建立停用安全性的通用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">654</td>
+<td style="border:1px solid black;">已變更停用安全性的通用群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">655</td>
+<td style="border:1px solid black;">成員已加入停用安全性的通用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">656</td>
+<td style="border:1px solid black;">已將成員自停用安全性的通用群組中移除。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">657</td>
+<td style="border:1px solid black;">已刪除停用安全性的通用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">658</td>
+<td style="border:1px solid black;">已建立啟用安全性的萬用群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">659</td>
+<td style="border:1px solid black;">已變更啟用安全性的萬用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">660</td>
+<td style="border:1px solid black;">成員已加入啟用安全性的萬用群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">661</td>
+<td style="border:1px solid black;">已將成員自啟用安全性的萬用群組中移除。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">662</td>
+<td style="border:1px solid black;">已刪除啟用安全性的萬用群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">663</td>
+<td style="border:1px solid black;">已建立停用安全性的萬用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">664</td>
+<td style="border:1px solid black;">已變更停用安全性的萬用群組。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">665</td>
+<td style="border:1px solid black;">成員已加入停用安全性的萬用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">666</td>
+<td style="border:1px solid black;">已將成員自停用安全性的萬用群組中移除。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">667</td>
+<td style="border:1px solid black;">已刪除停用安全性的萬用群組。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">668</td>
+<td style="border:1px solid black;">已變更群組類型。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">684</td>
+<td style="border:1px solid black;">已設定管理群組成員的安全性描述元。<br />
+<strong>注意：</strong>在網域控制站上每隔 60 分鐘，幕後執行緒會搜尋管理群組的所有成員 (例如，網域、企業，以及架構系統管理員)，並在其上套用固定的安全性描述元。此事件會記錄下來。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">685</td>
+<td style="border:1px solid black;">已變更帳戶的名稱。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 目錄服務存取事件
+  
+\[表 3\] 顯示由**稽核目錄服務存取**安全性範本設定所產生的安全性事件。
+  
+**\[表 3\]：稽核目錄服務存取事件**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >事件說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">566</td>
+<td style="border:1px solid black;">發生一般物件作業。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 稽核登入事件
+  
+\[表 4\] 包含由**稽核登入事件**安全性範本設定所產生的安全性事件。
+  
+\[表 4\]：稽核登入事件
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >稽核登入事件</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">528</td>
+<td style="border:1px solid black;">使用者已成功地登入電腦。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">529</td>
+<td style="border:1px solid black;">登入失敗。用未知的使用者名稱或具錯誤密碼的已知使用者名稱，來嘗試進行登入。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">530</td>
+<td style="border:1px solid black;">登入失敗。於允許時限之外嘗試進行登入。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">531</td>
+<td style="border:1px solid black;">登入失敗。嘗試使用已停用的帳戶登入。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">532</td>
+<td style="border:1px solid black;">登入失敗。嘗試使用已過期的帳戶登入。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">533</td>
+<td style="border:1px solid black;">登入失敗。由不允許登入指定電腦的使用者來嘗試進行登入。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">534</td>
+<td style="border:1px solid black;">登入失敗。使用者利用不允許的密碼類型來嘗試進行登入。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">535</td>
+<td style="border:1px solid black;">登入失敗。指定之帳戶的密碼已經過期。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">536</td>
+<td style="border:1px solid black;">登入失敗。Net Logon 服務並未啟動。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">537</td>
+<td style="border:1px solid black;">登入失敗。基於其他的理由，嘗試登入已失敗。<br />
+<strong>注意</strong>：在某些狀況下，可能不知道登入失敗的理由。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">538</td>
+<td style="border:1px solid black;">使用者的登出程序已完成。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">539</td>
+<td style="border:1px solid black;">登入失敗。嘗試登入時，帳戶是鎖定的。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">540</td>
+<td style="border:1px solid black;">使用者已成功地登入網路。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">541</td>
+<td style="border:1px solid black;">主要模式的網際網路金鑰交換 (IKE) 驗證已在本機電腦與列出的對等個體之間完成 (建立安全性關聯)，或是快速模式已建立資料通道。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">542</td>
+<td style="border:1px solid black;">資料通道已終止。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">543</td>
+<td style="border:1px solid black;">主要模式已終止。<br />
+<strong>注意</strong>：發生此種情況可能是因為對於安全性關聯過期 (預設為八個小時)、原則變更，或對等個體終止加以時間限制的結果。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">544</td>
+<td style="border:1px solid black;">因為對等個體未提供有效的憑證，或是簽章未經驗證，所以主要模式驗證失敗。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">545</td>
+<td style="border:1px solid black;">因為 Kerberos 驗證失敗或密碼不正確，所以主要模式驗證失敗。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">546</td>
+<td style="border:1px solid black;">因為對等個體送出無效的提議，所以 IKE 安全性關聯的建立失敗。已收到包含無效資料的封包。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">547</td>
+<td style="border:1px solid black;">在 IKE 交握期間發生失敗。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">548</td>
+<td style="border:1px solid black;">登入失敗。得自信任網域的安全性識別元 (SID) 與用戶端的帳戶網域 SID 不相符。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">549</td>
+<td style="border:1px solid black;">登入失敗。對應於不受信任命名空間的所有 SID 已於跨越樹系進行驗證的期間遭過濾掉。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">550</td>
+<td style="border:1px solid black;">通知訊息可以表示可能遭到拒絕服務 (DoS) 攻擊。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">551</td>
+<td style="border:1px solid black;">使用者啟動了登出程序。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">552</td>
+<td style="border:1px solid black;">使用者利用明確憑證來成功地登入電腦，但之前已使用不同的使用者身份登入。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">682</td>
+<td style="border:1px solid black;">使用者已重新連線至中斷連線的終端機伺服器工作階段。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">683</td>
+<td style="border:1px solid black;">使用者沒有登出，就將終端機伺服器工作階段中斷連線。注意：此事件是使用者跨越網路連線至終端機伺服器工作階段時產生的。它會在終端機伺服器上顯示。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 物件存取事件
+  
+\[表 5\] 顯示由**稽核物件存取**安全性範本設定所產生的安全性事件。
+  
+\[表 5\]：稽核物件存取事件
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >事件說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">560</td>
+<td style="border:1px solid black;">已將存取權授與早已存在的物件。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">562</td>
+<td style="border:1px solid black;">已關閉物件的控制碼。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">563</td>
+<td style="border:1px solid black;">為了刪除物件而嘗試加以開啟。<br />
+<strong>注意</strong>：在 Createfile() 中指定 FILE_DELETE_ON_CLOSE 旗標時，這是由檔案系統所使用。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">564</td>
+<td style="border:1px solid black;">已刪除受保護的物件。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">565</td>
+<td style="border:1px solid black;">已將存取權授與早已存在的物件類型。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">567</td>
+<td style="border:1px solid black;">已使用與控制碼有關聯的權限。<br />
+<strong>注意</strong>：建立具某種授與權限 (讀取、寫入等) 的控制碼。在使用控制碼時，針對使用的每一項權限都會產生最多一個稽核。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">568</td>
+<td style="border:1px solid black;">嘗試建立指向正在稽核中之檔案的永久連結。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">569</td>
+<td style="border:1px solid black;">「授權管理員」中的資源管理員嘗試建立用戶端內容。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">570</td>
+<td style="border:1px solid black;">用戶端嘗試存取物件。<br />
+<strong>注意</strong>：對物件嘗試進行的每一項作業都會產生事件。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">571</td>
+<td style="border:1px solid black;">由「授權管理員」應用程式刪除用戶端內容。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">572</td>
+<td style="border:1px solid black;">「系統管理員」已初始化應用程式。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">772</td>
+<td style="border:1px solid black;">「憑證管理員」拒絕了擱置憑證的要求。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">773</td>
+<td style="border:1px solid black;">「憑證服務」收到了重新提交憑證的要求。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">774</td>
+<td style="border:1px solid black;">「憑證服務」撤銷了一個憑證。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">775</td>
+<td style="border:1px solid black;">「憑證服務」收到了發佈憑證撤銷清單 (CRL) 的要求。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">776</td>
+<td style="border:1px solid black;">「憑證服務」發佈了 CRL。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">777</td>
+<td style="border:1px solid black;">已進行憑證要求延伸。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">778</td>
+<td style="border:1px solid black;">一個以上的憑證要求屬性已變更。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">779</td>
+<td style="border:1px solid black;">「憑證服務」收到了關機的要求。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">780</td>
+<td style="border:1px solid black;">「憑證服務」備份已啟動。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">781</td>
+<td style="border:1px solid black;">「憑證服務」備份已完成。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">782</td>
+<td style="border:1px solid black;">「憑證服務」還原已啟動。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">783</td>
+<td style="border:1px solid black;">「憑證服務」還原已完成。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">784</td>
+<td style="border:1px solid black;">「憑證服務」已啟動。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">785</td>
+<td style="border:1px solid black;">「憑證服務」已停止。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">786</td>
+<td style="border:1px solid black;">「憑證服務」的安全性權限已變更。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">787</td>
+<td style="border:1px solid black;">「憑證服務」抓取了一個備份金鑰。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">788</td>
+<td style="border:1px solid black;">「憑證服務」將憑證匯入其資料庫。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">789</td>
+<td style="border:1px solid black;">「憑證服務」的稽核篩選器已變更。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">790</td>
+<td style="border:1px solid black;">「憑證服務」收到了憑證要求。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">791</td>
+<td style="border:1px solid black;">「憑證服務」已同意憑證要求，而且發行了憑證。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">792</td>
+<td style="border:1px solid black;">「憑證服務」拒絕了憑證要求。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">793</td>
+<td style="border:1px solid black;">「憑證服務」將憑證要求的狀態設定為擱置。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">794</td>
+<td style="border:1px solid black;">「憑證服務」的憑證管理員設定已變更。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">795</td>
+<td style="border:1px solid black;">「憑證服務」的設定項目已變更。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">796</td>
+<td style="border:1px solid black;">「憑證服務」的內容已變更。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">797</td>
+<td style="border:1px solid black;">「憑證服務」備份了一個金鑰。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">798</td>
+<td style="border:1px solid black;">「憑證服務」已匯入、並且備份了一個金鑰。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">799</td>
+<td style="border:1px solid black;">「憑證服務」針對 Microsoft Active Directory® 目錄服務，發佈了憑證授權 (CA) 的憑證。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">800</td>
+<td style="border:1px solid black;">已從憑證資料庫刪除了一行以上的資料行。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">801</td>
+<td style="border:1px solid black;">已啟用角色分隔。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 稽核原則變更事件
+  
+\[表 6\] 顯示由**稽核原則變更**安全性範本設定所產生的安全性事件。
+  
+\[表 6\]：稽核原則變更事件
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >事件說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">608</td>
+<td style="border:1px solid black;">已指派使用者權利。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">609</td>
+<td style="border:1px solid black;">已移除使用者權利。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">610</td>
+<td style="border:1px solid black;">已建立與另一個網域的信任關係。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">611</td>
+<td style="border:1px solid black;">已移除與另一個網域的信任關係。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">612</td>
+<td style="border:1px solid black;">已變更稽核原則。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">613</td>
+<td style="border:1px solid black;">已啟動網際網路通訊協定安全性 (IPSec) 原則代理程式。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">614</td>
+<td style="border:1px solid black;">已停用 IPSec 原則代理程式。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">615</td>
+<td style="border:1px solid black;">已變更 IPSec 原則代理程式。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">616</td>
+<td style="border:1px solid black;">IPSec 原則代理程式遇到潛在性嚴重失敗。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">617</td>
+<td style="border:1px solid black;">Kerberos 第 5 版原則已變更。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">618</td>
+<td style="border:1px solid black;">「加密資料修復」原則已變更。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">620</td>
+<td style="border:1px solid black;">已修改與另一個網域的信任關係。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">621</td>
+<td style="border:1px solid black;">系統存取權已授與帳戶。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">622</td>
+<td style="border:1px solid black;">已將系統存取權自帳戶移除。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">623</td>
+<td style="border:1px solid black;">稽核原則是以每一使用者為基礎來設定的。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">625</td>
+<td style="border:1px solid black;">稽核原則是以每一使用者為基礎來重新整理的。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">768</td>
+<td style="border:1px solid black;">在一個樹系中的命名空間元素與另一樹系中的命名空間元素之間，已偵測到衝突。<br />
+<strong>注意</strong>：若一個樹系中的命名空間元素與另一樹系中的命名空間元素重疊，則在解析屬於其中一個命名空間元素的名稱時，會造成模稜兩可的情況。此重疊也稱為衝突。對於每一種項目類型，並非所有參數都有效。例如，像 DNS 名稱、NetBIOS 名稱，以及 SID 等欄位對於「TopLevelName」類型的項目來說都是無效的。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">769</td>
+<td style="border:1px solid black;">已新增受信任的樹系資訊。<br />
+<strong>注意</strong>：此事件訊息是在更新了樹系信任資訊，並新增一或多個項目時所產生的。對於每一個新增、刪除，或修改的項目，都會產生一個事件訊息。在單獨一次更新樹系信任資訊時，如果新增、刪除，或修改了多個項目，則所有產生的事件訊息都會被指派一個獨特的識別元，稱為「作業 ID」。此舉讓您能夠確定產生的多個事件訊息，都來自同一個作業。對於每一種項目類型，並非所有參數都有效。例如，像 DNS 名稱、NetBIOS 名稱，以及 SID 等參數對於「TopLevelName」類型的項目來說都是無效的。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">770</td>
+<td style="border:1px solid black;">已刪除受信任的樹系資訊。<br />
+<strong>注意</strong>：有關事件 769 請參閱事件說明。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">771</td>
+<td style="border:1px solid black;">已修改受信任的樹系資訊。<br />
+<strong>注意</strong>：有關事件 769 請參閱事件說明。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">805</td>
+<td style="border:1px solid black;">事件日誌服務會讀取工作階段的安全性記錄設定。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 特殊權限使用事件
+  
+\[表 7\] 顯示由**稽核特殊權限使用**安全性範本設定所產生的安全性事件。
+  
+\[表 7\]：特殊權限使用事件
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >事件說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">576</td>
+<td style="border:1px solid black;">指定的特殊權限已加入使用者的存取權杖。<br />
+<strong>注意</strong>：此事件是在使用者登入時所產生的。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">577</td>
+<td style="border:1px solid black;">使用者嘗試執行需要特殊權限的系統服務作業。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">578</td>
+<td style="border:1px solid black;">特殊權限已使用在受保護物件的已開啟控制碼上。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 詳細的追蹤事件
+  
+\[表 8\] 顯示由**稽核程序追蹤**安全性範本設定所產生的安全性事件。
+  
+\[表 8\]：稽核程序追蹤事件
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >事件說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">592</td>
+<td style="border:1px solid black;">已建立新的程序。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">593</td>
+<td style="border:1px solid black;">程序已結束。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">594</td>
+<td style="border:1px solid black;">已複製物件的控制碼。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">595</td>
+<td style="border:1px solid black;">已取得物件的間接存取權。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">596</td>
+<td style="border:1px solid black;">已備份資料保護主要金鑰。<br />
+<strong>注意</strong>：主要金鑰是由 CryptProtectData 和 CryptUnprotectData 常式，以及加密檔案系統 (EFS) 所使用。每一次建立一個新的主要金鑰時都會加以備份。(預設的設定為 90 天)。該金鑰通常是由網域控制站備份。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">597</td>
+<td style="border:1px solid black;">資料保護主要金鑰已利用復原伺服器復原。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">598</td>
+<td style="border:1px solid black;">已保護可稽核的資料。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">599</td>
+<td style="border:1px solid black;">未保護可稽核的資料。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">600</td>
+<td style="border:1px solid black;">程序已指派主要權杖。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">601</td>
+<td style="border:1px solid black;">使用者嘗試安裝服務。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">602</td>
+<td style="border:1px solid black;">已建立排程器工作。</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 稽核系統事件
+  
+\[表 9\] 顯示由**稽核系統事件**安全性範本設定所產生的系統事件。
+  
+\[表 9\]：稽核系統事件
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >事件識別碼</th>
+<th style="border:1px solid black;" >事件說明</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">512</td>
+<td style="border:1px solid black;">Windows 正在啟動。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">513</td>
+<td style="border:1px solid black;">Windows 正在關機。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">514</td>
+<td style="border:1px solid black;">驗證封裝已由「本機安全性授權」載入。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">515</td>
+<td style="border:1px solid black;">受信任的登入程序已經向「本機安全性授權」註冊。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">516</td>
+<td style="border:1px solid black;">配置給安全性事件訊息佇列的內部資源已用盡，造成某些安全性事件訊息遺失。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">517</td>
+<td style="border:1px solid black;">已清除稽核記錄。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">518</td>
+<td style="border:1px solid black;">通知封裝軟體已由「安全性帳戶管理員」載入。</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">519</td>
+<td style="border:1px solid black;">處理程序正在使用無效的本機程序呼叫 (Local Procedure Call，LPC) 連接埠，以嘗試模擬用戶端來回應、讀取，或寫入用戶端位址空間。</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">520</td>
+<td style="border:1px solid black;">已變更系統時間。<br />
+<strong>注意</strong>：此稽核通常會出現兩次。</td>
+</tr>
+</tbody>
+</table>
+ 
+
+[](#mainsection)[回到頁首](#mainsection)
