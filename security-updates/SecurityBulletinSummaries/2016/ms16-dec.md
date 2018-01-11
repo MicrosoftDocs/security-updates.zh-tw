@@ -25,11 +25,11 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 提要
 ----
 
-<span id="sectionToggle0"></span>
 下表摘要本月安全性公告，以嚴重性高低排序。
 
 如需受影響軟體的詳細資訊，請參閱下一節**＜受影響的軟體＞**。
 
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -180,7 +180,6 @@ Adobe Flash Player</td>
 弱點入侵指數  
 ------------
   
-<span id="sectionToggle1"></span>
 下表提供本月所述每個弱點的利用性評估。這些弱點按照公告識別碼和 CVE ID 列出。只會列出公告上達到「重大」或「重要」嚴重性等級的弱點。
   
 **如何使用此表格？**
@@ -190,6 +189,7 @@ Adobe Flash Player</td>
 下方欄位「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -1328,7 +1328,6 @@ Windows 通用記錄檔系統驅動程式資訊洩漏弱點
 受影響的軟體
 ------------
 
-<span id="sectionToggle2"></span>
 下表依據主要的軟體類別和嚴重性依序列出公告。
 
 請用這些表格來了解可能需要安裝的安全性更新有哪些。您應該查看此處列出的每一種軟體程式或元件，看看是否有與安裝相關的安全性更新。清單中若列出軟體程式或元件，軟體更新的嚴重性等級也會列出來。
@@ -1338,6 +1337,7 @@ Windows 通用記錄檔系統驅動程式資訊洩漏弱點
 ### Windows 作業系統及元件 (表格 1 之 2)
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -3294,6 +3294,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 ### Windows 作業系統及元件 (表格 2 之 2)
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -5109,6 +5110,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 ### Microsoft .NET Framework – 僅限安全性版本
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5488,6 +5490,7 @@ Microsoft .NET Framework 4.6.2
 ### Microsoft .NET Framework – 每月彙總發行
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5869,6 +5872,7 @@ Microsoft .NET Framework 4.6.2
 ### Microsoft Office 套裝及軟體
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -6316,6 +6320,7 @@ Microsoft Word Viewer
 ### Microsoft Office Services 和 Web Apps
 
  
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -6466,7 +6471,6 @@ Microsoft Office Web Apps 2010 Service Pack 2
 偵測與部署工具及指南
 --------------------
 
-<span id="sectionToggle3"></span>
 有幾項資源可協助系統管理員部署安全性更新。
 
 Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，查看是否遺漏安全性更新以及是否存在一般安全設定錯誤。
@@ -6480,13 +6484,11 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 致謝
 ----
 
-<span id="sectionToggle4"></span>
 Microsoft 了解資訊安全業界所做的努力，其盡責地揭露弱點來協助我們保護客戶。請參閱[致謝](https://technet.microsoft.com/zh-tw/library/security/mt674627.aspx)以取得詳細資訊。
 
 其他資訊
 --------
 
-<span id="sectionToggle5"></span>
 ### Microsoft Windows 惡意軟體移除工具
 
 針對每個月第二個星期二發行的公告，Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Services 及下載中心發行更新版本的 Microsoft Windows 惡意軟體移除工具。不定期資訊安全公告發行不提供更新版本的 Microsoft Windows 惡意軟體移除工具。

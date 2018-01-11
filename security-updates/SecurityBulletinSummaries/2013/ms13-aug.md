@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms13-aug(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2013 年 8 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -34,7 +32,8 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體＞。
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -133,7 +132,7 @@ Internet Explorer</td>
 資訊安全風險入侵指數  
 --------------------
   
-<span></span>
+
 下表提供本月所述每個資訊安全風險的利用性評估。資訊安全風險皆根據公告編號和 CVE 編號依序列出。僅包含資訊安全公告中，嚴重性等級為「重大」或「重要」的資訊安全風險。
   
 **我該如何使用這個表格？**
@@ -142,7 +141,8 @@ Internet Explorer</td>
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -249,11 +249,11 @@ Internet Explorer</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-061">MS13-061</a></td>
 <td style="border:1px solid black;">Oracle Outside In 包含多項可能遭利用的資訊安全風險</td>
-<td style="border:1px solid black;">多項*</td>
+<td style="border:1px solid black;">多項&#42;</td>
 <td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
-<td style="border:1px solid black;">*多項資訊安全風險，請參閱 MS13-061 公告內容以瞭解詳細資訊。<br />
+<td style="border:1px solid black;">&#42;多項資訊安全風險，請參閱 MS13-061 公告內容以瞭解詳細資訊。<br />
 <br />
 這類資訊安全風險已被公開揭發。</td>
 </tr>
@@ -337,7 +337,7 @@ Internet Explorer</td>
 受影響的軟體  
 ------------
   
-<span></span>
+
 下表依據主要的軟體類別和嚴重性依序列出公告。
   
 **我該如何使用這些表格？**
@@ -348,7 +348,8 @@ Internet Explorer</td>
   
 #### Windows 作業系統與元件
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="8">
@@ -1748,7 +1749,8 @@ Windows Server 2012 (Server Core 安裝)
 
 #### Microsoft 伺服器軟體
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1827,7 +1829,7 @@ Microsoft Exchange Server 2013 積存更新 2
 偵測與部署工具及指南
 --------------------
 
-<span></span>
+
 **資訊安全中心**
 
 管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。如需更多資訊，請參閱 [TechNet 更新管理中心](http://technet.microsoft.com/zh-tw/updatemanagement/default.aspx) (英文)。[TechNet 資訊安全技術中心](http://technet.microsoft.com/zh-tw/security/default.aspx)提供 Microsoft 產品資訊安全的其他資訊。一般消費者可造訪 [Microsoft Safety & Security Center](http://technet.microsoft.com/zh-tw/security/default.aspx) (英文)，並點選 \[Security Updates\] (資訊安全更新) 來取得上述資訊。

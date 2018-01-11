@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms13-jun(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2013 年 6 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -34,7 +32,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體＞。
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -103,7 +101,7 @@ Internet Explorer</td>
 資訊安全風險入侵指數  
 --------------------
   
-<span></span>
+
 下表提供本月所述每個資訊安全風險的利用性評估。資訊安全風險皆根據公告編號和 CVE 編號依序列出。僅包含資訊安全公告中，嚴重性等級為「重大」或「重要」的資訊安全風險。
   
 **我該如何使用這個表格？**
@@ -140,7 +138,7 @@ Internet Explorer</td>
 受影響的軟體  
 ------------
   
-<span></span>
+
 下表依據主要的軟體類別和嚴重性依序列出公告。
   
 **我該如何使用這些表格？**
@@ -151,7 +149,7 @@ Internet Explorer</td>
   
 #### Windows 作業系統與元件
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="5">
@@ -1109,7 +1107,7 @@ Windows Server 2012 (Server Core 安裝)
 
 #### Microsoft Office 套件及軟體
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1158,7 +1156,7 @@ Microsoft Office for Mac 2011
 偵測與部署工具及指南
 --------------------
 
-<span></span>
+
 **資訊安全中心**
 
 管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。如需更多資訊，請參閱 [TechNet 更新管理中心](http://technet.microsoft.com/zh-tw/updatemanagement/default.aspx) (英文)。TechNet 資訊安全技術中心提供 Microsoft 產品資訊安全的其他資訊。一般消費者可造訪 [Microsoft Safety & Security Center](http://technet.microsoft.com/zh-tw/security/default.aspx) (英文)，並點選 \[Security Updates\] (資訊安全更新) 來取得上述資訊。

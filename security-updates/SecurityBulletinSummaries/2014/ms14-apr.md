@@ -7,8 +7,6 @@ ms:date: '07/02/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms14-apr(v=Security.10)'
 ---
 
-MSRC ppDocument 範本
-
 2014 年 4 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -29,12 +27,11 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 提要
 ----
 
-<span id="sectionToggle0"></span>
 下表依嚴重性摘要說明本月份資訊安全公告。
 
 如需受影響的軟體之詳細資料，請參閱下節＜**受影響的軟體**＞。
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -100,7 +97,6 @@ Internet Explorer</td>
 資訊安全風險入侵指數  
 --------------------
   
-<span id="sectionToggle1"></span>
 下表提供本月所述每個資訊安全風險的利用性評估。資訊安全風險皆根據公告編號和 CVE 編號依序列出。僅包含資訊安全公告中，嚴重性等級為「重大」或「重要」的資訊安全風險。
   
 我該如何使用這個表格？
@@ -108,7 +104,8 @@ Internet Explorer</td>
 您可以運用此表格，針對您可能需要安裝的每一項資訊安全更新，瞭解資訊安全風險在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 資訊安全風險索引](http://technet.microsoft.com/security/cc998259)。
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
-  
+
+<p></p>  
 <table style="width:100%;">
 <colgroup>
 <col width="14%" />
@@ -236,7 +233,6 @@ Microsoft 已發現有嘗試利用此資訊安全風險、有限且目標明確�
 受影響的軟體  
 ------------
   
-<span id="sectionToggle2"></span>
 下表依據主要的軟體類別和嚴重性依序列出公告。
   
 **我該如何使用這些表格？**
@@ -247,7 +243,7 @@ Microsoft 已發現有嘗試利用此資訊安全風險、有限且目標明確�
   
 **Windows 作業系統與元件**
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -1132,7 +1128,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 **Microsoft Office 套件及軟體**
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -1604,7 +1600,7 @@ Microsoft Office 相容性套件 Service Pack 3
 
 **Microsoft Office Services 和 Web Apps**
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -1817,7 +1813,6 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 偵測與部署工具及指南
 --------------------
 
-<span id="sectionToggle3"></span>
 有幾項資源可協助系統管理員部署資訊安全更新。
 
 -   Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，查看是否遺漏資訊安全更新及一般資訊安全設定錯誤的狀況。
@@ -1829,7 +1824,6 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 感謝
 ----
 
-<span id="sectionToggle4"></span>
 Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
 
 **MS14-017**
@@ -1858,7 +1852,6 @@ Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協�
 其他資訊
 --------
 
-<span id="sectionToggle5"></span>
 ### Microsoft Windows 惡意軟體移除工具 (英文)
 
 針對每個月第二個星期二發行的公告，Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Services 及下載中心發行更新版本的 Microsoft Windows 惡意軟體移除工具。不定期資訊安全公告發行不提供更新版本的 Microsoft Windows 惡意軟體移除工具。
