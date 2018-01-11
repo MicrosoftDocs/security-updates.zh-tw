@@ -136,6 +136,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 **受影響的軟體及下載位置**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1217,6 +1218,7 @@ Microsoft Visual Basic 6.0 Service Pack 6 (KB924053)
 **受影響的軟體及下載位置**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >

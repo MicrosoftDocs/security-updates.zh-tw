@@ -86,6 +86,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Windows 作業系統
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -477,6 +478,7 @@ DNS 伺服器更新：
 #### Microsoft 伺服器軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft SQL Server</caption>
 <tbody>
@@ -613,6 +615,7 @@ QFE 更新：<br />
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Exchange Server</caption>
 <tbody>

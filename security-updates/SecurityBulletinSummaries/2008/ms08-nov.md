@@ -88,6 +88,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -652,6 +653,7 @@ Windows Server 2008 R2
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >

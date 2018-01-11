@@ -90,6 +90,7 @@ Security Bulletin Summary
 #### 受影響的軟體及下載位置 (MS06-052 至 MS06-055)
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />

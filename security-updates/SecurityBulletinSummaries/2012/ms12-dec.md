@@ -35,6 +35,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -134,6 +135,7 @@ Internet Explorer</td>
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -266,6 +268,7 @@ Internet Explorer</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="6">
@@ -1622,6 +1625,7 @@ Windows Server 2012 (Server Core 安裝)
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1756,6 +1760,7 @@ Microsoft Office 相容性套件 Service Pack 3
 #### Microsoft 伺服器軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">

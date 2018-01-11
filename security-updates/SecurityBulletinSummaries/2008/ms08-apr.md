@@ -127,6 +127,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Windows 2000</caption>
 <tbody>
@@ -177,6 +178,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Windows XP</caption>
 <tbody>
@@ -239,6 +241,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Windows Server 2003</caption>
 <tbody>
@@ -319,6 +322,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Windows Vista</caption>
 <tbody>
@@ -373,6 +377,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Windows Server 2008</caption>
 <tbody>
@@ -440,6 +445,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Project</caption>
 <tbody>
@@ -478,6 +484,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </table>
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Office XP、Microsoft Office 2003 和 2007 Microsoft Office System</caption>
 <tbody>

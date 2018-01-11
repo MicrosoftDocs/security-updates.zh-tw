@@ -42,6 +42,7 @@ Security Bulletin Summary
 <span></span>
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -109,6 +110,7 @@ Security Bulletin Summary
 **受影響軟體及下載位置**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

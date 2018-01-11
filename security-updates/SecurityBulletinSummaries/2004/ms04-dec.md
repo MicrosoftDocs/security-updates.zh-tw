@@ -16,8 +16,8 @@ Security Bulletin Summary
 
 **版本:** 2.0
 
-**發佈日期：**2004 年 12 月 1 日
-**更新日期：**2004 年 12 月 15 日
+**發佈日期：**2004 年 12 月 1 日  
+**更新日期：**2004 年 12 月 15 日  
 **版本號碼**：2.0
 
 請參考[此處](http://www.microsoft.com/taiwan/security/default.mspx)所提供的使用者版本資訊。

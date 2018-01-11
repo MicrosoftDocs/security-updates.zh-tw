@@ -37,6 +37,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -194,6 +195,7 @@ Microsoft 伺服器軟體</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="8">
@@ -1111,6 +1113,7 @@ Windows Server 2008 R2
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1159,6 +1162,7 @@ Microsoft Visio Viewer 2010 和 Microsoft Visio Viewer 2010 Service Pack 1 (64 �
 #### Microsoft 伺服器軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1228,6 +1232,7 @@ Microsoft SharePoint Foundation 2010 和 Microsoft SharePoint Foundation 2010 Se
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

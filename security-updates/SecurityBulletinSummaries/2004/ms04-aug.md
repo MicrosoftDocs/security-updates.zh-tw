@@ -16,7 +16,7 @@ Security Bulletin Summary
 
 **版本:** 1.0
 
-**發佈日期：** 2004 年 8 月 10 日
+**發佈日期：** 2004 年 8 月 10 日  
 **版本：** 1.0
 
 請參考[此處](http://www.microsoft.com/taiwan/technet/security/)所提供的使用者版本資訊。
@@ -42,6 +42,7 @@ Security Bulletin Summary
 <span></span>
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -94,6 +95,7 @@ Security Bulletin Summary
 **受影響軟體及下載位置**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

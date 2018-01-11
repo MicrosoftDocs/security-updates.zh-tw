@@ -37,6 +37,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -177,6 +178,7 @@ Internet Explorer</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="6">
@@ -1248,6 +1250,7 @@ MS12-038 ***注意事項*****
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1311,6 +1314,7 @@ MS12-039 ***注意事項***
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1367,6 +1371,7 @@ MS12-039 注意事項
 #### Microsoft Enterprise Resource Planning (ERP) 解決方案
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1414,6 +1419,7 @@ MS12-040 注意事項
 #### Microsoft 通訊平台和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

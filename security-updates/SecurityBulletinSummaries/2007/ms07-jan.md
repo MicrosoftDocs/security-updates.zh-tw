@@ -87,6 +87,7 @@ Security Bulletin Summary
 **受影響的軟體及下載位置 (MS07-001 至 MS07-004)**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />

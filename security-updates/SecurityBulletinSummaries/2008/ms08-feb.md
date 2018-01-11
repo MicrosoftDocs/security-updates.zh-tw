@@ -154,6 +154,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### 適用於公告 MS08-003 至 MS08-008 的受影響軟體與下載位置
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -804,6 +805,7 @@ Microsoft Visual Basic 6.0 Service Pack 6
 #### 適用於公告 MS08-009 至 MS08-013 的受影響軟體與下載位置
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >

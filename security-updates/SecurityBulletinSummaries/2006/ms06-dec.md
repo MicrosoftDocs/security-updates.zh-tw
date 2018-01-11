@@ -112,6 +112,7 @@ Security Bulletin Summary
 **受影響的軟體及下載位置 (MS06-072 至 MS06-074)**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -260,6 +261,7 @@ Security Bulletin Summary
 **受影響的軟體及下載位置 (MS06-075 至 MS06-078)**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />

@@ -91,6 +91,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Windows 作業系統與伺服器
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Windows 2000</caption>
 <tbody>
@@ -112,6 +113,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Windows XP</caption>
 <tbody>
@@ -138,6 +140,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Windows Server 2003</caption>
 <tbody>
@@ -171,6 +174,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Office 套件、系統和元件</caption>
 <tbody>
@@ -256,6 +260,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </table>
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Office for Mac</caption>
 <tbody>
@@ -284,6 +289,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>其他 Microsoft Office 軟體</caption>
 <tbody>
@@ -324,6 +330,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 **注意：** 以下項目沒有相關的下載連結，因為所識別的軟體有內建的更新自動偵測與部署機制。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <caption>Microsoft Anti-Malware</caption>
 <tbody>
