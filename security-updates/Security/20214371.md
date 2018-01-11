@@ -1,0 +1,3568 @@
+---
+TOCTitle: 主要 Microsoft 伺服器產品所使用的網路連接埠
+Title: 主要 Microsoft 伺服器產品所使用的網路連接埠
+ms:assetid: 'ba403109-7aa3-4e44-9ed7-d65b44d91a11'
+ms:contentKeyID: 20214371
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Dd548188(v=TechNet.10)'
+---
+
+主要 Microsoft 伺服器產品所使用的網路連接埠
+===========================================
+
+### Overview
+
+發佈日期: 2003 年 5 月 22 日 | 更新日期: 2006 年 4 月 13 日
+
+##### 本頁內容
+
+[](#efaa)[簡介](#efaa)
+[](#eeaa)[術語用法](#eeaa)
+[](#edaa)[Microsoft 伺服器產品連接埠](#edaa)
+[](#ecaa)[連接埠及通訊協定](#ecaa)
+[](#ebaa)[詳細資訊](#ebaa)
+[](#eaaa)[相關主題](#eaaa)
+
+### 簡介
+
+本文件說明伺服器產品，以及這些產品在 Microsoft® Windows Server System™ 中的子元件，所使用的網路連接埠與通訊協定。
+
+Windows Server System 包含廣泛、經過整合的基礎結構，它們的設計目的是為了滿足開發人員及資訊科技 (IT) 專業人員的需求。資訊工作者可以使用這個系統來執行程式，快速且輕鬆地取得、分析及共用資訊。這些 Microsoft 伺服器產品使用許多不同的網路連接埠及通訊協定，與用戶端及伺服器系統進行溝通。儘管固定式防火牆、主機型防火牆，以及網際網路通訊協定安全性 (IPSec) 篩選器可以用來協助保護您的網路，如果這些技術被設定為封鎖 Windows Server System 所使用的連接埠及通訊埠，伺服器就無法回應合法的用戶端要求。如果伺服器無法回應合法的用戶端要求，它可能沒有正常運作或完全沒有運作。
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### 術語用法
+
+下列清單提供本文件所包含資訊的概觀：
+
+-   本文件＜Microsoft 伺服器產品連接埠＞一節會簡單介紹每個服務、該服務顯示的邏輯名稱，並指出每個服務正確運作所需要的連接埠及通訊協定。使用這一節的內容協助識別特定服務所使用的連接埠及通訊協定。
+
+-   在＜連接埠及通訊協定表＞一節中，包含＜系統服務連接埠＞一節摘要資訊的表格。表格是以連接埠號碼作為排序依據，而不是以服務名稱作為排序依據。使用本節來快速判斷是哪一個服務在特定連接埠上接聽。
+
+本文件使用部分特定用法的術語。為了避免混淆，請確定您瞭解這些術語在本文件中的用法。下列是這些術語的說明：
+
+-   **系統服務**：Windows Server System 包含許多產品，例如 Microsoft® Windows Server™ 2003 系列、Microsoft® Exchange 2000 Server，以及 Microsoft® SQL Server™ 2000。每項產品又包含許多元件，系統服務即是其中一項元件。啟動電腦所需之系統服務的方式有兩種：一是在啟動作業系統期間自動啟動；其次是在一般作業期間依需求啟動。例如，部分可在執行 Windows Server 2003 企業版的電腦上使用的系統服務，包括 Server 服務、Print Spooler 服務，以及 World Wide Web Publishing 服務。每一個系統服務都有一個易記名稱和服務名稱。易記名稱是顯示在圖形化管理工具中的名稱，例如 Services Microsoft Management Console (MMC) 嵌入式管理單元。服務名稱是命令列工具及許多指令碼處理語言所使用的名稱。每個系統服務都會提供一個或更多的網路服務。
+
+-   **應用程式通訊協定**：在文件的內容中，應用程式通訊協定是使用一或多個 TCP/IP 通訊協定及連接埠的高階網路通訊協定。應用程式通訊協定的範例包括 HTTP、伺服器訊息區 (SMB)，以及簡易郵件傳送通訊協定 (Simple Mail Transfer Protocol，SMTP)。
+
+-   **通訊協定**：應用程式通訊協定以下層次的操作，TCP/IP 通訊協定是許多裝置進行網路通訊的標準格式。
+
+    TCP/IP 通訊協定套件包括 TCP、使用者資料包通訊協定 (User Datagram Protocol，UDP)，以及網際網路控制訊息通訊協定 (Internet Control Message Protocol，ICMP)。
+
+-   **連接埠**：這是系統服務接聽傳入網路流量的網路連接埠。
+
+本文件不會特別說明哪些服務依賴其他服務來進行網路通訊。例如，許多服務依賴 Microsoft Windows 中的遠端程序呼叫 (Remote Procedure Call，RPC) 或分散式元件物件模式 (Distributed Component Object Model，DCOM) 功能，來為它們指派動態 TCP 連接埠。其他使用 RPC 或 DCOM 的系統服務，會要求 RPC 服務協同運作，以與用戶端電腦進行通訊。許多依賴網路基本輸入/輸出系統 (NetBIOS) 或 SMB、通訊協定的其他服務，實際上是由 Server 服務提供的。其他服務依賴 HTTP 或 HTTPS。這些通訊協定是由 Internet Information Service 提供的。關於 Windows 作業系統架構的完整論述，並不包含在本文的範圍內。然而，Microsoft TechNet 及 Microsoft Developer Network (MSDN) 上有關於此主題的詳細說明文件。當有許多服務依賴特定 TCP 或 UDP 連接埠時，連接埠一次只能啟用一個接聽的服務或程序。
+
+當您使用 RPC 搭配 TCP/IP 或 UDP/IP 作為傳輸埠時，輸入連接埠通常會依需要頻繁地指派給系統服務；使用連接埠 1024 以上的 TCP/IP 及 UDP/IP 連接埠。這些通常會非正式地稱為「隨機 RPC 連接埠」。在這些情況下，RPC 用戶端依賴 RPC 端點對應程式，告知它們指派給伺服器的動態連接埠是哪一個。針對部分 RPC 服務，您可以設定連接埠，而不讓 RPC 動態指派連接埠。您也可以將 RPC 動態指派連接埠的範圍限定為較小的範圍，不論是哪一個服務。如需詳細資訊，請參閱本文件稍後的＜相關主題＞。
+
+本文件涵蓋關於 Microsoft 產品的系統服務角色及伺服器角色的資訊，這些產品列在本文件＜相關資訊＞一節中。儘管本文件的資訊可能也適用於 Microsoft Windows XP 及 Microsoft Windows 2000 Professional，然而本文件的焦點是伺服器類的系統。因此，本文件的說明重點是服務所接聽的連接埠，而不是用戶端程式用來連接遠端系統的連接埠。
+
+[](#mainsection)[回到頁首](#mainsection)
+
+### Microsoft 伺服器產品連接埠
+
+本節提供每個系統服務的說明，包括系統服務對應的邏輯名稱，並列出每個服務所需的連接埠及通訊協定。
+
+#### Application Layer Gateway (ALG) 服務
+
+這個網際網路連線共用 (Internet Connection Sharing，ICS)/網際網路連線防火牆 (Internet Connection Firewall，ICF) 服務的子元件，提供可讓網路通訊協定通過防火牆並在 ICS 之後運作的外掛程式支援。應用層閘道 (Application Layer Gateway) 外掛程式具有開啟連接埠，以及變更內嵌在封包中資料 (例如連接埠及 IP 位址) 的能力。檔案傳輸通訊協定 (File Transfer Protocol，FTP) 是唯一與 Windows Server 2003 標準版及 Windows Server 2003 企業版一起發行，而具有外掛程式的網路通訊協定。
+
+ALG FTP 外掛程式的設計目的，是用來支援作用中 FTP 工作階段， 通過這些元件使用的網路位址轉譯 (NAT) 引擎。ALG FTP 外掛程式藉由將正要通過 NAT 預定連接埠 21 的所有流量，重新導向到回送介面卡上 3000-5000 範圍間的私人接聽埠，來達成上述目的。然後，ALG FTP 外掛程式會監視及更新 FTP 控制通道流量，因此 FTP 外掛程式可以透過 NAT 探索 FTP 資料通道的連接埠對應。FTP 外掛程式也會更新 FTP 控制通道資料流中的連接埠。
+
+**系統服務名稱** ALG
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">FTP 控制</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">21</td>
+</tr>
+</tbody>
+</table>
+  
+#### ASP.NET State Service
+  
+ASP.NET State Service 提供 ASP.NET 跨處理序 (Out-Of-Process) 工作階段狀態的支援。ASP.NET State Service 會儲存跨處理序工作階段資料。這個服務會使用通訊端，與在網頁伺服器上執行的 ASP.NET 進行通訊。
+  
+**系統服務名稱** aspnet\_state
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">ASP.Net Session State (ASP.Net 工作階段狀態)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">42424</td>
+</tr>
+</tbody>
+</table>
+  
+#### Certificate Services
+  
+Certificate Services (憑證服務) 是核心作業系統的一部分，可讓企業扮演自己本身的憑證授權單位 (CA)。藉由這個方式，企業可以發出並管理應用程式及通訊協定，例如安全或多用途網際網路郵件延伸 (Secure/Multipurpose Internet Mail Extensions，S/MIME)、安全通訊端層 (Secure Sockets Layer，SSL)、加密檔案系統 (Encrypting File System，EFS)、IPSec 及智慧卡登入的數位憑證。憑證服務依賴 RPC 及 DCOM，使用 1024 以上的隨機 TCP 連接埠與用戶端進行通訊。
+  
+**系統服務名稱** CertSvc
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### Cluster 服務
+  
+Cluster (叢集) 服務會控制伺服器叢集作業及管理叢集資料庫。叢集是獨立電腦的集合，集合成為叢集之後當作單一電腦來使用。管理員、程式設計師及使用者，會以單一系統來看待叢集。軟體會在叢集的節點之間散佈資料。如果有節點失敗，其他節點會提供之前由失敗節點提供的服務及資料。新增或修復節點之後，叢集軟體會遷移部分資料到這個節點。
+  
+**系統服務名稱** ClusSvc
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Cluster Services (叢集服務)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">3343</td>
+</tr>
+</tbody>
+</table>
+  
+#### Computer Browser
+  
+Computer Browser (電腦瀏覽器) 系統服務會維護網路上最新的電腦清單，並提供給要求這個清單的程式。Windows 電腦會使用 Computer Browser 服務來檢視網路網域及資源。指定作為瀏覽器的電腦會維護瀏覽清單，它包含網路上使用的所有共用資源。較早版本的 Windows 應用程式，例如「網路上的芳鄰」、NET VIEW 命令，以及 Microsoft Windows NT® 檔案總管，都需要瀏覽能力。例如，在執行 Windows XP 的電腦上開啟「網路上的芳鄰」，會顯示網域及電腦的清單，電腦會從指定作為瀏覽器的電腦上取得瀏覽清單複本來完成這個清單。
+  
+**系統服務名稱** Browser
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Datagram Service (NetBIOS 資料包服務)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">138</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NetBIOS Name Resolution (NetBIOS 名稱解析)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">137</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Session Service (NetBIOS 工作階段服務)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+</tbody>
+</table>
+  
+#### DHCP Server
+  
+DHCP Server 服務使用動態主機設定通訊協定 (Dynamic Host Configuration Protocol，DHCP)，自動分派 IP 位址並啟用網路設定的進階設定，例如網域名稱系統 (Domain Name System，DNS) 伺服器及 Windows 網際網路名稱服務 (Windows Internet Name Service，WINS) 伺服器會分給 DHCP 用戶端。網路系統管理員會建立一或多個 DHCP 伺服器，以維護 TCP/IP 設定資訊，並將此資訊提供給用戶端。
+  
+**系統服務名稱** DHCPServer
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">DHCP Server (DHCP 伺服器)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">67</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">MADCAP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">2535</td>
+</tr>
+</tbody>
+</table>
+  
+#### Distributed File System (DFS)
+  
+Distributed File System (分散式檔案系統) 服務會管理分散於區域或廣域網路 (LAN 或 WAN)，而且是 Microsoft® Active Directory® SYSVOL 共用所需的邏輯磁磁碟區。DFS 是一個分散式服務，可以將分散的檔案共用整合成單一邏輯名稱區。
+  
+**系統服務名稱** Dfs
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">138</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">LDAP Server (LDAP 伺服器)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">389</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">LDAP Server</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">389</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">445</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">138</td>
+</tr>
+</tbody>
+</table>
+  
+#### Distributed Link Tracking Server
+  
+Distributed Link Tracking Server (散佈式連結追蹤伺服器) 系統服務會儲存資訊，因此可以追蹤到網域中每個磁碟區之間的檔案移動。Distributed Link Tracking Server 服務會在網域中的每個網域控制站上執行。這個服務會啟用 Distributed Link Tracking Server Client (散佈式連結追蹤用戶端) 服務，來追蹤已移動到相同網域內其他 NTFS 檔案系統磁碟區中的連結文件。
+  
+**系統服務名稱** TrkSvr
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### Distributed Transaction Coordinator (DTC)
+  
+Distributed Transaction Coordinator (分散式交易協調器) 系統服務負責協調跨越多個電腦系統及資源管理員的交易，例如資料庫、訊息佇列、檔案系統，或其他受保護的交易資源管理員。如果要透過 COM+ 來設定交易式電腦，必須有 DTC 系統服務。跨越多個系統的訊息佇列 (Message Queuing，MSMQ) 及 SQL Server 作業中的交易式佇列也需要 DTC 系統服務。
+  
+**系統服務名稱** MSDTC
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### DNS Server
+  
+DNS Server (DNS 伺服器) 系統服務會藉由回應 DNS 名稱查詢及更新 DNS 名稱要求，來啟用 DNS 名稱解析。DNS 伺服器的存在，對於在 Active Directory 目錄服務中，尋找使用 DNS 名稱及網域控制站識別的裝置及服務而言非常重要。
+  
+**系統服務名稱** DNS
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">53</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">53</td>
+</tr>
+</tbody>
+</table>
+  
+#### Event Log
+  
+這個系統服務會記錄由程式及 Windows 作業系統發出的事件訊息。Event Log (事件日誌) 報告會包含有益於診斷問題的資訊。可以使用「事件檢視器」來檢視報告。Event Log 服務會將應用程式、服務及作業系統所傳送的事件寫入到記錄檔。事件會包括診斷資訊，以及指明錯誤的來源應用程式、服務或元件。記錄檔可以透過 Event Log 應用程式發展介面 (Application Programming Interface，API)，或透過 MMC (Microsoft Management Console) 嵌入式管理單元中的「事件檢視器」來檢視。
+  
+**系統服務名稱**事件日誌
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### Exchange Server
+  
+Microsoft Exchange Server (Microsoft Exchange 伺服器) 包含多種系統服務。當 Microsoft Outlook® 這樣的 MAPI 用戶端連線到 Exchange 伺服器時，用戶端首先會連線到 TCP 連接埠 135 上的 RPC 端點對應程式 (即 RPC 定位程式服務 (RPC Locator Service))。RPC 端點對應程式會告知用戶端使用哪一個連接埠來連線到 Exchange Server 服務，這個連接埠是動態指派的。Exchange Server 5.5 使用兩個連接埠，一個用於資訊儲存區，另一個用於資訊儲存目錄。Microsoft Exchange 2000 Server 及 Exchange Server 2003 使用三個連接埠，一個用於資訊儲存區，兩個分別用於各自的系統服務員。另一方面，Microsoft Outlook 2003 可以使用 RPC over HTTP 連線到執行 Exchange Server 2003 的伺服器。Exchange 也可以提供其他通訊協定的支援，例如 SMTP、POP3 及 IMAP。
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">IMAP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">143</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">IMAP over SSL</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">993</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">POP3</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">110</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">POP3 over SSL</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">995</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">RPC over HTTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">593</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">25</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">SMTP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">25</td>
+</tr>
+</tbody>
+</table>
+  
+#### Fax 服務
+  
+Fax (傳真) 服務是一個電信應用程式發展介面 (Telephony Application Programming Interface，TAPI) 相容系統服務，可為電腦提供傳真能力。Fax 服務允許使用者從桌面應用程式，使用連接到本機的傳真裝置，或網路共用的傳真裝置，來傳送及接收傳真。
+  
+**系統服務名稱** Fax
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">445</td>
+</tr>
+</tbody>
+</table>
+  
+#### File Replication
+  
+File Replication (檔案複寫) 系統服務允許檔案在多個伺服器上同時自動地複製及維護。File Replication 服務 (FRS) 是 Windows 2000 及 Microsoft Windows Server™ 2003 系列產品中的自動檔案複寫服務。它的功能是複寫所有網域控制站上的 Sysvol。此外，FRS 可以設定為複寫容錯 DFS 的備用目標間的檔案。
+  
+**系統服務名稱** NtFrs
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### File Server for Macintosh
+  
+File Server for Macintosh 系統服務可以讓 Macintosh 電腦使用者儲存及存取執行 Windows Server 2003 電腦上的檔案。如果關閉或封鎖這個服務，Macintosh 用戶端便無法存取或在您的電腦上儲存檔案。
+  
+**系統服務名稱** MacFile
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">File Server for Macintosh</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">548</td>
+</tr>
+</tbody>
+</table>
+  
+#### FTP Publishing Service
+  
+FTP Publishing (FTP 發行) 服務提供 FTP 連線能力。FTP 控制連接埠預設是 21，但是您可以透過 Internet Information Services (IIS) 管理員 (嵌入式管理單元) 來設定這個系統服務。預設的資料連接埠 (用於主動模式 FTP) 會自動地設定為比控制連接埠少一個埠號，因此，如果將控制連接埠設定為 4131，則預設資料連接埠就會是 4130。大多數 FTP 用戶端會使用被動模式，意謂著用戶端是透過控制連接埠來初始與 FTP 伺服器的連線；FTP 伺服器會指派一個介於 1025 到 5000 之間的高 TCP 連接埠；用戶端會開啟第二個與 FTP 伺服器的連線來傳輸資料。高連接埠的範圍可以透過 IIS 中繼資料庫來設定。
+  
+**系統服務名稱** MSFtpsvc
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">FTP 控制</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">21</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">FTP 預設資料</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">20</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### HTTP SSL
+  
+HTTP SSL 系統服務可以讓 IIS 執行 SSL 功能。SSL 是一個開放式標準，用於建立安全的通訊通道，以防止重要資訊被攔截，例如信用卡號碼。最重要的是，這個服務賦予網站保護電子金融交易安全的能力，雖然它的設計原意也包括其他網際網路服務用途。您可以透過 IIS 管理員來設定這個服務的連接埠。
+  
+**系統服務名稱** HTTPFilter
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">HTTPS</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">443</td>
+</tr>
+</tbody>
+</table>
+  
+#### Internet Authentication Service (IAS)
+  
+Internet Authentication Service (網際網路驗證服務) 會對使用 VPN 設備、遠端存取設備 (RAS)，或 802.1X 無線及 Ethernet/交換器存取點連線到網路 (LAN 或遠端) 的使用者，執行集中式驗證、授權、稽核及帳戶處理。IAS 實行符合網際網路工程任務推動小組 (Internet Engineering Task Force，IETF) 規定的 RADIUS 通訊協定，它可以使用異類網路 (一個網路能執行多層網路層次協定) 存取設備。
+  
+**系統服務名稱** IAS
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">舊版 RADIUS</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1645</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">舊版 RADIUS</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1646</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">RADIUS Accounting (RADIUS 帳戶處理)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1813</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">RADIUS Authentication (RADIUS 驗證)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1812</td>
+</tr>
+</tbody>
+</table>
+  
+#### ICF/ICS
+  
+這個系統服務為家用網路或小型辦公室網路的所有電腦，提供 NAT、定址及名稱解析服務。啟用 ICS 之後，您的電腦會成為網路上的「網際網路閘道」，可以讓其他用戶端電腦共用網際網路連線，例如撥號或寬頻連線。這個服務提供基本 DHCP 及 DNS 服務，但會與功能完整的 Windows DHCP 或 DNS services 搭配使用。
+  
+當 ICF/ICS 作為網路上其餘電腦的閘道時，它會為內部網路介面上的私人網路提供 DHCP 及 DNS 服務。它不會在對外介面上提供這些服務。
+  
+**系統服務名稱** SharedAccess
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">DHCP Server</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">67</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">53</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">53</td>
+</tr>
+</tbody>
+</table>
+  
+#### Kerberos Key Distribution Center (KDC)
+  
+Kerberos Key Distribution Center (Kerberos 金鑰發佈中心) 系統服務可以讓使用者使用 Kerberos version 5 驗證通訊協定登入網路。在執行其他 Kerberos 通訊協定時，單一程序的 KDC 提供兩項服務：一是 Authentication Service (驗證服務)，它會發出票證授權票證；二是 Ticket-Granting Service (票證授權服務)，它會發出電腦在其所屬網域的連線票證。
+  
+**系統服務名稱** Kdc
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Kerberos</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">88</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Kerberos</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">88</td>
+</tr>
+</tbody>
+</table>
+  
+#### License Logging Service (LLS)
+  
+License Logging Service (授權記錄服務) 原本是設計用於協助電腦管理 Microsoft 伺服器產品授權的工具，這些產品已由伺服器用戶端存取使用權 (Server Client Access License，CAL) 模型授權。Windows NT Server 3.51 曾經採用 LLS。依預設，Windows Server 2003 會停用 LLS。因為原始設計的限制，以及牽涉到授權條款和實際狀況，LLS 無法就被購買的 CAL 總數與單一伺服器或整個企業已使用的 CAL 總數，提供兩相比對的精確檢視。LLS 報告的 CAL 可能會與使用者授權合約 (End User License Agreement，EULA)，以及產品使用權 (Product Usage Rights，PUR) 的解釋有所衝突。未來版本的 Windows 作業系統中將不會包括 LLS。(僅 Small Business Server 的使用者應該在他們的伺服器上啟用這個服務。)
+  
+**系統服務名稱** LicenseService
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">138</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">445</td>
+</tr>
+</tbody>
+</table>
+  
+#### Local Security Authority (LSASS)
+  
+Local Security Authority (本機安全性授權) 服務提供核心作業系統安全性機制。它會使用透過 RPC 服務為網域控制站複寫隨機指派的 TCP 連接埠。
+  
+雖然 LSASS 可以使用所有下列通訊協定，但它可能僅使用這些通訊協定的子集。例如，如果您正在設定一個位於具有篩選功能路由器之後的 VPN 閘道，您可能會使用 L2TP 及 IPSec。如果真是如此，那麼您必須允許 IPSec ESP (IP 通訊協定 50)、NAT-T (TCP 連接埠 4500)，以及 IPSec ISAKMP (TCP 連接埠 500) 通過路由器。雖然 L2TP 需要 IPSec ESP，但實際上是由「路由及遠端存取伺服器」監視 IPSec ESP。
+  
+**系統服務名稱** LSASS
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Global Catalog Server (通用類別目錄伺服器)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">3269</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Global Catalog Server</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">3268</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">LDAP Server</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">389</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">LDAP Server</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">389</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">LDAP SSL</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">636</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">LDAP SSL</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">636</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">IPSec ISAKMP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">500</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NAT-T</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">4500</td>
+</tr>
+</tbody>
+</table>
+  
+#### Message Queuing
+  
+Message Queuing (訊息佇列) 系統服務是訊息處理基礎結構，以及建立 Windows 分散式訊息處理應用程式的開發工具。這樣的應用程式可以跨異類網路通訊，並且在暫時無法與對方連線時，於電腦之間傳送訊息。Message Queuing 提供受保證的訊息傳遞、有效的路由處理、安全性、支援在交易之間傳送訊息，以及優先順序性訊息處理。
+  
+**系統服務名稱** msmq
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">MSMQ</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1801</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">MSMQ</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">1801</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">MSMQ-DCs</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2101</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">MSMQ-Mgmt</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2107</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">MSMQ-Ping</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">3527</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">MSMQ-RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2105</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">MSMQ-RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2103</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+</tbody>
+</table>
+  
+#### Messenger
+  
+Messenger (信差) 系統服務會傳送訊息給使用者及電腦、系統管理員、Alerter (警訊器) 服務，或接收來自於使用者及電腦、系統管理員、Alerter 服務的訊息。這個服務與 Microsoft Windows Messenger 或 MSN® Messenger 完全沒有關係。如果停用這個服務，NET SEND 及 NET NAME 殼層命令將無法使用。目前已登入網路的電腦或使用者，將無法收到所傳送的 Messenger 通知。
+  
+**系統服務名稱** Messenger
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">138</td>
+</tr>
+</tbody>
+</table>
+  
+#### Microsoft Exchange MTA Stacks
+  
+在 Exchange 2000 Server 及 Exchange Server 2003 中，郵件傳輸代理程式 (Message Transfer Agent，MTA 堆疊) 經常用來與使用混合模式環境的 Exchange 2000 Server 伺服器及 Exchange Server 5.5 伺服器之間，提供與舊版相容的郵件傳送服務。
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">X.400</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">102</td>
+</tr>
+</tbody>
+</table>
+  
+#### Microsoft Operations Manager 2000 (MOM)
+  
+Microsoft Operations Manager 2000 (Microsoft 作業管理員) 透過提供廣泛的事件管理、主動式監視及警示、報告及趨勢分析，來達成企業級作業管理。在安裝 Service Pack 1 之後，MOM 會停止使用純文字通訊通道，而且 MOM 代理程式與 MOM 伺服器之間的所有流量都會在 TCP 連接埠 1270 上加密。MOM 系統管理主控台使用會 DCOM 來連線到伺服器。這意謂著透過網路管理 MOM 伺服器的系統管理員，也必須擁有隨機高 TCP 連接埠的存取權。
+  
+**系統服務名稱** one point
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">MOM-Clear</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">51515</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">MOM-Encrypted</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">1270</td>
+</tr>
+</tbody>
+</table>
+  
+#### Microsoft POP3 Service
+  
+Microsoft POP3 Service 提供電子郵件傳送及擷取服務。系統管理員可以使用這個服務，來儲存及管理郵件伺服器上的電子郵件帳戶。當您在郵件伺服器上安裝 Microsoft POP3 Service 之後，使用者可以連線到郵件伺服器，並使用支援 POP3 通訊協定的電子郵件用戶端，例如 Microsoft Outlook，來擷取電子郵件。
+  
+**系統服務名稱** POP3SVC
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">POP3</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">110</td>
+</tr>
+</tbody>
+</table>
+  
+#### Microsoft SQL Server
+  
+Microsoft SQL Server 2000 提供功能強大且廣泛的資料管理平台。SQL Server 的每個執行個體所用的連接埠，都可以透過伺服器網路公用程式 (Server Network Utility) 來設定。
+  
+**系統服務名稱** SQLSERVR
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SQL over TCP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">1433</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SQL Probe (SQL 探查)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1434</td>
+</tr>
+</tbody>
+</table>
+  
+#### MSSQL$UDDI
+  
+在安裝 Windows Server 2003 系列作業系統的通用描述、探索與整合 (Universal Description, Discovery, and Integration，UDDI) 功能期間，會安裝這個系統服務，它在企業中提供 UDDI 能力。這個功能的核心元件是 SQL Server 資料庫引擎。
+  
+**系統服務名稱** SQLSERVR
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SQL over TCP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">1433</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SQL Probe</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1434</td>
+</tr>
+</tbody>
+</table>
+  
+#### Net Logon
+  
+Net Logon (網路登入) 系統服務會維護電腦與網域控制站之間的安全通道，以驗證使用者及服務。它會透過安全通道將使用者的認證傳送到網域控制站，並傳回使用者的網域安全性識別碼及使用者權限。這個程序通常稱為傳遞 (pass-through) 驗證。當電腦是網域成員時會自動啟動 Net Logon。在 Windows 2000 Server 及 Windows 2003 Server 系列中，Net Logon 服務會發佈 DNS 中的服務資源記錄。僅當電腦屬於網域時才會啟用 Net Logon。當它執行時，會依賴伺服器及本機安全性授權 (Local Security Authority，LSA) 服務來接聽連入要求。在網域成員電腦上，它會使用具名管道上的 RPC；在網域控制站上，它會使用具名管道上的 RPC、RPC over TCP/IP、郵件槽及 LDAP。
+  
+**系統服務名稱** Netlogon
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">138</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">137</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">445</td>
+</tr>
+</tbody>
+</table>
+  
+#### NetMeeting Remote Desktop Sharing
+  
+NetMeeting Remote Desktop Sharing (NetMeeting 遠端桌面共用) 系統服務允許經過授權的使用者，從另一部個人電腦使用 Microsoft® NetMeeting® 透過企業內部網路，從遠端存取您的 Windows 桌面。您必須明確地啟用這個在 NetMeeting 中的服務。您也可以透過 Windows 通知區域中的圖示來停用或關閉它。
+  
+**系統服務名稱** mnmsrvc
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Terminal Services (終端機服務)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">3389</td>
+</tr>
+</tbody>
+</table>
+  
+#### Network News Transfer Protocol (NNTP)
+  
+Network News Transfer Protocol (網路新聞傳送通訊協定) 系統服務允許執行 Windows Server 2003 的電腦作為新聞伺服器。用戶端可以使用新聞用戶端，例如 Microsoft Outlook Express 訊息處理用戶端，從伺服器擷取新聞群組，並讀取每個新聞群組中文件的標題或本文。
+  
+**系統服務名稱** NntpSvc
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NNTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">119</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NNTP over SSL</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">563</td>
+</tr>
+</tbody>
+</table>
+  
+#### Performance Logs and Alerts
+  
+Performance Logs and Alerts (效能記錄及警示) 系統服務基於事先設定的排程參數，從本機或遠端電腦收集效能資料，然後將資料寫入記錄或觸發警訊。Performance Logs and Alerts 服務基於具名記錄收集設定中所包含的資訊，來啟動及停止每個具名效能資料收集。僅當至少已排程一個效能資料收集時，這個服務才會執行。
+  
+**系統服務名稱** SysmonLog
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+</tbody>
+</table>
+  
+#### Print Spooler
+  
+Print Spooler (列印多工緩衝處理器) 系統服務會管理所有本機及網路列印佇列，並控制所有列印工作。列印多工緩衝處理器是 Windows 列印子系統及控制所有列印工作的中心。它會管理系統上的列印佇列，並與印表機驅動程式及輸入/輸出 (I/O) 元件進行通訊，例如 USB 連接埠及 TCP/IP 通訊協定套件。
+  
+**系統服務名稱** Spooler
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">445</td>
+</tr>
+</tbody>
+</table>
+  
+#### Remote Installation
+  
+Remote Installation (遠端安裝) 系統服務，提供在開機前執行環境 (Pre-Boot eXecution Environment，PXE) 遠端開機電腦上，安裝 Windows 2000、Windows XP 及 Windows Server 2003 的能力。開機資訊交涉層 (Boot Information Negotiation Layer，BINL) 服務、遠端安裝服務 (Remote Installation Services，RIS) 的主要元件、回應 PXE 用戶端要求、檢查用戶端驗證的 Active Directory，以及來回伺服器傳送用戶端資訊。當您從「新增/移除 Windows 元件」新增 RIS 元件，或在作業系統初始安裝時選取 RIS，也會一併安裝 BINL 服務。
+  
+**系統服務名稱** BINLSVC
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">BINL</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">4011</td>
+</tr>
+</tbody>
+</table>
+  
+#### Remote Procedure Call (RPC)
+  
+Microsoft Remote Procedure Call (遠端程序呼叫) 系統服務是一個保護程序間通訊 (Inter-Process Communication，IPC) 安全的機制，它賦予存在於不同程序中的資料交換及功能呼叫的能力。這個不同程序可以是在同一部電腦上、在區域網路上，或是透過 WAN 或 VPN 連線散佈於全球。RPC 服務可作為 RPC 端點對應程式及元件物件模型 (Component Object Model，COM) 服務控制管理員 (Service Control Manager，SCM)。許多服務必須依賴 RPC 服務來順利啟動。
+  
+**系統服務名稱** RpcSs
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">RPC over HTTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">593</td>
+</tr>
+</tbody>
+</table>
+  
+#### Remote Procedure Call Locator
+  
+Remote Procedure Call Locator (遠端程序呼叫定位程式) 系統服務，可以讓使用 RpcNs 系列應用程式發展介面 (API) 的 RPC 用戶端，定位 RPC 伺服器及管理 RPC 名稱服務資料庫。依預設，這個服務是關閉的。
+  
+**系統服務名稱** RpcLocator
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">445</td>
+</tr>
+</tbody>
+</table>
+  
+#### Remote Storage Notification
+  
+Remote Storage Notification (遠端存放通知) 系統服務會在使用者讀取或寫入來自於次要存放媒體的檔案時通知使用者。如果這個服務處於停止狀態，就不會發出通知。
+  
+**系統服務名稱** Remote\_Storage\_User\_Link
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### Remote Storage Server
+  
+Remote Storage Server (遠端存放伺服器) 系統服務會將不常使用的檔案存放在次要存放媒體中。停止這個服務可以避免使用者從次要存放媒體移動或擷取檔案。
+  
+**系統服務名稱** Remote\_Storage\_Server
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### Routing and Remote Access (RRAS)
+  
+Routing and Remote Access (路由及遠端存取) 系統服務提供 LAN 到 LAN、LAN 到 WAN、VPN，以及 NAT 路由服務等多重通訊協定。此外，RRAS 服務也提供撥號及 VPN 遠端存取服務。
+  
+雖然 RRAS 可以使用所有下列通訊協定，但基本上它僅使用這些通訊協定的子集。例如，如果您正在設定一個位於具有篩選功能路由器之後的 VPN 閘道，您可能只需使用一種技術。如果您搭配使用 L2TP 與 IPSec，那麼您必須允許 IPSec ESP (IP 通訊協定 50)、NAT-T (TCP 連接埠 4500)，以及 IPSec ISAKMP (TCP 連接埠 500) 通過路由器。雖然 L2TP 需要 NAT-T 及 IPSec ISAKMP，實際上這些連接埠是由 LSA 來監視。如需詳細資訊，請參閱本文件稍後的＜相關主題＞。
+  
+**系統服務名稱** RemoteAccess
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">GRE (IP 通訊協定 47)</td>
+<td style="border:1px solid black;">GRE</td>
+<td style="border:1px solid black;">n/a</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">IPSec AH (IP 通訊協定 51)</td>
+<td style="border:1px solid black;">AH</td>
+<td style="border:1px solid black;">n/a</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">IPSec ESP (IP 通訊協定 50)</td>
+<td style="border:1px solid black;">ESP</td>
+<td style="border:1px solid black;">n/a</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">L2TP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1701</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">PPTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">1723</td>
+</tr>
+</tbody>
+</table>
+  
+#### Server
+  
+Server (伺服器) 系統服務提供網路上 RPC、檔案、列印及具名管道共用的支援。Server 服務允許網路上的其他使用者共用本機資源，例如磁碟機與印表機。它也允許其他電腦上與您電腦上所執行程式之間的具名管道通訊，以用於 RPC。具名管道通訊是為某個程序的輸出用作另一個程序的輸入所保留的記憶體。輸入接受程序不必在電腦的本機上。
+  
+**系統服務名稱** lanmanserver
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">138</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">137</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">445</td>
+</tr>
+</tbody>
+</table>
+  
+#### SharePoint Portal Server
+  
+SharePoint Portal Server 系統服務，賦予企業開發能夠緊密連結使用者、小組及知識的智慧型入口網站的能力，讓使用者可以利用遍及企業程序的重要資訊來協助更有效率地工作。Microsoft Office SharePoint™ Portal Server 2003 提供企業商務解決方案，它透過單一登入及企業應用程式整合能力，以及靈活的部署選項和管理工具，將各種不同系統整合為一個解決方案。
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">HTTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">80</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">HTTPS</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">443</td>
+</tr>
+</tbody>
+</table>
+  
+#### Simple Mail Transfer Protocol (SMTP)
+  
+Simple Mail Transfer Protocol (簡易郵件傳送通訊協定) 系統服務是電子郵件提交及轉送代理程式。它可以接受並佇列遠端目的地的電子郵件，並於指定間隔重試。Windows 網域控制站在站台間電子郵件型複寫上使用 SMTP 服務。Windows Server 2003 COM 元件的共同作業資料物件 (Collaboration Data Object，CDO) 可以使用 SMTP 服務來提交及佇列輸出的電子郵件。
+  
+**系統服務名稱** SMTPSVC
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SMTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">25</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMTP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">25</td>
+</tr>
+</tbody>
+</table>
+  
+#### Simple TCP/IP Services
+  
+Simple TCP/IP Services (簡單 TCP/IP 服務) 可實行用來支援下列通訊協定：
+  
+-   Echo，連接埠 7，RFC 862
+  
+-   Discard，連接埠 9，RFC 863
+  
+-   Character Generator，連接埠 9，RFC 864
+  
+-   Daytime，連接埠 3，RFC 867
+  
+-   Quote of the Day，連接埠 7，RFC 865
+  
+**系統服務名稱** SimpTcp
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Chargen</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">19</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Chargen</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">19</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Daytime</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">13</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Daytime</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">13</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Discard</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">9</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Discard</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">9</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Echo</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">7</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Echo</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">7</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Quotd</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">17</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Quotd</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">17</td>
+</tr>
+</tbody>
+</table>
+  
+#### SMS 遠端控制代理程式
+  
+Systems Management Server (SMS) 2003 提供在 Microsoft 平台上變更及設定管理的廣泛解決方案，可讓組織快速又有效率地為使用者提供重要軟體及更新。
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SMS Remote Chat (SMS 遠端討論)</td>
+<td style="border:1px solid black;">UPD</td>
+<td style="border:1px solid black;">2703</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMS Remote Chat</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2703</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">SMS Remote Control (控制)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">2701</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMS Remote Control (控制)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2701</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">SMS Remote Control (資料)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2702</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMS Remote Control (資料)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">2702</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">SMS Remote File Transfer (SMS 遠端檔案傳輸)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">2704</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SMS Remote File Transfer</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2704</td>
+</tr>
+</tbody>
+</table>
+  
+#### SNMP Service
+  
+SNMP Service 系統服務允許本機電腦處理連入的簡易網路管理通訊協定 (Simple Network Management Protocol，SNMP) 要求。SNMP 服務包含監視網路裝置活動的代理程式，以及網路主控台工作站的報告。SNMP 服務提供從執行網路管理軟體的中央電腦管理網路主機的方法，這些網路主機包括工作站或伺服器電腦、路由器、橋接器和集線器。SNMP 藉由分散式架構的管理系統及代理程式來執行管理服務。
+  
+**系統服務名稱** SNMP
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SNMP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">161</td>
+</tr>
+</tbody>
+</table>
+  
+#### SNMP Trap Service
+  
+SNMP Trap Service (SNMP 設陷服務) 接收由本機或遠端 SNMP 代理程式所產生的陷阱訊息，並將訊息轉送給在您電腦上執行的 SNMP 管理程式。當設定 SNMP Trap Service 為代理程式，會在發生任一個指定事件時產生陷阱訊息。這些訊息會傳送到陷阱目的地。例如，可以設定代理程式，如果有未經授權的管理系統傳送資訊要求，就起始驗證陷阱。陷阱目的地是由管理系統的電腦名稱，或 IP 位址，或 IP IPX 位址所組成的。陷阱目的地必須是執行 SNMP 管理軟體的網路主機。
+  
+**系統服務名稱** SNMPTRAP
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SNMP Traps Outbound (SNMP 設陷輸出)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">162</td>
+</tr>
+</tbody>
+</table>
+  
+#### SQL Analysis Server
+  
+SQL Analysis Server (SQL 分析伺服器) 系統服務是 SQL Server 2000 的元件。它可以用來建立及管理 OLAP Cube和資料採擷模型。分析伺服器可以存取本機或遠端資料來源，以建立及儲存 Cube 或資料採擷模型。
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SQL Analysis Services (SQL 分析服務)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2725</td>
+</tr>
+</tbody>
+</table>
+  
+#### SQL Server：Downlevel OLAP Client Support (下層 OLAP 用戶端支援)
+  
+當 SQL Analysis Server 服務必須支援來自於下層 (OLAP Services 7.0) 用戶端的連線時，SQL Server 2000 會使用這個系統服務。
+  
+**SQL Server 7.0 使用的 OLAP Services 的預設連接埠**
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">OLAP Services 7.0</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2393</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">OLAP Services 7.0</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2394</td>
+</tr>
+</tbody>
+</table>
+  
+#### SSDP Discovery 服務
+  
+SSDP Discovery (SSDP 探索) 服務是一個實行簡單服務探索通訊協定 (Simple Service Discovery Protocol，SSDP) 的 Windows 服務。SSDP Discovery 服務會管理裝置存在宣告的回條、更新它的快取，以及隨著用戶端尚未完成的搜尋要求傳送這些通知。SSDP Discovery 服務也接受來自於用戶端的事件回撥登錄、轉換為訂閱要求，以及監視事件通知、隨著已登錄回撥傳送它們。這個系統服務也為代管裝置提供週期性宣告。
+  
+SSDP 事件通知服務目前使用 TCP 連接埠 5000。在 Windows XP Service Pack 2 中，則是使用 TCP 連接埠 2869。
+  
+**系統服務名稱** SSDPRSRV
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">SSDP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1900</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SSDP 事件通知</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2869</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">SSDP 舊版事件通知</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">5000</td>
+</tr>
+</tbody>
+</table>
+  
+#### Systems Management Server
+  
+Systems Management Server (SMS) 2003 提供在 Microsoft 平台上變更及設定管理的廣泛解決方案，可讓組織快速又有效率地為使用者提供重要軟體及更新。
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">138</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">137</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">139</td>
+</tr>
+</tbody>
+</table>
+  
+#### TCP/IP Print Server
+  
+TCP/IP Print Server (TCP/IP 列印伺服器) 系統服務，可以讓 TCP/IP 列印使用 Line Printer Daemon (線上印表機服務) 通訊協定。伺服器上的 Line Printer Daemon Service (LPDSVC) 會接收到來自於 UNIX 電腦上執行的原始 Line Printer Remote (LPR) 公用程式的文件。
+  
+**系統服務名稱** LPDSVC
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">LPD</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">515</td>
+</tr>
+</tbody>
+</table>
+  
+#### Telnet
+  
+Windows 的 Telnet 系統服務為 Telnet 用戶端提供 ASCII 終端機工作階段。Telnet Server 支援兩種驗證類型，以及支援四種終端機類型：美國國家標準局 (American National Standards Institute，ANSI)、VT-100、VT-52 及 VTNT。
+  
+**系統服務名稱** TlntSvr
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Telnet</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">23</td>
+</tr>
+</tbody>
+</table>
+  
+#### Terminal Services
+  
+Terminal Services 提供多重工作階段環境，它允許用戶端裝置存取伺服器上執行中的虛擬 Windows 桌面工作階段及 Windows 程式。Terminal Services 允許多位使用者交互連線到同一部電腦。
+  
+**系統服務名稱** TermService
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">Terminal Services (終端機服務)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">3389</td>
+</tr>
+</tbody>
+</table>
+  
+#### Terminal Services Licensing
+  
+Terminal Services Licensing (終端機服務授權) 系統服務會安裝授權伺服器，並在連線到終端機伺服器時提供已登錄的用戶端授權。Terminal Services Licensing 服務是一個影響極小的服務，它會儲存已發行給終端機伺服器的用戶端授權，然後追蹤已發行給用戶端電腦或終端機的授權。
+  
+**系統服務名稱** TermServLicensing
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### Terminal Services Session Directory
+  
+Terminal Services Session Directory (終端機服務工作階段目錄) 系統服務允許負載平衡終端機伺服器的叢集，在使用者已有執行中工作階段時，路由使用者連線要求到伺服器。使用者會被路由至第一個可用的終端機伺服器，不論它們是否已在叢集以外的地方取得執行中工作階段。負載平衡會聚集數個使用 TCP/IP 網路通訊協定之伺服器的處理資源。您可以搭配使用這個服務與終端機伺服器的叢集，透過將工作階段分散於多部伺服器，來測量單一終端機伺服器的效能。Session Directory 會持續追蹤叢集上連線中斷的工作階段，並確保使用者重新連線到那些工作階段。
+  
+**System Service Name** Tssdis
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">135</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">隨機分派高 TCP 連接埠</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">隨機</td>
+</tr>
+</tbody>
+</table>
+  
+#### Trivial FTP Daemon 服務
+  
+Trivial FTP (TFTP) Daemon 系統服務不需要使用者名稱或密碼，而且是遠端安裝服務 (RIS) 不可或缺的一部分。Trivial FTP Daemon 服務實行以支援由下列 RFC 定義的 TFTP 通訊協定：
+  
+-   RFC 350 –TFTP
+  
+-   RFC 2347 –選項延伸
+  
+-   RFC 2348 –區塊大小選項
+  
+-   RFC 2349 –逾時間隔，以及傳輸大小選項
+  
+Trivial File Transfer Protocol 是設計用來支援無磁機開機環境。TFTP Daemon 接聽 UDP 連接埠 69，但會從隨機分派的高連接埠回應。因此，啟用這個連接埠會允許 TFTP 服務接收連入的 TFTP 要求，但不會允許已選取的伺服器回應那些要求。除非設定 TFTP 伺服器從連接埠 69 回應，否則無法允許已選取的伺服器回應輸入 TFTP 要求。
+  
+**系統服務名稱** tftpd
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">TFTP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">69</td>
+</tr>
+</tbody>
+</table>
+  
+#### Universal Plug and Play Device Host
+  
+UPnP Host 探索系統服務會實行裝置登錄、控制及回應已裝載裝置事件所需的所有元件。在登錄或系統重新啟動之後，磁碟機會選擇性地存留並在網路上宣告裝置擁有的已登錄資訊 (描述、存留時間、容器)。這個服務也包括網站伺服器，供裝置、服務描述及展示網頁使用。
+  
+**系統服務名稱** UPNPHost
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">UPNP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">2869</td>
+</tr>
+</tbody>
+</table>
+  
+#### Windows Internet Name Service (WINS)
+  
+Windows Internet Name Service (Windows 網際網路名稱服務) 賦予 NetBIOS 名稱解析能力。WINS 伺服器的存在，對於定位以 NetBIOS 名稱來識別的網路資源非常重要。除非所有網域都已升級至 Active Directory，並且網路上的所有電腦都執行 Windows 2000 Server 或以上版本，否則一定需要 WINS 伺服器。WINS 伺服器使用 NetBIOS Name Resolution (NetBIOS 名稱解析) 來與網路用戶端進行通訊。只有 WINS 伺服器之間需要 WINS Replication (WINS 複寫)。
+  
+**系統服務名稱** WINS
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">137</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">WINS Replication (WINS 複寫)</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">42</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">WINS Replication</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">42</td>
+</tr>
+</tbody>
+</table>
+  
+#### Windows Media Services
+  
+Windows Server 2003 中的 Windows Media Service 取代了包含 Windows Media Services 版本 4.0 及 4.1 在內的四個不同版本：Windows Media Monitor Service (Windows Media 監視服務)、Windows Media Program Service (Windows Media 程式服務)、Windows Media Station Service (Windows Media 廣播站服務)，以及 Windows Media Unicast Service (Windows Media 單點廣播服務)。
+  
+Windows Media Service 系統服務現在是執行於 Windows Server 2003 標準版、企業版，以及 Datacenter Edition 的單一服務。它的核心元件是使用 COM 來開發、建立可讓特定程式輕鬆自訂的彈性架構。它支援更多不同的控制通訊協定，包括即時資料流通訊協定 (Real Time Streaming Protocol，RTSP)、Microsoft Media Server (MMS) 通訊協定及 HTTP。
+  
+**系統服務名稱** WMServer
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">HTTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">80</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">MMS</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">1755</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">MMS</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">1755</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">MS Theater (MS 劇場)</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">2460</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">RTCP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">5005</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">RTP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">5004</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">RTSP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">554</td>
+</tr>
+</tbody>
+</table>
+  
+#### Windows Time
+  
+針對執行 Windows XP 及 Windows Server 2003 的電腦，Windows Time 系統服務會維護執行於 Microsoft Windows 網路上之所有電腦的日期與時間同步處理。這個服務使用網路時間通訊協定 (Network Time Protocol，NTP) 來同步處理電腦時鐘，因此可以為網路驗證及資源存取要求，指定準確的時間數值或時間戳記。
+  
+NTP 的實行及時間提供者的整合，使得 Windows Time 成為企業系統管理員可靠又方便調整的時間服務。針對沒有加入網域的電腦，您可以設定 Windows Time 使用外部時間來源，來同步處理時間。如果關閉這個服務，本機電腦的時間設定將不會與 Windows 網域中的任何時間服務同步處理，也不會與從外部設定的時間服務同步處理。
+  
+Windows Server 2003 使用 NTP，它是在 UDP 連接埠 123 上執行。Windows 2000 版本的這個服務使用簡單網路時間通訊協定 (Simple Network Time Protocol，SNTP)，它是在 UDP 連接埠 123 上執行。
+  
+**系統服務名稱** W32Time
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">NTP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">123</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">SNTP</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">123</td>
+</tr>
+</tbody>
+</table>
+  
+#### World Wide Web Publishing Service
+  
+World Wide Web Publishing Service (WWW 發行服務) 提供登錄、管理、監視，以及服務網站和已登錄於 IIS 之應用程式所需的基礎結構。這個系統服務包括程序管理員及設定管理員。程序管理員會控制自訂應用程式及網站所屬的處理程序。設定管理員會讀取 W3SVC 的已儲存系統設定，並確保已設定 HTTP.sys 將 HTTP 要求路由到適當的應用程式集區或作業系統處理程序。您可以透過 IIS 管理員來設定這個服務所使用的連接埠。
+  
+如果已啟用系統管理網站，將會在 TCP 連接埠 8098 上，建立使用 HTTP 流量的虛擬網站。
+  
+**系統服務名稱** W3SVC
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >連接埠</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">HTTP</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">80</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">HTTPS</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">443</td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 連接埠及通訊協定
+  
+下列表格彙整前一節的資訊，但排序依據是連接埠號碼，而不是依據服務名稱。
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >連接埠</th>
+<th style="border:1px solid black;" >通訊協定</th>
+<th style="border:1px solid black;" >應用程式通訊協定</th>
+<th style="border:1px solid black;" >系統服務名稱</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">n/a</td>
+<td style="border:1px solid black;">GRE</td>
+<td style="border:1px solid black;">GRE (IP 通訊協定 47)</td>
+<td style="border:1px solid black;">Routing and Remote Access</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">n/a</td>
+<td style="border:1px solid black;">ESP</td>
+<td style="border:1px solid black;">IPSec ESP (IP 通訊協定 50)</td>
+<td style="border:1px solid black;">Routing and Remote Access</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">n/a</td>
+<td style="border:1px solid black;">AH</td>
+<td style="border:1px solid black;">IPSec AH (IP 通訊協定 51)</td>
+<td style="border:1px solid black;">Routing and Remote Access</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">7</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Echo</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">7</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Echo</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Discard</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Discard</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">13</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Daytime</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">13</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Daytime</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">17</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Quotd</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">17</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Quotd</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">19</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Chargen</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">19</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Chargen</td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">20</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">FTP 預設資料</td>
+<td style="border:1px solid black;">FTP Publishing Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">21</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">FTP 控制</td>
+<td style="border:1px solid black;">FTP Publishing Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">21</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">FTP 控制</td>
+<td style="border:1px solid black;">Application Layer Gateway Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">23</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Telnet</td>
+<td style="border:1px solid black;">Telnet</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">25</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMTP</td>
+<td style="border:1px solid black;">Simple Mail Transfer Protocol</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">25</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SMTP</td>
+<td style="border:1px solid black;">Simple Mail Transfer Protocol</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">25</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMTP</td>
+<td style="border:1px solid black;">Exchange Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">25</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SMTP</td>
+<td style="border:1px solid black;">Exchange Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">42</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">WINS Replication</td>
+<td style="border:1px solid black;">Windows Internet Name Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">42</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">WINS Replication</td>
+<td style="border:1px solid black;">Windows Internet Name Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">DNS Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">DNS Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">Internet Connection Firewall/Internet Connection Sharing</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">67</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">DHCP Server</td>
+<td style="border:1px solid black;">DHCP Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">67</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">DHCP Server</td>
+<td style="border:1px solid black;">Internet Connection Firewall/Internet Connection Sharing</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">69</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">TFTP</td>
+<td style="border:1px solid black;">Trivial FTP Daemon Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">80</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">HTTP</td>
+<td style="border:1px solid black;">Windows Media Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">80</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">HTTP</td>
+<td style="border:1px solid black;">World Wide Web Publishing Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">80</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">HTTP</td>
+<td style="border:1px solid black;">SharePoint Portal Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Kerberos</td>
+<td style="border:1px solid black;">Kerberos Key Distribution Center</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Kerberos</td>
+<td style="border:1px solid black;">Kerberos Key Distribution Center</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">102</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">X.400</td>
+<td style="border:1px solid black;">Microsoft Exchange MTA Stacks</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">110</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">POP3</td>
+<td style="border:1px solid black;">Microsoft POP3 Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">110</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">POP3</td>
+<td style="border:1px solid black;">Exchange Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">119</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NNTP</td>
+<td style="border:1px solid black;">Network News Transfer Protocol</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NTP</td>
+<td style="border:1px solid black;">Windows Time</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SNTP</td>
+<td style="border:1px solid black;">Windows Time</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Message Queuing</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Remote Procedure Call</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Exchange Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Certificate Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Cluster Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Distributed File System</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Distributed Link Tracking</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Distributed Transaction Coordinator</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Event Log</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Fax Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">File Replication</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Remote Storage Notification</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Remote Storage Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Systems Management Server 2.0</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Terminal Services Licensing</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC</td>
+<td style="border:1px solid black;">Terminal Services Session Directory</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">Computer Browser</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">Windows Internet Name Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">Net Logon</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Name Resolution</td>
+<td style="border:1px solid black;">Systems Management Server 2.0</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">Computer Browser</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">Messenger</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">Net Logon</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">Distributed File System</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">Systems Management Server 2.0</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NetBIOS Datagram Service</td>
+<td style="border:1px solid black;">License Logging Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Computer Browser</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Fax Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Performance Logs and Alerts</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Print Spooler</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Net Logon</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Remote Procedure Call Locator</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Distributed File System</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">Systems Management Server 2.0</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NetBIOS Session Service</td>
+<td style="border:1px solid black;">License Logging Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">143</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">IMAP</td>
+<td style="border:1px solid black;">Exchange Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SNMP</td>
+<td style="border:1px solid black;">SNMP Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">162</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SNMP Traps Outbound</td>
+<td style="border:1px solid black;">SNMP Trap Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">LDAP Server</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">LDAP Server</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">LDAP Server</td>
+<td style="border:1px solid black;">Distributed File System</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">LDAP Server</td>
+<td style="border:1px solid black;">Distributed File System</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">443</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">HTTPS</td>
+<td style="border:1px solid black;">HTTP SSL</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">443</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">HTTPS</td>
+<td style="border:1px solid black;">World Wide Web Publishing Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">443</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">HTTPS</td>
+<td style="border:1px solid black;">SharePoint Portal Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">Fax Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">Print Spooler</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">Remote Procedure Call Locator</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">Distributed File System</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">License Logging Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMB</td>
+<td style="border:1px solid black;">Net Logon</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">500</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">IPSec ISAKMP</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">515</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">LPD</td>
+<td style="border:1px solid black;">TCP/IP Print Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">548</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">File Server for Macintosh</td>
+<td style="border:1px solid black;">File Server for Macintosh</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">554</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RTSP</td>
+<td style="border:1px solid black;">Windows Media Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">563</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">NNTP over SSL</td>
+<td style="border:1px solid black;">Network News Transfer Protocol</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">593</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC over HTTP</td>
+<td style="border:1px solid black;">Remote Procedure Call</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">593</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">RPC over HTTP</td>
+<td style="border:1px solid black;">Exchange Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">LDAP SSL</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">LDAP SSL</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">993</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">IMAP over SSL</td>
+<td style="border:1px solid black;">Exchange Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">995</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">POP3 over SSL</td>
+<td style="border:1px solid black;">Exchange Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">1270</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">MOM-Encrypted</td>
+<td style="border:1px solid black;">Microsoft Operations Manager 2000</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">1433</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SQL over TCP</td>
+<td style="border:1px solid black;">Microsoft SQL Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">1433</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SQL over TCP</td>
+<td style="border:1px solid black;">MSSQL$UDDI</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">1434</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SQL Probe</td>
+<td style="border:1px solid black;">Microsoft SQL Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">1434</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SQL Probe</td>
+<td style="border:1px solid black;">MSSQL$UDDI</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">1645</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Legacy RADIUS</td>
+<td style="border:1px solid black;">Internet Authentication Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">1646</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Legacy RADIUS</td>
+<td style="border:1px solid black;">Internet Authentication Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">1701</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">L2TP</td>
+<td style="border:1px solid black;">Routing and Remote Access</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">1723</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">PPTP</td>
+<td style="border:1px solid black;">Routing and Remote Access</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">1755</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">MMS</td>
+<td style="border:1px solid black;">Windows Media Services</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">1755</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">MMS</td>
+<td style="border:1px solid black;">Windows Media Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">1801</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">MSMQ</td>
+<td style="border:1px solid black;">Message Queuing</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">1801</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">MSMQ</td>
+<td style="border:1px solid black;">Message Queuing</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">1812</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">RADIUS Authentication</td>
+<td style="border:1px solid black;">Internet Authentication Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">1813</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">RADIUS Accounting</td>
+<td style="border:1px solid black;">Internet Authentication Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">1900</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SSDP</td>
+<td style="border:1px solid black;">SSDP Discovery Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2101</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">MSMQ-DCs</td>
+<td style="border:1px solid black;">Message Queuing</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2103</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">MSMQ-RPC</td>
+<td style="border:1px solid black;">Message Queuing</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2105</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">MSMQ-RPC</td>
+<td style="border:1px solid black;">Message Queuing</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2107</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">MSMQ-Mgmt</td>
+<td style="border:1px solid black;">Message Queuing</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2393</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">OLAP Services 7.0</td>
+<td style="border:1px solid black;">SQL Server:Downlevel OLAP Client Support</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2394</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">OLAP Services 7.0</td>
+<td style="border:1px solid black;">SQL Server:Downlevel OLAP Client Support</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2460</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">MS Theater</td>
+<td style="border:1px solid black;">Windows Media Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2535</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">MADCAP</td>
+<td style="border:1px solid black;">DHCP Server</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2701</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMS Remote Control (控制)</td>
+<td style="border:1px solid black;">SMS Remote Control Agent</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2701</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SMS Remote Control (控制)</td>
+<td style="border:1px solid black;">SMS Remote Control Agent</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2702</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMS Remote Control (資料)</td>
+<td style="border:1px solid black;">SMS Remote Control Agent</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2702</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SMS Remote Control (資料)</td>
+<td style="border:1px solid black;">SMS Remote Control Agent</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2703</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMS Remote Chat</td>
+<td style="border:1px solid black;">SMS Remote Control Agent</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2703</td>
+<td style="border:1px solid black;">UPD</td>
+<td style="border:1px solid black;">SMS Remote Chat</td>
+<td style="border:1px solid black;">SMS Remote Control Agent</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2704</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SMS Remote File Transfer</td>
+<td style="border:1px solid black;">SMS Remote Control Agent</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2704</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">SMS Remote File Transfer</td>
+<td style="border:1px solid black;">SMS Remote Control Agent</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2725</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SQL Analysis Services</td>
+<td style="border:1px solid black;">SQL Analysis Server</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">2869</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">UPNP</td>
+<td style="border:1px solid black;">UPNP Device Host</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">2869</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SSDP 事件通知</td>
+<td style="border:1px solid black;">SSDP Discovery Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">3268</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Global Catalog Server</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">3269</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Global Catalog Server</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">3343</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">Cluster Services</td>
+<td style="border:1px solid black;">Cluster Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">3389</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Terminal Services</td>
+<td style="border:1px solid black;">NetMeeting Remote Desktop Sharing</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">3389</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">Terminal Services</td>
+<td style="border:1px solid black;">Terminal Services</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">3527</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">MSMQ-Ping</td>
+<td style="border:1px solid black;">Message Queuing</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">4011</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">BINL</td>
+<td style="border:1px solid black;">Remote Installation</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">4500</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">NAT-T</td>
+<td style="border:1px solid black;">Local Security Authority</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">5000</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">SSDP 舊版事件通知</td>
+<td style="border:1px solid black;">SSDP Discovery Service</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">5004</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">RTP</td>
+<td style="border:1px solid black;">Windows Media Services</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">5005</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">RTCP</td>
+<td style="border:1px solid black;">Windows Media Services</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">42424</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">ASP.Net Session State</td>
+<td style="border:1px solid black;">ASP.NET State Service</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">51515</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">MOM-Clear</td>
+<td style="border:1px solid black;">Microsoft Operations Manager 2000</td>
+</tr>
+</tbody>
+</table>
+  
+在 [Microsoft 網站](http://go.microsoft.com/fwlink/?linkid=21179)上，有一個包含這個表格資訊的 Microsoft Excel 2003 格式試算表，網址是 <http://go.microsoft.com/fwlink/?linkid=21179>。
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 詳細資訊
+  
+本文件中的資訊適用於下列 Microsoft 產品：
+  
+-   Microsoft Windows Server 2003, 64-Bit Datacenter Edition
+  
+-   Microsoft Windows Server 2003, 64-Bit Enterprise Edition
+  
+-   Microsoft Windows Server 2003, Datacenter Edition
+  
+-   Microsoft Windows Server 2003, Enterprise Edition
+  
+-   Microsoft Windows Server 2003, Standard Edition
+  
+-   Microsoft Windows Server 2003, Web Edition
+  
+-   Microsoft Windows 2000 Server
+  
+-   Microsoft Windows 2000 Advanced Server
+  
+-   Microsoft Windows 2000 Datacenter Server
+  
+-   Microsoft Application Center 2000
+  
+-   Microsoft Commerce Server 2002
+  
+-   Microsoft Exchange 2000
+  
+-   Microsoft Internet Security and Acceleration (ISA) Server 2000
+  
+-   Microsoft Operations Manager 2000
+  
+-   Microsoft SharePoint Portal Server
+  
+-   Microsoft SQL Server 2000
+  
+-   Microsoft Systems Management Server
+  
+-   Microsoft Windows® XP 64-Bit Edition
+  
+-   Microsoft Windows XP Home Edition
+  
+-   Microsoft Windows XP Professional
+  
+-   Microsoft Windows XP Tablet PC Edition
+  
+-   Microsoft Windows® 2000 Professional
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 相關主題
+  
+在每個 Microsoft 產品的說明檔案中，都包含了詳細而實用的資訊。Windows Server 2003 的說明檔案尤其特別完善，並且包含設定特定技術及伺服器角色的逐步操作指示。
+  
+#### 一般資訊
+  
+如需關於 Windows Server 2003 及 Windows XP 中系統服務的詳細資訊，請參閱 TechNet 網站上的《[System Services for the Windows Server 2003 Family and Windows XP Operating Systems (英文)](http://go.microsoft.com/fwlink/?linkid=22567)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22567](http://go.microsoft.com/fwlink/?linkid=22567)。
+  
+如需關於保護 Windows Server 2003 安全的詳細資訊，以及取得特定伺服器角色的部分範例 IPSec 篩選器，請參閱 TechNet 網站上的《[*Windows Server 2003 Security Guide (英文)*](http://go.microsoft.com/fwlink/?linkid=14845)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=14845](http://go.microsoft.com/fwlink/?linkid=14845)。
+  
+如需關於系統服務、安全性設定及 IPSec 篩選的詳細資訊，請參閱 TechNet 網站上的《[Threats and Countermeasures Guide (英文)](http://go.microsoft.com/fwlink/?linkid=15159)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=15159](http://go.microsoft.com/fwlink/?linkid=15159)。
+  
+如需關於常用連接埠指派的詳細資訊，請參閱 Microsoft 網站上的《[Information about TCP/IP Port Assignments (英文)](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;174904)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;174904>，以及 Windows NT 4 Resource Kit 中的《[Appendix B - Port Reference for MS TCP/IP (英文)](http://go.microsoft.com/fwlink/?linkid=22569)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22569](http://go.microsoft.com/fwlink/?linkid=22569)，以及 Windows 2000 Server Resource Kit 中的《[TCP and UDP Port Assignments (英文)](http://go.microsoft.com/fwlink/?linkid=22571)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22571](http://go.microsoft.com/fwlink/?linkid=22571)。
+  
+Internet Assigned Numbers Authority (IANA) 是一個協調常見連接埠用法的組織。如需 TCP/IP 連接埠指派的清單，請參閱《[Well Known Port Numbers (英文)](http://go.microsoft.com/fwlink/?linkid=22570)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22570](http://go.microsoft.com/fwlink/?linkid=22570)。
+  
+#### 遠端程序呼叫 (RPC) 及分散式元件物件模型 (DCOM)
+  
+如需關於 RPC 及設定 DCOM 使用防火牆的詳細資訊，請參閱 Microsoft 網站上的《[Using Distributed COM with Firewalls (英文)](http://go.microsoft.com/fwlink/?linkid=22572)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22572](http://go.microsoft.com/fwlink/?linkid=22572)。
+  
+如需 RPC 的詳細說明，請參閱 MSDN 上的《[Remote Procedure Call (RPC) (英文)](http://go.microsoft.com/fwlink/?linkid=22574)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22574](http://go.microsoft.com/fwlink/?linkid=22574)。
+  
+如需關於設定 RPC 使用防火牆的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 154596《[How to Configure RPC Dynamic Port Allocation to Work with Firewall (英文)](http://go.microsoft.com/fwlink/?linkid=22575)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22575](http://go.microsoft.com/fwlink/?linkid=22575)。
+  
+如需關於 RPC 通訊協定的詳細資訊，以及系統執行 Windows 2000 初始化的方法，請參閱 TechNet 網站上的《[Windows 2000 Startup and Logon Traffic Analysis (英文)](http://go.microsoft.com/fwlink/?linkid=22576)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22576](http://go.microsoft.com/fwlink/?linkid=22576)。
+  
+#### 分散式交易協調器 (Distributed Transaction Coordinator)
+  
+如需關於設定 DTC 使用特定範圍連接埠的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 250367《[INFO：設定 Microsoft Distributed Transaction Coordinator (DTC) 通過防火牆](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;250367)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;250367>。
+  
+如需關於限制 Active Directory 的詳細資訊，請參閱 Microsoft 網站上的《[Restricting Active Directory Replication Traffic to a Specific Port (英文)](http://go.microsoft.com/fwlink/?linkid=22578)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22578](http://go.microsoft.com/fwlink/?linkid=22578)。
+  
+如需關於如何關聯 Directory System Agent、LDAP 及本機系統授權的詳細資訊，請參閱 MSDN 上的《[Directory System Agent (英文)](http://go.microsoft.com/fwlink/?linkid=22747)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22747](http://go.microsoft.com/fwlink/?linkid=22747)。
+  
+如需關於 LDAP 及 Global Catalog 如何在 Windows 2000 中運作的詳細資訊，請參閱 Windows 2000 Server Resource Kit 的《Distributed Systems Guide (英文)》中的＜[Chapter 10 –Active Directory Diagnostics, Troubleshooting, and Recovery (英文)](http://go.microsoft.com/fwlink/?linkid=22581)＞，網址是 [http://go.microsoft.com/fwlink/?LinkId=22581](http://go.microsoft.com/fwlink/?linkid=22581)。
+  
+#### Commerce Server
+  
+如需關於設定建立在 Commerce Server 上的安全應用程式，請參閱 TechNet 網站上的《[Deploying a Secure Commerce Server 2002 Site (英文)](http://go.microsoft.com/fwlink/?linkid=22582)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22582](http://go.microsoft.com/fwlink/?linkid=22582)。
+  
+#### Exchange
+  
+如需關於限制 Exchange 2000 及 Exchange 2003 MAPI 流量的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 270836《[Exchange 2000 靜態連接埠對應](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;270836)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;270836>。
+  
+如需 Exchange 2000 支援的網路連接埠及通訊協定的完整清單，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 278339《[XGEN：Exchange 2000 Server 使用的 TCP/UDP 連接埠](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;278339)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;278339>。
+  
+如需關於設定 Exchange 5.5 及 5.0 使用 LDAP 備用連接埠的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 224447《[XADM：如何變更 Exchange Server 中的 LDAP 連接埠設定](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;224447)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;224447>。
+  
+如需關於限制 Exchange 5.5 MAPI 流量的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 148732《[XADM：設定網際網路防火牆的 TCP/IP 連接埠號碼](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;148732)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;148732>。
+  
+如需關於 Exchange 5.5 及更舊版本 Exchange 所使用連接埠的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 176466《[XGEN：TCP 連接埠與 Microsoft Exchange：深入探討](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;176466)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;176466>。
+  
+#### 檔案複寫服務 (File Replication Service)
+  
+如需關於設定 FRS 使用防火牆的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 319553《[How to Restrict FRS Replication Traffic to a Specific Static Port (英文)](http://go.microsoft.com/fwlink/?linkid=22590)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22590](http://go.microsoft.com/fwlink/?linkid=22590)。
+  
+#### 網際網路資訊服務 (Internet Information Services)
+  
+如需關於 IIS 4.0、IIS 5.0 及 IIS 5.1 所用連接埠的資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 327859《[INFO：Inetinfo Services Use Additional Ports Beyond Well-Known Ports (英文)](http://go.microsoft.com/fwlink/?linkid=22591)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22591](http://go.microsoft.com/fwlink/?linkid=22591)。
+  
+如需關於 FTP 如何運作的詳細資訊，請參閱 TechNet 網站上的《[Modes and Data Transmission (英文)](http://go.microsoft.com/fwlink/?linkid=22592)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22592](http://go.microsoft.com/fwlink/?linkid=22592)。
+  
+#### IPSec 及 VPN
+  
+如需關於如何設定 Windows 中的 IPSec 預設免除，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 811832《[IPSec Default Exemptions Can Be Used to Bypass IPsec Protection in Some Scenarios (英文)](http://go.microsoft.com/fwlink/?linkid=22593)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22593](http://go.microsoft.com/fwlink/?linkid=22593)。
+  
+如需關於 IPSec 使用哪些連接埠及通訊協定的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 233256《[How to Enable IPSec Traffic Through a Firewall (英文)](http://go.microsoft.com/fwlink/?linkid=22594)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22594](http://go.microsoft.com/fwlink/?linkid=22594)。
+  
+如需關於 L2TP 與 IPSec 新增及更新功能的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 818043《[Windows XP 和 Windows 2000 的 L2TP/IPSec NAT-T 更新程式](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;818043)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;818043>。
+  
+#### MADCAP
+  
+如需關於 MADCAP 的詳細資訊，請參閱 TechNet 網站上的《[Planning MADCAP Servers (英文)](http://go.microsoft.com/fwlink/?linkid=22596)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22596](http://go.microsoft.com/fwlink/?linkid=22596)。
+  
+#### 訊息佇列伺服器 (Message Queue Server)
+  
+如需關於 Microsoft Message Queue Server 使用哪些連接埠的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 178517《[INFO:TCP, UDP, and RPC Ports Used by MSMQ (英文)](http://go.microsoft.com/fwlink/?linkid=22597)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22597](http://go.microsoft.com/fwlink/?linkid=22597)。
+  
+#### 行動資訊伺服器 (Mobile Information Server)
+  
+如需關於 Mobile Information Server 2001 使用哪些連接埠的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 294297《[XCCC:TCP/IP Ports Used by Microsoft Mobile Information Server (英文)](http://go.microsoft.com/fwlink/?linkid=22598)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22598](http://go.microsoft.com/fwlink/?linkid=22598)。
+  
+#### Microsoft 作業管理員 (Microsoft Operations Manager)
+  
+如需關於規劃及部署 MOM 的詳細資訊，請參閱 TechNet 網站上的《[Microsoft Operations Manager 2000 SP1 Conceptual Guide (英文)](http://go.microsoft.com/fwlink/?linkid=22599)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22599](http://go.microsoft.com/fwlink/?linkid=22599)。
+  
+#### 系統管理伺服器 (Systems Management Server)
+  
+如需關於 SMS 2003 使用哪些連接埠的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 826852《[Ports That Systems Management Server 2003 Uses to Communicate Through a Firewall or Through a Proxy Server (英文)](http://go.microsoft.com/fwlink/?linkid=22600)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22600](http://go.microsoft.com/fwlink/?linkid=22600)。
+  
+如需關於 SMS 2.0 使用哪些連接埠的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 167128《[SMS:Network Ports Used by Remote Helpdesk Functions (英文)](http://go.microsoft.com/fwlink/?linkid=22601)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22601](http://go.microsoft.com/fwlink/?linkid=22601)。
+  
+如需關於 SMS 使用哪些連接埠的詳細資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 200898《[SMS：如何透過「防火牆」使用 Systems Management Server](http://support.microsoft.com/default.aspx?scid=kb;zh-tw;200898)》，網址是 <http://support.microsoft.com/default.aspx?scid=kb;zh-tw;200898>。
+  
+如需關於 SMS 使用哪些連接埠的資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 256884《[SMS:TCP and UDP Ports Used by Remote Control Have Changed in SP2 (英文)](http://go.microsoft.com/fwlink/?linkid=22603)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22603](http://go.microsoft.com/fwlink/?linkid=22603)。
+  
+#### SQL 伺服器 (SQL Server)
+  
+如需關於 SQL Server 2000 如何動態決定次要執行個體連接埠的資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 286303《[INF:Behavior of SQL Server 2000 Network Library During Dynamic Port Detection (英文)](http://go.microsoft.com/fwlink/?linkid=22604)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22604](http://go.microsoft.com/fwlink/?linkid=22604)。
+  
+如需關於 SQL Server 7.0 與 SQL Server 2000 在 OLAP Services 所用連接埠的資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 301901《[TCP Ports Used by OLAP Services when Connecting Through a Firewall (英文)](http://go.microsoft.com/fwlink/?linkid=22605)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22605](http://go.microsoft.com/fwlink/?linkid=22605)。
+  
+#### 終端機服務 (Terminal Services)
+  
+如需關於如何設定 Terminal Services 所用連接埠的資訊，請參閱 Microsoft 網站上的「Microsoft 知識庫」文件 187623《[How to Change Terminal Server's Listening Port (英文)](http://go.microsoft.com/fwlink/?linkid=22606)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22606](http://go.microsoft.com/fwlink/?linkid=22606)。
+  
+#### 控制 Windows 中的網際網路通訊
+  
+如需關於具有 Service Pack 1 的 Windows XP 如何進行網際網路通訊的用戶端觀點，請參閱 TechNet 網站上的《[Using Windows XP Professional with Service Pack 1 in a Managed Environment (英文)](http://go.microsoft.com/fwlink/?linkid=22607)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22607](http://go.microsoft.com/fwlink/?linkid=22607)。
+  
+如需關於具有 Service Pack 4 的 Windows 2000 如何進行網際網路通訊的用戶端觀點，請參閱 TechNet 網站上的《[Using Windows 2000 with Service Pack 4 in a Managed Environment (英文)](http://go.microsoft.com/fwlink/?linkid=22608)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22608](http://go.microsoft.com/fwlink/?linkid=22608)。
+  
+如需關於 Windows Server 2003 如何進行網際網路通訊的用戶端觀點，請參閱 TechNet 網站上的《[Using Windows Server 2003 in a Managed Environment (英文)](http://go.microsoft.com/fwlink/?linkid=22609)》，網址是 [http://go.microsoft.com/fwlink/?LinkId=22609](http://go.microsoft.com/fwlink/?linkid=22609)。
+  
+[](#mainsection)[回到頁首](#mainsection)
