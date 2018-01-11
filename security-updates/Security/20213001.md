@@ -1,0 +1,1290 @@
+---
+TOCTitle: Microsoft TechNet 安全性基礎概念
+Title: Microsoft TechNet 安全性基礎概念
+ms:assetid: '175aaa35-5737-4e7b-a402-77c1fcd06dbe'
+ms:contentKeyID: 20213001
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc895262(v=MSDN.10)'
+---
+
+安全性基礎概念
+==============
+
+結合 Microsoft 技術、工具及指引，為您的 IT 基礎結構建立一個安全可靠的基礎。 瞭解內建於作業系統中，能協助電腦抵抗攻擊，並且為您的其他技術投資提供發展基礎的技術。
+
+這個學習捷徑的內容仍在持續發展當中。 [請讓我們知道](https://support.microsoft.com/common/survey.aspx?scid=sw;en;1257&showpage=1&ws=technet&sd=tech)您對哪些主題與內容類型感興趣。
+
+##### 本頁內容
+
+[](#ebaa)[資源](#ebaa)
+[](#eaaa)[內容類型與技術等級定義](#eaaa)
+
+### 資源
+
+ 
+<table style="border:1px solid black;">
+<tr>
+<th colspan="5">
+等級 100
+</th>
+</tr>
+<tr>
+<th style="border:1px solid black;" >
+ 
+
+</th>
+<th style="border:1px solid black;" >
+規劃
+
+</th>
+<th style="border:1px solid black;" >
+預防
+
+</th>
+<th style="border:1px solid black;" >
+偵測
+
+</th>
+<th style="border:1px solid black;" >
+回應
+
+</th>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[Microsoft 執行週期網路廣播： Mike Nash 的 Security360： 瞭解法規遵循 (等級 100) (英文)](http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032279056&eventcategory=3&culture=en-us&countrycode=us)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[Microsoft 執行週期網路廣播： Mike Nash 的 Security360： 延伸式企業的存取管理 (等級 100) (英文)](http://go.microsoft.com/fwlink/?linkid=45782)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+</table>
+ 
+<table style="border:1px solid black;">
+ 
+<tr>
+<th colspan="5">
+等級 200
+</th>
+</tr>
+<tr>
+<th style="border:1px solid black;" >
+ 
+
+</th>
+<th style="border:1px solid black;" >
+規劃
+
+</th>
+<th style="border:1px solid black;" >
+預防
+
+</th>
+<th style="border:1px solid black;" >
+偵測
+
+</th>
+<th style="border:1px solid black;" >
+回應
+
+</th>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： SQL Server 2005 的新安全性模型 - 等級 200 (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032263278&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： TechEd 實況轉播： 駭客入侵手法 (等級 200) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032253801&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 修正瑕疵： 安全的 Web 應用程式架構設計考量 (等級 300) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032267636%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 數位黑帶系列： 建立絕對安全的開發作業程序 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032267286%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 開發人員的防禦措施： 應用程式安全性保障計畫 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032267630%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 應用程式安全性概要 (3 之 1)： 保障通訊安全 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032269899%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 應用程式安全性概要 (3 之 2)： 驗證 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032266454%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 安全性風險管理 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032268025%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 身分和存取管理 (2 之 1)： 技術概觀 (等級 200) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032285735&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 身分和存取管理 (2 之 2)： 細說內部網路與外部網路的存取管理 (等級 200) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032285754&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 運用智慧卡建置多重要素驗證 (等級 200) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032285761&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 編寫安全的程式碼 (3 之 2)： 威脅防禦 (等級 200) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032284316&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 保護資料庫： 作出正確的設計選擇 (等級 200) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032285025&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 最佳安全性實務： 強化您的 SQL Server (等級 200) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032280301&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 建置應用程式和資料安全性 (等級 200) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279920&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 在開發生命週期中建置安全性 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272653%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 編寫安全的程式碼 (3 之 1)： 威脅防禦 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032276629%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 編寫安全的程式碼 (3 之 2)： 威脅防禦 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032266574%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 編寫安全的程式碼 (3 之 3)： 威脅防禦 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272644%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 實際可行的內部網路解決方案安全性 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272724%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 在行動裝置解決方案中建置安全性 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272915%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 實際可行的內部網路和外部網路解決方案安全性 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272731%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 管理 Internet Information Server 6.0 (等級 200) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032276851%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+</table>
+ 
+<table style="border:1px solid black;">
+ 
+<tr>
+<th colspan="5">
+等級 300
+</th>
+</tr>
+<tr>
+<th style="border:1px solid black;" >
+ 
+
+</th>
+<th style="border:1px solid black;" >
+規劃
+
+</th>
+<th style="border:1px solid black;" >
+預防
+
+</th>
+<th style="border:1px solid black;" >
+偵測
+
+</th>
+<th style="border:1px solid black;" >
+回應
+
+</th>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： SQL Server 和 Windows XP SP2 (等級 300) (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032253410&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 應用程式安全性概要，第 3 部分： 授權 (等級 300) (英文)](http://go.microsoft.com/fwlink/?linkid=29877)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 應用程式層級的攻擊： 參數操作和錯誤設陷 (等級 300) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032267615%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 瞭解 Windows XP SP2 中的 Microsoft Internet Explorer 6 安全性 (英文)](http://www.microsoft.com/downloads/details.aspx?familyid=e550f940-37a0-4541-b5e2-704ab386c3ed&displaylang=en)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： Web 應用程式威脅模型分析 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag2/html/tmwa.asp)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 建置安全的 ASP.NET 應用程式： 驗證、授權和安全的通訊 - 內部網路安全性 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/secnetch05.asp)
+  
+[指南： 建置安全的 ASP.NET 應用程式： 內部網路安全性](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod05.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 建置安全的 ASP.NET 應用程式： 驗證、授權和安全的通訊 - 外部網路安全性 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/secnetch06.asp)
+  
+[指南： 建置安全的 ASP.NET 應用程式： 外部網路安全性](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod06.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 建置安全的組件 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/thcmch07.asp)
+  
+[指南： 建置安全的組件](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod80.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 建置安全的資料存取 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/thcmch14.asp)
+  
+[指南： 建置安全的資料存取](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod87.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 程式碼存取安全性實務 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/thcmch08.asp)
+  
+[指南： 程式碼存取安全性實務](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod81.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 建置安全的 ASP.NET 網頁與控制項 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/thcmch10.asp)
+  
+[指南： 建置安全的 ASP.NET 網頁與控制項](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod83.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 建置安全的服務元件 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/thcmch11.asp)
+  
+[指南： 建置安全的服務元件](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod84.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 建置安全的遠端元件 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/thcmch13.asp)
+  
+[指南： 建置安全的遠端元件](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod86.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 建置安全的 Web 服務 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnnetsec/html/thcmch12.asp)
+  
+[指南： 建置安全的 Web 服務](http://www.microsoft.com/taiwan/msdn/secmod/html/secmod85.mspx)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 安全性指南： ASP.NET 2.0 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag2/html/pagguidelines0001.asp)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 安全性風險管理 (3 之 1)： 概念和必要條件 (等級 300) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272968%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 安全性風險管理 (3 之 2)： 風險評估 (等級 300) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032273047%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 安全性風險管理 (3 之 3)： 決策、控管和計畫成效 (等級 300) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032273100%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： Microsoft .NET Framework 安全性，第 1 部分： 功能和加密 (等級 300) (英文)](http://go.microsoft.com/fwlink/?linkid=29512)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： Microsoft .NET Framework 安全性，第 2 部分： 程式碼存取和以角色為基礎的安全性 (等級 300) (英文)](http://go.microsoft.com/fwlink/?linkid=29869)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： Microsoft .NET Framework 安全性，第 3 部分： ASP .NET Web 應用程式和服務 (等級 300) (英文)](http://go.microsoft.com/fwlink/?linkid=29900)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 安全性原則有用嗎？ 我只需要防火牆 (等級 300) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032274962%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： Microsoft IT 如何實施管控 (等級 300) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032275645%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[TechNet 網路廣播： 更安全且妥善管理的基礎結構 (18 之 4)： Microsoft Identity Integration Server 技術概觀 (英文)](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032282145&culture=en-us)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： Dave 的 10 種保護您的 Web 應用程式的有效方法 (等級 300) (英文)](http://go.microsoft.com/fwlink/?linkid=29503)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+</tr>
+</table>
+ 
+<table style="border:1px solid black;">
+ 
+<tr>
+<th colspan="5">
+等級 400
+</th>
+</tr>
+<tr>
+<th style="border:1px solid black;" >
+ 
+
+</th>
+<th style="border:1px solid black;" >
+規劃
+
+</th>
+<th style="border:1px solid black;" >
+預防
+
+</th>
+<th style="border:1px solid black;" >
+偵測
+
+</th>
+<th style="border:1px solid black;" >
+回應
+
+</th>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[MSDN 網路廣播： 利用 WSE 2.0 保障 Web 服務通訊的安全 (等級 400) (英文)](http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032270533%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： .NET Framework 2.0 典範與實例安全性指南 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag2/html/appsecguidanceforframeworkv2.asp)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： 應用程式索引典範與實例安全性指南 (英文)](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag2/html/securityguidanceindex.asp)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[指南： Internet Information Services (IIS) 6.0 Resource Kit (英文)](http://www.microsoft.com/downloads/details.aspx?familyid=80a1b6e6-829e-49b7-8c02-333d9c148e69&displaylang=en)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[工具： Microsoft 安全性評估 (英文)](http://go.microsoft.com/?linkid=4378891)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[教學 2806： Microsoft 開發人員安全性指引訓練 (英文)](https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=55493)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[教學 2807： Microsoft 開發人員安全性指引訓練 II (英文)](https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=67120)
+
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+ 
+</td>
+<td style="border:1px solid black;">
+  ![](images/Cc895262.ms_compare3(zh-tw,MSDN.10).gif)
+</td>
+</tr>
+</table>
+ 
+[](#mainsection)[回到頁首](#mainsection)
+
+### 內容類型與技術等級定義
+
+ 
+<table style="border:1px solid black;">
+<tr>
+<th colspan="2">
+內容類型索引鍵
+</th>
+<th colspan="2">
+技術等級索引鍵
+</th>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**內容類型**
+</td>
+<td style="border:1px solid black;">
+**說明**
+</td>
+<td style="border:1px solid black;">
+**技術等級**
+</td>
+<td style="border:1px solid black;">
+**說明**
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**指南：**
+</td>
+<td style="border:1px solid black;">
+指南包括書面的指示或說明，例如白皮書、Resource Kit、包含數個章節的指南 (線上或可下載的文件) 以及文章等等。
+</td>
+<td style="border:1px solid black;">
+**100：**
+</td>
+<td style="border:1px solid black;">
+簡介與概觀性資料。 假定只具備少許或完全沒有與主題相關的專業知識，內容涵蓋主題的概念、特色和優點。
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**網路廣播：**
+</td>
+<td style="border:1px solid black;">
+網路廣播是長度為 60 到 90 分鐘的廣播，可提供互動式的技術簡報、產品展示及問答單元，由熟悉 Microsoft 技術或產業，或兩方面皆專精的專家主講。 所有內容皆提供錄影點播的瀏覽方式。
+</td>
+<td style="border:1px solid black;">
+**200：**
+</td>
+<td style="border:1px solid black;">
+中等程度的資料。 假定已具備等級 100 程度的知識，提供與主題有關的特定詳細資訊。
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**線上研討會：**
+</td>
+<td style="border:1px solid black;">
+線上研討會是收集自現場活動的大量資源，內容可能包括 PowerPoint 簡報、展示影片、線上與可下載的白皮書、工具及其他資源等。
+</td>
+<td style="border:1px solid black;">
+**300：**
+</td>
+<td style="border:1px solid black;">
+進階程度的資料。 假定已具備等級 200 程度的知識，對真實環境中的功能有深層瞭解，並具備深厚的程式設計能力。 提供一組特定產品/技術功能的詳細技術概觀，內容涵蓋架構、效能、移轉、部署以及開發等。
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**虛擬實驗室和 Hands-On Lab：**
+</td>
+<td style="border:1px solid black;">
+虛擬實驗室和 Hands-On Lab 能讓使用者在沙箱環境中測試 Microsoft 軟體和伺服器。
+</td>
+<td style="border:1px solid black;">
+**400：**
+</td>
+<td style="border:1px solid black;">
+專家程度的資料。 假定已具備深厚的技術知識和經驗，並且對主題有詳細且透徹的瞭解。 提供專家與專家的互動，內容涵蓋專業領域主題。
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**工具：**
+</td>
+<td style="border:1px solid black;">
+工具是可下載的應用程式或軟體，可協助使用者完成特定工作。
+</td>
+<td style="border:1px solid black;">
+****
+</td>
+<td style="border:1px solid black;">
+</td>
+</tr>
+</table>
+ 
+[](#mainsection)[回到頁首](#mainsection)
