@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-oct(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2012 年 10 月份 Microsoft 資訊安全公告摘要
 ==========================================
 
@@ -35,6 +33,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -138,6 +137,7 @@ Microsoft 伺服器軟體</td>
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -243,6 +243,7 @@ Microsoft 伺服器軟體</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -829,6 +830,7 @@ Server Core 安裝選項
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="4">
@@ -1143,19 +1145,20 @@ Microsoft Works 9
 </tr>
 </table>
  
-**MS12-064*注意事項***
+**MS12-064** ***注意事項***
 
 另請參閱＜受影響的軟體及下載位置＞一節中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。本公告涉及多個軟體分類。
 
 <sup>[1]</sup>對於 Microsoft Office Word 2007，除了資訊安全更新套件 KB2687315 之外，客戶還需要安裝 Microsoft Office 相容性套件的資訊安全更新 (KB2687314)，以避免受到此公告中說明的資訊安全風險影響。
 
-***MS12-*066***注意*****事項
+**MS12-066** ***注意*** 事項
 
 另請參閱＜受影響的軟體及下載位置＞一節中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。本公告涉及多個軟體分類。
 
 #### Microsoft 伺服器軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="4">
@@ -1588,6 +1591,7 @@ Microsoft Office Web Apps 2010 Service Pack 1
 #### Microsoft 通訊平台和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1696,6 +1700,7 @@ Microsoft Lync 2010 Attendee
 #### Microsoft SQL Server
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

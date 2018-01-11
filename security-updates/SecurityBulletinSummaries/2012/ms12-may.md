@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-may(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2012 年 5 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -37,6 +35,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -135,6 +134,7 @@ Microsoft Office</td>
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -366,6 +366,7 @@ Microsoft Office</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="5">
@@ -1557,7 +1558,7 @@ Server Core 安裝選項
 </tr>
 </table>
  
-MS12-034 ***注意事項*****
+MS12-034 ***注意事項***
 
 <sup>[1]</sup>.NET Framework 4 和 .NET Framework 4 Client Profile 會受到影響。可在兩個設定檔中使用 .NET Framework 第 4 版可轉散發套件： .NET Framework 4 和 .NET Framework 4 Client Profile。.NET Framework 4 Client Profile 是 .NET Framework 4 的子集。此更新所解決的資訊安全風險會同時影響到 .NET Framework 4 和 .NET Framework 4 Client Profile。如需詳細資訊，請參閱 MSDN 文章：[安裝 .NET Framework](http://msdn.microsoft.com/zh-tw/library/5a4x27ek.aspx)。
 
@@ -1569,13 +1570,14 @@ MS12-034 ***注意事項*****
 
 另請參閱＜受影響的軟體及下載位置＞一節中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。本公告涉及多個軟體分類。
 
-MS12-035 ***注意事項*****
+MS12-035 ***注意事項***
 
 <sup>[1]</sup>.NET Framework 4 和 .NET Framework 4 Client Profile 會受到影響。可在兩個設定檔中使用 .NET Framework 第 4 版可轉散發套件： .NET Framework 4 和 .NET Framework 4 Client Profile。.NET Framework 4 Client Profile 是 .NET Framework 4 的子集。此更新所解決的資訊安全風險會同時影響到 .NET Framework 4 和 .NET Framework 4 Client Profile。如需詳細資訊，請參閱 MSDN 文章：[安裝 .NET Framework](http://msdn.microsoft.com/zh-tw/library/5a4x27ek.aspx)。
 
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="5">
@@ -2008,19 +2010,20 @@ MS12-0***29*** 注意事項
 
 <sup>[1]</sup>對於 Microsoft Word 2007，除了資訊安全更新封裝 KB2596917 外，客戶還需安裝 Microsoft Office 相容性套件的資訊安全更新 (KB2596880)，才能避免受此公告中描述的資訊安全風險影響。
 
-MS12-030 ***注意事項*****
+MS12-030 ***注意事項***
 
 <sup>[1]</sup>對於 Microsoft Excel 2007，除了資訊安全更新封裝 KB2597161 外，客戶也需安裝 Microsoft Office 相容性套件的資訊安全更新 (KB2597162)，才能避免受此公告中描述的資訊安全風險影響。
 
 <sup>[2]</sup>在安裝此更新之前，必須先將 Microsoft Excel Viewer 更新至受支援的 Service Pack 層級 (Excel Viewer 2007 Service Pack 2 或 Excel Viewer 2007 Service Pack 3)。如需受支援 Office 檢視器的相關資訊，請參閱 [Microsoft 知識庫文件編號 979860](http://support.microsoft.com/kb/979860?ln=zh-tw)。
 
-MS12-034 ***注意事項*****
+MS12-034 ***注意事項***
 
 另請參閱＜受影響的軟體及下載位置＞一節中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。本公告涉及多個軟體分類。
 
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2098,7 +2101,7 @@ Microsoft Silverlight 5
 </tr>
 </table>
  
-MS12-034 ***注意事項*****
+MS12-034 ***注意事項***
 
 另請參閱＜受影響的軟體及下載位置＞一節中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。本公告涉及多個軟體分類。
 

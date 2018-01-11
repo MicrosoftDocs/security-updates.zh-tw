@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms07-dec(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2007 年 12 月份 Microsoft 資訊安全公告摘要
 ==========================================
 
@@ -118,6 +116,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 **受影響的軟體及下載位置**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1265,9 +1264,9 @@ Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack
  
 **注意：**
 
-**<sup>[1]</sup>** 已針對此作業系統提供了安全性更新程式。 請參閱表格中受影響的軟體或元件，以及相關的安全性公告以獲得詳細資訊。** **
+**<sup>[1]</sup>** 已針對此作業系統提供了安全性更新程式。 請參閱表格中受影響的軟體或元件，以及相關的安全性公告以獲得詳細資訊。
 
-**\***包括 DirectX 9.0b 和 DirectX 9.0c
+\*包括 DirectX 9.0b 和 DirectX 9.0c
 
 偵測與部署工具及指南
 --------------------

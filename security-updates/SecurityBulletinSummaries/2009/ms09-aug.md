@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms09-aug(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2009 年 8 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -37,6 +35,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -188,6 +187,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1087,6 +1087,7 @@ Windows Server 2008
 #### 適用於 Mac 的用戶端軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1135,6 +1136,7 @@ Windows Server 2008
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1279,6 +1281,7 @@ Microsoft Office Small Business Accounting 2006
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -1326,6 +1329,7 @@ Microsoft Visual Studio .NET 2003
 #### Microsoft 伺服器和安全性軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >

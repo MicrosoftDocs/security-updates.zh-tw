@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-sep(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2012 年 9 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -39,6 +37,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -97,6 +96,7 @@ Internet Explorer</td>
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -196,6 +196,7 @@ Microsoft 已發現嘗試利用此資訊安全風險的有限攻擊。</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -773,6 +774,7 @@ Windows Server 2008 R2
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -821,6 +823,7 @@ MS12-061 注意事項
 #### Microsoft 伺服器軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
