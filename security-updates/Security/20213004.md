@@ -1,0 +1,539 @@
+---
+TOCTitle: 'Microsoft TechNet 學習捷徑： 預防'
+Title: 'Microsoft TechNet 學習捷徑： 預防'
+ms:assetid: 'c4449577-c2da-4efd-beea-c476120c0612'
+ms:contentKeyID: 20213004
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc563932(v=MSDN.10)'
+---
+
+預防
+====
+
+政策必須落實在解決方案與作業程序中，而這項工作必須在預防階段執行。
+
+這個學習捷徑的內容仍在持續發展當中。 [請讓我們知道](https://support.microsoft.com/common/survey.aspx?scid=sw;en;1257&showpage=1&ws=technet&sd=tech)您對哪些主題與內容類型感興趣。
+
+##### 本頁內容
+
+[](#ecaa)[資源](#ecaa)
+[](#ebaa)[內容類型與技術等級定義](#ebaa)
+
+### 資源
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >等級 100</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>威脅及弱點減輕</strong></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032253010&amp;culture=en-us">Microsoft 執行週期網路廣播： 組合國際 - 全面掌控的安全性管理 (等級 100) (英文)</a></td>
+</tr>
+</tbody>
+</table>
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >等級 200</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>身分和存取管理</strong></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032275469%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 身分和存取管理 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272963%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 身分和存取管理 (2 之 1)： 技術概觀 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032273085%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 身分和存取管理 (2 之 2)： 細說內部網路與外部網路的存取管理 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/isa/tnt1-111.mspx">線上研討會： ISA Server 2004 技術概觀 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/isa/tnt1-125.mspx">線上研討會： 使用 ISA Server 2004 設定 Exchange 和 VPN 連線 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/windows2003srv/tnt1-158.mspx">線上研討會： 採用以最佳實例為基礎的解決方案來建置安全的 Windows Server 2003 網路存取 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/isa/tnt1-149.mspx">線上研討會： 利用 ISA Server 2004 在網際網路上提供 Web 和 SharePoint 應用程式 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/sharepoint/tnt1-109.mspx">線上研討會： 管理所有 Microsoft 整合型入口網站技術的網頁內容和文件 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>安全性基礎概念</strong></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279920&amp;culture=en-us">TechNet 網路廣播： 建置應用程式和資料安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272653%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">MSDN 網路廣播： 在開發生命週期中建置安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032276629%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">MSDN 網路廣播： 編寫安全的程式碼 (3 之 1)： 威脅防禦 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032266574%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">MSDN 網路廣播： 編寫安全的程式碼 (3 之 2)： 威脅防禦 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272644%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">MSDN 網路廣播： 編寫安全的程式碼 (3 之 3)： 威脅防禦 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>威脅及弱點減輕</strong></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032257361%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 建置網路和周邊安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29849">TechNet 網路廣播： 在 Microsoft Windows 2000 和 Microsoft Windows XP 上建置用戶端安全性，第 1 部份： 核心用戶端安全性： 獨立用戶端的應用程式安全和群組原則 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29874">TechNet 網路廣播： 在 Microsoft Windows 2000 和 Microsoft Windows XP 上建置用戶端安全性，第 2 部分： 運用 Microsoft Active Directory 保障您環境的安全 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29912">TechNet 網路廣播： 在 Microsoft Windows 2000 和 Microsoft Windows XP 上建置用戶端安全性，第 3 部分： 軟體限制、防毒與用戶端防火牆 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032273519%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： Windows XP Service Pack 2 的部署與管理 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279914&amp;culture=en-us">TechNet 網路廣播： 在 Windows 2000 和 Windows Server 2003 上建置伺服器安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29281">TechNet 網路廣播： 在 Windows 2000 和 Windows Server 2003 上建置伺服器安全性，第 1 部分： 保障伺服器的安全： 核心伺服器安全性和 Microsoft Active Directory 安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29399">TechNet 網路廣播： 在 Windows 2000 和 Windows Server 2003 上建置伺服器安全性，第 2 部分： 強化成員伺服器和強化網域控制站 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29905">TechNet 網路廣播： 在 Windows 2000 和 Windows Server 2003 上建置伺服器安全性，第 3 部分： 強化擔任特定角色的伺服器和獨立運作的伺服器 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032282374&amp;culture=en-us">TechNet 網路廣播： 設定 Microsoft Windows Server 2003 Service Pack 1 中的安全性強化功能 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032273513%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 減輕 Windows 98 和 Windows NT 4.0 的威脅 (3 之 1)： 減輕 Windows NT 網路的威脅 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032273517%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 減輕 Windows 98 和 Windows NT 4.0 的威脅 (3 之 2)： 減輕 Windows NT 電腦的威脅 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032275538%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 減輕 Windows 98 和 Windows NT 4.0 的威脅 (3 之 3)： 減輕 Windows 98 的威脅與移轉舊型系統 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032276803%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 保障服務和重要帳戶的安全 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032276835%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 運用智慧卡建置多重要素驗證 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032278550&amp;culture=en-us">TechNet 網路廣播： 建置 Exchange Server 安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032278552&amp;culture=en-us">TechNet 網路廣播： 建置 Exchange Server 用戶端的訊息安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032282386&amp;culture=en-us">TechNet 網路廣播： 利用 Windows Rights Management Services 來保護資訊 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=25955">TechNet 網路廣播： Microsoft 企業用戶的 Symantec 全方位資訊安全解決方案 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032282030&amp;culture=en-us">TechNet 網路廣播： SurfControl Web Filter for ISA Server 2004 協助您免除非必要內容的風險 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=53057">教學 2802： Microsoft 安全性指引訓練 II (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=62977">教學 2804： Microsoft 安全性指引訓練 IV (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032279960&amp;eventcategory=4&amp;culture=en-us">TechNet 網路廣播： 資訊安全概要 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279973&amp;culture=en-us">TechNet 網路廣播： 保障電子郵件以外的協同作業通訊管道的安全 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032280058&amp;culture=en-us">TechNet 網路廣播： 運用 Antigen 和 ISA Server 保障 Exchange Server 的安全 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279534&amp;culture=en-us">TechNet 網路廣播： 惡意軟體深度防禦 (3 之 1)： 惡意軟體的防禦和修復 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279538&amp;culture=en-us">TechNet 網路廣播： 惡意軟體深度防禦 (3 之 2)： 用戶端電腦的惡意軟體防禦 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279540&amp;culture=en-us">TechNet 網路廣播： 惡意軟體深度防禦 (3 之 3)： 用戶端電腦的惡意軟體防禦 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279963&amp;culture=en-us">TechNet 網路廣播： 在 Windows 2000 和 Windows XP 上建置用戶端安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279920&amp;culture=en-us">TechNet 網路廣播： 建置應用程式和資料安全性 (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032282273&amp;culture=en-us">TechNet 網路廣播： 瞭解群組原則 (3 之 1) (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032282276&amp;culture=en-us">TechNet 網路廣播： 瞭解群組原則 (3 之 2) (等級 200) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032282280&amp;culture=en-us">TechNet 網路廣播： 瞭解群組原則 (3 之 3) (等級 200) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/security/tnt1-66.mspx">線上研討會： 無線網路的安裝、安全和維護 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/isa/tnt1-125.mspx">線上研討會： 使用 ISA Server 2004 設定 Exchange 和 VPN 連線 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/exchange2003/tnt1-132.mspx">線上研討會： Exchange 環境防堵垃圾郵件的對策 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/community/events/windows2003srv/tnt1-158.mspx">線上研討會： 採用以最佳實例為基礎的解決方案來建置安全的 Windows Server 2003 網路存取 (英文)</a></td>
+</tr>
+</tbody>
+</table>
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >等級 300</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>身分和存取管理</strong></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=41313">指南： 利用智慧卡保障存取安全規劃指南 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/exchange.mspx">TechNet 虛擬實驗室： Exchange (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>安全性基礎概念</strong></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032274962%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 安全性原則有用嗎？ 我只需要防火牆 (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032275645%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： Microsoft IT 如何實施管控 (等級 300) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29512">MSDN 網路廣播： Microsoft .NET Framework 安全性，第 1 部分： 功能和加密 (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29869">MSDN 網路廣播： Microsoft .NET Framework 安全性，第 2 部分： 程式碼存取和以角色為基礎的安全性 (等級 300) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=29900">MSDN 網路廣播： Microsoft .NET Framework 安全性，第 3 部分： ASP .NET Web 應用程式和服務 (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>威脅及弱點減輕</strong></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032269981&amp;eventcategory=3&amp;culture=en-us&amp;countrycode=us">TechNet 網路廣播： 安全性風險管理 (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032272968%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 安全性風險管理 (3 之 1)： 概念和必要條件 (等級 300) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032273047%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 安全性風險管理 (3 之 2)： 風險評估 (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032273100%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 安全性風險管理 (3 之 3)： 決策、控管和計畫成效 (等級 300) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032274962%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 安全性原則有用嗎？ 我只需要防火牆 (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://support.microsoft.com/default.aspx?scid=kb;en-us;823886">支援網路廣播： 可降低或完全避免惡意軟體威脅的企業策略 (等級 300) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032274950%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 瞭解和對抗惡意軟體： 病毒、間諜軟體和 Rootkit (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032253696&amp;culture=en-us">TechNet 網路廣播： 建置進階伺服器和用戶端安全性 (等級 300) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032275732%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 利用群組原則和 IPSec 進行網路隔離 (3 之 1)： 網際網路通訊協定安全性概觀 (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032275473%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 利用群組原則和 IPSec 進行網路隔離 (3 之 2)： 瞭解如何利用 IPSec 進行網路隔離 (等級 300) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032275659%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">TechNet 網路廣播： 利用群組原則和 IPSec 進行網路隔離 (3 之 3)： 進階網路隔離案例 (等級 300) (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=27558">TechNet 網路廣播： 建置網路和周邊安全性 (等級 300) 活動代碼 1032253323 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/security/topics/complianceandpolicies/secrisk/default.mspx">指南： 安全性風險管理指南 (英文)</a>
+<a href="http://www.microsoft.com/taiwan/technet/security/topics/policiesandprocedures/secrisk/default.mspx">指南： 安全性風險管理指南</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=58798">課程 2801： Microsoft 安全性指引訓練 I (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/series/checklist.mspx">指南： 惡意軟體檢查清單 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/windowsserver2003/community/articles/art_malwarefaq.mspx">指南： 惡意軟體： 常見問題 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/exchange.mspx">TechNet 虛擬實驗室： Exchange (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279998&amp;culture=en-us">TechNet 網路廣播： Windows 平台的 Rootkit (等級 300) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032279922&amp;culture=en-us">TechNet 網路廣播： 進階伺服器和用戶端安全性 (等級 300) (英文)</a></td>
+</tr>
+</tbody>
+</table>
+
+ 
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >等級 400</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>身分和存取管理</strong></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/isa.mspx">TechNet 虛擬實驗室： ISA (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/security.mspx">TechNet 虛擬實驗室： 安全性 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/sms.mspx">TechNet 虛擬實驗室： Microsoft Systems Management Server (SMS) 2003 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>安全性基礎概念</strong></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/events/eventdetails.aspx?cmtysvcsource=mscommedia&amp;params=%7ecmtydatasvcparams%5e%7earg+name=%22id%22+value=%221032270533%22/%5e%7earg+name=%22providerid%22+value=%22a6b43178-497c-4225-ba42-df595171f04c%22/%5e%7earg+name=%22lang%22+value=%22en%22/%5e%7earg+name=%22cr%22+value=%22us%22/%5e%7esparams%5e%7e/sparams%5e%7e/cmtydatasvcparams%5e">MSDN 網路廣播： 利用 WSE 2.0 保障 Web 服務通訊的安全 (等級 400) (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag2/html/appsecguidanceforframeworkv2.asp">指南： .NET Framework 2.0 典範與實例安全性指南 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnpag2/html/securityguidanceindex.asp">指南： 應用程式索引典範與實例安全性指南 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>威脅及弱點減輕</strong></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=16284">指南： 安全更新管理 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=36647">指南： 利用 SMS 2003 進行補充程式管理 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/taiwan/windowsserversystem/updateservices/downloads/wsus.mspx">指南： Microsoft Windows Update Services 概觀</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=d91065ee-e618-4810-a036-de633f79872e&amp;displaylang=en">指南： Windows Server 2003 Deployment Kit： 部署網路服務 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6cde6ee7-5df1-4394-92ed-2147c3a9ebbe&amp;displaylang=en">指南： Windows Server 2003 Deployment Kit： 設計和部署目錄和安全性服務 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/prodtechnol/windowsserver2003/library/serverwhitepapers/e3fd95df-d319-4fbe-ab16-a6331ba20ab2.mspx">指南： 保護 Windows Server Active Directory 安裝的最佳實務指南 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/prodtechnol/windowsserver2003/library/operations/6e91f815-9ba2-4f62-b25b-f020243e5d8e.mspx">指南： 保障網域和樹系信任的安全 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/taiwan/technet/security/guidance/avdind_0.mspx">指南： 深度病毒防禦</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/?linkid=4378891">工具： Microsoft 安全性評估 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/taiwan/technet/security/guidance/secmod48.mspx">指南： 保障 Windows 平台的安全： 潛在威脅及因應對策</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/taiwan/technet/security/guidance/secmod117.mspx">指南： 保障 Windows 平台的安全： Windows Server 2003 安全性指南</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=41313">指南： 利用智慧卡保障存取安全規劃指南 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=15e83186-a2c8-4c8f-a9d0-a0201f639a56&amp;displaylang=en">指南： 保障 Windows 平台的安全： Windows 2000 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/taiwan/technet/security/guidance/secmod60.mspx">指南： 保障 Windows 平台的安全： XP 安全性指南</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=41315">指南： 系統管理員帳戶安全性規劃指南</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=41311">指南： 服務和服務帳戶安全性規劃指南 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/taiwan/technet/security/guidance/threatmi.mspx">指南： 保障舊型伺服器和用戶端的安全</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/rms.mspx">TechNet 虛擬實驗室： Windows Rights Management Services 虛擬實驗室 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/isa.mspx">TechNet 虛擬實驗室： ISA (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/security.mspx">TechNet 虛擬實驗室： 安全性 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/technet/traincert/virtuallab/sms.mspx">TechNet 虛擬實驗室： Microsoft Systems Management Server (SMS) 2003 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=54762">Hands-On Lab 2811： Microsoft 安全性指引訓練實際運用 (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=62980">Hands-On Lab 2812： Microsoft 安全性指引訓練 II 實際運用 (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=58798">課程 2801： Microsoft 安全性指引訓練 I (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=53057">教學 2802： Microsoft 安全性指引訓練 II (英文)</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=58114">教學 2803： Microsoft 安全性指引訓練 III (英文)</a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><a href="https://www.microsoftelearning.com/elearning/offerdetail.aspx?offerpriceid=62977">教學 2804： Microsoft 安全性指引訓練 IV (英文)</a></td>
+</tr>
+</tbody>
+</table>
+  
+[](#mainsection)[回到頁首](#mainsection)
+  
+### 內容類型與技術等級定義
+
+ 
+<table style="border:1px solid black;">
+<tr>
+<th colspan="2">
+內容類型索引鍵  
+</th>
+<th colspan="2">
+技術等級索引鍵  
+</th>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**內容類型**
+</td>
+<td style="border:1px solid black;">
+**說明**
+</td>
+<td style="border:1px solid black;">
+**技術等級**
+</td>
+<td style="border:1px solid black;">
+**說明**
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**指南：**
+</td>
+<td style="border:1px solid black;">
+指南包括書面的指示或說明，例如白皮書、Resource Kit、包含數個章節的指南 (線上或可下載的文件) 以及文章等等。
+</td>
+<td style="border:1px solid black;">
+**100：**
+</td>
+<td style="border:1px solid black;">
+簡介與概觀性資料。 假定只具備少許或完全沒有與主題相關的專業知識，內容涵蓋主題的概念、特色和優點。
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**網路廣播：**
+</td>
+<td style="border:1px solid black;">
+網路廣播是長度為 60 到 90 分鐘的廣播，可提供互動式的技術簡報、產品展示及問答單元，由熟悉 Microsoft 技術或產業，或兩方面皆專精的專家主講。 所有內容皆提供錄影點播的瀏覽方式。
+</td>
+<td style="border:1px solid black;">
+**200：**
+</td>
+<td style="border:1px solid black;">
+中等程度的資料。 假定已具備等級 100 程度的知識，提供與主題有關的特定詳細資訊。
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**線上研討會：**
+</td>
+<td style="border:1px solid black;">
+線上研討會是收集自現場活動的大量資源，內容可能包括 PowerPoint 簡報、展示影片、線上與可下載的白皮書、工具及其他資源等。
+</td>
+<td style="border:1px solid black;">
+**300：**
+</td>
+<td style="border:1px solid black;">
+進階程度的資料。 假定已具備等級 200 程度的知識，對真實環境中的功能有深層瞭解，並具備深厚的程式設計能力。 提供一組特定產品/技術功能的詳細技術概觀，內容涵蓋架構、效能、移轉、部署以及開發等。
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**虛擬實驗室和 Hands-On Lab：**
+</td>
+<td style="border:1px solid black;">
+虛擬實驗室和 Hands-On Lab 能讓使用者在沙箱環境中測試 Microsoft 軟體和伺服器。
+</td>
+<td style="border:1px solid black;">
+**400：**
+</td>
+<td style="border:1px solid black;">
+專家程度的資料。 假定已具備深厚的技術知識和經驗，並且對主題有詳細且透徹的瞭解。 提供專家與專家的互動，內容涵蓋專業領域主題。
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**工具：**
+</td>
+<td style="border:1px solid black;">
+工具是可下載的應用程式或軟體，可協助使用者完成特定工作。
+</td>
+<td style="border:1px solid black;">
+****
+</td>
+<td style="border:1px solid black;">
+</td>
+</tr>
+</table>
+ 
+[](#mainsection)[回到頁首](#mainsection)

@@ -1,0 +1,96 @@
+---
+TOCTitle: 管理 Windows IIS Web 服務的安全性
+Title: 管理 Windows IIS Web 服務的安全性
+ms:assetid: 'ec53dffc-1a4f-4821-ad10-6a54d2a2231f'
+ms:contentKeyID: 20214499
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc750866(v=TechNet.10)'
+---
+
+管理 Windows IIS Web 服務的安全性
+=================================
+
+##### 本頁索引
+
+[](#aa)[所有系統都必須接受管理](#aa)
+[](#ab)[安全性的的基礎原則](#ab)
+[](#ac)[維持系統安全](#ac)
+[](#ad)[危機的回應](#ad)
+
+### Microsoft 諮詢服務 Web 伺服器的最佳解決方案
+
+所有系統都必須接受管理
+----------------------
+
+近來電腦病毒與電腦臭蟲的設計越來越精良並且威力強大，例證顯示只要有少許幾個無安全性的伺服器時，便會對使用戶環境造成威脅。用戶環境中的系統可分為兩類： 一種是在管理下，另一種則是不受管理的。不幸的是，近來的病毒已經能夠辨識出不受管理的系統。
+
+不受管理的系統通常歸類為非正式系統與測試系統。
+
+-   非正式系統經由非標準程序部署，並且與公司政策不符。非正式系統是特別危險的，因為並未遵循安全執行與更新的企業標準。
+-   測試系統獲准成為系統開發與測試的部分，但是系統開發與測試並沒有可以確保服務經安全部署和持續維持安全的正式性支援架構。
+
+### *建議事項 Microsoft 建議用戶建立積極的策略以辨識在偵測範圍中作業的「非正式」系統。*
+
+非正式系統讓病毒有機會另闢管道進入系統，並且透過非 Web 伺服器的漏洞來傳播病毒。這些系統對電腦計算環境的穩定性造成迫切的危險，所以必須加以偵測與處理。
+
+### 偵測非正式伺服器的策略如下：
+
+1.  執行連接埠位址空間的主動掃描，以辨識執行未經核准服務的伺服器。現在已經有許多優良的掃描工具，例如 Internet Security Systems ( <http://www.iss.net> ) 的 Internet Security Scanner。
+2.  執行連接埠位址空間的被動掃描，以使用遠端網路監控程式等網路監控工具。與主動連接埠掃描相比，這樣對網路的干擾較輕，但是可辨識較少的非正式伺服器。
+3.  增加人為隨機稽核的次數。稽核可設定為自動執行以增加稽核涵蓋的機器數量。
+
+### *建議事項 Microsoft 建議用戶，針對經核准但尚未管理的測試與開發系統，建立管理計劃。*
+
+實際執行網際網路與區域網路系統所採用的基本安全性原則，也應實施於測試與開發系統。
+
+### 管理測試與開發系統的策略如下：
+
+1.  為清楚地區隔出實際執行系統與測試系統，因此建立專屬的測試與開發環境，並且將其視為實際執行系統般管理。這種策略對於應用程式開發者來說較為不便，因為他們必須在測試與開發環境之中工作，而不能在本機實際執行系統工作，但是這是必須執行的任務。
+2.  如果建立專屬的測試與開發環境不是公司現有方案，則建議研擬程序允許應用程式開發者與業務單位提報特殊狀況，以便在其他網路建立獨立的測試環境。
+
+安全性的的基礎原則
+------------------
+
+確認可對實際執行與測試系統網路進行存取的所有系統已安全地部署。這個程序的第一步是確認有內部組織來負責建立、部署與維護 IIS 安全基礎原則。
+
+### *建議事項 Microsoft 建議用戶建立相關環境的基本影像，並且建立該原則的自動安裝程序。*
+
+網際網路與內部網路空間可能需要不同的原則，但是基礎的安全性機制應該整合到原始設計中。
+
+### 併入安全性機制的策略：
+
+1.  遵循 Microsoft 在「Secure Internet Information Services 5 Checklist」 ( <http://www.microsoft.com/technet/security/chklist/iis5chk.mspx> ) 文件所列出的 IIS 4.0 與 5.0 的安全部署建議事項
+2.  使用 IIS 4.0 與 5.0 的 [ISLockdown 工具](http://www.microsoft.com/technet/security/tools/locktool.mspx)。此工具提供方法，其可以自動執行在 IIS 4.0 and 5.0 檢查表中提出的建議事項。
+3.  將 [URLScan 工具](http://www.microsoft.com/technet/security/tools/urlscan.mspx) 整合到基本影像中。這個工具會保護 Web 伺服器，不只確認伺服器只回應有效的要求，並確保無效的要求不會送達 Web 伺服器。
+4.  定期更新基本影像以納入最新的 Service Packs 與 [Hotfix](http://www.microsoft.com/technet/security/current.aspx) 。
+5.  以掃描方式立即檢查建置程序建立的伺服器，或者執行 [Hotfix 檢查工具](http://www.microsoft.com/technet/security/tools/hfnetchk.mspx)，以它作為建置程序的最後一個步驟 。
+
+維持系統安全
+------------
+
+這個程序確保伺服器的部署在完成之後，系統安全設定並不會因此而終止。安全性是重要的步驟，應由安全性部門和營運部門每天持續地加以注意。
+
+### *建議事項 為了確保所部署的伺服器能維持適當的安全性等級，Microsoft 建議用戶執行下列事項：*
+
+1.  確認環境中所有管理的系統都套用最新的 Hotfix。這個程序可以簡化為使用 [HFNetChk 工具](http://www.microsoft.com/technet/security/tools/hfnetchk.mspx)，如此可讓系統管理員從中心位置檢查網路中所有機器的修補狀況。這個工具另有完整版，較本版本多了顯著的彈性以監視 Hotfix 授權。
+2.  定期安裝由防毒程式廠商更新的防毒程式簽章檔。
+3.  併入對全公司系統主動掃描與隨機稽核的安全性管理計劃。
+4.  鼓勵使用者使用 〈[Microsoft Personal Security Advisor](http://www.microsoft.com/technet/security/tools/mpsa.mspx)〉的 Web 應用程式。這個工具提供資訊可以幫助使用者辨識帶有安全性漏洞的系統。應該鼓勵使用者將結果報告傳送到〈[Corporate Information Security](http://www.microsoft.com/technet/security/bulletin/alertus.aspx)〉中。
+5.  每日監視 Microsoft Security Response Center (MSRC) 發佈的[安全性公佈欄](http://www.microsoft.com/technet/security/current.aspx)。Security Response Center 會經由電子郵件或張貼佈告 於 <http://www.microsoft.com/taiwan/security> 網站以警告用戶關於安全性漏洞的問題。
+
+每日監視由安全性群組維護的公用網際網路郵件清單。郵件清單的位置在 [bugtraq@securityfocus.com](mailto:%20bugtraq@securityfocus.com)
+
+危機的回應
+----------
+
+對於用戶而言，建立一組和來自 PSS 的技術支援專案經理 (TAM) 所整合組成的快速回應小組是很重要的事。
+
+### *建議事項 Microsoft 建議用戶的快速回應小組最少應該囊括安全性、伺服器管理、網路管理、桌面管理與服務台的代表人員。*
+
+### 建立包含下列事項的高階計劃：
+
+1.  需要快速回應小組處理的緊急狀態發生時
+2.  應該由誰呼叫小組進行動作
+3.  如何聯絡小組成員與/或其支援人員
+4.  辨識所造成的威脅及相關安全性漏洞、封鎖或減輕破壞的戰術策略、重新召集小組時間與事後剖析的標準程序
+
+[](#mainsection)[回到頁首](#mainsection)
