@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-aug(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2012 年 8 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -37,6 +35,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -155,6 +154,7 @@ Microsoft 開發者工具</td>
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -323,6 +323,7 @@ Microsoft 開發者工具</td>
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="6">
@@ -1491,6 +1492,7 @@ Server Core 安裝選項
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="4">
@@ -1772,6 +1774,7 @@ Microsoft Visio Viewer 2010 Service Pack 1 (64 位元版本)
 #### Microsoft 伺服器軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="4">
@@ -2291,7 +2294,7 @@ Microsoft Exchange Server 2010 Service Pack 2
 </tr>
 </table>
  
-***MS12-0*60** ***注意事***項**
+***MS12-0*60** **注意事項**
 
 <sup>[1]</sup>此更新與 Microsoft Office 2003 的 KB2726929 更新相同
 
@@ -2302,6 +2305,7 @@ Microsoft Exchange Server 2010 Service Pack 2
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

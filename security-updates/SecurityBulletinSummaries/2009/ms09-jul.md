@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms09-jul(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2009 年 7 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -39,6 +37,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -180,6 +179,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 #### Windows 作業系統與元件
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -654,17 +654,18 @@ Windows Server 2008
 
 **MS09-032 注意事項**
 
-**\*\***嚴重性等級不適用此更新，因為此公告討論的弱點不會影響此軟體。 但是，做為在未來保護所識別之任何新模式的深度防禦措施，Microsoft 建議此軟體的客戶套用此安全性更新。
+*\*嚴重性等級不適用此更新，因為此公告討論的弱點不會影響此軟體。 但是，做為在未來保護所識別之任何新模式的深度防禦措施，Microsoft 建議此軟體的客戶套用此安全性更新。
 
 **MS09-028 注意事項**
 
-**\*\*\***DirectX 8.1 的更新也適用於 DirectX 8.1b。
+\***DirectX 8.1 的更新也適用於 DirectX 8.1b。
 
-**\*\*\***DirectX 9.0 的更新也適用於 DirectX 9.0a、DirectX 9.0b 及 DirectX 9.0c。
+\***DirectX 9.0 的更新也適用於 DirectX 9.0a、DirectX 9.0b 及 DirectX 9.0c。
 
 #### Microsoft Office 套件及軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -709,6 +710,7 @@ Microsoft Office 套件、系統和元件
 #### Microsoft 開發者工具和軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -823,6 +825,7 @@ Microsoft Visual C++ 2008
 #### Microsoft 伺服器和安全性軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
@@ -873,6 +876,7 @@ Microsoft Internet Security and Acceleration Server 2006
 #### Microsoft 虛擬軟體
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr class="thead">
 <th style="border:1px solid black;" >
