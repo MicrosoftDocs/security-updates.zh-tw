@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms13-apr(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2013 年 4 月份 Microsoft 資訊安全公告摘要
 =========================================
 
@@ -34,7 +32,8 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體及下載位置＞。
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -145,7 +144,7 @@ Microsoft 伺服器軟體</td>
 資訊安全風險入侵指數  
 --------------------
   
-<span></span>
+
 下表提供本月所述每個資訊安全風險的利用性評估。資訊安全風險皆根據公告編號和 CVE 編號依序列出。僅包含資訊安全公告中，嚴重性等級為「重大」或「重要」的資訊安全風險。
   
 **我該如何使用這個表格？**
@@ -154,7 +153,8 @@ Microsoft 伺服器軟體</td>
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
- 
+
+<p></p> 
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -295,7 +295,7 @@ Microsoft 伺服器軟體</td>
 受影響的軟體及下載位置  
 ----------------------
   
-<span></span>
+
 下表依據主要的軟體類別和嚴重性依序列出公告。
   
 **我該如何使用這些表格？**
@@ -306,7 +306,7 @@ Microsoft 伺服器軟體</td>
   
 #### Windows 作業系統與元件
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="7">
@@ -1848,7 +1848,7 @@ Windows Server 2012 (Server Core 安裝)
 
 #### Microsoft Office 套件及軟體
 
- 
+<p></p>  
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1899,7 +1899,7 @@ Microsoft InfoPath 2010 Service Pack 1 (64 位元版本)
 </tr>
 </table>
  
-MS13-0**35** **注*意事項***
+MS13-0<strong>35 注*意事項*</strong>
 
 <sup>[1]</sup>針對指定的軟體，嚴重性等級並不適用於本更新，因為此資訊安全風險的已知攻擊媒介是受到封鎖的。
 
@@ -1907,7 +1907,7 @@ MS13-0**35** **注*意事項***
 
 #### Microsoft 伺服器軟體
 
- 
+<p></p>  
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -2051,7 +2051,7 @@ Microsoft SharePoint Foundation 2010 Service Pack 1
 
 <sup>[1]</sup>安裝此更新前，須先安裝 Project Server 2013 積存更新 (2768001)。如需有關此更新的詳細資訊及下載連結，請參閱 [Microsoft 知識庫文件編號 2768001](http://support.microsoft.com/kb/2768001)。
 
-MS13-0**35** **注*意事項***
+MS13-0<strong>35 注*意事項*</strong>
 
 <sup>[1]</sup>對於受支援版本的 Microsoft SharePoint Server 2010，除了安裝適用於 Microsoft SharePoint 2010 的資訊安全更新套件 (2687421 和 2760408) 外，客戶還需安裝適用於 Microsoft SharePoint Foundation 2010 的資訊安全更新 (2810059)，以避免受本公告中所述的資訊安全風險影響。
 
@@ -2059,7 +2059,7 @@ MS13-0**35** **注*意事項***
 
 #### Microsoft Office Web Apps
 
- 
+<p></p>  
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2100,7 +2100,7 @@ Microsoft Office Web Apps 2010 Service Pack 1
 
 #### Microsoft 資訊安全軟體
 
- 
+<p></p>  
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2142,7 +2142,7 @@ Microsoft Office Web Apps 2010 Service Pack 1
 偵測與部署工具及指南
 --------------------
 
-<span></span>
+
 **資訊安全中心**
 
 管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。如需更多資訊，請參閱 [TechNet 更新管理中心](http://go.microsoft.com/fwlink/?linkid=69903) (英文)。[TechNet 資訊安全技術中心](http://go.microsoft.com/fwlink/?linkid=21171)提供 Microsoft 產品資訊安全的其他資訊。一般消費者可造訪 [Microsoft Safety & Security Center](http://go.microsoft.com/fwlink/?linkid=85102) (英文)，並點選 \[Security Updates\] (資訊安全更新) 來取得上述資訊。

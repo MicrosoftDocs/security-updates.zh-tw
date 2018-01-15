@@ -7,8 +7,6 @@ ms:date: '04/18/2014'
 ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms13-oct(v=Security.10)'
 ---
 
-Security Bulletin Summary
-
 2013 年 10 月份 Microsoft 資訊安全公告摘要
 ==========================================
 
@@ -34,7 +32,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 
 如需受影響的軟體之詳細資料，請參閱下節＜受影響的軟體＞。
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -135,7 +133,7 @@ Microsoft 伺服器軟體</td>
 資訊安全風險入侵指數  
 --------------------
   
-<span></span>
+
 下表提供本月所述每個資訊安全風險的利用性評估。資訊安全風險皆根據公告編號和 CVE 編號依序列出。僅包含資訊安全公告中，嚴重性等級為「重大」或「重要」的資訊安全風險。
   
 **我該如何使用這個表格？**
@@ -144,7 +142,7 @@ Microsoft 伺服器軟體</td>
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -411,7 +409,7 @@ Microsoft 已發現嘗試透過 Internet Explorer 8 和 Internet Explorer 9 利�
 受影響的軟體  
 ------------
   
-<span></span>
+
 下表依據主要的軟體類別和嚴重性依序列出公告。
   
 **我該如何使用這些表格？**
@@ -422,7 +420,7 @@ Microsoft 已發現嘗試透過 Internet Explorer 8 和 Internet Explorer 9 利�
   
 #### Windows 作業系統與元件
 
- 
+<p></p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="5">
@@ -2281,7 +2279,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 #### Microsoft Office 套件及軟體
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -2649,7 +2647,7 @@ Microsoft Excel Viewer
 
 #### Microsoft 伺服器軟體
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2772,7 +2770,7 @@ Microsoft SharePoint Server 2013 (pptserver)
 
 #### Microsoft Office Services 和 Web Apps
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2989,7 +2987,7 @@ Microsoft Office Web Apps Server 2013
 
 #### Microsoft 開發者工具和軟體
 
- 
+<p></p> 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -3043,7 +3041,7 @@ Microsoft Silverlight 5
 偵測與部署工具及指南
 --------------------
 
-<span></span>
+
 有幾項資源可協助系統管理員部署資訊安全更新。
 
 -   Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，查看是否遺漏資訊安全更新及一般資訊安全設定錯誤的狀況。
