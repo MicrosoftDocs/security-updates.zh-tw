@@ -1,0 +1,28 @@
+---
+TOCTitle: 'Additional Resources for Windows Server Update Services 3.0 SP2'
+Title: 'Additional Resources for Windows Server Update Services 3.0 SP2'
+ms:assetid: 'ea4b7c3a-e481-4d84-9f38-4f28ad61f51f'
+ms:contentKeyID: 21741036
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Dd939930(v=WS.10)'
+---
+
+Additional Resources for Windows Server Update Services 3.0 SP2
+===============================================================
+
+For more information and support, see the following resources.
+
+Windows Server Update Services communities
+------------------------------------------
+
+Microsoft communities are great places to exchange ideas with other users and discuss common issues. You can read and write messages by using an NNTP-based newsreader such as Microsoft Outlook Express. You can also use the Web-based newsreader provided by Microsoft to access all of the newsgroups. To access the WSUS Communities, see the [Windows Server Update Services Communities Homepage](http://go.microsoft.com/fwlink/?linkid=45215) (http://go.microsoft.com/fwlink/?LinkID=45215).
+
+Additional references
+---------------------
+
+For complete information about installing and using WSUS, see the following:
+
+-   [WSUS Step by Step Installation Guide](http://go.microsoft.com/fwlink/?linkid=139836) (http://go.microsoft.com/fwlink/?LinkId=139836)
+-   [WSUS Deployment Guide](http://go.microsoft.com/fwlink/?linkid=139832) (http://go.microsoft.com/fwlink/?LinkId=139832)
+-   [WSUS Release Notes](http://go.microsoft.com/fwlink/?linkid=139840) (http://go.microsoft.com/fwlink/?LinkId=139840)
+-   WSUS Administration Console online Help
+-   For information that helps you automate tasks or customize WSUS, see the [Microsoft Windows Server Update Services Software Developer's Kit](http://go.microsoft.com/fwlink/?linkid=43099) (http://go.microsoft.com/fwlink/?LinkID=43099) and [Windows Update Agent Software Developer's Kit](http://go.microsoft.com/fwlink/?linkid=43101) (http://go.microsoft.com/fwlink/?LinkID=43101). Note that the Windows Update Agent is the Automatic Updates service. Both SDKs contain information about the application programming interface (API), as well as sample scripts and ready-to-use tools for your WSUS deployment and implementation.

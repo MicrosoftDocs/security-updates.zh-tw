@@ -1,0 +1,18 @@
+---
+TOCTitle: Service Pack 2 的新功能
+Title: Service Pack 2 的新功能
+ms:assetid: 'a944cb73-d900-42bb-b7aa-92916dead408'
+ms:contentKeyID: 18113062
+ms:mtpsurl: 'https://technet.microsoft.com/zh-tw/library/Cc747629(v=WS.10)'
+---
+
+Service Pack 2 的新功能
+=======================
+
+Rights Management Services (RMS) Service Pack 2 (SP2) 支援下列功能：
+
+-   **內建支援 Microsoft® SQL Server™ 2005**。在舊版的 RMS 中，需要因應措施才能以 SQL Server 2005 使用 RMS。如需此因應措施的相關資訊，請參閱 Microsoft 知識庫文件 913372 (英文) ([http://go.microsoft.com/fwlink/?LinkId=68638](http://go.microsoft.com/fwlink/?linkid=68638))。此問題在 RMS SP2 中已經修正。
+-   **Microsoft Office SharePoint® Server 2007**。此版本支援 Office SharePoint Server 2007。下載文件時，Office SharePoint Server 2007 文件庫會將 RMS 權限自動套用至以 Office SharePoint Server 2007 權限為基礎的文件。這是藉由在 Office SharePoint Server 2007 伺服器上安裝 RMS SP2 用戶端完成。我們不建議將 RMS SP2 伺服器與 Office SharePoint Server 2007 安裝於同一部電腦中。
+-   **針對傳送至記錄資料庫的訊息提高其安全性**。在此版本中，從 RMS 伺服器傳送至 RMS 記錄資料庫的所有訊息佇列訊息均以數位簽署。
+-   **更大的批次處理容量**。在此版本中，RMS 應用程式現在可以向 RMS 伺服器發出單一授權要求，為不同使用者帳戶擷取多份使用授權。如此一來，可降低為同一份受版權保護內容發出多份授權要求的額外負載，進而提高效能。
+-   **更強大的跨樹系群組展開功能**。在此版本中，可向在 RMS 伺服器上執行的新 ASP.NET Web 服務提出簡單物件存取通訊協定 (SOAP) 要求，以執行跨樹系 RMS 群組展開。

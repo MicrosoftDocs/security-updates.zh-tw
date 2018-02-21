@@ -1,0 +1,151 @@
+---
+TOCTitle: 'MS05-MAY'
+Title: 2005 年 5 月份 Microsoft 資訊安全公告摘要
+ms:assetid: 'ms05-may'
+ms:contentKeyID: 61237650
+ms:date: '04/18/2014'
+ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-may(v=Security.10)'
+---
+
+2005 年 5 月份 Microsoft 資訊安全公告摘要
+=========================================
+
+發行: 2005年5月10日
+
+**版本:** 1.0
+
+**發佈日期：**2005 年 5 月 11 日  
+**版本號碼：**1.0
+
+請參考[此處](http://www.microsoft.com/taiwan/security/default.mspx)所提供的使用者版本資訊。
+
+**保護您的電腦：**Microsoft 在下列網址提供有助於保護電腦的相關資訊：
+
+-   一般使用者可以造訪[保護您的電腦網站](http://www.microsoft.com/taiwan/security/protect/)。
+-   IT 專業人員可以造訪[資訊安全指導中心](http://www.microsoft.com/taiwan/security/guidance/default.mspx)網站。
+
+**更新程式管理策略：**[Microsoft 安全性補充程式管理指南](http://go.microsoft.com/fwlink/?linkid=21168)網站提供您有關套用安全性更新的 Microsoft 最佳實作建議資訊。
+
+**IT Pro 資訊安全區社群：**在 [IT Pro 資訊安全區網站](http://go.microsoft.com/fwlink/?linkid=21164) (英文) 上，學習如何提升安全性及加強您的 IT 基礎結構，並與其他的 IT 專業人員共同參與各類安全性議題的討論。
+
+**Microsoft 安全性通知服務：**如果要在 Microsoft 安全性公告發佈時收到電子郵件通知，請訂閱 [Microsoft 安全性通知服務](http://go.microsoft.com/fwlink/?linkid=21163) (英文)。
+
+#### 摘要
+
+本次摘要報告內含最近發現弱點的更新資訊：
+
+重要 (1)
+--------
+
+<span></span>
+| 公告編號             | Microsoft 安全性公告 MS05-024                                                                                    |
+|----------------------|------------------------------------------------------------------------------------------------------------------|
+| **公告標題**         | [**網頁檢視中的弱點可能會允許遠端執行程式碼 (894320)**](http://technet.microsoft.com/security/bulletin/ms05-024) |
+| **提要**             | 處理檔案屬性時，網頁檢視中有指令碼插入弱點存在。                                                                 |
+| **最高的嚴重性等級** | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                    |
+| **弱點的影響**       | 遠端執行程式碼                                                                                                   |
+| **受影響的軟體**     | **Windows**                                                                                                      |
+
+受影響的軟體及下載位置
+----------------------
+
+<span></span>
+**我該如何使用這個表格？**
+
+您可以用這個表格來瞭解可能需要安裝的安全性更新有哪些。您應該查看此處列出的每一種軟體程式或元件，看看是否有需要的安全性更新。在列出的軟體程式或元件旁邊，會附註弱點的影響等級，同時也會列出可用軟體更新的超連結。
+
+**受影響的軟體及下載位置**
+
+ 
+<p> </p>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" >詳細資訊        </th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>公告編號</strong></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms05-024"><strong>MS05-024</strong></a></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>最高的嚴重性等級</strong></td>
+<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重要</strong></a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>受影響的 Windows 軟體：</strong></td>
+<td style="border:1px solid black;"></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;">Windows 2000 Service Pack 3</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=67581d32-743f-44ff-9b53-30277c196923&amp;displaylang=zh-tw">重要</a></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
+<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=67581d32-743f-44ff-9b53-30277c196923&amp;displaylang=zh-tw">重要</a></td>
+</tr>
+</tbody>
+</table>
+  
+部署  
+----
+  
+<span></span>
+**Software Update Services：**
+  
+Microsoft Software Update Services (SUS) 能讓系統管理員以迅速可靠的方式，針對 Windows 2000 和 Windows Server 2003 伺服器以及執行 Windows 2000 Professional 或 Windows XP Professional 的桌面系統，部署最新的重要更新程式及安全性更新程式。
+  
+如需如何透過 Software Update Services 部署這個安全性更新的詳細資訊，請造訪 [Software Update Services 網站](http://www.microsoft.com/taiwan/windowsserversystem/sus/default.mspx)。
+  
+**Systems Management Server：**
+  
+Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理網站](http://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm)。SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](http://go.microsoft.com/fwlink/?linkid=33340)來協助部署安全性更新。如需關於 SMS 的詳細資訊，請造訪 [SMS 網站](http://www.microsoft.com/taiwan/smserver/default.htm)。
+  
+**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。不過這些工具可能無法偵測部分的軟體更新。在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。如需更多關於這個程序的資訊，請瀏覽這個[網站](http://go.microsoft.com/fwlink/?linkid=33341) (英文)。某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](http://go.microsoft.com/fwlink/?linkid=33387) (英文) 和 [SMS 管理功能套件](http://go.microsoft.com/fwlink/?linkid=21161) (英文) 提供) 來安裝這些更新。
+  
+**QChain.exe 和 Update.exe：**
+  
+Microsoft 已經發行了一個名為 QChain.exe 的命令行工具，能讓系統管理員以安全可靠的方式將安全性更新串連在一起。所謂*串連*，是指當您安裝數個更新程式時，不需要在每個更新程式安裝之後重新開機。本摘要文件所描述的更新所使用的 Update.exe 工具中，已內建有串連的功能。客戶如果使用的是 Windows 2000 Service Pack 2 或更新版本、Windows XP 或 Windows Server 2003，就不需要利用 Qchain.exe 來串連這些更新程式。Qchain.exe 仍然支援這些 Windows 更新程式，因此管理員可以建立一致的部署指令碼，以便跨所有的平台使用。如需有關 Qchain 的進一步資訊，請造訪[此網站](http://go.microsoft.com/fwlink/?linkid=21156)。
+  
+**Microsoft Baseline Security Analyzer：**
+  
+Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本地和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer 網站](http://go.microsoft.com/fwlink/?linkid=21134)。
+  
+#### 其他資訊：
+  
+**取得其他安全性更新：**
+  
+其他安全性問題的更新可由下列位置取得：
+  
+-   安裝性更新可以從 [Microsoft 下載中心](http://www.microsoft.com/taiwan/download/)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。  
+-   使用者平台的更新程式可以從 [Windows Update 網站](http://go.microsoft.com/fwlink/?linkid=21130)取得。
+  
+**支援：**
+  
+-   美國 及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 技術支援服務](http://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。與安全性更新有關的支援電話不另外收費。  
+-   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。與安全性更新有關的支援電話不另外收費。如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援網站](http://go.microsoft.com/fwlink/?linkid=21155)。
+  
+**安全性資源：**
+  
+-   [Microsoft TechNet 資訊安全](http://www.microsoft.com/taiwan/technet/security/default.mspx)網站提供了有關 Microsoft 產品安全性的其他資訊。  
+-   [Microsoft Software Update Services](http://www.microsoft.com/taiwan/windowsserversystem/sus/default.mspx)  
+-   [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134) (MBSA)  
+-   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)  
+-   Windows Update 目錄：如需更多關於 Windows Update 目錄的資訊，請參閱 Microsoft 知識庫文件編號 [323166](http://support.microsoft.com/default.aspx?scid=kb;en-us;323166)。  
+-   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+  
+**免責聲明：**
+  
+Microsoft 知識庫 (Microsoft Knowledge Base) 中的資訊係以其「現狀」提供，並不提供任何形式之擔保。Microsoft 不做任何明示或默示的責任擔保，包括適售性以及適合某特定用途之擔保責任。無論任何情況下的損害，Microsoft Corporation 及其供應商皆不負任何法律責任，包括直接、間接、偶發、衍生性、所失業務利益或特殊損害。即使 Microsoft Corporation 及其供應商已被告知此類損害的可能性亦不負任何責任。某些地區不允許排除及限制衍生性或附隨損害賠償責任，因此前述限制不適用於這些地區。
+  
+**修訂：**
+  
+-   V1.0 (2005 年 5 月 11 日)：公告發行
+  
+*Built at 2014-04-18T01:50:00Z-07:00*
