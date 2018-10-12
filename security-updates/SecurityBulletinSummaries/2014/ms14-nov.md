@@ -4768,7 +4768,7 @@ Microsoft 了解資訊安全業界所做的努力，其盡責地透露資訊安�
 
 IT 專業人員的資訊安全解決方案：[TechNet 資訊安全疑難排解與支援](http://technet.microsoft.com/zh-tw/security/bb980617)
 
-協助保護您的 Widows 電腦免於病毒和惡意軟體攻擊：[病毒解決方案與資訊安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
+協助保護您的 Windows 電腦免於病毒和惡意軟體攻擊：[病毒解決方案與資訊安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
 
 您所在國家/地區的當地支援：[國際支援](http://support.microsoft.com/common/international.aspx?ln=zh-tw)
 
