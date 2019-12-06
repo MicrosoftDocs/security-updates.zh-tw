@@ -16,9 +16,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms13-oct(v=Security.10)
 
 此公告摘要列出 2013 年 10 月份發行之資訊安全公告。
 
-發行 2013 年 10 月份資訊安全公告之後，此公告摘要將取代原先於 2013 年 10 月 3 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 資訊安全公告預先通知](http://technet.microsoft.com/zh-tw/security/gg309152.aspx)。
+發行 2013 年 10 月份資訊安全公告之後，此公告摘要將取代原先於 2013 年 10 月 3 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 資訊安全公告預先通知](https://technet.microsoft.com/zh-tw/security/gg309152.aspx)。
 
-如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術資訊安全通知](http://technet.microsoft.com/zh-tw/security/dd252948.aspx)。
+如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術資訊安全通知](https://technet.microsoft.com/zh-tw/security/dd252948.aspx)。
 
 Microsoft 將利用網路廣播於 2013 年 10 月 9 日，太平洋時間早上十一點 (美國與加拿大) 解答客戶對於這些公告的問題。[立即註冊參加 10 月份資訊安全公告網路廣播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032557381&culture=zh-tw)。
 
@@ -49,7 +49,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 <td style="border:1px solid black;"><strong>Internet Explorer</strong> <strong>積存資訊安全更新</strong> <strong>(2879017)</strong><br />
 <br />
 此資訊安全更新可解決 Internet Explorer 中一項公開揭露的資訊安全風險和八項未公開報告的資訊安全風險。最嚴重的資訊安全風險可能會在使用者以 Internet Explorer 檢視蓄意製作的網頁時，允許遠端執行程式碼。成功利用其中最嚴重的資訊安全風險的攻擊者，可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、<br />
@@ -60,17 +60,17 @@ Internet Explorer</td>
 <td style="border:1px solid black;"><strong>Windows</strong> <strong>核心模式驅動程式中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2870008)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Windows 中七項未公開報告的資訊安全風險。如果使用者檢視內嵌 OpenType 或 TrueType 字型檔案的共用內容，則其中最嚴重的資訊安全風險可能會允許遠端執行程式碼。成功利用這類資訊安全風險的攻擊者可以取得受影響系統的完整控制權。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a></td>
 <td style="border:1px solid black;"><strong>.NET Framework</strong> <strong>中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2878890)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft .NET Framework 中兩項未公開報告的資訊安全風險，以及一項公開揭露的資訊安全風險。如果使用者使用能具現化 XBAP 應用程式的瀏覽器來造訪包含蓄意製作之 OpenType 字型 (OTF) 檔案的網站，這些資訊安全風險最嚴重可能會允許遠端執行程式碼。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、<br />
@@ -81,7 +81,7 @@ Microsoft .NET Framework</td>
 <td style="border:1px solid black;"><strong>Windows</strong> <strong>通用控制項程式庫中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2864058)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。如果攻擊者將蓄意製作的 Web 要求傳送至受影響系統上執行的 ASP.NET Web 應用程式，此資訊安全風險可能會允許遠端執行程式碼。攻擊者可以利用此資訊安全風險，不經驗證就執行任意程式碼。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -91,7 +91,7 @@ Microsoft .NET Framework</td>
 <td style="border:1px solid black;"><strong>Microsoft SharePoint Server</strong> <strong>中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2885089)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Office Server 軟體中兩項未公開報告的資訊安全風險。如果使用者在受影響的 Microsoft SharePoint Server、Microsoft Office Services 或 Web Apps 版本中開啟蓄意製作的 Office 檔案，最嚴重的資訊安全風險可能會允許遠端執行程式碼。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Office、<br />
@@ -102,7 +102,7 @@ Microsoft 伺服器軟體</td>
 <td style="border:1px solid black;"><strong>Microsoft Excel</strong> <strong>中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2885080)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Office 中兩項未公開報告的資訊安全風險。如果使用者以受影響版本的 Microsoft Excel 或其他受影響的 Microsoft Office 軟體，開啟蓄意製作的 Office 檔案時，此資訊安全風險可能會允許遠端執行程式碼。成功利用此資訊安全風險的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Office</td>
@@ -112,7 +112,7 @@ Microsoft 伺服器軟體</td>
 <td style="border:1px solid black;"><strong>Microsoft Word</strong> <strong>中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2885084)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Office 中兩項未公開報告的資訊安全風險。如果在受影響的 Microsoft Word 版本和其他受影響的 Microsoft Office 軟體中開啟蓄意製作的檔案，這些資訊安全風險可能會允許遠端執行程式碼。成功利用此資訊安全風險的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Office</td>
@@ -122,7 +122,7 @@ Microsoft 伺服器軟體</td>
 <td style="border:1px solid black;"><strong>Silverlight</strong> <strong>中的資訊安全風險可能會允許資訊洩漏</strong> <strong>(2890788)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Silverlight 中一項未公開報告的資訊安全風險。如果攻擊者架設一個網站，並在其中包含蓄意製作的 Silverlight 應用程式來利用此資訊安全風險，然後引誘使用者檢視此網站，則此資訊安全風險便可能允許資訊洩漏。攻擊者也可能利用受侵害的網站，以及接受或裝載使用者提供內容或廣告的網站。這類網站可能含有蓄意製作並可利用此資訊安全風險的內容。但是，在所有情況下，攻擊者都無法強迫使用者造訪網站， 而一般的做法是讓使用者點選電子郵件訊息或 Instant Messenger 訊息中連往攻擊者網站的連結，以引誘使用者造訪網站。攻擊者也可能使用橫幅廣告或其他方式來顯示蓄意製作的網頁內容，以便將內容傳遞到受影響的系統。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
 資訊洩漏</td>
 <td style="border:1px solid black;">不需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Silverlight</td>
@@ -138,7 +138,7 @@ Microsoft 伺服器軟體</td>
   
 **我該如何使用這個表格？**
   
-您可以運用此表格，針對您可能需要安裝的每一項資訊安全更新，瞭解資訊安全風險在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 資訊安全風險索引](http://technet.microsoft.com/security/cc998259)。
+您可以運用此表格，針對您可能需要安裝的每一項資訊安全更新，瞭解資訊安全風險在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 資訊安全風險索引](https://technet.microsoft.com/security/cc998259)。
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
@@ -159,72 +159,72 @@ Microsoft 伺服器軟體</td>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3872">CVE-2013-3872</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3872">CVE-2013-3872</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3873">CVE-2013-3873</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3873">CVE-2013-3873</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3874">CVE-2013-3874</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3874">CVE-2013-3874</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3875">CVE-2013-3875</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3875">CVE-2013-3875</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3882">CVE-2013-3882</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3882">CVE-2013-3882</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3885">CVE-2013-3885</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3885">CVE-2013-3885</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3886">CVE-2013-3886</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3886">CVE-2013-3886</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3893">CVE-2013-3893</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3893">CVE-2013-3893</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">這項資訊安全風險已經公開揭露。<br />
 <br />
@@ -233,99 +233,99 @@ Microsoft 已發現嘗試透過 Internet Explorer 8 和 Internet Explorer 9 利�
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-080">MS13-080</a></td>
 <td style="border:1px solid black;">Internet Explorer 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3897">CVE-2013-3897</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3897">CVE-2013-3897</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">Microsoft 已發現嘗試透過 Internet Explorer 8 利用此資訊安全風險的目標式攻擊。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a></td>
 <td style="border:1px solid black;">OpenType 字型剖析資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3128">CVE-2013-3128</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3128">CVE-2013-3128</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
-<td style="border:1px solid black;">此資訊安全風險也會影響 <a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-067">http://go.microsoft.com/fwlink/?LinkId=293350</a>。</td>
+<td style="border:1px solid black;">此資訊安全風險也會影響 <a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-067">https://go.microsoft.com/fwlink/?LinkId=293350</a>。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a></td>
 <td style="border:1px solid black;">Windows USB 描述元資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3200">CVE-2013-3200</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3200">CVE-2013-3200</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a></td>
 <td style="border:1px solid black;">Win32k 釋放後使用資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3879">CVE-2013-3879</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3879">CVE-2013-3879</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a></td>
 <td style="border:1px solid black;">應用程式容器權限提高資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3880">CVE-2013-3880</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3880">CVE-2013-3880</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">暫時</td>
 <td style="border:1px solid black;">這是一個可能會導致權限提高的資訊洩漏資訊安全風險。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a></td>
 <td style="border:1px solid black;">Win32k NULL 分頁資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3881">CVE-2013-3881</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3881">CVE-2013-3881</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a></td>
 <td style="border:1px solid black;">DirectX 圖形核心子系統重覆擷取資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3888">CVE-2013-3888</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3888">CVE-2013-3888</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a></td>
 <td style="border:1px solid black;">TrueType 字型 CMAP表格資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3894">CVE-2013-3894</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3894">CVE-2013-3894</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a></td>
 <td style="border:1px solid black;">OpenType 字型剖析資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3128">CVE-2013-3128</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3128">CVE-2013-3128</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;">此資訊安全風險也會影響 <a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-067">http://go.microsoft.com/fwlink/?LinkId=293350</a>。</td>
+<td style="border:1px solid black;">此資訊安全風險也會影響 <a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081">MS13-081</a><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-067">https://go.microsoft.com/fwlink/?LinkId=293350</a>。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a></td>
 <td style="border:1px solid black;">實體擴充資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3860">CVE-2013-3860</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3860">CVE-2013-3860</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">這是一項阻斷服務 (DoS) 的資訊安全風險。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082">MS13-082</a></td>
 <td style="border:1px solid black;">JSON 剖析資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3861">CVE-2013-3861</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3861">CVE-2013-3861</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">這是一項阻斷服務 (DoS) 的資訊安全風險。<br />
 <br />
@@ -334,72 +334,72 @@ Microsoft 已發現嘗試透過 Internet Explorer 8 和 Internet Explorer 9 利�
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083">MS13-083</a></td>
 <td style="border:1px solid black;">Comctl32 整數溢位資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3195">CVE-2013-3195</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3195">CVE-2013-3195</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-084">MS13-084</a></td>
 <td style="border:1px solid black;">Microsoft Excel 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3889">CVE-2013-3889</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3889">CVE-2013-3889</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;">此資訊安全風險也會影響 <a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-085">MS13-085</a><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-067">http://go.microsoft.com/fwlink/?LinkId=293350</a>。</td>
+<td style="border:1px solid black;">此資訊安全風險也會影響 <a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-085">MS13-085</a><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-067">https://go.microsoft.com/fwlink/?LinkId=293350</a>。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-084">MS13-084</a></td>
 <td style="border:1px solid black;">參數插入資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3895">CVE-2013-3895</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3895">CVE-2013-3895</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-085">MS13-085</a></td>
 <td style="border:1px solid black;">Microsoft Excel 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3889">CVE-2013-3889</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3889">CVE-2013-3889</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;">此資訊安全風險也會影響 <a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-084">MS13-084</a><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms13-067">http://go.microsoft.com/fwlink/?LinkId=293350</a>。</td>
+<td style="border:1px solid black;">此資訊安全風險也會影響 <a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-084">MS13-084</a><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-067">https://go.microsoft.com/fwlink/?LinkId=293350</a>。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-085">MS13-085</a></td>
 <td style="border:1px solid black;">Microsoft Excel 記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3890">CVE-2013-3890</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3890">CVE-2013-3890</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-086">MS13-086</a></td>
 <td style="border:1px solid black;">記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3891">CVE-2013-3891</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3891">CVE-2013-3891</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-086">MS13-086</a></td>
 <td style="border:1px solid black;">記憶體損毀資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3892">CVE-2013-3892</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3892">CVE-2013-3892</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms13-087">MS13-087</a></td>
 <td style="border:1px solid black;">Silverlight 資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3896">CVE-2013-3896</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-3896">CVE-2013-3896</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">這是一個可能會導致資訊安全功能略過的資訊洩漏資訊安全風險。</td>
 </tr>
@@ -438,7 +438,7 @@ Windows XP
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -449,16 +449,16 @@ Windows XP
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -591,7 +591,7 @@ Windows Server 2003
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -602,16 +602,16 @@ Windows Server 2003
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -795,7 +795,7 @@ Windows Vista
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -806,16 +806,16 @@ Windows Vista
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -980,7 +980,7 @@ Windows Server 2008
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -991,16 +991,16 @@ Windows Server 2008
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1217,7 +1217,7 @@ Windows 7
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -1228,16 +1228,16 @@ Windows 7
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1390,7 +1390,7 @@ Windows Server 2008 R2
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -1401,16 +1401,16 @@ Windows Server 2008 R2
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1551,7 +1551,7 @@ Windows 8
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -1562,16 +1562,16 @@ Windows 8
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1700,7 +1700,7 @@ Windows Server 2012
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -1711,16 +1711,16 @@ Windows Server 2012
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1794,7 +1794,7 @@ Windows RT
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -1805,13 +1805,13 @@ Windows RT
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -1876,7 +1876,7 @@ Windows 8.1
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -1887,7 +1887,7 @@ Windows 8.1
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -1951,7 +1951,7 @@ Windows Server 2012 R2
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -1962,7 +1962,7 @@ Windows Server 2012 R2
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -2008,7 +2008,7 @@ Windows RT 8.1
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -2019,7 +2019,7 @@ Windows RT 8.1
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -2065,7 +2065,7 @@ Server Core 安裝選項
 [**MS13-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-081)
 </td>
 <td style="border:1px solid black;">
-[**MS13-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
+[**MS13-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-082)
 </td>
 <td style="border:1px solid black;">
 [**MS13-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms13-083)
@@ -2079,13 +2079,13 @@ Server Core 安裝選項
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2275,7 +2275,7 @@ Windows Server 2012 R2 (Server Core 安裝)
  
 **MS13-080** **注意事項**
 
-<sup>[1]</sup>對於 Internet Explorer 11，客戶必須套用 Windows RT 8.1、Windows 8.1 和 Windows Server 2012 R2 更新彙總套件： 2013 年 10 月 (2883200)。請注意，2883200 更新彙總套件包含資訊安全和非資訊安全變更。如需更多資訊及可用的下載連結，請參閱 [Microsoft 知識庫文件編號 2883200](http://support.microsoft.com/kb/2883200?ln=zh-tw)。
+<sup>[1]</sup>對於 Internet Explorer 11，客戶必須套用 Windows RT 8.1、Windows 8.1 和 Windows Server 2012 R2 更新彙總套件： 2013 年 10 月 (2883200)。請注意，2883200 更新彙總套件包含資訊安全和非資訊安全變更。如需更多資訊及可用的下載連結，請參閱 [Microsoft 知識庫文件編號 2883200](https://support.microsoft.com/kb/2883200?ln=zh-tw)。
 
 #### Microsoft Office 套件及軟體
 
@@ -2305,7 +2305,7 @@ Microsoft Office 2003
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2342,10 +2342,10 @@ Microsoft Office 2007
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2390,7 +2390,7 @@ Microsoft Office 2010
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -2493,7 +2493,7 @@ Microsoft Office 2013
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -2568,7 +2568,7 @@ Microsoft Office for Mac
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -2608,10 +2608,10 @@ Microsoft Office for Mac 2011
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2667,7 +2667,7 @@ Microsoft SharePoint Server 2007
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2708,7 +2708,7 @@ Microsoft SharePoint Server 2010
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2749,7 +2749,7 @@ Microsoft SharePoint Server 2013
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2790,7 +2790,7 @@ Microsoft SharePoint Server 2007
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2831,7 +2831,7 @@ Microsoft SharePoint Server 2010
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2878,7 +2878,7 @@ Microsoft SharePoint Server 2013
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2919,7 +2919,7 @@ Microsoft Office Web Apps 2010
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2966,7 +2966,7 @@ Microsoft Office Web Apps 2013
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -3007,7 +3007,7 @@ Microsoft Silverlight
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -3048,7 +3048,7 @@ Microsoft Silverlight 5
 -   Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 System Center Configuration Manager 可協助系統管理員散佈資訊安全更新。
 -   應用程式相容性工具組隨附的 Update Compatibility Evaluator 元件可針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
-如需上述工具以及其他可使用工具的詳細資訊，請參閱 [IT專業人員的資訊安全工具](http://technet.microsoft.com/security/cc297183)。
+如需上述工具以及其他可使用工具的詳細資訊，請參閱 [IT專業人員的資訊安全工具](https://technet.microsoft.com/security/cc297183)。
 
 ### 其他資訊
 
@@ -3060,65 +3060,65 @@ Microsoft Silverlight 5
 
 如需在 Windows Update 和 Microsoft Update 上發行的非資訊安全更新之相關資訊，請參閱：
 
--   [Microsoft 知識庫文件編號 894199](http://support.microsoft.com/kb/894199?ln=zh-tw)
+-   [Microsoft 知識庫文件編號 894199](https://support.microsoft.com/kb/894199?ln=zh-tw)
 -   ： Software Update Services 與 Windows Server Update Services 的說明內容有所變動。其中也包括所有 Windows 的內容。
--   [過去幾個月發行的 Windows Server Update Services 更新](http://technet.microsoft.com/wsus/bb456965)
+-   [過去幾個月發行的 Windows Server Update Services 更新](https://technet.microsoft.com/wsus/bb456965)
 -   。顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
 
 #### Microsoft 主動保護計畫 (MAPP)
 
-為了增強客戶的資訊安全保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要資訊安全軟體提供者提供資訊安全風險資訊。資訊安全軟體提供者可利用此資訊安全風險資訊，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](http://technet.microsoft.com/zh-tw/security/dn467918) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
+為了增強客戶的資訊安全保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要資訊安全軟體提供者提供資訊安全風險資訊。資訊安全軟體提供者可利用此資訊安全風險資訊，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](https://technet.microsoft.com/zh-tw/security/dn467918) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
 
 #### 資訊安全策略與社群
 
 **更新程式管理策略**
 
-[更新管理資訊安全指南](http://technet.microsoft.com/zh-tw/library/bb466251(zh-tw).aspx) (英文) 提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
+[更新管理資訊安全指南](https://technet.microsoft.com/zh-tw/library/bb466251(zh-tw).aspx) (英文) 提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他資訊安全更新**
 
 其他資訊安全問題的更新可由下列位置取得：
 
--   資訊安全更新可以從 [Microsoft 下載中心](http://www.microsoft.com/zh-tw/download/search.aspx?q=security%20update)取得， 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
--   消費性平台的更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 取得。
--   您可透過下載中心，以資訊安全和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](http://support.microsoft.com/kb/913086?ln=zh-tw)。
+-   資訊安全更新可以從 [Microsoft 下載中心](https://www.microsoft.com/zh-tw/download/search.aspx?q=security%20update)取得， 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
+-   消費性平台的更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 取得。
+-   您可透過下載中心，以資訊安全和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](https://support.microsoft.com/kb/913086?ln=zh-tw)。
 
 **IT** **專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全社群](http://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升資訊安全以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類資訊安全議題的討論。
+在 [IT 專業人員資訊安全社群](https://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升資訊安全以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類資訊安全議題的討論。
 
 #### 感謝
 
-Microsoft [感謝](http://technet.microsoft.com/zh-tw/security/gg309157.aspx)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://technet.microsoft.com/zh-tw/security/gg309157.aspx)下列人士協助我們一同保護我們的客戶：
 
 **MS13-080**
 
--   感謝 [Aniway.Anyway@gmail.com](mailto:aniway.anyway@gmail.com) 與 [HP](http://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3872)
--   感謝 Yenteasy Security Research 的 Jose A Vazquez 和 [HP](http://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作，回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3873)
--   感謝 Amol Naik 與 [HP](http://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3874)
--   感謝匿名的研究人員與 [VeriSign iDefense Labs](http://labs.idefense.com/) 合作，回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3874)
--   感謝 Yenteasy Security Research 的 Jose A Vazquez 和 [VeriSign iDefense Labs](http://labs.idefense.com/) 合作回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3875)
--   感謝 [Google Security Team](http://www.google.com/) 的 Ivan Fratric 回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3882)
+-   感謝 [Aniway.Anyway@gmail.com](mailto:aniway.anyway@gmail.com) 與 [HP](https://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3872)
+-   感謝 Yenteasy Security Research 的 Jose A Vazquez 和 [HP](https://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作，回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3873)
+-   感謝 Amol Naik 與 [HP](https://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3874)
+-   感謝匿名的研究人員與 [VeriSign iDefense Labs](https://labs.idefense.com/) 合作，回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3874)
+-   感謝 Yenteasy Security Research 的 Jose A Vazquez 和 [VeriSign iDefense Labs](https://labs.idefense.com/) 合作回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3875)
+-   感謝 [Google Security Team](https://www.google.com/) 的 Ivan Fratric 回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3882)
 -   感謝 Yenteasy Security Research 的 Jose A. Vazquez 回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3882)
 -   感謝 Yenteasy Security Research 的 Jose A. Vazquez 回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3885)
--   感謝 Yenteasy Security Research 的 Jose A Vazquez 和 [VeriSign iDefense Labs](http://labs.idefense.com/) 合作回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3886)
--   感謝 [LAC Co.](http://www.lac.co.jp/) 的 Yoshihiro Ishikawa 協助我們解決 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3893)
+-   感謝 Yenteasy Security Research 的 Jose A Vazquez 和 [VeriSign iDefense Labs](https://labs.idefense.com/) 合作回報 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3886)
+-   感謝 [LAC Co.](https://www.lac.co.jp/) 的 Yoshihiro Ishikawa 協助我們解決 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3893)
 -   感謝 Hoodie22 與荷蘭國家網路安全中心 (National Cyber Security Centre) 合作，協助我們解決 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3897)
 -   感謝 Trustwave SpiderLabs Team 的 Daniel Chechik 協助我們解決 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3897)
--   感謝 [IOprotect GmbH](http://ioprotect.ch/) 的 Renato Ettisberger 協助我們解決 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3897)
+-   感謝 [IOprotect GmbH](https://ioprotect.ch/) 的 Renato Ettisberger 協助我們解決 Internet Explorer 記憶體損毀資訊安全風險 (CVE-2013-3897)
 
 **MS13-081**
 
--   感謝匿名的研究人員與 [HP](http://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作，回報 OpenType 字型剖析資訊安全風險 (CVE-2013-3128)
--   感謝 [NCC 小組](http://www.nccgroup.com/)的 Andy Davis 回報 Windows USB 描述元資訊安全風險 (CVE-2013-3200)
+-   感謝匿名的研究人員與 [HP](https://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作，回報 OpenType 字型剖析資訊安全風險 (CVE-2013-3128)
+-   感謝 [NCC 小組](https://www.nccgroup.com/)的 Andy Davis 回報 Windows USB 描述元資訊安全風險 (CVE-2013-3200)
 -   感謝 ANSSI 的 Lucas Bouillot 回報 Windows USB 描述元資訊安全風險 (CVE-2013-3200)
--   感謝 [Endgame](http://www.endgame.com/) 的 Seth Gibson 和 Dan Zentner 回報 Win32k NULL 分頁資訊安全風險 (CVE-2013-3881)
--   感謝 ZombiE 與[HP 的](http://www.hpenterprisesecurity.com/products)[Zero Day Initiative](http://www.zerodayinitiative.com/) 合作，回報 TrueType 字型 CMAP 表格資訊安全風險 (CVE-2013-3895)
+-   感謝 [Endgame](https://www.endgame.com/) 的 Seth Gibson 和 Dan Zentner 回報 Win32k NULL 分頁資訊安全風險 (CVE-2013-3881)
+-   感謝 ZombiE 與[HP 的](https://www.hpenterprisesecurity.com/products)[Zero Day Initiative](https://www.zerodayinitiative.com/) 合作，回報 TrueType 字型 CMAP 表格資訊安全風險 (CVE-2013-3895)
 
 **MS13-082**
 
--   感謝匿名的研究人員與 [HP](http://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作，回報 OpenType 字型剖析資訊安全風險 (CVE-2013-3128)
--   感謝 [Context Information Security](http://www.contextis.com/) 的 James Forshaw 回報實體擴充資訊安全風險 (CVE-2013-3860)
+-   感謝匿名的研究人員與 [HP](https://www.hpenterprisesecurity.com/products) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作，回報 OpenType 字型剖析資訊安全風險 (CVE-2013-3128)
+-   感謝 [Context Information Security](https://www.contextis.com/) 的 James Forshaw 回報實體擴充資訊安全風險 (CVE-2013-3860)
 
 **MS13-083**
 
@@ -3126,19 +3126,19 @@ Microsoft [感謝](http://technet.microsoft.com/zh-tw/security/gg309157.aspx)下
 
 **MS13-084**
 
--   感謝 [Google Security Team](http://www.google.com/) 的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 回報 Microsoft Excel 記憶體損毀資訊安全風險 (CVE-2013-3889)
+-   感謝 [Google Security Team](https://www.google.com/) 的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 回報 Microsoft Excel 記憶體損毀資訊安全風險 (CVE-2013-3889)
 -   感謝 Nutan kumar panda 回報參數插入資訊安全風險 (CVE-2013-3895)
--   感謝 [National Institutes of Health](http://nih.gov/) 的 Ari Elias-Bachrach 和 Angela Kelso 協助我們進行本公告所包含之深度防禦變更
+-   感謝 [National Institutes of Health](https://nih.gov/) 的 Ari Elias-Bachrach 和 Angela Kelso 協助我們進行本公告所包含之深度防禦變更
 
 **MS13-085**
 
--   感謝 [Google Security Team](http://www.google.com/) 的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 回報 Microsoft Excel 記憶體損毀資訊安全風險 (CVE-2013-3889)
--   感謝 [Google Security Team](http://www.google.com/) 的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 回報 Microsoft Excel 記憶體損毀資訊安全風險 (CVE-2013-3890)
+-   感謝 [Google Security Team](https://www.google.com/) 的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 回報 Microsoft Excel 記憶體損毀資訊安全風險 (CVE-2013-3889)
+-   感謝 [Google Security Team](https://www.google.com/) 的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 回報 Microsoft Excel 記憶體損毀資訊安全風險 (CVE-2013-3890)
 
 **MS13-086**
 
 -   感謝 Yuhong Bao 回報記憶體損毀資訊安全風險 (CVE-2013-3891)
--   感謝 [Google Security Team](http://www.google.com/) 的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 回報記憶體損毀資訊安全風險 (CVE-2013-3892)
+-   感謝 [Google Security Team](https://www.google.com/) 的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 回報記憶體損毀資訊安全風險 (CVE-2013-3892)
 
 **MS13-087**
 
@@ -3146,10 +3146,10 @@ Microsoft [感謝](http://technet.microsoft.com/zh-tw/security/gg309157.aspx)下
 
 #### 支援
 
--   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 支援週期](http://support.microsoft.com/default.aspx?scid=fh;%5bln%5d;lifecycle?ln=zh-tw)。
--   IT 專業人員的資訊安全解決方案： [TechNet 資訊安全疑難排解與支援](http://technet.microsoft.com/security/bb980617)
--   協助保護您的 Windows 電腦免於病毒和惡意軟體攻擊： [病毒解決方案與資訊安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
--   您所在國家/地區的當地支援： [國際支援](http://support.microsoft.com/common/international.aspx?ln=zh-tw)
+-   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 支援週期](https://support.microsoft.com/default.aspx?scid=fh;%5bln%5d;lifecycle?ln=zh-tw)。
+-   IT 專業人員的資訊安全解決方案： [TechNet 資訊安全疑難排解與支援](https://technet.microsoft.com/security/bb980617)
+-   協助保護您的 Windows 電腦免於病毒和惡意軟體攻擊： [病毒解決方案與資訊安全中心](https://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
+-   您所在國家/地區的當地支援： [國際支援](https://support.microsoft.com/common/international.aspx?ln=zh-tw)
 
 #### 免責聲明
 
