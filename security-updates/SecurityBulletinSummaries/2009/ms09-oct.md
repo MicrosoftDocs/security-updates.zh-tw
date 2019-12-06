@@ -16,11 +16,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms09-oct(v=Security.10)
 
 此公告摘要列出 2009 年 10 月份發行之資訊安全公告。
 
-發行 2009 年 10 月份公告之後，此公告摘要將取代原先於 2009 年 10 月 8 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 資訊安全公告預先通知](http://technet.microsoft.com/security/bulletin/advance)。
+發行 2009 年 10 月份公告之後，此公告摘要將取代原先於 2009 年 10 月 8 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 資訊安全公告預先通知](https://technet.microsoft.com/security/bulletin/advance)。
 
-如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
-Microsoft 將利用網路廣播於 2009 年 10 月 14 日，太平洋時間早上十一點 (美國與加拿大) 解答客戶對於這些公告的問題。 [立即註冊參加 10 月份資訊安全公告網路廣播](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032407488&culture=en-us)。 在這個日期後，此網路廣播將可隨選取得。 如需更多資訊，請參閱 [Microsoft 資訊安全公告摘要和網路廣播](http://technet.microsoft.com/security/bulletin/summary)。
+Microsoft 將利用網路廣播於 2009 年 10 月 14 日，太平洋時間早上十一點 (美國與加拿大) 解答客戶對於這些公告的問題。 [立即註冊參加 10 月份資訊安全公告網路廣播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032407488&culture=en-us)。 在這個日期後，此網路廣播將可隨選取得。 如需更多資訊，請參閱 [Microsoft 資訊安全公告摘要和網路廣播](https://technet.microsoft.com/security/bulletin/summary)。
 
 Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任何非安全性、高優先順序更新的優先順序，其中這些非安全性、高優先順序更新的發行日期與每月資訊安全更新的發行日期相同。 請參閱＜其他資訊＞一節。
 
@@ -48,72 +48,72 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-050">MS09-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-050">MS09-050</a></td>
 <td style="border:1px solid black;"><strong>SMBv2 中的弱點可能會允許遠端執行程式碼 (975517)</strong><br />
 <br />
 這個資訊安全更新可解決伺服器訊息區第 2 版 (SMBv2) 中一項公開揭露和二項未公開報告的弱點。 如果攻擊者將蓄意製作的 SMB 封包傳送至執行 Server 服務的電腦，最嚴重的弱點可能會允許遠端執行程式碼。 最佳實作的防火牆和標準預設防火牆設定有助於防止網路受到來自企業外的攻擊。 最佳方式建議連線至網際網路的系統盡可能曝露最少數量的連接埠。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-051">MS09-051</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-051">MS09-051</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Runtime 中的弱點可能會允許遠端執行程式碼 (975682)</strong><br />
 <br />
 這個資訊安全更新可解決 Windows Media Runtime 中兩項未公開報告的弱點。 當使用者開啟蓄意製作的媒體檔案，或者從網站或任何提供 Web 內容的應用程式接收蓄意製作的串流內容時，這些弱點可能會允許遠端執行程式碼。 成功利用這類弱點的攻擊者可以取得與本機使用者相同的使用者權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-052">MS09-052</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-052">MS09-052</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Player 中的弱點可能會允許遠端執行程式碼 (974112)</strong><br />
 <br />
 這個資訊安全更新可解決 Windows Media Player 中一項未公開報告的弱點。 如果使用 Windows Media Player 6.4 播放蓄意製作的 ASF 檔案，則此弱點可能會允許遠端執行程式碼。成功利用此弱點的攻擊者可以取得與本機使用者相同的使用者權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-054">MS09-054</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-054">MS09-054</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 積存資訊安全更新 (974455)</strong><br />
 <br />
 這個資訊安全更新可解決 Internet Explorer 中三項未公開報告的弱點，以及一項公開揭露的弱點。 如果使用者使用 Internet Explorer 檢視蓄意製作的網頁，這些弱點可能會允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、<br />
 Internet Explorer</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-055">MS09-055</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-055">MS09-055</a></td>
 <td style="border:1px solid black;"><strong>ActiveX Kill Bit (刪除位元) 的積存資訊安全更新 (973525)</strong><br />
 <br />
 這個資訊安全更新可解決多重 ActiveX 控制項中常見且目前遭到利用的一項未公開報告的弱點。 如果使用者透過具現化 ActiveX 控制項的 Internet Explorer 來檢視蓄意製作的網頁，使用易受到影響的 Microsoft Active Template Library (ATL) 版本所編譯的 ActiveX 控制項中的弱點可能會允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-060">MS09-060</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-060">MS09-060</a></td>
 <td style="border:1px solid black;"><strong>適用於 Microsoft Office 的 Microsoft Active Template Library (ATL) ActiveX 控制項中的弱點可能會允許遠端執行程式碼 (973965)</strong><br />
 <br />
 以易受影響的 Microsoft Active Template Library (ATL) 版本編譯適用於 Microsoft 的 ActiveX 控制項，當中有數個未公開報告的弱點，這個資訊安全更新可解決這些弱點。 如果使用者載入了蓄意製作的元件或控制項，這些弱點可能會允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-061">MS09-061</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-061">MS09-061</a></td>
 <td style="border:1px solid black;"><strong>Microsoft .NET Common Language Runtime 中的弱點可能會允許遠端執行程式碼 (974378)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft .NET Framework 和 Microsoft Silverlight 中三項未公開報告的弱點。 如果使用者使用可執行 XAML 瀏覽器應用程式 (XBAP) 或 Silverlight 應用程式的網頁瀏覽器來檢視蓄意製作的網頁，或攻擊者成功誘使使用者執行隨意製作的 Microsoft .NET 應用程式，則這些弱點可能會允許在用戶端系統上遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。 如果伺服器允許處理 ASP.NET 網頁，且攻擊者將蓄意製作的 ASP.NET 網頁成功上載到執行 IIS 的伺服器系統並加以執行，則這些弱點也可能會允許在該伺服器系統上遠端執行程式碼 (網站代管服務案例可能會發生這種情況)。 非惡意的 Microsoft .NET 應用程式、Silverlight 應用程式、XBAP 和 ASP.NET 網頁不會有遭受此弱點攻擊的風險。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、<br />
@@ -121,11 +121,11 @@ Microsoft .NET Framework、<br />
 Microsoft Silverlight</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-062">MS09-062</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-062">MS09-062</a></td>
 <td style="border:1px solid black;"><strong>GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Windows GDI+ 中數個未公開報告的弱點。 如果使用者使用受影響的軟體檢視特製影像檔，或者瀏覽內含特製內容的網站，那麼這些弱點可能會允許遠端執行程式碼‧。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、<br />
@@ -137,51 +137,51 @@ Microsoft 開發者工具、<br />
 Microsoft Forefront</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-053">MS09-053</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-053">MS09-053</a></td>
 <td style="border:1px solid black;"><strong>Internet Information Services 的 FTP 服務中的弱點可能允許遠端執行程式碼 (975254)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Internet Information Services (IIS) 5.0、Microsoft Internet Information Services (IIS) 5.1、Microsoft Internet Information Services (IIS) 6.0 和 Microsoft Internet Information Services (IIS) 7.0 的 FTP 服務中二個公開揭露的弱點。在 IIS 7.0 上，只有 FTP Service 6.0 受到影響。 這些弱點可能會對在 IIS 5.0 上執行 FTP 服務的系統，允許遠端執行程式碼 (RCE)，或是對在 IIS 5.0、IIS 5.1、IIS 6.0 或 IIS 7.0 上執行 FTP 服務的系統，導致拒絕服務 (DoS)。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-056">MS09-056</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-056">MS09-056</a></td>
 <td style="border:1px solid black;"><strong>Windows CryptoAPI 中的弱點可能會允許偽造 (974571)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Windows 中兩項公開揭發的弱點。 如果攻擊者獲得存取使用者用於驗證之憑證的權限，上述弱點可能會允許偽造。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 偽造</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-057">MS09-057</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-057">MS09-057</a></td>
 <td style="border:1px solid black;"><strong>索引服務中的弱點可能會允許遠端執行程式碼 (969059)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Windows 中一項未公開報告的弱點。 如果攻擊者設定可以透過呼叫其 ActiveX 元件叫用「索引服務」的惡意網頁，此弱點可能會允許遠端執行程式碼。 此呼叫可能包含惡意的 URL 並利用此弱點，藉由使用者瀏覽網頁的權限，授與攻擊者存取用戶端系統的權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-058">MS09-058</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-058">MS09-058</a></td>
 <td style="border:1px solid black;"><strong>Windows 核心中的弱點可能會允許權限提高 (971486)</strong><br />
 <br />
 這個資訊安全更新可解決 Windows 核心中數個未公開報告的弱點。 如果攻擊者登入系統並執行蓄意製作的應用程式，則最嚴重的弱點可能會允許權限提高。 攻擊者必須擁有有效的登入認證，並能夠登入本機，才能利用這些弱點。 遠端或匿名使用者無法利用這個弱點。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-059">MS09-059</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-059">MS09-059</a></td>
 <td style="border:1px solid black;"><strong>本地安全性授權子系統服務中的弱點可能會允許拒絕服務 (975467)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Windows 中一項未公開報告的弱點。 如果在 NTLM 驗證程序期間，一名攻擊者傳送蓄意製作的惡意封包，此時弱點可能會允許拒絕服務。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 拒絕服務</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -197,44 +197,44 @@ Microsoft Forefront</td>
   
 **我該如何使用這個表格？**
   
-請用這個表格來瞭解您可能需要安裝的每個資訊安全更新，與 30 天內已發行的可利用程式碼受影響之可能性。 您應該檢閱下列的每個評估，按照特定的設定，將部署以優先次序排序。 如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點索引](http://technet.microsoft.com/en-us/security/cc998259.aspx)。
+請用這個表格來瞭解您可能需要安裝的每個資訊安全更新，與 30 天內已發行的可利用程式碼受影響之可能性。 您應該檢閱下列的每個評估，按照特定的設定，將部署以優先次序排序。 如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點索引](https://technet.microsoft.com/en-us/security/cc998259.aspx)。
   
 | 公告編號                                                            | 公告標題                                                                                                                   | CVE ID                                                                           | 弱點索引評估                                                                                            | 主要重點                                                                                                                                                                                                                                                                                             |  
 |---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| [MS09-050](http://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2 中的弱點可能會允許遠端執行程式碼 (975517)                                                                            | [CVE-2009-2526](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2526) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這只是一個有限拒絕服務弱點。                                                                                                                                                                                                                                                                         |  
-| [MS09-050](http://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2 中的弱點可能會允許遠端執行程式碼 (975517)                                                                            | [CVE-2009-2532](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2532) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-050](http://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2 中的弱點可能會允許遠端執行程式碼 (975517)                                                                            | [CVE-2009-3103](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3103) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 已公開發佈可利用此漏洞的程式碼。                                                                                                                                                                                                                                                                     |  
-| [MS09-051](http://technet.microsoft.com/security/bulletin/ms09-051) | Windows Media Runtime 中的弱點可能會允許遠端執行程式碼 (975682)                                                            | [CVE-2009-0555](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0555) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-051](http://technet.microsoft.com/security/bulletin/ms09-051) | Windows Media Runtime 中的弱點可能會允許遠端執行程式碼 (975682)                                                            | [CVE-2009-2525](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2525) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-052](http://technet.microsoft.com/security/bulletin/ms09-052) | Windows Media Player 中的弱點可能會允許遠端執行程式碼 (974112)                                                             | [CVE-2009-2527](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2527) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-053](http://technet.microsoft.com/security/bulletin/ms09-053) | Internet Information Services 的 FTP 服務中的弱點可能允許遠端執行程式碼 (975254)                                           | [CVE-2009-2521](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2521) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。 已公開發佈可利用此漏洞的程式碼。                                                                                                                                                                                                                                            |  
-| [MS09-053](http://technet.microsoft.com/security/bulletin/ms09-053) | Internet Information Services 的 FTP 服務中的弱點可能允許遠端執行程式碼 (975254)                                           | [CVE-2009-3023](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3023) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 已公開發佈可利用此漏洞的程式碼。                                                                                                                                                                                                                                                                     |  
-| [MS09-054](http://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 積存資訊安全更新 (974455)                                                                                | [CVE-2009-1547](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1547) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-054](http://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 積存資訊安全更新 (974455)                                                                                | [CVE-2009-2529](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2529) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-054](http://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 積存資訊安全更新 (974455)                                                                                | [CVE-2009-2530](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2530) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 在 Microsoft Windows 2000 系統上，缺乏堆積保護會造成弱點索引評估增加至 [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼。                                                                                                                     |  
-| [MS09-054](http://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 積存資訊安全更新 (974455)                                                                                | [CVE-2009-2531](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2531) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 |                                                                                                                                                                                                                                                                                                      |  
-| [MS09-055](http://technet.microsoft.com/security/bulletin/ms09-055) | ActiveX Kill Bit (刪除位元) 的積存資訊安全更新 (973525)                                                                    | [CVE-2009-2493](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 無                                                                                                      | (此弱點已經在[七月份公告摘要](http://technet.microsoft.com/security/bulletin/ms09-jul)中獲得弱點索引評估。 這是因為此弱點是由 [MS09-035](http://go.microsoft.com/fwlink/?linkid=158131) 首先提出。) 另請參閱 [MS09-060](http://technet.microsoft.com/security/bulletin/ms09-060) 中相同的 CVE 編號。 |  
-| [MS09-056](http://technet.microsoft.com/security/bulletin/ms09-056) | Windows CryptoAPI 的弱點可能會允許偽造 (974571)                                                                            | [CVE-2009-2510](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2510) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個偽造弱點。                                                                                                                                                                                                                                                                                   |  
-| [MS09-056](http://technet.microsoft.com/security/bulletin/ms09-056) | Windows CryptoAPI 的弱點可能會允許偽造 (974571)                                                                            | [CVE-2009-2511](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2511) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個偽造弱點。                                                                                                                                                                                                                                                                                   |  
-| [MS09-057](http://technet.microsoft.com/security/bulletin/ms09-057) | 索引服務中的弱點可能會允許遠端執行程式碼 (969059)                                                                          | [CVE-2009-2507](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2507) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-058](http://technet.microsoft.com/security/bulletin/ms09-058) | Windows 核心中的弱點可能會允許權限提高 (971486)                                                                            | [CVE-2009-2515](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2515) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-058](http://technet.microsoft.com/security/bulletin/ms09-058) | Windows 核心中的弱點可能會允許權限提高 (971486)                                                                            | [CVE-2009-2516](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2516) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 藉由網路共用的方式利用這項弱點時，會導致拒絕服務的情況；若在本機上利用這項弱點，以本機系統為目標，則會導致權限提高的情況。                                                                                                                                                                           |  
-| [MS09-058](http://technet.microsoft.com/security/bulletin/ms09-058) | Windows 核心中的弱點可能會允許權限提高 (971486)                                                                            | [CVE-2009-2517](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2517) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。                                                                                                                                                                                                                                                                             |  
-| [MS09-059](http://technet.microsoft.com/security/bulletin/ms09-059) | 本地安全性授權子系統服務中的弱點可能會允許拒絕服務 (975467)                                                                | [CVE-2009-2524](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2524) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這只是一個有限拒絕服務弱點。                                                                                                                                                                                                                                                                         |  
-| [MS09-060](http://technet.microsoft.com/security/bulletin/ms09-060) | 適用於 Microsoft Office 的 Microsoft Active Template Library (ATL) ActiveX 控制項中的弱點可能會允許遠端執行程式碼 (973965) | [CVE-2009-0901](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0901) | 無                                                                                                      | (此弱點已經在[七月份公告摘要](http://technet.microsoft.com/security/bulletin/ms09-jul)中獲得弱點索引評估。 這是因為此弱點是由 [MS09-035](http://go.microsoft.com/fwlink/?linkid=158131) 首先提出。)                                                                                                  |  
-| [MS09-060](http://technet.microsoft.com/security/bulletin/ms09-060) | 適用於 Microsoft Office 的 Microsoft Active Template Library (ATL) ActiveX 控制項中的弱點可能會允許遠端執行程式碼 (973965) | [CVE-2009-2493](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 無                                                                                                      | (此弱點已經在[七月份公告摘要](http://technet.microsoft.com/security/bulletin/ms09-jul)中獲得弱點索引評估。 這是因為此弱點是由 [MS09-035](http://go.microsoft.com/fwlink/?linkid=158131) 首先提出。) 另請參閱 [MS09-055](http://technet.microsoft.com/security/bulletin/ms09-055) 中相同的 CVE 編號。 |  
-| [MS09-060](http://technet.microsoft.com/security/bulletin/ms09-060) | 適用於 Microsoft Office 的 Microsoft Active Template Library (ATL) ActiveX 控制項中的弱點可能會允許遠端執行程式碼 (973965) | [CVE-2009-2495](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2495) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個資訊洩漏的弱點。                                                                                                                                                                                                                                                                             |  
-| [MS09-061](http://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET Common Language Runtime 中的弱點可能會允許遠端執行程式碼 (974378)                                           | [CVE-2009-0090](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0090) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-061](http://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET Common Language Runtime 中的弱點可能會允許遠端執行程式碼 (974378)                                           | [CVE-2009-0091](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0091) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-061](http://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET Common Language Runtime 中的弱點可能會允許遠端執行程式碼 (974378)                                           | [CVE-2009-2497](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2497) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 有可能會發生網際網路式的攻擊。                                                                                                                                                                                                                                                                       |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2500](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2500) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2501](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2501) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2502](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2502) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2503](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2503) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2504](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2504) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2518](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2518) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2528](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2528) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
-| [MS09-062](http://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-3126](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3126) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |
+| [MS09-050](https://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2 中的弱點可能會允許遠端執行程式碼 (975517)                                                                            | [CVE-2009-2526](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2526) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這只是一個有限拒絕服務弱點。                                                                                                                                                                                                                                                                         |  
+| [MS09-050](https://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2 中的弱點可能會允許遠端執行程式碼 (975517)                                                                            | [CVE-2009-2532](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2532) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-050](https://technet.microsoft.com/security/bulletin/ms09-050) | SMBv2 中的弱點可能會允許遠端執行程式碼 (975517)                                                                            | [CVE-2009-3103](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3103) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 已公開發佈可利用此漏洞的程式碼。                                                                                                                                                                                                                                                                     |  
+| [MS09-051](https://technet.microsoft.com/security/bulletin/ms09-051) | Windows Media Runtime 中的弱點可能會允許遠端執行程式碼 (975682)                                                            | [CVE-2009-0555](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0555) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-051](https://technet.microsoft.com/security/bulletin/ms09-051) | Windows Media Runtime 中的弱點可能會允許遠端執行程式碼 (975682)                                                            | [CVE-2009-2525](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2525) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-052](https://technet.microsoft.com/security/bulletin/ms09-052) | Windows Media Player 中的弱點可能會允許遠端執行程式碼 (974112)                                                             | [CVE-2009-2527](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2527) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-053](https://technet.microsoft.com/security/bulletin/ms09-053) | Internet Information Services 的 FTP 服務中的弱點可能允許遠端執行程式碼 (975254)                                           | [CVE-2009-2521](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2521) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。 已公開發佈可利用此漏洞的程式碼。                                                                                                                                                                                                                                            |  
+| [MS09-053](https://technet.microsoft.com/security/bulletin/ms09-053) | Internet Information Services 的 FTP 服務中的弱點可能允許遠端執行程式碼 (975254)                                           | [CVE-2009-3023](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3023) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 已公開發佈可利用此漏洞的程式碼。                                                                                                                                                                                                                                                                     |  
+| [MS09-054](https://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 積存資訊安全更新 (974455)                                                                                | [CVE-2009-1547](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1547) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-054](https://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 積存資訊安全更新 (974455)                                                                                | [CVE-2009-2529](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2529) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-054](https://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 積存資訊安全更新 (974455)                                                                                | [CVE-2009-2530](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2530) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 在 Microsoft Windows 2000 系統上，缺乏堆積保護會造成弱點索引評估增加至 [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼。                                                                                                                     |  
+| [MS09-054](https://technet.microsoft.com/security/bulletin/ms09-054) | Internet Explorer 積存資訊安全更新 (974455)                                                                                | [CVE-2009-2531](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2531) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 |                                                                                                                                                                                                                                                                                                      |  
+| [MS09-055](https://technet.microsoft.com/security/bulletin/ms09-055) | ActiveX Kill Bit (刪除位元) 的積存資訊安全更新 (973525)                                                                    | [CVE-2009-2493](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 無                                                                                                      | (此弱點已經在[七月份公告摘要](https://technet.microsoft.com/security/bulletin/ms09-jul)中獲得弱點索引評估。 這是因為此弱點是由 [MS09-035](https://go.microsoft.com/fwlink/?linkid=158131) 首先提出。) 另請參閱 [MS09-060](https://technet.microsoft.com/security/bulletin/ms09-060) 中相同的 CVE 編號。 |  
+| [MS09-056](https://technet.microsoft.com/security/bulletin/ms09-056) | Windows CryptoAPI 的弱點可能會允許偽造 (974571)                                                                            | [CVE-2009-2510](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2510) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個偽造弱點。                                                                                                                                                                                                                                                                                   |  
+| [MS09-056](https://technet.microsoft.com/security/bulletin/ms09-056) | Windows CryptoAPI 的弱點可能會允許偽造 (974571)                                                                            | [CVE-2009-2511](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2511) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個偽造弱點。                                                                                                                                                                                                                                                                                   |  
+| [MS09-057](https://technet.microsoft.com/security/bulletin/ms09-057) | 索引服務中的弱點可能會允許遠端執行程式碼 (969059)                                                                          | [CVE-2009-2507](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2507) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-058](https://technet.microsoft.com/security/bulletin/ms09-058) | Windows 核心中的弱點可能會允許權限提高 (971486)                                                                            | [CVE-2009-2515](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2515) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-058](https://technet.microsoft.com/security/bulletin/ms09-058) | Windows 核心中的弱點可能會允許權限提高 (971486)                                                                            | [CVE-2009-2516](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2516) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 藉由網路共用的方式利用這項弱點時，會導致拒絕服務的情況；若在本機上利用這項弱點，以本機系統為目標，則會導致權限提高的情況。                                                                                                                                                                           |  
+| [MS09-058](https://technet.microsoft.com/security/bulletin/ms09-058) | Windows 核心中的弱點可能會允許權限提高 (971486)                                                                            | [CVE-2009-2517](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2517) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。                                                                                                                                                                                                                                                                             |  
+| [MS09-059](https://technet.microsoft.com/security/bulletin/ms09-059) | 本地安全性授權子系統服務中的弱點可能會允許拒絕服務 (975467)                                                                | [CVE-2009-2524](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2524) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這只是一個有限拒絕服務弱點。                                                                                                                                                                                                                                                                         |  
+| [MS09-060](https://technet.microsoft.com/security/bulletin/ms09-060) | 適用於 Microsoft Office 的 Microsoft Active Template Library (ATL) ActiveX 控制項中的弱點可能會允許遠端執行程式碼 (973965) | [CVE-2009-0901](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0901) | 無                                                                                                      | (此弱點已經在[七月份公告摘要](https://technet.microsoft.com/security/bulletin/ms09-jul)中獲得弱點索引評估。 這是因為此弱點是由 [MS09-035](https://go.microsoft.com/fwlink/?linkid=158131) 首先提出。)                                                                                                  |  
+| [MS09-060](https://technet.microsoft.com/security/bulletin/ms09-060) | 適用於 Microsoft Office 的 Microsoft Active Template Library (ATL) ActiveX 控制項中的弱點可能會允許遠端執行程式碼 (973965) | [CVE-2009-2493](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 無                                                                                                      | (此弱點已經在[七月份公告摘要](https://technet.microsoft.com/security/bulletin/ms09-jul)中獲得弱點索引評估。 這是因為此弱點是由 [MS09-035](https://go.microsoft.com/fwlink/?linkid=158131) 首先提出。) 另請參閱 [MS09-055](https://technet.microsoft.com/security/bulletin/ms09-055) 中相同的 CVE 編號。 |  
+| [MS09-060](https://technet.microsoft.com/security/bulletin/ms09-060) | 適用於 Microsoft Office 的 Microsoft Active Template Library (ATL) ActiveX 控制項中的弱點可能會允許遠端執行程式碼 (973965) | [CVE-2009-2495](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2495) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個資訊洩漏的弱點。                                                                                                                                                                                                                                                                             |  
+| [MS09-061](https://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET Common Language Runtime 中的弱點可能會允許遠端執行程式碼 (974378)                                           | [CVE-2009-0090](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0090) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-061](https://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET Common Language Runtime 中的弱點可能會允許遠端執行程式碼 (974378)                                           | [CVE-2009-0091](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0091) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-061](https://technet.microsoft.com/security/bulletin/ms09-061) | Microsoft .NET Common Language Runtime 中的弱點可能會允許遠端執行程式碼 (974378)                                           | [CVE-2009-2497](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2497) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 有可能會發生網際網路式的攻擊。                                                                                                                                                                                                                                                                       |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2500](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2500) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2501](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2501) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2502](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2502) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2503](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2503) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2504](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2504) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2518](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2518) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-2528](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2528) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |  
+| [MS09-062](https://technet.microsoft.com/security/bulletin/ms09-062) | GDI+ 中的弱點可能會允許遠端執行程式碼 (957488)                                                                             | [CVE-2009-3126](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3126) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                                                                                                                                                                                                 |
   
 受影響的軟體及下載位置  
 ----------------------
@@ -291,40 +291,40 @@ Microsoft Windows 2000
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -335,37 +335,37 @@ Microsoft Windows 2000
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**無**](http://technet.microsoft.com/security/bulletin/rating)
+[**無**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -452,40 +452,40 @@ Windows XP
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr>
@@ -496,37 +496,37 @@ Windows XP
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -688,40 +688,40 @@ Windows Server 2003
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr>
@@ -732,37 +732,37 @@ Windows Server 2003
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -968,40 +968,40 @@ Windows Vista
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1009,40 +1009,40 @@ Windows Vista
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-無
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+無
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1357,40 +1357,40 @@ Windows Server 2008
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1398,40 +1398,40 @@ Windows Server 2008
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-無
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**輕微**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**輕微**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+無
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1764,40 +1764,40 @@ Windows 7
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1814,13 +1814,10 @@ Windows 7
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-無
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
@@ -1829,16 +1826,19 @@ Windows 7
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+無
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1941,40 +1941,40 @@ Windows Server 2008 R2
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://technet.microsoft.com/security/bulletin/ms09-050)
+[**MS09-050**](https://technet.microsoft.com/security/bulletin/ms09-050)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://technet.microsoft.com/security/bulletin/ms09-051)
+[**MS09-051**](https://technet.microsoft.com/security/bulletin/ms09-051)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://technet.microsoft.com/security/bulletin/ms09-052)
+[**MS09-052**](https://technet.microsoft.com/security/bulletin/ms09-052)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://technet.microsoft.com/security/bulletin/ms09-054)
+[**MS09-054**](https://technet.microsoft.com/security/bulletin/ms09-054)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://technet.microsoft.com/security/bulletin/ms09-053)
+[**MS09-053**](https://technet.microsoft.com/security/bulletin/ms09-053)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://technet.microsoft.com/security/bulletin/ms09-056)
+[**MS09-056**](https://technet.microsoft.com/security/bulletin/ms09-056)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://technet.microsoft.com/security/bulletin/ms09-057)
+[**MS09-057**](https://technet.microsoft.com/security/bulletin/ms09-057)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://technet.microsoft.com/security/bulletin/ms09-058)
+[**MS09-058**](https://technet.microsoft.com/security/bulletin/ms09-058)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://technet.microsoft.com/security/bulletin/ms09-059)
+[**MS09-059**](https://technet.microsoft.com/security/bulletin/ms09-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1991,13 +1991,10 @@ Windows Server 2008 R2
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**輕微**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-無
+[**輕微**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
@@ -2006,16 +2003,19 @@ Windows Server 2008 R2
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+無
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2112,9 +2112,9 @@ Windows Server 2008 R2
  
 **Windows Server 2008 和 Windows Server 2008 R2 注意事項**
 
-**\*Server Core 安裝會受影響。** 無論上述受支援的 Windows Server 2008 或 Windows Server 2008 R2 版本是否使用 Server Core 安裝選項安裝，這個更新均以相同的嚴重性等級套用。 如需此安裝選項的詳細資訊，請參閱 MSDN 文章：[伺服器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) (英文) 以及[適用於 Windows Server 2008 R2 的伺服器核心](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx) (英文)。請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 及 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
+**\*Server Core 安裝會受影響。** 無論上述受支援的 Windows Server 2008 或 Windows Server 2008 R2 版本是否使用 Server Core 安裝選項安裝，這個更新均以相同的嚴重性等級套用。 如需此安裝選項的詳細資訊，請參閱 MSDN 文章：[伺服器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) (英文) 以及[適用於 Windows Server 2008 R2 的伺服器核心](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx) (英文)。請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 及 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
 
-**\*\*Server Core 安裝不受影響。** 如果 Windows Server 2008 或 Windows Server 2008 R2 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 或 Windows Server 2008 R2。 如需此安裝選項的詳細資訊，請參閱 MSDN 文章：[伺服器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) (英文) 以及[適用於 Windows Server 2008 R2 的伺服器核心](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx) (英文)。請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 及 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
+**\*\*Server Core 安裝不受影響。** 如果 Windows Server 2008 或 Windows Server 2008 R2 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 或 Windows Server 2008 R2。 如需此安裝選項的詳細資訊，請參閱 MSDN 文章：[伺服器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) (英文) 以及[適用於 Windows Server 2008 R2 的伺服器核心](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx) (英文)。請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 及 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
 
 **MS09-061 注意事項**
 
@@ -2126,7 +2126,7 @@ Windows Server 2008 R2
 
 **MS09-059 注意事項**
 
-<sup>[1]</sup>只有在已安裝 KB968389 延伸驗證防護 (請參閱 [Microsoft 安全性摘要報告 973811](http://technet.microsoft.com/security/advisory/973811)) 的情況下，才會影響此作業系統。 如需更多資訊，請參閱 [MS09-059](http://technet.microsoft.com/security/bulletin/ms09-059) 中的＜與本資訊安全更新相關的常見問題集 (FAQ)＞項目。
+<sup>[1]</sup>只有在已安裝 KB968389 延伸驗證防護 (請參閱 [Microsoft 安全性摘要報告 973811](https://technet.microsoft.com/security/advisory/973811)) 的情況下，才會影響此作業系統。 如需更多資訊，請參閱 [MS09-059](https://technet.microsoft.com/security/bulletin/ms09-059) 中的＜與本資訊安全更新相關的常見問題集 (FAQ)＞項目。
 
 #### Microsoft Office 套件及軟體
 
@@ -2151,10 +2151,10 @@ Microsoft Office 套件、系統和元件
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-060**](http://technet.microsoft.com/security/bulletin/ms09-060)
+[**MS09-060**](https://technet.microsoft.com/security/bulletin/ms09-060)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2162,10 +2162,10 @@ Microsoft Office 套件、系統和元件
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2223,10 +2223,10 @@ Microsoft Office 2003
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-060**](http://technet.microsoft.com/security/bulletin/ms09-060)
+[**MS09-060**](https://technet.microsoft.com/security/bulletin/ms09-060)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr>
@@ -2234,10 +2234,10 @@ Microsoft Office 2003
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2367,7 +2367,7 @@ Microsoft SQL Server
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2375,7 +2375,7 @@ Microsoft SQL Server
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2514,10 +2514,10 @@ Microsoft Silverlight
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2525,7 +2525,7 @@ Microsoft Silverlight
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
@@ -2536,7 +2536,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Microsoft Silverlight 2](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安裝在 Mac 上  
+[Microsoft Silverlight 2](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安裝在 Mac 上  
 (KB970363)  
 (重大)
 </td>
@@ -2549,7 +2549,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Microsoft Silverlight 2](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安裝在所有 Microsoft Windows 用戶端版本上  
+[Microsoft Silverlight 2](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安裝在所有 Microsoft Windows 用戶端版本上  
 (KB970363)  
 (重大)
 </td>
@@ -2562,7 +2562,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Microsoft Silverlight 2](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安裝在所有 Microsoft Windows 伺服器版本上\*\*  
+[Microsoft Silverlight 2](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安裝在所有 Microsoft Windows 伺服器版本上\*\*  
 (KB970363)  
 (中度)
 </td>
@@ -2580,10 +2580,10 @@ Microsoft Visual Studio
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr>
@@ -2689,10 +2689,10 @@ Microsoft Report Viewer
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://technet.microsoft.com/security/bulletin/ms09-061)
+[**MS09-061**](https://technet.microsoft.com/security/bulletin/ms09-061)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr>
@@ -2703,7 +2703,7 @@ Microsoft Report Viewer
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2764,7 +2764,7 @@ Microsoft Platform SDK Redistributable: GDI+
 
 <sup>[1]</sup>此下載可將 Microsoft Silverlight 2 升級至 Microsoft Silverlight 3，以解決此公告中所描述的弱點。
 
-**\*\*Server Core 安裝不受影響。** 如果 Windows Server 2008 或 Windows Server 2008 R2 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 或 Windows Server 2008 R2。 如需此安裝選項的詳細資訊，請參閱 MSDN 文章：[伺服器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) (英文) 以及[適用於 Windows Server 2008 R2 的伺服器核心](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx) (英文)。請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 及 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
+**\*\*Server Core 安裝不受影響。** 如果 Windows Server 2008 或 Windows Server 2008 R2 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 或 Windows Server 2008 R2。 如需此安裝選項的詳細資訊，請參閱 MSDN 文章：[伺服器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) (英文) 以及[適用於 Windows Server 2008 R2 的伺服器核心](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx) (英文)。請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 及 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
 
 另請參閱＜受影響的軟體及下載位置＞中的其他軟體類別，以取得更多相同公告編號裡的更新檔案。 本公告涉及多個軟體分類。
 
@@ -2795,7 +2795,7 @@ Microsoft Forefront Security
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://technet.microsoft.com/security/bulletin/ms09-062)
+[**MS09-062**](https://technet.microsoft.com/security/bulletin/ms09-062)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2803,7 +2803,7 @@ Microsoft Forefront Security
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -2829,37 +2829,37 @@ Microsoft Forefront Client Security 1.0
 <span></span>
 **資訊安全中心**
 
-管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。 如需更多資訊，請參閱 [TechNet 更新管理中心](http://go.microsoft.com/fwlink/?linkid=69903) (英文)。 [TechNet 資訊安全中心](http://go.microsoft.com/fwlink/?linkid=21171) 提供 Microsoft 產品安全性的其他資訊。 消費者可以造訪[在家上網的安全性](http://go.microsoft.com/fwlink/?linkid=85102)網站，只要按一下 \[最新資訊安全更新\] 即可在此網站取得此資訊。
+管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。 如需更多資訊，請參閱 [TechNet 更新管理中心](https://go.microsoft.com/fwlink/?linkid=69903) (英文)。 [TechNet 資訊安全中心](https://go.microsoft.com/fwlink/?linkid=21171) 提供 Microsoft 產品安全性的其他資訊。 消費者可以造訪[在家上網的安全性](https://go.microsoft.com/fwlink/?linkid=85102)網站，只要按一下 \[最新資訊安全更新\] 即可在此網站取得此資訊。
 
-資訊安全更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 以及 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 取得。 資訊安全更新也可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得。 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
+資訊安全更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 以及 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130) 取得。 資訊安全更新也可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得。 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
 
-最後，您可以從 [Microsoft Update Catalog](http://go.microsoft.com/fwlink/?linkid=96155) 下載資訊安全更新。 Microsoft Update Catalog 提供透過 Windows Update 及 Microsoft Update 所公佈內容的搜尋式目錄，包括資訊安全更新、驅動程式和 Service Pack。 只要以資訊安全公告編號 (例如：MS07-036) 執行搜尋，您就可新增所有適用的更新到置物籃 (包括同一項更新的不同語言)，再下載到您自選的資料夾中。 如需更多關於 Microsoft Update Catalog 的相關資訊，請參閱 [Microsoft Update Catalog 常見問題集](http://go.microsoft.com/fwlink/?linkid=97900)。
+最後，您可以從 [Microsoft Update Catalog](https://go.microsoft.com/fwlink/?linkid=96155) 下載資訊安全更新。 Microsoft Update Catalog 提供透過 Windows Update 及 Microsoft Update 所公佈內容的搜尋式目錄，包括資訊安全更新、驅動程式和 Service Pack。 只要以資訊安全公告編號 (例如：MS07-036) 執行搜尋，您就可新增所有適用的更新到置物籃 (包括同一項更新的不同語言)，再下載到您自選的資料夾中。 如需更多關於 Microsoft Update Catalog 的相關資訊，請參閱 [Microsoft Update Catalog 常見問題集](https://go.microsoft.com/fwlink/?linkid=97900)。
 
-**注意**：自 2009 年 8 月 1 日開始，Microsoft 已停止支援 Office Update 與 Office Update Inventory Tool。 若要繼續取得 Microsoft Office 產品的最新更新，請使用 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)。 如需更多資訊，請參閱[關於 Microsoft Office Update： 常見問題集](http://office.microsoft.com/en-us/downloads/fx010402221033.aspx) (英文)。
+**注意**：自 2009 年 8 月 1 日開始，Microsoft 已停止支援 Office Update 與 Office Update Inventory Tool。 若要繼續取得 Microsoft Office 產品的最新更新，請使用 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)。 如需更多資訊，請參閱[關於 Microsoft Office Update： 常見問題集](https://office.microsoft.com/en-us/downloads/fx010402221033.aspx) (英文)。
 
 **偵測與部署指南**
 
-Microsoft 針對資訊安全更新提供偵測和部署指南。 本指南所含之建議和資訊，能幫助 IT 專業人員瞭解如何使用用於資訊安全更新的偵測和部署的各種工具。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 961747](http://support.microsoft.com/kb/961747/zh-tw)。
+Microsoft 針對資訊安全更新提供偵測和部署指南。 本指南所含之建議和資訊，能幫助 IT 專業人員瞭解如何使用用於資訊安全更新的偵測和部署的各種工具。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 961747](https://support.microsoft.com/kb/961747/zh-tw)。
 
 **Microsoft Baseline Security Analyzer**
 
-Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少資訊安全更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134) 網站 (英文)。
+Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少資訊安全更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134) 網站 (英文)。
 
 **Windows Server Update Services**
 
 透過 Windows Server Update Services (WSUS)，系統管理員可迅速可靠地將 Windows 2000 作業系統及更新系統版本、Office XP 及更新版本、Exchange Server 2003 及 SQL Server 2000 等最新的重大更新與資訊安全更新部署到 Windows 2000 及更新作業系統版本中。
 
-如需更多關於利用 Windows Server Update Services 部署資訊安全更新的資訊，請造訪 [Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=50120) 網站。
+如需更多關於利用 Windows Server Update Services 部署資訊安全更新的資訊，請造訪 [Windows Server Update Services](https://go.microsoft.com/fwlink/?linkid=50120) 網站。
 
 **Systems Management Server**
 
-Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要資訊安全更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 現已推出新版的 SMS，System Center Configuration Manager 2007；另請參閱 [System Center Configuration Manager 2007](http://technet.microsoft.com/en-us/library/bb735860.aspx)。如需更多有關系統管理員如何能使用 SMS 2003 部署資訊安全更新的資訊，請參閱 [SMS 2003 安全性修補程式管理](http://go.microsoft.com/fwlink/?linkid=22939) (英文)。 SMS 2.0 使用者也可以使用資訊安全更新盤點工具 (Security Update Inventory Tool，SUIT) 來協助部署資訊安全更新。 如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要資訊安全更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 現已推出新版的 SMS，System Center Configuration Manager 2007；另請參閱 [System Center Configuration Manager 2007](https://technet.microsoft.com/en-us/library/bb735860.aspx)。如需更多有關系統管理員如何能使用 SMS 2003 部署資訊安全更新的資訊，請參閱 [SMS 2003 安全性修補程式管理](https://go.microsoft.com/fwlink/?linkid=22939) (英文)。 SMS 2.0 使用者也可以使用資訊安全更新盤點工具 (Security Update Inventory Tool，SUIT) 來協助部署資訊安全更新。 如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server](https://go.microsoft.com/fwlink/?linkid=21158)。
 
-**注意**：SMS 使用 Microsoft Baseline Security Analyzer 提供廣泛的資訊安全公告更新偵測與部署支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](http://go.microsoft.com/fwlink/?linkid=33341)。 某些資訊安全更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](http://go.microsoft.com/fwlink/?linkid=33387) (英文) 和 [SMS 管理功能套件](http://go.microsoft.com/fwlink/?linkid=21161) (英文) 提供) 來安裝這些更新。
+**注意**：SMS 使用 Microsoft Baseline Security Analyzer 提供廣泛的資訊安全公告更新偵測與部署支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](https://go.microsoft.com/fwlink/?linkid=33341)。 某些資訊安全更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](https://go.microsoft.com/fwlink/?linkid=33387) (英文) 和 [SMS 管理功能套件](https://go.microsoft.com/fwlink/?linkid=21161) (英文) 提供) 來安裝這些更新。
 
 **Update Compatibility Evaluator 和應用程式相容性工具組**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 
@@ -2873,66 +2873,66 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 如需在 Windows Update 和 Microsoft Update 上發行的非資訊安全更新之相關資訊，請參閱：
 
--   [Microsoft 知識庫文件編號 894199](http://support.microsoft.com/kb/894199/zh-tw)： Software Update Services 與 Windows Server Update Services 的說明內容有所變動。 其中也包括所有 Windows 的內容。
--   [過去幾個月發行的 Windows Server Update Services 更新](http://technet.microsoft.com/en-us/wsus/bb456965.aspx)。 顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
+-   [Microsoft 知識庫文件編號 894199](https://support.microsoft.com/kb/894199/zh-tw)： Software Update Services 與 Windows Server Update Services 的說明內容有所變動。 其中也包括所有 Windows 的內容。
+-   [過去幾個月發行的 Windows Server Update Services 更新](https://technet.microsoft.com/en-us/wsus/bb456965.aspx)。 顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
 
 #### Microsoft 主動保護計畫 (MAPP)
 
-為了增強客戶的安全性保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要安全性軟體提供者提供弱點資訊。 安全性軟體提供者可利用此弱點資訊，透過其安全性軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。 如果要判斷是否有安全性軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](http://www.microsoft.com/security/msrc/mapp/partners.mspx)上列出的計畫合作夥伴所提供的主動保護計畫網站。
+為了增強客戶的安全性保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要安全性軟體提供者提供弱點資訊。 安全性軟體提供者可利用此弱點資訊，透過其安全性軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。 如果要判斷是否有安全性軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](https://www.microsoft.com/security/msrc/mapp/partners.mspx)上列出的計畫合作夥伴所提供的主動保護計畫網站。
 
 #### 安全性策略與社群
 
 **更新程式管理策略**
 
-[更新管理安全性指南](http://go.microsoft.com/fwlink/?linkid=21168) (英文) 提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
+[更新管理安全性指南](https://go.microsoft.com/fwlink/?linkid=21168) (英文) 提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他資訊安全更新**
 
 其他安全性問題的更新可由下列位置取得：
 
--   資訊安全更新可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
--   客戶平台的更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 取得。
--   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](http://support.microsoft.com/kb/913086/zh-tw)。
+-   資訊安全更新可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
+-   客戶平台的更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 取得。
+-   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](https://support.microsoft.com/kb/913086/zh-tw)。
 
 **IT 專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全區社群](http://go.microsoft.com/fwlink/?linkid=21164)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+在 [IT 專業人員資訊安全區社群](https://go.microsoft.com/fwlink/?linkid=21164)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
 #### 感謝
 
-Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
 
--   感謝 [Netherlands Forensics Institute](http://www.nederlandsforensischinstituut.nl/) 的 [Matthieu Suiche](http://www.msuiche.net/) 回報 MS09-050 中描述的問題
--   感謝 [Zero Day Initiative](http://www.zerodayinitiative.com/) 的 Ivan Fratric 和 [McAfee Avert Labs](http://www.avertlabs.com/) 的 Jun Xie 回報 MS09-051 中描述的問題
--   感謝 [Adobe Systems, Inc.](http://www.adobe.com/) 的 Vinay Anantharaman 回報 MS09-051 中描述的問題
--   感謝 [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 回報 MS09-052 中描述的問題
--   感謝 [Google Inc.](http://www.google.com/) 的 SkyLined 回報 MS09-054 中描述的問題
--   感謝 [IBM ISS X-Force](http://www.iss.net/) 的 Mark Dowd 回報 MS09-054 中描述的問題
--   感謝 [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 回報 MS09-054 中描述的問題
--   感謝 eshu.co.uk 的 Sam Thomas 與 [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 MS09-054 中描述的問題
--   感謝 [Citrix](http://www.citrix.com/) 的 Ian Wright 和 Jean-Luc Giraud 協助我們解決 MS09-056 中所述之問題
--   感謝 [IOActive](http://www.ioactive.com/) 的 Dan Kaminsky 回報 MS09-056 中描述的兩個問題
--   感謝 [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 回報 MS09-057 中描述的問題
--   感謝 [Google Inc.](http://www.google.com/) 的 Tavis Ormandy 和 Neel Mehta 回報 MS09-058 中描述的兩個問題
--   感謝 [NSFocus Security Team](http://www.nsfocus.com/) 回報 MS09-058 中描述的問題
--   感謝 [IBM ISS X-Force](http://www.iss.net/) 的 David Dewey 回報 MS09-060 中描述的問題
--   感謝 [VeriSign iDefense Labs](http://labs.idefense.com/) 的 Ryan Smith 回報 MS09-060 中描述的兩個問題
--   感謝 [Pavel Minaev](http://int19h.org/) 回報 MS09-061 中描述的問題
--   感謝 [Sumatra](http://www.sumatra.nl/) 的 Jeroen Frijters 回報 MS09-061 中描述的問題。
--   感謝 [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 回報 MS09-062 中描述的問題
--   感謝 [SkyRecon](http://www.skyrecon.com/) 的 Thomas Garnier 回報 MS09-062 中描述的問題
--   感謝 [VeriSign iDefense Labs](http://labs.idefense.com/) 的 Sean Larsson 回報 MS09-062 中描述的問題
--   感謝 [Zero Day Initiative](http://www.zerodayinitiative.com/) 和 Ivan Fratric 回報 MS09-062 中描述的問題
--   感謝 [Google Inc.](http://www.google.com/) 的 Tavis Ormandy 回報 MS09-062 中描述的問題
+-   感謝 [Netherlands Forensics Institute](https://www.nederlandsforensischinstituut.nl/) 的 [Matthieu Suiche](https://www.msuiche.net/) 回報 MS09-050 中描述的問題
+-   感謝 [Zero Day Initiative](https://www.zerodayinitiative.com/) 的 Ivan Fratric 和 [McAfee Avert Labs](https://www.avertlabs.com/) 的 Jun Xie 回報 MS09-051 中描述的問題
+-   感謝 [Adobe Systems, Inc.](https://www.adobe.com/) 的 Vinay Anantharaman 回報 MS09-051 中描述的問題
+-   感謝 [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 回報 MS09-052 中描述的問題
+-   感謝 [Google Inc.](https://www.google.com/) 的 SkyLined 回報 MS09-054 中描述的問題
+-   感謝 [IBM ISS X-Force](https://www.iss.net/) 的 Mark Dowd 回報 MS09-054 中描述的問題
+-   感謝 [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 回報 MS09-054 中描述的問題
+-   感謝 eshu.co.uk 的 Sam Thomas 與 [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 MS09-054 中描述的問題
+-   感謝 [Citrix](https://www.citrix.com/) 的 Ian Wright 和 Jean-Luc Giraud 協助我們解決 MS09-056 中所述之問題
+-   感謝 [IOActive](https://www.ioactive.com/) 的 Dan Kaminsky 回報 MS09-056 中描述的兩個問題
+-   感謝 [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 回報 MS09-057 中描述的問題
+-   感謝 [Google Inc.](https://www.google.com/) 的 Tavis Ormandy 和 Neel Mehta 回報 MS09-058 中描述的兩個問題
+-   感謝 [NSFocus Security Team](https://www.nsfocus.com/) 回報 MS09-058 中描述的問題
+-   感謝 [IBM ISS X-Force](https://www.iss.net/) 的 David Dewey 回報 MS09-060 中描述的問題
+-   感謝 [VeriSign iDefense Labs](https://labs.idefense.com/) 的 Ryan Smith 回報 MS09-060 中描述的兩個問題
+-   感謝 [Pavel Minaev](https://int19h.org/) 回報 MS09-061 中描述的問題
+-   感謝 [Sumatra](https://www.sumatra.nl/) 的 Jeroen Frijters 回報 MS09-061 中描述的問題。
+-   感謝 [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 回報 MS09-062 中描述的問題
+-   感謝 [SkyRecon](https://www.skyrecon.com/) 的 Thomas Garnier 回報 MS09-062 中描述的問題
+-   感謝 [VeriSign iDefense Labs](https://labs.idefense.com/) 的 Sean Larsson 回報 MS09-062 中描述的問題
+-   感謝 [Zero Day Initiative](https://www.zerodayinitiative.com/) 和 Ivan Fratric 回報 MS09-062 中描述的問題
+-   感謝 [Google Inc.](https://www.google.com/) 的 Tavis Ormandy 回報 MS09-062 中描述的問題
 -   感謝 Carlo Di Dato (亦稱 shinnai) 回報 MS09-062 中描述的問題
--   感謝 [VeriSign iDefense Labs](http://labs.idefense.com/) 的 Marsu Pilami 回報 MS09-062 中描述的幾個問題
--   感謝 [Secunia](http://secunia.com/) 的 Carsten H. Eiram 回報 MS09-062 中描述的問題
+-   感謝 [VeriSign iDefense Labs](https://labs.idefense.com/) 的 Marsu Pilami 回報 MS09-062 中描述的幾個問題
+-   感謝 [Secunia](https://secunia.com/) 的 Carsten H. Eiram 回報 MS09-062 中描述的問題
 
 #### 支援
 
--   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。 其他版本超出它們的支援週期。 若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](http://go.microsoft.com/fwlink/?linkid=21742)。
--   美國及加拿大地區客戶可洽詢[資訊安全支援](http://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 以取得技術支援。 與資訊安全更新有關的支援電話不另外收費。 如需更多可用支援選項的資訊，請參閱 [Microsoft 技術支援服務](http://support.microsoft.com/?ln=zh-tw)。
--   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與資訊安全更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援](http://go.microsoft.com/fwlink/?linkid=21155)網站。
+-   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。 其他版本超出它們的支援週期。 若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   美國及加拿大地區客戶可洽詢[資訊安全支援](https://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 以取得技術支援。 與資訊安全更新有關的支援電話不另外收費。 如需更多可用支援選項的資訊，請參閱 [Microsoft 技術支援服務](https://support.microsoft.com/?ln=zh-tw)。
+-   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與資訊安全更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援](https://go.microsoft.com/fwlink/?linkid=21155)網站。
 
 #### 免責聲明
 

@@ -16,11 +16,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms07-aug(v=Security.10)
 
 此公告摘要列出 2007 年 8 月份發行之安全性公告。
 
-發行 2007 年 8 月份公告之後，此公告摘要將取代原先於 2007 年 8 月 9 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 安全性公告預先通知](http://technet.microsoft.com/security/bulletin/advance)。
+發行 2007 年 8 月份公告之後，此公告摘要將取代原先於 2007 年 8 月 9 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 安全性公告預先通知](https://technet.microsoft.com/security/bulletin/advance)。
 
-如需有關如何在 Microsoft 安全性公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+如需有關如何在 Microsoft 安全性公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
-Microsoft 將利用網路廣播於 2007 年 8 月 15 日，太平洋時間早上十一點 (美國與加拿大) 解答客戶對於這些公告的問題。 [立即註冊參加 8 月份安全性公告網路廣播](http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032344688&eventcategory=4&culture=en-us&countrycode=us)。 在這個日期後，此網路廣播將可隨選取得。 如需更多資訊，請參閱 [Microsoft 安全性公告摘要和網路廣播](http://www.microsoft.com/taiwan/security/bulletins/default.mspx)。
+Microsoft 將利用網路廣播於 2007 年 8 月 15 日，太平洋時間早上十一點 (美國與加拿大) 解答客戶對於這些公告的問題。 [立即註冊參加 8 月份安全性公告網路廣播](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032344688&eventcategory=4&culture=en-us&countrycode=us)。 在這個日期後，此網路廣播將可隨選取得。 如需更多資訊，請參閱 [Microsoft 安全性公告摘要和網路廣播](https://www.microsoft.com/taiwan/security/bulletins/default.mspx)。
 
 Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何非安全性、高優先順序更新的優先順序，其中這些非安全性、高優先順序更新的發行日期與每月安全性更新的發行日期相同。 請參閱＜其他資訊＞一節。
 
@@ -36,54 +36,54 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <span></span>
 | 公告編號             | Microsoft 安全性公告 MS07-042                                                                                                                                                                                                                                               |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [](http://technet.microsoft.com/security/bulletin/ms07-042)**Microsoft XML Core Services 的弱點可能會允許遠端執行程式碼 (936227)**                                                                                                                                          |
+| **公告標題**         | [](https://technet.microsoft.com/security/bulletin/ms07-042)**Microsoft XML Core Services 的弱點可能會允許遠端執行程式碼 (936227)**                                                                                                                                          |
 | **提要**             | 這個重大安全性更新可解決一項未公開報告的弱點。 如果使用者使用 Internet Explorer 檢視蓄意製作的網頁，此弱點可能會允許遠端執行程式碼。 可透過攻擊 Microsoft XML Core Services 來利用此弱點。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。 |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                               |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                               |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                                                                                                                                              |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新需要重新啟動電腦。                                                                                                                                                                          |
 | **受影響的軟體**     | **Windows，XML Core Services。** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                                                                       |
 
 | 公告編號             | Microsoft 安全性公告 MS07-043                                                                                                                                                                                                                |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [](http://technet.microsoft.com/security/bulletin/ms07-043)**OLE Automation 中的弱點可能會允許遠端執行程式碼 (921503)**                                                                                                                      |
+| **公告標題**         | [](https://technet.microsoft.com/security/bulletin/ms07-043)**OLE Automation 中的弱點可能會允許遠端執行程式碼 (921503)**                                                                                                                      |
 | **提要**             | 這個重大安全性更新可解決一項未公開報告的弱點。 如果使用者檢視蓄意製作的網頁，此弱點可能會允許遠端執行程式碼。 可透過攻擊物件連結與嵌入 (OLE) 來利用此弱點。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。 |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                                                                                                               |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新需要重新啟動電腦。                                                                                                                                           |
 | **受影響的軟體**     | **Windows，Visual Basic，Office for Mac**。 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                             |
 
 | 公告編號             | Microsoft 安全性公告 MS07-044                                                                                                                                                                                                       |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Microsoft Excel 中的弱點可能會允許遠端執行程式碼 (940965)**](http://technet.microsoft.com/security/bulletin/ms07-044)                                                                                                            |
+| **公告標題**         | [**Microsoft Excel 中的弱點可能會允許遠端執行程式碼 (940965)**](https://technet.microsoft.com/security/bulletin/ms07-044)                                                                                                            |
 | **提要**             | 除了調查期間識別的其他安全性問題以外，此安全性更新可解決未公開報告的弱點。 如果使用者開啟蓄意製作的 Excel 檔案，上述弱點可能會允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。 |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                       |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                       |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                                                                                                      |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新不需要重新啟動電腦。                                                                                                                                |
 | **受影響的軟體**     | **Office**。 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                                                   |
 
 | 公告編號             | Microsoft 安全性公告 MS07-045                                                                                                                                                                                           |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Internet Explorer 積存安全性更新 (937143)**](http://technet.microsoft.com/security/bulletin/ms07-045)                                                                                                                |
+| **公告標題**         | [**Internet Explorer 積存安全性更新 (937143)**](https://technet.microsoft.com/security/bulletin/ms07-045)                                                                                                                |
 | **提要**             | 這個重大安全性更新可解決三項未公開報告的弱點。 如果使用者使用 Internet Explorer 檢視蓄意製作的網頁，這些弱點可能會允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。 |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                           |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                           |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                                                                                          |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新需要重新啟動電腦。                                                                                                                      |
 | **受影響的軟體**     | **Windows、Internet Explorer**。 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                   |
 
 | 公告編號             | Microsoft 安全性公告 MS07-046                                                                                                                                                                                                                                             |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**GDI 中的弱點可能會允許遠端執行程式碼 (938829)**](http://technet.microsoft.com/security/bulletin/ms07-046)                                                                                                                                                              |
+| **公告標題**         | [**GDI 中的弱點可能會允許遠端執行程式碼 (938829)**](https://technet.microsoft.com/security/bulletin/ms07-046)                                                                                                                                                              |
 | **提要**             | 這個重大安全性更新可解決一項未公開報告的弱點。 圖形轉譯引擎處理蓄意製作的影像的方式中存在允許遠端執行程式碼的弱點。 攻擊者可蓄意製作影像來利用這個弱點，在使用者開啟電子郵件中蓄意製作的附件時允許遠端執行程式碼。 成功利用此弱點的攻擊者可以取得受影響系統的完整控制權。 |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                             |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                             |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                                                                                                                                            |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新需要重新啟動電腦。                                                                                                                                                                        |
 | **受影響的軟體**     | **Windows。** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                                                                                        |
 
 | 公告編號             | Microsoft 安全性公告 MS07-050                                                                                                                                                                                                                     |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**向量標記語言中的弱點可能會允許遠端執行程式碼 (938127)**](http://technet.microsoft.com/security/bulletin/ms07-050)                                                                                                                              |
+| **公告標題**         | [**向量標記語言中的弱點可能會允許遠端執行程式碼 (938127)**](https://technet.microsoft.com/security/bulletin/ms07-050)                                                                                                                              |
 | **提要**             | 這個安全性更新可解決 Windows 的向量標記語言 (VML) 實作中未公開報告的弱點。 如果使用者使用 Internet Explorer 檢視蓄意製作的網頁，此弱點可能會允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。 |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                     |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                     |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                                                                                                                    |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新需要重新啟動電腦。                                                                                                                                                |
 | **受影響的軟體**     | **Windows、Internet Explorer**。 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                                             |
@@ -94,27 +94,27 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <span></span>
 | 公告編號             | Microsoft 安全性公告 MS07-047                                                                                                                                                                                            |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Windows Media Player 中的弱點可能會允許遠端執行程式碼 (936782)**](http://technet.microsoft.com/security/bulletin/ms07-047)                                                                                            |
+| **公告標題**         | [**Windows Media Player 中的弱點可能會允許遠端執行程式碼 (936782)**](https://technet.microsoft.com/security/bulletin/ms07-047)                                                                                            |
 | **提要**             | 這個重要安全性更新可解決兩項未公開報告的弱點。 如果使用者在 Windows Media Player 中檢視蓄意製作的檔案，則這些弱點可能會允許執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。 |
-| **最高的嚴重性等級** | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                            |
+| **最高的嚴重性等級** | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                            |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                                                                                           |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新不需要重新啟動電腦。                                                                                                                     |
 | **受影響的軟體**     | **Windows。** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                                       |
 
 | 公告編號             | Microsoft 安全性公告 MS07-048                                                                                                                                                                                                                                                                                                                                                                                                              |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Windows 小工具的弱點可能會允許遠端執行程式碼 (938123)**](http://technet.microsoft.com/security/bulletin/ms07-048)                                                                                                                                                                                                                                                                                                                       |
+| **公告標題**         | [**Windows 小工具的弱點可能會允許遠端執行程式碼 (938123)**](https://technet.microsoft.com/security/bulletin/ms07-048)                                                                                                                                                                                                                                                                                                                       |
 | **提要**             | 除了調查期間識別的其他弱點以外，這個重要的安全性更新可解決兩項未公開報告的弱點。 這些弱點可讓匿名的遠端攻擊者利用已登入使用者的權限執行程式碼。 如果使用者在 \[摘要頭條\] 小工具中訂閱惡意的 RSS 摘要，或在 \[連絡人\] 小工具中新增惡意的連絡人檔案，或使用者在 \[氣象\] 小工具中按一下惡意的連結，攻擊者就可以在系統中執行程式碼。 在所有攻擊模式中，系統上帳戶使用者權限較低的使用者，其受影響的程度比使用系統管理權限操作的使用者要小。 |
-| **最高的嚴重性等級** | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                              |
+| **最高的嚴重性等級** | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                              |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新需要重新啟動電腦。                                                                                                                                                                                                                                                                                                                                         |
 | **受影響的軟體**     | **Windows Vista。** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                                                                                                                                                                                                                                                   |
 
 | 公告編號             | Microsoft 安全性公告 MS07-049                                                                                                                                                                                                                                                                                                                       |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Virtual PC 與 Virtual Server 中的弱點可能會允許權限提高 (937986)**](http://technet.microsoft.com/security/bulletin/ms07-049)                                                                                                                                                                                                                     |
+| **公告標題**         | [**Virtual PC 與 Virtual Server 中的弱點可能會允許權限提高 (937986)**](https://technet.microsoft.com/security/bulletin/ms07-049)                                                                                                                                                                                                                     |
 | **提要**             | 這個重要安全性更新能解決一項未公開報告的弱點。 這是權限提高的弱點。 Microsoft Virtual PC 與 Microsoft Virtual Server 中的弱點可能會允許客座作業系統的使用者在主機或其他客座作業系統上執行程式碼。 只有被授與客座作業系統系統管理權限的客座作業系統使用者，才能夠利用此弱點。 未被授與客座作業系統系統管理權限的客座作業系統使用者，無法利用此弱點。 |
-| **最高的嚴重性等級** | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                       |
+| **最高的嚴重性等級** | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                       |
 | **弱點的影響**       | 權限提高                                                                                                                                                                                                                                                                                                                                            |
 | **偵測**             | Microsoft Baseline Security Analyzer 可以偵測您的電腦系統是否需要此更新。 此更新不需要重新開機。                                                                                                                                                                                                                                                    |
 | **受影響的軟體**     | **Virtual PC、Virtual Server。** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                                                                                                                                                                                                               |
@@ -160,19 +160,19 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS07-042**](http://technet.microsoft.com/security/bulletin/ms07-042)
+[**MS07-042**](https://technet.microsoft.com/security/bulletin/ms07-042)
 </td>
 <td style="border:1px solid black;">
-[**MS07-043**](http://technet.microsoft.com/security/bulletin/ms07-043)
+[**MS07-043**](https://technet.microsoft.com/security/bulletin/ms07-043)
 </td>
 <td style="border:1px solid black;">
-[**MS07-044**](http://technet.microsoft.com/security/bulletin/ms07-044)
+[**MS07-044**](https://technet.microsoft.com/security/bulletin/ms07-044)
 </td>
 <td style="border:1px solid black;">
-[**MS07-045**](http://technet.microsoft.com/security/bulletin/ms07-045)
+[**MS07-045**](https://technet.microsoft.com/security/bulletin/ms07-045)
 </td>
 <td style="border:1px solid black;">
-[**MS07-046**](http://technet.microsoft.com/security/bulletin/ms07-046)
+[**MS07-046**](https://technet.microsoft.com/security/bulletin/ms07-046)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -180,19 +180,19 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 **最高的嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1126,10 +1126,10 @@ Microsoft Office 2004 for Mac
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/mac/downloads.aspx)
+[重大](https://www.microsoft.com/mac/downloads.aspx)
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/mac/downloads.aspx)
+[重要](https://www.microsoft.com/mac/downloads.aspx)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -1239,16 +1239,16 @@ Microsoft Visual Basic 6.0 Service Pack 6 (KB924053)
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS07-047**](http://technet.microsoft.com/security/bulletin/ms07-047)
+[**MS07-047**](https://technet.microsoft.com/security/bulletin/ms07-047)
 </td>
 <td style="border:1px solid black;">
-[**MS07-048**](http://technet.microsoft.com/security/bulletin/ms07-048)
+[**MS07-048**](https://technet.microsoft.com/security/bulletin/ms07-048)
 </td>
 <td style="border:1px solid black;">
-[**MS07-049**](http://technet.microsoft.com/security/bulletin/ms07-049)
+[**MS07-049**](https://technet.microsoft.com/security/bulletin/ms07-049)
 </td>
 <td style="border:1px solid black;">
-[**MS07-050**](http://technet.microsoft.com/security/bulletin/ms07-050)
+[**MS07-050**](https://technet.microsoft.com/security/bulletin/ms07-050)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1256,16 +1256,16 @@ Microsoft Visual Basic 6.0 Service Pack 6 (KB924053)
 **最高的嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1906,7 +1906,7 @@ Microsoft Virtual PC for Mac 6.1 版
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/mac/downloads.aspx)
+[重要](https://www.microsoft.com/mac/downloads.aspx)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -1920,7 +1920,7 @@ Microsoft Virtual PC for Mac 7 版
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/mac/downloads.aspx)
+[重要](https://www.microsoft.com/mac/downloads.aspx)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -1937,33 +1937,33 @@ Microsoft Virtual PC for Mac 7 版
 <span></span>
 **資訊安全中心**
 
-管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和安全性更新。 如需更多資訊，請參閱 [TechNet 更新管理中心](http://www.microsoft.com/taiwan/technet/updatemanagement/default.mspx) 。 [TechNet Security Center](http://www.microsoft.com/taiwan/technet/security/default.mspx) 提供 Microsoft 產品安全性的其他資訊。 消費者可以造訪[在家上網的安全性](http://www.microsoft.com/taiwan/athome/security/default.mspx)網站，只要按一下 \[最新安全性更新\] 即可在此網站取得此資訊。
+管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和安全性更新。 如需更多資訊，請參閱 [TechNet 更新管理中心](https://www.microsoft.com/taiwan/technet/updatemanagement/default.mspx) 。 [TechNet Security Center](https://www.microsoft.com/taiwan/technet/security/default.mspx) 提供 Microsoft 產品安全性的其他資訊。 消費者可以造訪[在家上網的安全性](https://www.microsoft.com/taiwan/athome/security/default.mspx)網站，只要按一下 \[最新安全性更新\] 即可在此網站取得此資訊。
 
-安全性更新可以從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)、[Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)及 [Office Update](http://office.microsoft.com/zh-tw/downloads/default.aspx)取得。 安全性更新也可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得。 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。 最後，您可以從 Windows Update 目錄下載安全性更新。 如需有關 Windows Update 目錄的詳細資訊，請參閱 Microsoft [知識庫文件編號 323166](http://support.microsoft.com/kb/323166)。
+安全性更新可以從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)、[Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)及 [Office Update](https://office.microsoft.com/zh-tw/downloads/default.aspx)取得。 安全性更新也可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得。 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。 最後，您可以從 Windows Update 目錄下載安全性更新。 如需有關 Windows Update 目錄的詳細資訊，請參閱 Microsoft [知識庫文件編號 323166](https://support.microsoft.com/kb/323166)。
 
 **偵測與部署指南**
 
-Microsoft 已提供本月安全性更新之偵測與部署指南。 此指南還能幫助 IT 專業人員瞭解如何使用各項工具來協助部署安全性更新，像是 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office Detection Tool、Microsoft Systems Management Server (SMS)、加強版安全性更新盤點工具 (Security Update Inventory Tool) 和企業更新掃描工具 (EST)。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 910723](http://support.microsoft.com/kb/910723)。
+Microsoft 已提供本月安全性更新之偵測與部署指南。 此指南還能幫助 IT 專業人員瞭解如何使用各項工具來協助部署安全性更新，像是 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office Detection Tool、Microsoft Systems Management Server (SMS)、加強版安全性更新盤點工具 (Security Update Inventory Tool) 和企業更新掃描工具 (EST)。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 910723](https://support.microsoft.com/kb/910723)。
 
 **Microsoft Baseline Security Analyzer 和企業更新掃描工具**
 
-Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134) 網站 (英文)。
+Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134) 網站 (英文)。
 
-當 MBSA 1.2.1 無法支援偵測特定安全性更新時，Microsoft 會針對該安全性更新，發行特定版本的企業更新掃描工具 (EST)。 如需更多有關 EST 的資訊，請造訪[企業更新掃描工具](http://support.microsoft.com/default.aspx?id=894193)。
+當 MBSA 1.2.1 無法支援偵測特定安全性更新時，Microsoft 會針對該安全性更新，發行特定版本的企業更新掃描工具 (EST)。 如需更多有關 EST 的資訊，請造訪[企業更新掃描工具](https://support.microsoft.com/default.aspx?id=894193)。
 
-**注意：**2007 年 10 月 9 日之後，我們將不再更新 MBSA 1.2.1 使用的 MSSecure.XML 檔案。 在此之後，MBSA 1.2.1 使用的 MSSecure.XML 檔案將不會加入新的安全性更新，也不會有新版的企業掃描工具發行。 如需更多資訊，請造訪 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134) (英文)。
+**注意：**2007 年 10 月 9 日之後，我們將不再更新 MBSA 1.2.1 使用的 MSSecure.XML 檔案。 在此之後，MBSA 1.2.1 使用的 MSSecure.XML 檔案將不會加入新的安全性更新，也不會有新版的企業掃描工具發行。 如需更多資訊，請造訪 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134) (英文)。
 
 **Windows Server Update Services**
 
 透過 Windows Server Update Services (WSUS)，系統管理員可迅速可靠地將 Windows 2000 作業系統及更新系統版本、Office XP 及更新版本、Exchange Server 2003 及 SQL Server 2000 等最新的重大更新與安全性更新部署到 Windows 2000 及更新作業系統版本中。
 
-如需更多關於利用 Windows Server Update Services 部署安全性更新的資訊，請造訪 [Windows Server Update Services](http://www.microsoft.com/taiwan/windowsserversystem/updateservices/evaluation/overview.mspx) 網站。
+如需更多關於利用 Windows Server Update Services 部署安全性更新的資訊，請造訪 [Windows Server Update Services](https://www.microsoft.com/taiwan/windowsserversystem/updateservices/evaluation/overview.mspx) 網站。
 
 **Systems Management Server**
 
-Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理](http://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm)網站。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](http://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/suspack/default.htm)來協助部署安全性更新。 如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server](http://www.microsoft.com/taiwan/smserver/)。
+Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理](https://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm)網站。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](https://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/suspack/default.htm)來協助部署安全性更新。 如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server](https://www.microsoft.com/taiwan/smserver/)。
 
-**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/taiwan/smserver/downloads/2003/adminpack.htm) 和 [SMS 管理功能套件](http://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/adminpack/default.htm) 提供) 來安裝這些更新。
+**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](https://www.microsoft.com/taiwan/smserver/downloads/2003/adminpack.htm) 和 [SMS 管理功能套件](https://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/adminpack/default.htm) 提供) 來安裝這些更新。
 
 ### 其他資訊
 
@@ -1984,43 +1984,43 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 **更新程式管理策略**
 
-[修補程式管理安全性指南](http://go.microsoft.com/fwlink/?linkid=21168)提供您有關套用安全性更新的 Microsoft 最佳實作建議的其他資訊。
+[修補程式管理安全性指南](https://go.microsoft.com/fwlink/?linkid=21168)提供您有關套用安全性更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他安全性更新**
 
 其他安全性問題的更新可由下列位置取得：
 
--   安全性更新可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。
--   客戶平台的更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 取得。
--   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的安全性更新。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](http://support.microsoft.com/kb/913086)。
+-   安全性更新可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。
+-   客戶平台的更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 取得。
+-   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的安全性更新。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](https://support.microsoft.com/kb/913086)。
 
 **IT 專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全區社群](http://go.microsoft.com/fwlink/?linkid=21164)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+在 [IT 專業人員資訊安全區社群](https://go.microsoft.com/fwlink/?linkid=21164)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
 #### 感謝
 
-Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
 
--   感謝匿名的研究人員與 [VeriSign iDefense VCP](http://idefense.com/) 合作回報 [MS07-042](http://technet.microsoft.com/security/bulletin/ms06-042) 中描述的問題。
--   感謝匿名的研究人員和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 [MS07-042](http://technet.microsoft.com/security/bulletin/ms06-042) 中描述的問題。
--   感謝匿名的研究人員與 [VeriSign iDefense VCP](http://idefense.com/) 合作回報 [MS07-043](http://technet.microsoft.com/security/bulletin/ms06-043) 中描述的問題。
--   感謝匿名的研究人員和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 [MS07-043](http://technet.microsoft.com/security/bulletin/ms06-043) 中描述的問題。
--   感謝 [Secunia](http://secunia.com/) 的 Dyon Balding 回報 [MS07-044](http://technet.microsoft.com/security/bulletin/ms06-044) 中描述的問題。
--   感謝 [NSFocus Security Team](http://www.nsfocus.com/) 回報 [MS07-045](http://technet.microsoft.com/security/bulletin/ms06-045) 中描述的問題。
--   感謝 [Security-Assessment.com](http://www.security-assessment.com/) 的 Brett Moore 回報 [MS07-045](http://technet.microsoft.com/security/bulletin/ms06-045) 中描述的問題。
--   感謝 [eEye Digital Security](http://www.eeye.com/) 回報 [MS07-046](http://technet.microsoft.com/security/bulletin/ms06-046) 中描述的問題。
--   感謝 Piotr Bania 與 [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayintiative.com/) 合作回報 [MS07-047](http://technet.microsoft.com/security/bulletin/ms06-050) 中描述的問題。
--   感謝 [Finjan](http://www.finjan.com/) 的 Aviv Raff 回報 [MS07-048](http://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。
--   感謝 Aviv Raff 與 [iDefense Labs](http://labs.idefense.com/) 合作回報 [MS07-048](http://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。
--   感謝 [McAfee Avert Labs](http://www.avertlabs.com/) 的 Rafal Wojtczuk 回報 [MS07-049](http://technet.microsoft.com/security/bulletin/ms06-049) 中描述的問題。
--   感謝 [eEye Digital Security](http://www.eeye.com/) 回報 [MS07-050](http://technet.microsoft.com/security/bulletin/ms06-050) 中描述的問題。
+-   感謝匿名的研究人員與 [VeriSign iDefense VCP](https://idefense.com/) 合作回報 [MS07-042](https://technet.microsoft.com/security/bulletin/ms06-042) 中描述的問題。
+-   感謝匿名的研究人員和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 [MS07-042](https://technet.microsoft.com/security/bulletin/ms06-042) 中描述的問題。
+-   感謝匿名的研究人員與 [VeriSign iDefense VCP](https://idefense.com/) 合作回報 [MS07-043](https://technet.microsoft.com/security/bulletin/ms06-043) 中描述的問題。
+-   感謝匿名的研究人員和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 [MS07-043](https://technet.microsoft.com/security/bulletin/ms06-043) 中描述的問題。
+-   感謝 [Secunia](https://secunia.com/) 的 Dyon Balding 回報 [MS07-044](https://technet.microsoft.com/security/bulletin/ms06-044) 中描述的問題。
+-   感謝 [NSFocus Security Team](https://www.nsfocus.com/) 回報 [MS07-045](https://technet.microsoft.com/security/bulletin/ms06-045) 中描述的問題。
+-   感謝 [Security-Assessment.com](https://www.security-assessment.com/) 的 Brett Moore 回報 [MS07-045](https://technet.microsoft.com/security/bulletin/ms06-045) 中描述的問題。
+-   感謝 [eEye Digital Security](https://www.eeye.com/) 回報 [MS07-046](https://technet.microsoft.com/security/bulletin/ms06-046) 中描述的問題。
+-   感謝 Piotr Bania 與 [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayintiative.com/) 合作回報 [MS07-047](https://technet.microsoft.com/security/bulletin/ms06-050) 中描述的問題。
+-   感謝 [Finjan](https://www.finjan.com/) 的 Aviv Raff 回報 [MS07-048](https://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。
+-   感謝 Aviv Raff 與 [iDefense Labs](https://labs.idefense.com/) 合作回報 [MS07-048](https://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。
+-   感謝 [McAfee Avert Labs](https://www.avertlabs.com/) 的 Rafal Wojtczuk 回報 [MS07-049](https://technet.microsoft.com/security/bulletin/ms06-049) 中描述的問題。
+-   感謝 [eEye Digital Security](https://www.eeye.com/) 回報 [MS07-050](https://technet.microsoft.com/security/bulletin/ms06-050) 中描述的問題。
 
 #### 支援
 
--   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。 其他版本超出它們的支援週期。 若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](http://go.microsoft.com/fwlink/?linkid=21742)。
--   美國及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 產品支援服務](http://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。 與安全性更新有關的支援電話不另外收費。
--   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援](http://go.microsoft.com/fwlink/?linkid=21155)網站。
+-   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。 其他版本超出它們的支援週期。 若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   美國及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 產品支援服務](https://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。 與安全性更新有關的支援電話不另外收費。
+-   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援](https://go.microsoft.com/fwlink/?linkid=21155)網站。
 
 #### 免責聲明
 

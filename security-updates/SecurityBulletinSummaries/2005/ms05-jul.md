@@ -17,18 +17,18 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-jul(v=Security.10)
 **發佈日期：** 2005 年 7 月 13 日  
 **版本號碼：** 1.0
 
-請參考[此處](http://www.microsoft.com/security/default.mspx)所提供的使用者版本資訊。
+請參考[此處](https://www.microsoft.com/security/default.mspx)所提供的使用者版本資訊。
 
 **保護您的電腦：** Microsoft 在下列網址提供有助於保護電腦的相關資訊：
 
--   一般使用者可以造訪[保護您的電腦網站](http://www.microsoft.com/taiwan/security/protect/)。
--   IT 專業人員可以造訪[資訊安全指導中心](http://www.microsoft.com/taiwan/security/guidance/default.mspx)網站。
+-   一般使用者可以造訪[保護您的電腦網站](https://www.microsoft.com/taiwan/security/protect/)。
+-   IT 專業人員可以造訪[資訊安全指導中心](https://www.microsoft.com/taiwan/security/guidance/default.mspx)網站。
 
-**更新程式管理策略：**[Microsoft 安全性補充程式管理指南](http://go.microsoft.com/fwlink/?linkid=21168)網站提供您有關套用安全性更新的 Microsoft 最佳實作建議。
+**更新程式管理策略：**[Microsoft 安全性補充程式管理指南](https://go.microsoft.com/fwlink/?linkid=21168)網站提供您有關套用安全性更新的 Microsoft 最佳實作建議。
 
-**IT 專業人員資訊安全區社群：** 在 [IT 專業人員資訊安全區](http://go.microsoft.com/fwlink/?linkid=21164)網站上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+**IT 專業人員資訊安全區社群：** 在 [IT 專業人員資訊安全區](https://go.microsoft.com/fwlink/?linkid=21164)網站上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
-**Microsoft 安全性通知服務：** 如想在 Microsoft 安全性公告發佈時收到電子郵件通知，請訂閱 [Microsoft 安全性通知服務](http://go.microsoft.com/fwlink/?linkid=21163)。
+**Microsoft 安全性通知服務：** 如想在 Microsoft 安全性公告發佈時收到電子郵件通知，請訂閱 [Microsoft 安全性通知服務](https://go.microsoft.com/fwlink/?linkid=21163)。
 
 #### 摘要
 
@@ -40,25 +40,25 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-jul(v=Security.10)
 <span></span>
 | 公告編號             | Microsoft 安全性公告 MS05-035                                                                                         |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Microsoft Word 的弱點可能會允許遠端執行程式碼 (903672)**](http://technet.microsoft.com/security/bulletin/ms05-035) |
+| **公告標題**         | [**Microsoft Word 的弱點可能會允許遠端執行程式碼 (903672)**](https://technet.microsoft.com/security/bulletin/ms05-035) |
 | **提要**             | Word 中存在的弱點，可以讓成功利用此弱點的攻擊者取得受影響系統的完整控制權。                                           |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                         |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                         |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                        |
 | **受影響的軟體**     | **Office** 。如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                     |
 
 | 公告編號             | Microsoft 安全性公告 MS05-036                                                                                                  |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Microsoft 色彩管理模組中的弱點可能會允許遠端執行程式碼 (901214)**](http://technet.microsoft.com/security/bulletin/ms05-036) |
+| **公告標題**         | [**Microsoft 色彩管理模組中的弱點可能會允許遠端執行程式碼 (901214)**](https://technet.microsoft.com/security/bulletin/ms05-036) |
 | **提要**             | Microsoft 色彩管理模組中存在的弱點，可以讓成功利用此弱點的攻擊者取得受影響系統的完整控制權。                                   |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                  |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                  |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                 |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                               |
 
 | 公告編號             | Microsoft 安全性公告 MS05-037                                                                                         |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**JView Profiler 的弱點可能會允許遠端執行程式碼 (903235)**](http://technet.microsoft.com/security/bulletin/ms05-037) |
+| **公告標題**         | [**JView Profiler 的弱點可能會允許遠端執行程式碼 (903235)**](https://technet.microsoft.com/security/bulletin/ms05-037) |
 | **提要**             | JView Profiler 中存在的弱點，可以讓成功利用此弱點的攻擊者取得受影響系統的完整控制權。                                 |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                         |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                         |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                        |
 | **受影響的軟體**     | **Windows、JView Profiler、Internet Explorer。** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                 |
 
@@ -78,8 +78,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-jul(v=Security.10)
 
 |                                                                                                                                                                             | 詳細資訊                                                                                                                | 詳細資訊                                                                                                                | 詳細資訊                                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **公告編號**                                                                                                                                                                | [**MS05-035**](http://technet.microsoft.com/security/bulletin/ms05-035)                                                 | [**MS05-036**](http://technet.microsoft.com/security/bulletin/ms05-036)                                                 | [**MS05-037**](http://technet.microsoft.com/security/bulletin/ms05-037)                                                 |
-| **最高的嚴重性等級**                                                                                                                                                        | [**重大**](http://technet.microsoft.com/security/bulletin/rating)                                                       | [**重大**](http://technet.microsoft.com/security/bulletin/rating)                                                       | [**重大**](http://technet.microsoft.com/security/bulletin/rating)                                                       |
+| **公告編號**                                                                                                                                                                | [**MS05-035**](https://technet.microsoft.com/security/bulletin/ms05-035)                                                 | [**MS05-036**](https://technet.microsoft.com/security/bulletin/ms05-036)                                                 | [**MS05-037**](https://technet.microsoft.com/security/bulletin/ms05-037)                                                 |
+| **最高的嚴重性等級**                                                                                                                                                        | [**重大**](https://technet.microsoft.com/security/bulletin/rating)                                                       | [**重大**](https://technet.microsoft.com/security/bulletin/rating)                                                       | [**重大**](https://technet.microsoft.com/security/bulletin/rating)                                                       |
 | **受影響的 Windows 軟體：**                                                                                                                                                 |                                                                                                                         |                                                                                                                         |                                                                                                                         |
 | Windows Server 2003                                                                                                                                                         |                                                                                                                         | [重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=44275ecb-2e79-4ce8-8269-e81219ce8f6c) | **<sup>[1]</sup>**                                                                                                               |
 | Windows Server 2003 Service Pack 1                                                                                                                                          |                                                                                                                         | [重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=44275ecb-2e79-4ce8-8269-e81219ce8f6c) | **<sup>[1]</sup>**                                                                                                               |
@@ -109,9 +109,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-jul(v=Security.10)
 **注意**
 **<sup>[1]</sup>** 已經針對此作業系統提供了安全性更新程式。 請參閱表格中受影響的元件、Microsoft Internet Explorer 以及相關的安全性公告以獲得更多詳細資訊。
 
-**<sup>[2]</sup>** 此作業系統會受到此問題的影響， 不過並不會帶來重大的影響。 通常並不會為此作業系統提供非重大議題的安全性更新。 如想瞭解這些作業系統的 Microsoft 技術支援週期準則，請造訪這個[網站](http://go.microsoft.com/fwlink/?linkid=33327)。 請參閱相關的安全性公告以獲得更多詳細資訊。
+**<sup>[2]</sup>** 此作業系統會受到此問題的影響， 不過並不會帶來重大的影響。 通常並不會為此作業系統提供非重大議題的安全性更新。 如想瞭解這些作業系統的 Microsoft 技術支援週期準則，請造訪這個[網站](https://go.microsoft.com/fwlink/?linkid=33327)。 請參閱相關的安全性公告以獲得更多詳細資訊。
 
-**<sup>[3]</sup>** 本安全性公告中有這些平台的重大安全性更新，並且可從 [Windows Update 網站](http://go.microsoft.com/fwlink/?linkid=21130)下載。
+**<sup>[3]</sup>** 本安全性公告中有這些平台的重大安全性更新，並且可從 [Windows Update 網站](https://go.microsoft.com/fwlink/?linkid=21130)下載。
 
 部署
 ----
@@ -121,59 +121,59 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-jul(v=Security.10)
 
 Microsoft Software Update Services (SUS) 能讓系統管理員以迅速可靠的方式，針對 Windows 2000 和 Windows Server 2003 伺服器以及執行 Windows 2000 Professional 或 Windows XP Professional 的桌面系統，部署最新的重要更新程式及安全性更新程式。
 
-如需如何透過 Software Update Services 部署這個安全性更新的詳細資訊，請造訪 [Software Update Services 網站](http://go.microsoft.com/fwlink/?linkid=21133)。
+如需如何透過 Software Update Services 部署這個安全性更新的詳細資訊，請造訪 [Software Update Services 網站](https://go.microsoft.com/fwlink/?linkid=21133)。
 
 **Windows Server Update Services：**
 
 透過 Windows Server Update Services (WSUS)，系統管理員可迅速可靠地將 Windows 2000 作業系統及後續系統、Office XP 及後續版本、Exchange Server 2003 及 SQL Server 2000 等最新的重大更新與安全性更新部署到 Windows 2000 及後續作業系統中。
 
-如需更多關於利用 Windows Server Update Services 部署安全性更新的資訊，請造訪 [Windows Server Update Services 網站](http://go.microsoft.com/fwlink/?linkid=50120)。
+如需更多關於利用 Windows Server Update Services 部署安全性更新的資訊，請造訪 [Windows Server Update Services 網站](https://go.microsoft.com/fwlink/?linkid=50120)。
 
 **Systems Management Server：**
 
-Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理網站](http://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](http://go.microsoft.com/fwlink/?linkid=33340)來協助部署安全性更新。 如需關於 SMS 的詳細資訊，請造訪 [SMS 網站](http://www.microsoft.com/taiwan/smserver/)。
+Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理網站](https://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](https://go.microsoft.com/fwlink/?linkid=33340)來協助部署安全性更新。 如需關於 SMS 的詳細資訊，請造訪 [SMS 網站](https://www.microsoft.com/taiwan/smserver/)。
 
-**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需更多關於這個程序的資訊，請瀏覽這個[網站](http://go.microsoft.com/fwlink/?linkid=33341) (英文)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](http://go.microsoft.com/fwlink/?linkid=33387) (英文) 和 [SMS 管理功能套件](http://go.microsoft.com/fwlink/?linkid=21161) (英文) 提供) 來安裝這些更新。
+**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需更多關於這個程序的資訊，請瀏覽這個[網站](https://go.microsoft.com/fwlink/?linkid=33341) (英文)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](https://go.microsoft.com/fwlink/?linkid=33387) (英文) 和 [SMS 管理功能套件](https://go.microsoft.com/fwlink/?linkid=21161) (英文) 提供) 來安裝這些更新。
 
 **QChain.exe 和 Update.exe：**
 
-Microsoft 已經發行了一個名為 QChain.exe 的命令行工具，能讓系統管理員以安全可靠的方式將安全性更新串連在一起。 所謂*串連*，是指當您安裝數個更新程式時，不需要在每個更新程式安裝之後重新開機。本摘要文件所描述的更新所使用的 Update.exe 工具中，已內建有串連的功能。客戶如果使用的是 Windows 2000 Service Pack 2 或更新版本、Windows XP 或 Windows Server 2003，就不需要利用 Qchain.exe 來串連這些更新程式。Qchain.exe 仍然支援這些 Windows 更新程式，因此系統管理員可以建立一致的部署指令碼，以便跨所有的平台使用。 如需有關 Qchain 的進一步資訊，請造訪[此網站](http://go.microsoft.com/fwlink/?linkid=21156)。
+Microsoft 已經發行了一個名為 QChain.exe 的命令行工具，能讓系統管理員以安全可靠的方式將安全性更新串連在一起。 所謂*串連*，是指當您安裝數個更新程式時，不需要在每個更新程式安裝之後重新開機。本摘要文件所描述的更新所使用的 Update.exe 工具中，已內建有串連的功能。客戶如果使用的是 Windows 2000 Service Pack 2 或更新版本、Windows XP 或 Windows Server 2003，就不需要利用 Qchain.exe 來串連這些更新程式。Qchain.exe 仍然支援這些 Windows 更新程式，因此系統管理員可以建立一致的部署指令碼，以便跨所有的平台使用。 如需有關 Qchain 的進一步資訊，請造訪[此網站](https://go.microsoft.com/fwlink/?linkid=21156)。
 
 **Microsoft Baseline Security Analyzer：**
 
-Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本地和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer 網站](http://go.microsoft.com/fwlink/?linkid=21134)。
+Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本地和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer 網站](https://go.microsoft.com/fwlink/?linkid=21134)。
 
 #### 其他資訊：
 
 **感謝**
 
-Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
 
--   Lord Yup 與 [iDEFENSE](http://www.idefense.com/) 合作，一同回報 [MS05-035](http://technet.microsoft.com/security/bulletin/ms05-035) 中描述的問題。
--   [Information & Communication Security Technology Center (ICST)](http://www.icst.org) 的 Shih-hao Weng 先生回報 [MS05-036](http://technet.microsoft.com/security/bulletin/ms05-036) 中描述的問題。
+-   Lord Yup 與 [iDEFENSE](https://www.idefense.com/) 合作，一同回報 [MS05-035](https://technet.microsoft.com/security/bulletin/ms05-035) 中描述的問題。
+-   [Information & Communication Security Technology Center (ICST)](https://www.icst.org) 的 Shih-hao Weng 先生回報 [MS05-036](https://technet.microsoft.com/security/bulletin/ms05-036) 中描述的問題。
 
 **取得其他安全性更新：**
 
 其他安全性問題的更新可由下列位置取得：
 
--   安裝性更新可以從 [Microsoft 下載中心](http://www.microsoft.com/taiwan/download/)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。
--   使用者平台的更新程式可以從 [Windows Update 網站](http://go.microsoft.com/fwlink/?linkid=21130)取得。
+-   安裝性更新可以從 [Microsoft 下載中心](https://www.microsoft.com/taiwan/download/)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。
+-   使用者平台的更新程式可以從 [Windows Update 網站](https://go.microsoft.com/fwlink/?linkid=21130)取得。
 
 **支援：**
 
--   美國及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 產品支援服務](http://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。 與安全性更新有關的支援電話不另外收費。
--   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援網站](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   美國及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 產品支援服務](https://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。 與安全性更新有關的支援電話不另外收費。
+-   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援網站](https://go.microsoft.com/fwlink/?linkid=21155)。
 
 **安全性資源：**
 
--   [Microsoft TechNet 資訊安全](http://www.microsoft.com/taiwan/technet/security/)網站提供了有關 Microsoft 產品安全性的其他資訊。
--   [Microsoft Software Update Services](http://go.microsoft.com/fwlink/?linkid=21133)
--   [Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=50120)
--   [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134) (MBSA)
--   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate)
--   Windows Update 目錄： 如需有關 Windows Update 目錄的詳細資訊，請參閱 Microsoft 知識庫文件編號 [323166](http://support.microsoft.com/default.aspx?scid=kb;en-us;323166)。
--   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+-   [Microsoft TechNet 資訊安全](https://www.microsoft.com/taiwan/technet/security/)網站提供了有關 Microsoft 產品安全性的其他資訊。
+-   [Microsoft Software Update Services](https://go.microsoft.com/fwlink/?linkid=21133)
+-   [Microsoft Windows Server Update Services](https://go.microsoft.com/fwlink/?linkid=50120)
+-   [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134) (MBSA)
+-   [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)
+-   [Microsoft Update](https://update.microsoft.com/microsoftupdate)
+-   Windows Update 目錄： 如需有關 Windows Update 目錄的詳細資訊，請參閱 Microsoft 知識庫文件編號 [323166](https://support.microsoft.com/default.aspx?scid=kb;en-us;323166)。
+-   [Office Update](https://go.microsoft.com/fwlink/?linkid=21135)
 
 **免責聲明：**
 

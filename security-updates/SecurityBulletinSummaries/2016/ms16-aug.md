@@ -16,7 +16,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms16-aug(v=Security.10)
 
 此公告摘要列出 2016 年 8 月份發行之資訊安全公告。
 
-如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
 Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何非安全性更新的優先順序，其中這些非安全性更新的發行日期與每月安全性更新的發行日期相同。請參閱**其他資訊**一節。
 
@@ -49,10 +49,10 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <td style="border:1px solid black;"><strong>受影響的軟體</strong></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=821136">MS16-095</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=821136">MS16-095</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 累積安全性更新 (3177356)<br />
 </strong>這個安全性更新可解決 Internet Explorer 中的弱點。其中最嚴重的弱點，可能在使用者以 Internet Explorer 檢視蓄意製作的網頁時允許遠端執行程式碼。成功利用這些弱點的攻擊者可能會取得與本機使用者相同的使用者權限。如果目前使用者以系統管理的使用者權限登入，則攻擊者即可取得受影響系統的控制權。攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3176492">3176492</a><br />
@@ -62,10 +62,10 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 Internet Explorer</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=821137">MS16-096</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=821137">MS16-096</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Edge 累積安全性更新 (3177358)<br />
 </strong>這個安全性更新可解決 Microsoft Edge 中的弱點。其中最嚴重的弱點，可能在使用者以 Microsoft Edge 檢視蓄意製作的網頁時允許遠端執行程式碼。成功利用這些弱點的攻擊者可能會取得與本機使用者相同的使用者權限。在系統將帳戶設定為擁有較少使用者權限的客戶，相較於擁有管理使用者權限的使用者，受到影響較輕微。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3176492">3176492</a><br />
@@ -75,10 +75,10 @@ Internet Explorer</td>
 Microsoft Edge</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=821146">MS16-097</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=821146">MS16-097</a></td>
 <td style="border:1px solid black;"><strong>Microsoft 圖形元件的安全性更新 (3177393)<br />
 </strong>這個安全性更新可以解決 Microsoft Windows、Microsoft Office、商務用 Skype 和 Microsoft Lync 中的弱點。如果使用者造訪蓄意製作的網站或開啟蓄意製作的文件，這些弱點可能會允許遠端執行程式碼。設定為具有較少使用者權限的使用者帳戶所受到的影響，可能會比利用系統管理使用者權限進行操作的使用者帳戶小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3176492">3176492</a><br />
@@ -89,10 +89,10 @@ Microsoft Office、<br />
 Microsoft 通訊平台和軟體</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=821582">MS16-098</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=821582">MS16-098</a></td>
 <td style="border:1px solid black;"><strong>Windows 核心模式驅動程式的安全性更新 (3178466)<br />
 </strong>這個安全性更新可解決 Microsoft Windows 中的弱點。如果攻擊者登入受影響的系統，然後執行蓄意製作的應用程式來利用這些弱點，並取得受影響系統的控制權，則這些弱點可能會允許權限提高。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3176492">3176492</a><br />
@@ -102,10 +102,10 @@ Microsoft 通訊平台和軟體</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=821165">MS16-099</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=821165">MS16-099</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office 的安全性更新 (3177451)<br />
 </strong>這個安全性更新可解決 Microsoft Office 中的弱點。如果使用者開啟蓄意製作的 Microsoft Office 檔案，最嚴重的弱點可能會允許遠端執行程式碼。成功利用這些弱點的攻擊者，能以目前使用者的權限層級執行任意程式碼。系統上帳戶使用者權限較低的客戶，其受影響的程度比擁有系統管理權限的客戶要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -113,10 +113,10 @@ Microsoft 通訊平台和軟體</td>
 </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=822552">MS16-100</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=822552">MS16-100</a></td>
 <td style="border:1px solid black;"><strong>安全開機的安全性更新 (3179577)<br />
 </strong>這個安全性更新可解決 Microsoft Windows 中的弱點。若攻擊者安裝受影響的開機管理程式，並略過 Windows 安全性功能，則此弱點可能允許繞過安全性功能。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 安全性功能略過</td>
 <td style="border:1px solid black;">不需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3179577">3179577</a><br />
@@ -124,10 +124,10 @@ Microsoft 通訊平台和軟體</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=821576">MS16-101</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=821576">MS16-101</a></td>
 <td style="border:1px solid black;"><strong>Windows 驗證方法的安全性更新 (3178465)<br />
 </strong>這個安全性更新可解決 Microsoft Windows 中多個弱點。如果攻擊者在已加入網域的系統上執行蓄意製作的應用程式，較嚴重的弱點可能會允許權限提高。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3176492">3176492</a><br />
@@ -136,10 +136,10 @@ Microsoft 通訊平台和軟體</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=823207">MS16-102</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=823207">MS16-102</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Windows PDF 文件庫的安全性更新 (3182248)</strong><br />
 這個安全性更新可解決 Microsoft Windows 中的弱點。如果使用者檢視蓄意製作之 PDF 內容，或開啟蓄意製作之 PDF 文件，此弱點可能允許遠端執行程式碼。成功利用此弱點的攻擊者可取得與目前使用者相同的使用者權限。如果目前使用者以系統管理的使用者權限登入，則攻擊者即可取得受影響系統的控制權。攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3176492">3176492</a><br />
@@ -148,10 +148,10 @@ Microsoft 通訊平台和軟體</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=823241">MS16-103</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=823241">MS16-103</a></td>
 <td style="border:1px solid black;"><strong>ActiveSyncProvider 的安全性更新 (3182332)<br />
 </strong>這個安全性更新可解決 Microsoft Windows 中的弱點。如果 Universal Outlook 無法建立安全連線，此弱點可能允許資訊洩漏。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 資訊洩漏</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3176492">3176492</a><br />
@@ -168,7 +168,7 @@ Microsoft 通訊平台和軟體</td>
   
 **如何使用此表格？**
   
-您可以運用此表格，針對您可能需要安裝的每一項安全性更新，了解資訊安全風險在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。檢視下列各項評估，依據您的設定排定本月的更新佈署優先順序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點入侵指數](http://technet.microsoft.com/zh-tw/security/cc998259)。
+您可以運用此表格，針對您可能需要安裝的每一項安全性更新，了解資訊安全風險在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。檢視下列各項評估，依據您的設定排定本月的更新佈署優先順序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點入侵指數](https://technet.microsoft.com/zh-tw/security/cc998259)。
   
 下方欄位「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
@@ -202,13 +202,13 @@ Microsoft 通訊平台和軟體</td>
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-095：Internet Explorer 累積安全性更新 (3177356)**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095：Internet Explorer 累積安全性更新 (3177356)**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3288](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3288)
+[CVE-2016-3288](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3288)
 
 </td>
 <td style="border:1px solid black;">
@@ -230,7 +230,7 @@ Internet Explorer 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3289](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3289)
+[CVE-2016-3289](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3289)
 
 </td>
 <td style="border:1px solid black;">
@@ -252,7 +252,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3290](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3290)
+[CVE-2016-3290](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3290)
 
 </td>
 <td style="border:1px solid black;">
@@ -274,7 +274,7 @@ Internet Explorer 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3293](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3293)
+[CVE-2016-3293](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3293)
 
 </td>
 <td style="border:1px solid black;">
@@ -296,7 +296,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3321](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3321)
+[CVE-2016-3321](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3321)
 
 </td>
 <td style="border:1px solid black;">
@@ -318,7 +318,7 @@ Internet Explorer 資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3322](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3322)
+[CVE-2016-3322](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3322)
 
 </td>
 <td style="border:1px solid black;">
@@ -340,7 +340,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3326](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3326)
+[CVE-2016-3326](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3326)
 
 </td>
 <td style="border:1px solid black;">
@@ -362,7 +362,7 @@ Microsoft 瀏覽器資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3327](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3327)
+[CVE-2016-3327](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3327)
 
 </td>
 <td style="border:1px solid black;">
@@ -384,7 +384,7 @@ Microsoft 瀏覽器資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3329](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3329)
+[CVE-2016-3329](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3329)
 
 </td>
 <td style="border:1px solid black;">
@@ -406,13 +406,13 @@ Microsoft 瀏覽器資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-096：Microsoft Edge 的累積安全性更新 (3177358)**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096：Microsoft Edge 的累積安全性更新 (3177358)**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3289](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3289)
+[CVE-2016-3289](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3289)
 
 </td>
 <td style="border:1px solid black;">
@@ -434,7 +434,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3293](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3293)
+[CVE-2016-3293](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3293)
 
 </td>
 <td style="border:1px solid black;">
@@ -456,7 +456,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3296](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3296)
+[CVE-2016-3296](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3296)
 
 </td>
 <td style="border:1px solid black;">
@@ -478,7 +478,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3319](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3319)
+[CVE-2016-3319](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3319)
 
 </td>
 <td style="border:1px solid black;">
@@ -500,7 +500,7 @@ Microsoft PDF 遠端執行程式碼弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3322](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3322)
+[CVE-2016-3322](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3322)
 
 </td>
 <td style="border:1px solid black;">
@@ -522,7 +522,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3326](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3326)
+[CVE-2016-3326](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3326)
 
 </td>
 <td style="border:1px solid black;">
@@ -544,7 +544,7 @@ Microsoft 瀏覽器資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3327](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3327)
+[CVE-2016-3327](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3327)
 
 </td>
 <td style="border:1px solid black;">
@@ -566,7 +566,7 @@ Microsoft 瀏覽器資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3329](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3329)
+[CVE-2016-3329](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3329)
 
 </td>
 <td style="border:1px solid black;">
@@ -588,13 +588,13 @@ Microsoft 瀏覽器資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-097：Microsoft 圖形元件的安全性更新 (3177393)**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097：Microsoft 圖形元件的安全性更新 (3177393)**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3301](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3301)
+[CVE-2016-3301](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3301)
 
 </td>
 <td style="border:1px solid black;">
@@ -616,7 +616,7 @@ Windows 圖形元件 RCE 弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3303](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3303)
+[CVE-2016-3303](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3303)
 
 </td>
 <td style="border:1px solid black;">
@@ -638,7 +638,7 @@ Windows 圖形元件 RCE 弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3304](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3304)
+[CVE-2016-3304](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3304)
 
 </td>
 <td style="border:1px solid black;">
@@ -660,13 +660,13 @@ Windows 圖形元件 RCE 弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-098：Windows 核心模式驅動程式的安全性更新 (3178466)**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098：Windows 核心模式驅動程式的安全性更新 (3178466)**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3308](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3308)
+[CVE-2016-3308](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3308)
 
 </td>
 <td style="border:1px solid black;">
@@ -688,7 +688,7 @@ Win32k 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3309](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3309)
+[CVE-2016-3309](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3309)
 
 </td>
 <td style="border:1px solid black;">
@@ -710,7 +710,7 @@ Win32k 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3310](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3310)
+[CVE-2016-3310](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3310)
 
 </td>
 <td style="border:1px solid black;">
@@ -732,7 +732,7 @@ Win32k 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3311](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3311)
+[CVE-2016-3311](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3311)
 
 </td>
 <td style="border:1px solid black;">
@@ -754,13 +754,13 @@ Win32k 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-099：Microsoft Office 的安全性更新 (3177451)**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099：Microsoft Office 的安全性更新 (3177451)**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3313](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-cve-2016-3313)
+[CVE-2016-3313](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-cve-2016-3313)
 
 </td>
 <td style="border:1px solid black;">
@@ -782,7 +782,7 @@ Microsoft Office 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3315](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3315)
+[CVE-2016-3315](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3315)
 
 </td>
 <td style="border:1px solid black;">
@@ -804,7 +804,7 @@ Microsoft OneNote 資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3316](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3316)
+[CVE-2016-3316](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3316)
 
 </td>
 <td style="border:1px solid black;">
@@ -826,7 +826,7 @@ Microsoft Office 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3317](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3317)
+[CVE-2016-3317](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3317)
 
 </td>
 <td style="border:1px solid black;">
@@ -848,7 +848,7 @@ Microsoft Office 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3318](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3318)
+[CVE-2016-3318](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3318)
 
 </td>
 <td style="border:1px solid black;">
@@ -870,13 +870,13 @@ Microsoft Office 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-100：安全開機的安全性更新 (3179577)**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100：安全開機的安全性更新 (3179577)**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3320](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3320)
+[CVE-2016-3320](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3320)
 
 </td>
 <td style="border:1px solid black;">
@@ -898,13 +898,13 @@ Microsoft Office 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-101：Windows 驗證方法的安全性更新 (3178465)**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101：Windows 驗證方法的安全性更新 (3178465)**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3237](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3237)
+[CVE-2016-3237](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3237)
 
 </td>
 <td style="border:1px solid black;">
@@ -926,7 +926,7 @@ Kerberos 資訊安全功能略過弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3300](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3300)
+[CVE-2016-3300](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3300)
 
 </td>
 <td style="border:1px solid black;">
@@ -948,13 +948,13 @@ NetLogon 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-102：Microsoft Windows PDF 文件庫的安全性更新 (3182248)**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102：Microsoft Windows PDF 文件庫的安全性更新 (3182248)**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3319](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3319)
+[CVE-2016-3319](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3319)
 
 </td>
 <td style="border:1px solid black;">
@@ -976,13 +976,13 @@ Microsoft PDF 遠端執行程式碼弱點
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="5">
-[**MS16-103：ActiveSyncProvider 的安全性更新 (3182332)**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103：ActiveSyncProvider 的安全性更新 (3182332)**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-3312](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3312)
+[CVE-2016-3312](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-3312)
 
 </td>
 <td style="border:1px solid black;">
@@ -1033,19 +1033,19 @@ Universal Outlook 資訊洩漏弱點
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
@@ -1055,7 +1055,7 @@ Universal Outlook 資訊洩漏弱點
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -1063,11 +1063,11 @@ Universal Outlook 資訊洩漏弱點
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1139,19 +1139,19 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=808150)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=808150)
 
 </td>
 </tr>
@@ -1161,7 +1161,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**中度**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -1169,11 +1169,11 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1271,19 +1271,19 @@ Internet Explorer 9
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
@@ -1293,7 +1293,7 @@ Internet Explorer 9
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -1301,11 +1301,11 @@ Internet Explorer 9
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1377,19 +1377,19 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
@@ -1399,7 +1399,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**中度**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -1407,11 +1407,11 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1481,19 +1481,19 @@ Internet Explorer 11 
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
@@ -1503,7 +1503,7 @@ Internet Explorer 11 
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -1511,11 +1511,11 @@ Internet Explorer 11 
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1587,19 +1587,19 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
@@ -1609,7 +1609,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**中度**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -1617,11 +1617,11 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1693,19 +1693,19 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
@@ -1715,7 +1715,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -1723,11 +1723,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1771,19 +1771,19 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
@@ -1793,19 +1793,19 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -2049,19 +2049,19 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-095**](http://go.microsoft.com/fwlink/?linkid=821136)
+[**MS16-095**](https://go.microsoft.com/fwlink/?linkid=821136)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-096**](http://go.microsoft.com/fwlink/?linkid=821137)
+[**MS16-096**](https://go.microsoft.com/fwlink/?linkid=821137)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-098**](http://go.microsoft.com/fwlink/?linkid=821582)
+[**MS16-098**](https://go.microsoft.com/fwlink/?linkid=821582)
 
 </td>
 </tr>
@@ -2079,11 +2079,11 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -2243,19 +2243,19 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -2269,7 +2269,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2341,19 +2341,19 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -2367,7 +2367,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2463,19 +2463,19 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -2489,7 +2489,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2561,19 +2561,19 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -2587,7 +2587,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2659,19 +2659,19 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -2681,15 +2681,15 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2771,19 +2771,19 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -2793,15 +2793,15 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2880,19 +2880,19 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -2902,15 +2902,15 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2961,19 +2961,19 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -2983,19 +2983,19 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3179,19 +3179,19 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-100**](http://go.microsoft.com/fwlink/?linkid=822552)
+[**MS16-100**](https://go.microsoft.com/fwlink/?linkid=822552)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-101**](http://go.microsoft.com/fwlink/?linkid=821576)
+[**MS16-101**](https://go.microsoft.com/fwlink/?linkid=821576)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-102**](http://go.microsoft.com/fwlink/?linkid=823207)
+[**MS16-102**](https://go.microsoft.com/fwlink/?linkid=823207)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-103**](http://go.microsoft.com/fwlink/?linkid=823241)
+[**MS16-103**](https://go.microsoft.com/fwlink/?linkid=823241)
 
 </td>
 </tr>
@@ -3201,15 +3201,15 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3370,11 +3370,11 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-099**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
@@ -3384,11 +3384,11 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3431,11 +3431,11 @@ Microsoft Word 2007 Service Pack 3
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-099**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
@@ -3445,11 +3445,11 @@ Microsoft Word 2007 Service Pack 3
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3525,11 +3525,11 @@ Microsoft Word 2010 Service Pack 2 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-099**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
@@ -3543,7 +3543,7 @@ Microsoft Word 2010 Service Pack 2 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3609,11 +3609,11 @@ Microsoft Word 2013 Service Pack 1 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-099**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
@@ -3627,7 +3627,7 @@ Microsoft Word 2013 Service Pack 1 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3668,11 +3668,11 @@ Microsoft Word 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-099**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
@@ -3686,7 +3686,7 @@ Microsoft Word 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3746,11 +3746,11 @@ Microsoft Word 2016 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-099**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
@@ -3764,7 +3764,7 @@ Microsoft Word 2016 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3795,11 +3795,11 @@ Microsoft Word for Mac 2011
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-099**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
@@ -3813,7 +3813,7 @@ Microsoft Word for Mac 2011
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3847,11 +3847,11 @@ Microsoft Word 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-099**](http://go.microsoft.com/fwlink/?linkid=821165)
+[**MS16-099**](https://go.microsoft.com/fwlink/?linkid=821165)
 
 </td>
 </tr>
@@ -3861,11 +3861,11 @@ Microsoft Word 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3915,7 +3915,7 @@ Microsoft Word Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 </tr>
@@ -3925,7 +3925,7 @@ Microsoft Word Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3989,7 +3989,7 @@ Microsoft Word Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 </tr>
@@ -3999,7 +3999,7 @@ Microsoft Word Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4071,7 +4071,7 @@ Microsoft Lync Basic 2013 Service Pack 1 (64 位元)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 </tr>
@@ -4081,7 +4081,7 @@ Microsoft Lync Basic 2013 Service Pack 1 (64 位元)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4149,7 +4149,7 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-097**](http://go.microsoft.com/fwlink/?linkid=821146)
+[**MS16-097**](https://go.microsoft.com/fwlink/?linkid=821146)
 
 </td>
 </tr>
@@ -4159,7 +4159,7 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重大**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4192,7 +4192,7 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 
 應用程式相容性工具組隨附的 Update Compatibility Evaluator 元件可針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
-如需上述工具以及其他可使用工具的詳細資訊，請參閱 [IT 專業人員的資訊安全工具](http://technet.microsoft.com/zh-tw/security/cc297183)。 
+如需上述工具以及其他可使用工具的詳細資訊，請參閱 [IT 專業人員的資訊安全工具](https://technet.microsoft.com/zh-tw/security/cc297183)。 
 
 致謝
 ----
@@ -4211,39 +4211,39 @@ Microsoft 了解資訊安全業界所做的努力，其盡責地揭露弱點來�
 如需在 Windows Update 和 Microsoft Update 上發行的非安全性更新之相關資訊，請參閱：
 
 -   [Microsoft 知識庫文件 894199](https://support.microsoft.com/zh-tw/kb/894199)：說明 Software Update Services 和 Windows Server Update Services 的內容變更。其中也包括所有 Windows 的內容。
--   [過去幾個月發行的 Windows Server Update Services 更新](http://technet.microsoft.com/zh-tw/wsus/bb456965)。顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
+-   [過去幾個月發行的 Windows Server Update Services 更新](https://technet.microsoft.com/zh-tw/wsus/bb456965)。顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
 
 ### Microsoft 主動保護計畫 (MAPP)
 
-為了增強客戶的安全性保護，Microsoft 將在每月發行安全性更新之前，提前向重要安全性軟體提供者提供弱點資訊。安全性軟體提供者可利用此弱點資訊，透過其安全性軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](http://go.microsoft.com/fwlink/?linkid=215201) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
+為了增強客戶的安全性保護，Microsoft 將在每月發行安全性更新之前，提前向重要安全性軟體提供者提供弱點資訊。安全性軟體提供者可利用此弱點資訊，透過其安全性軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](https://go.microsoft.com/fwlink/?linkid=215201) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
 
 ### 安全性策略與社群
 
 **更新程式管理策略**
 
-[更新管理資訊安全指南](http://go.microsoft.com/fwlink/?linkid=21168) (英文) 提供您有關套用安全性更新的 Microsoft 最佳實作建議的其他資訊。
+[更新管理資訊安全指南](https://go.microsoft.com/fwlink/?linkid=21168) (英文) 提供您有關套用安全性更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他安全性更新**
 
 其他資訊安全問題的更新可由下列位置取得：
 
--   安全性更新可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得，您也可以利用「安全性更新」(security update) 關鍵字搜尋輕易地找到安全性更新。
--   客戶平台的更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 取得。
+-   安全性更新可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得，您也可以利用「安全性更新」(security update) 關鍵字搜尋輕易地找到安全性更新。
+-   客戶平台的更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 取得。
 -   您可透過下載中心，以安全性和重大更新 ISO CD 映像檔的方式，取得本月份 Windows Update 提供的資訊安全更新。如需更多資訊，請參閱 [Microsoft 知識庫文章 913086](https://support.microsoft.com/zh-tw/kb/913086)。
 
 **IT 專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全社群](http://go.microsoft.com/fwlink/?linkid=21164)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+在 [IT 專業人員資訊安全社群](https://go.microsoft.com/fwlink/?linkid=21164)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
 ### 支援
 
-所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要了解您軟體版本的支援週期，請造訪 [Microsoft 支援週期](http://go.microsoft.com/fwlink/?linkid=21742)網站。
+所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要了解您軟體版本的支援週期，請造訪 [Microsoft 支援週期](https://go.microsoft.com/fwlink/?linkid=21742)網站。
 
-適用於 IT 專業人員的安全性解決方案：[TechNet 安全性疑難排解與支援](http://technet.microsoft.com/zh-tw/security/bb980617)
+適用於 IT 專業人員的安全性解決方案：[TechNet 安全性疑難排解與支援](https://technet.microsoft.com/zh-tw/security/bb980617)
 
-協助保護您執行 Windows 的電腦免於受到病毒和惡意程式碼攻擊：[病毒解決方案與安全性中心](http://support.microsoft.com/zh-tw/contactus/cu_sc_virsec_master)
+協助保護您執行 Windows 的電腦免於受到病毒和惡意程式碼攻擊：[病毒解決方案與安全性中心](https://support.microsoft.com/zh-tw/contactus/cu_sc_virsec_master)
 
-根據您所在國家/地區的當地支援：[國際化支援](http://support.microsoft.com/zh-tw/common/international.aspx)
+根據您所在國家/地區的當地支援：[國際化支援](https://support.microsoft.com/zh-tw/common/international.aspx)
 
 ### 免責聲明
 

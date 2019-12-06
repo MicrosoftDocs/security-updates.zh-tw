@@ -16,13 +16,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms09-jul(v=Security.10)
 
 此公告摘要列出 2009 年 7 月份發行之安全性公告。
 
-發行 2009 年 7 月份公告之後，此公告摘要將取代原先於 2009 年 7 月 10 日發行的公告預先通知，以及 7 月 24 日原始發行的不定期公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 安全性公告預先通知](http://technet.microsoft.com/security/bulletin/advance)。
+發行 2009 年 7 月份公告之後，此公告摘要將取代原先於 2009 年 7 月 10 日發行的公告預先通知，以及 7 月 24 日原始發行的不定期公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 安全性公告預先通知](https://technet.microsoft.com/security/bulletin/advance)。
 
-如需有關如何在 Microsoft 安全性公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+如需有關如何在 Microsoft 安全性公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
-Microsoft 將於 2009 年 7 月 15 日的太平洋時間早上十一點 (美國與加拿大)，利用網路廣播解答客戶對於這些定期排程公告的問題。 此網路廣播現在可隨選取得。 如需更多資訊，請參閱 [Microsoft 安全性公告摘要和網路廣播](http://technet.microsoft.com/security/bulletin/summary)。
+Microsoft 將於 2009 年 7 月 15 日的太平洋時間早上十一點 (美國與加拿大)，利用網路廣播解答客戶對於這些定期排程公告的問題。 此網路廣播現在可隨選取得。 如需更多資訊，請參閱 [Microsoft 安全性公告摘要和網路廣播](https://technet.microsoft.com/security/bulletin/summary)。
 
-針對新增至此公告摘要 (MS09-034 及 MS09-035) 第 2.0 版的不定期安全性公告，Microsoft 將舉辦兩場網路廣播解決客戶對於這些公告的問題，時間分別在 2009 年 7 月 28 日的太平洋時間下午一點 (美國與加拿大) 與太平洋時間下午四點 (美國與加拿大)： 現在請註冊 [7 月 28 日，下午一點網路廣播](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032422339&culture=en-us)和 [7 月 28 日，下午四點網路廣播](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032422341&culture=en-us)。 在此之後，此網路廣播將可隨選取得。 如需更多資訊，請參閱 [Microsoft 安全性公告摘要和網路廣播](http://technet.microsoft.com/security/bulletin/summary)。
+針對新增至此公告摘要 (MS09-034 及 MS09-035) 第 2.0 版的不定期安全性公告，Microsoft 將舉辦兩場網路廣播解決客戶對於這些公告的問題，時間分別在 2009 年 7 月 28 日的太平洋時間下午一點 (美國與加拿大) 與太平洋時間下午四點 (美國與加拿大)： 現在請註冊 [7 月 28 日，下午一點網路廣播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032422339&culture=en-us)和 [7 月 28 日，下午四點網路廣播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032422341&culture=en-us)。 在此之後，此網路廣播將可隨選取得。 如需更多資訊，請參閱 [Microsoft 安全性公告摘要和網路廣播](https://technet.microsoft.com/security/bulletin/summary)。
 
 Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何非安全性、高優先順序更新的優先順序，其中這些非安全性、高優先順序更新的發行日期與每月安全性更新的發行日期相同。 請參閱＜其他資訊＞一節。
 
@@ -50,85 +50,85 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-029">MS09-029</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-029">MS09-029</a></td>
 <td style="border:1px solid black;"><strong>內嵌 OpenType 字型引擎弱點可能允許遠端執行程式碼 (961371)</strong><br />
 <br />
 本安全性更新解決 Microsoft Windows 元件「內嵌 OpenType (EOT) 字型引擎」中，兩項未公開報告的弱點。 這些弱點可能允許遠端執行程式碼。 成功利用上述任一弱點的攻擊者可以從遠端取得受影響系統的完整控制權。 攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-028">MS09-028</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-028">MS09-028</a></td>
 <td style="border:1px solid black;"><strong>Microsoft DirectShow 中的弱點可能會允許遠端執行程式碼 (971633)</strong><br />
 <br />
 這個安全性更新可解決 Microsoft DirectShow 中一項公開揭露和兩項未公開報告的弱點。 如果使用者開啟蓄意製作的 QuickTime 媒體檔案，此弱點可能會允許遠端執行程式碼。 成功利用這類任一弱點的攻擊者可以取得與本機使用者相同的使用者權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-032">MS09-032</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-032">MS09-032</a></td>
 <td style="border:1px solid black;"><strong>ActiveX Kill Bit (刪除位元) 的積存安全性更新 (973346)</strong><br />
 <br />
 這個安全性更新可解決目前遭到利用的一項未公開報告的弱點。 如果使用者透過具現化 ActiveX 控制項的 Internet Explorer 來檢視蓄意製作的網頁，Microsoft Video ActiveX 控制項的弱點可能會允許遠端執行程式碼。 此 ActiveX 控制項的設計原本不是在 Internet Explorer 中具現化。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-034">MS09-034</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-034">MS09-034</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 積存安全性更新 (972260)</strong><br />
 <br />
 此安全性更新與 Microsoft 安全性公告 MS09-035 共同不定期發行，說明使用易受到影響的 Microsoft Active Template Library (ATL) 版本所開發的元件和控制項中的弱點。 作為深度防禦措施，此 Internet Explorer 安全性更新有助於減輕 Internet Explorer 中，已使用易受攻擊的 ATL 版本所開發的元件和控制項的已知攻擊行為 (請參閱 Microsoft 安全性摘要報告 (973882) 和 Microsoft 安全性公告 MS09-035 的說明)。<br />
 <br />
 此安全性更新也可解決 Internet Explorer 中三項未公開報告的弱點。 如果使用者使用 Internet Explorer 檢視蓄意製作的網頁，這些弱點可能會允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、Internet Explorer</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-033">MS09-033</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-033">MS09-033</a></td>
 <td style="border:1px solid black;"><strong>Virtual PC 與 Virtual Server 中的弱點可能會允許權限提高 (969856)</strong><br />
 <br />
 此安全性更新可解決 Microsoft Virtual PC 和 Microsoft Virtual Server 中一項未公開報告的弱點。 成功利用此弱點的攻擊者可執行任意程式碼，並取得受影響之客體作業系統的完整控制權。 攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Virtual PC、Virtual Server</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-031">MS09-031</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-031">MS09-031</a></td>
 <td style="border:1px solid black;"><strong>在 Microsoft ISA Server 2006 中的弱點可能會造成權限提高 (970953)</strong><br />
 <br />
 這個安全性更新可解決 Microsoft Internet Security and Acceleration (ISA) Server 2006 中一項未公開報告的弱點。如果攻擊者成功假冒 ISA 伺服器的系統管理使用者帳戶，且已設定此 ISA 伺服器以 Kerberos 限制委派使用 Radius 一次有效密碼 (OTP) 驗證和驗證委派，弱點可能會允許權限提高。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft ISA Server</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-030">MS09-030</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-030">MS09-030</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office Publisher 中的弱點可能會允許遠端執行程式碼 (969516)</strong><br />
 <br />
 此安全性更新可解決 Microsoft Office Publisher 中一項未公開報告的弱點，該弱點可在使用者開啟蓄意製作的 Publisher 檔案時，允許從遠端執行程式碼。 成功利用此弱點的攻擊者可以取得受影響系統的完整控制權。 攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-035">MS09-035</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-035">MS09-035</a></td>
 <td style="border:1px solid black;"><strong>Visual Studio Active Template Library 中的弱點可能會允許遠端執行程式碼 (969706)</strong><br />
 <br />
 此安全性更新解決了 Visual Studio 的 Microsoft Active Template Library(ATL) 公開版本中數個未公開報告的弱點。 此安全性更新特別適用於元件和控制項的開發人員。 使用 ATL 建立及重新分發元件和控制項的開發人員，應安裝此公告中所提供的更新，並遵循所提供的指南，建立不受此安全性公告所述弱點影響的元件和控制項，然後重新分發給客戶。<br />
 <br />
 此安全性公告所討論的內容是，使用者若載入了以易受影響的 ATL 版本所建立的元件或控制項，當中的弱點可能會允許遠端執行程式碼。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">中度</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">中度</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Visual Studio</td>
@@ -144,25 +144,25 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
   
 **我該如何使用這個表格？**
   
-請用這個表格來瞭解您可能需要安裝的每個安全性更新，與 30 天內已發行的可利用程式碼受影響之可能性。 您應該檢閱下列的每個評估，按照特定的設定，將部署以優先次序排序。 如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點索引](http://technet.microsoft.com/en-us/security/cc998259.aspx)。
+請用這個表格來瞭解您可能需要安裝的每個安全性更新，與 30 天內已發行的可利用程式碼受影響之可能性。 您應該檢閱下列的每個評估，按照特定的設定，將部署以優先次序排序。 如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點索引](https://technet.microsoft.com/en-us/security/cc998259.aspx)。
   
 | 公告編號                                                            | 公告標題                                                                        | CVE ID                                                                           | 弱點索引評估                                                                                            | 主要重點                                               |  
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------|  
-| [MS09-028](http://technet.microsoft.com/security/bulletin/ms09-028) | Microsoft DirectShow 中的弱點可能會允許遠端執行程式碼 (971633)                  | [CVE-2009-1537](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1537) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | **此弱點目前在網際網路生態系統中遭到利用。**           |  
-| [MS09-028](http://technet.microsoft.com/security/bulletin/ms09-028) | Microsoft DirectShow 中的弱點可能會允許遠端執行程式碼 (971633)                  | [CVE-2009-1538](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1538) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
-| [MS09-028](http://technet.microsoft.com/security/bulletin/ms09-028) | Microsoft DirectShow 中的弱點可能會允許遠端執行程式碼 (971633)                  | [CVE-2009-1539](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1539) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
-| [MS09-029](http://technet.microsoft.com/security/bulletin/ms09-029) | 內嵌 OpenType 字型引擎弱點可能允許遠端執行程式碼 (961371)                       | [CVE-2009-0231](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0231) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
-| [MS09-029](http://technet.microsoft.com/security/bulletin/ms09-029) | 內嵌 OpenType 字型引擎弱點可能允許遠端執行程式碼 (961371)                       | [CVE-2009-0232](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0232) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
-| [MS09-030](http://technet.microsoft.com/security/bulletin/ms09-030) | Microsoft Office Publisher 中的弱點可能會允許遠端執行程式碼 (969516)            | [CVE-2009-0566](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0566) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
-| [MS09-031](http://technet.microsoft.com/security/bulletin/ms09-031) | Microsoft ISA Server 2006 中的弱點可能會導致權限提高 (970953)                   | [CVE-2009-1135](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1135) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
-| [MS09-032](http://technet.microsoft.com/security/bulletin/ms09-032) | ActiveX Kill Bit (刪除位元) 的積存安全性更新 (973346)                           | [CVE-2008-0015](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-0015) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | **此弱點目前在網際網路生態系統中遭到利用。**           |  
-| [MS09-033](http://technet.microsoft.com/security/bulletin/ms09-033) | Virtual PC 與 Virtual Server 中的弱點可能會允許權限提高 (969856)                | [CVE-2009-1542](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1542) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 偶爾可利用的弱點結果即有可能撰寫出利用此漏洞的程式碼。 |  
-| [MS09-034](http://technet.microsoft.com/security/bulletin/ms09-034) | Internet Explorer 積存安全性更新 (972260)                                       | [CVE-2009-1917](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1917) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 可輕易撰寫可利用此漏洞的可靠程式碼。                   |  
-| [MS09-034](http://technet.microsoft.com/security/bulletin/ms09-034) | Internet Explorer 積存安全性更新 (972260)                                       | [CVE-2009-1918](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1918) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 偶爾可利用的弱點結果即有可能撰寫出利用此漏洞的程式碼。 |  
-| [MS09-034](http://technet.microsoft.com/security/bulletin/ms09-034) | Internet Explorer 積存安全性更新 (972260)                                       | [CVE-2009-1919](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1919) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 偶爾可利用的弱點結果即有可能撰寫出利用此漏洞的程式碼。 |  
-| [MS09-035](http://technet.microsoft.com/security/bulletin/ms09-035) | Visual Studio Active Template Library 中的弱點可能會允許遠端執行程式碼 (969706) | [CVE-2009-0901](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0901) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 可輕易撰寫可利用此漏洞的可靠程式碼。                   |  
-| [MS09-035](http://technet.microsoft.com/security/bulletin/ms09-035) | Visual Studio Active Template Library 中的弱點可能會允許遠端執行程式碼 (969706) | [CVE-2009-2493](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 可輕易撰寫可利用此漏洞的可靠程式碼。                   |  
-| [MS09-035](http://technet.microsoft.com/security/bulletin/ms09-035) | Visual Studio Active Template Library 中的弱點可能會允許遠端執行程式碼 (969706) | [CVE-2009-2495](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2495) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 不以執行程式碼進行攻擊的資訊洩漏錯誤。                 |
+| [MS09-028](https://technet.microsoft.com/security/bulletin/ms09-028) | Microsoft DirectShow 中的弱點可能會允許遠端執行程式碼 (971633)                  | [CVE-2009-1537](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1537) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | **此弱點目前在網際網路生態系統中遭到利用。**           |  
+| [MS09-028](https://technet.microsoft.com/security/bulletin/ms09-028) | Microsoft DirectShow 中的弱點可能會允許遠端執行程式碼 (971633)                  | [CVE-2009-1538](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1538) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
+| [MS09-028](https://technet.microsoft.com/security/bulletin/ms09-028) | Microsoft DirectShow 中的弱點可能會允許遠端執行程式碼 (971633)                  | [CVE-2009-1539](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1539) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
+| [MS09-029](https://technet.microsoft.com/security/bulletin/ms09-029) | 內嵌 OpenType 字型引擎弱點可能允許遠端執行程式碼 (961371)                       | [CVE-2009-0231](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0231) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
+| [MS09-029](https://technet.microsoft.com/security/bulletin/ms09-029) | 內嵌 OpenType 字型引擎弱點可能允許遠端執行程式碼 (961371)                       | [CVE-2009-0232](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0232) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
+| [MS09-030](https://technet.microsoft.com/security/bulletin/ms09-030) | Microsoft Office Publisher 中的弱點可能會允許遠端執行程式碼 (969516)            | [CVE-2009-0566](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0566) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
+| [MS09-031](https://technet.microsoft.com/security/bulletin/ms09-031) | Microsoft ISA Server 2006 中的弱點可能會導致權限提高 (970953)                   | [CVE-2009-1135](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1135) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                   |  
+| [MS09-032](https://technet.microsoft.com/security/bulletin/ms09-032) | ActiveX Kill Bit (刪除位元) 的積存安全性更新 (973346)                           | [CVE-2008-0015](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-0015) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | **此弱點目前在網際網路生態系統中遭到利用。**           |  
+| [MS09-033](https://technet.microsoft.com/security/bulletin/ms09-033) | Virtual PC 與 Virtual Server 中的弱點可能會允許權限提高 (969856)                | [CVE-2009-1542](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1542) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 偶爾可利用的弱點結果即有可能撰寫出利用此漏洞的程式碼。 |  
+| [MS09-034](https://technet.microsoft.com/security/bulletin/ms09-034) | Internet Explorer 積存安全性更新 (972260)                                       | [CVE-2009-1917](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1917) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 可輕易撰寫可利用此漏洞的可靠程式碼。                   |  
+| [MS09-034](https://technet.microsoft.com/security/bulletin/ms09-034) | Internet Explorer 積存安全性更新 (972260)                                       | [CVE-2009-1918](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1918) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 偶爾可利用的弱點結果即有可能撰寫出利用此漏洞的程式碼。 |  
+| [MS09-034](https://technet.microsoft.com/security/bulletin/ms09-034) | Internet Explorer 積存安全性更新 (972260)                                       | [CVE-2009-1919](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1919) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 偶爾可利用的弱點結果即有可能撰寫出利用此漏洞的程式碼。 |  
+| [MS09-035](https://technet.microsoft.com/security/bulletin/ms09-035) | Visual Studio Active Template Library 中的弱點可能會允許遠端執行程式碼 (969706) | [CVE-2009-0901](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0901) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 可輕易撰寫可利用此漏洞的可靠程式碼。                   |  
+| [MS09-035](https://technet.microsoft.com/security/bulletin/ms09-035) | Visual Studio Active Template Library 中的弱點可能會允許遠端執行程式碼 (969706) | [CVE-2009-2493](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 可輕易撰寫可利用此漏洞的可靠程式碼。                   |  
+| [MS09-035](https://technet.microsoft.com/security/bulletin/ms09-035) | Visual Studio Active Template Library 中的弱點可能會允許遠端執行程式碼 (969706) | [CVE-2009-2495](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2495) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 不以執行程式碼進行攻擊的資訊洩漏錯誤。                 |
   
 受影響的軟體及下載位置  
 ----------------------
@@ -203,16 +203,16 @@ Microsoft Windows 2000
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-029**](http://technet.microsoft.com/security/bulletin/ms09-029)
+[**MS09-029**](https://technet.microsoft.com/security/bulletin/ms09-029)
 </td>
 <td style="border:1px solid black;">
-[**MS09-028**](http://technet.microsoft.com/security/bulletin/ms09-028)
+[**MS09-028**](https://technet.microsoft.com/security/bulletin/ms09-028)
 </td>
 <td style="border:1px solid black;">
-[**MS09-032**](http://technet.microsoft.com/security/bulletin/ms09-032)
+[**MS09-032**](https://technet.microsoft.com/security/bulletin/ms09-032)
 </td>
 <td style="border:1px solid black;">
-[**MS09-034**](http://technet.microsoft.com/security/bulletin/ms09-034)
+[**MS09-034**](https://technet.microsoft.com/security/bulletin/ms09-034)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -220,16 +220,16 @@ Microsoft Windows 2000
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -269,16 +269,16 @@ Windows XP
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-029**](http://technet.microsoft.com/security/bulletin/ms09-029)
+[**MS09-029**](https://technet.microsoft.com/security/bulletin/ms09-029)
 </td>
 <td style="border:1px solid black;">
-[**MS09-028**](http://technet.microsoft.com/security/bulletin/ms09-028)
+[**MS09-028**](https://technet.microsoft.com/security/bulletin/ms09-028)
 </td>
 <td style="border:1px solid black;">
-[**MS09-032**](http://technet.microsoft.com/security/bulletin/ms09-032)
+[**MS09-032**](https://technet.microsoft.com/security/bulletin/ms09-032)
 </td>
 <td style="border:1px solid black;">
-[**MS09-034**](http://technet.microsoft.com/security/bulletin/ms09-034)
+[**MS09-034**](https://technet.microsoft.com/security/bulletin/ms09-034)
 </td>
 </tr>
 <tr>
@@ -286,16 +286,16 @@ Windows XP
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -358,16 +358,16 @@ Windows Server 2003
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-029**](http://technet.microsoft.com/security/bulletin/ms09-029)
+[**MS09-029**](https://technet.microsoft.com/security/bulletin/ms09-029)
 </td>
 <td style="border:1px solid black;">
-[**MS09-028**](http://technet.microsoft.com/security/bulletin/ms09-028)
+[**MS09-028**](https://technet.microsoft.com/security/bulletin/ms09-028)
 </td>
 <td style="border:1px solid black;">
-[**MS09-032**](http://technet.microsoft.com/security/bulletin/ms09-032)
+[**MS09-032**](https://technet.microsoft.com/security/bulletin/ms09-032)
 </td>
 <td style="border:1px solid black;">
-[**MS09-034**](http://technet.microsoft.com/security/bulletin/ms09-034)
+[**MS09-034**](https://technet.microsoft.com/security/bulletin/ms09-034)
 </td>
 </tr>
 <tr>
@@ -375,16 +375,16 @@ Windows Server 2003
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -470,16 +470,16 @@ Windows Vista
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-029**](http://technet.microsoft.com/security/bulletin/ms09-029)
+[**MS09-029**](https://technet.microsoft.com/security/bulletin/ms09-029)
 </td>
 <td style="border:1px solid black;">
-[**MS09-028**](http://technet.microsoft.com/security/bulletin/ms09-028)
+[**MS09-028**](https://technet.microsoft.com/security/bulletin/ms09-028)
 </td>
 <td style="border:1px solid black;">
-[**MS09-032**](http://technet.microsoft.com/security/bulletin/ms09-032)
+[**MS09-032**](https://technet.microsoft.com/security/bulletin/ms09-032)
 </td>
 <td style="border:1px solid black;">
-[**MS09-034**](http://technet.microsoft.com/security/bulletin/ms09-034)
+[**MS09-034**](https://technet.microsoft.com/security/bulletin/ms09-034)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -487,7 +487,7 @@ Windows Vista
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
@@ -496,7 +496,7 @@ Windows Vista
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -553,16 +553,16 @@ Windows Server 2008
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-029**](http://technet.microsoft.com/security/bulletin/ms09-029)
+[**MS09-029**](https://technet.microsoft.com/security/bulletin/ms09-029)
 </td>
 <td style="border:1px solid black;">
-[**MS09-028**](http://technet.microsoft.com/security/bulletin/ms09-028)
+[**MS09-028**](https://technet.microsoft.com/security/bulletin/ms09-028)
 </td>
 <td style="border:1px solid black;">
-[**MS09-032**](http://technet.microsoft.com/security/bulletin/ms09-032)
+[**MS09-032**](https://technet.microsoft.com/security/bulletin/ms09-032)
 </td>
 <td style="border:1px solid black;">
-[**MS09-034**](http://technet.microsoft.com/security/bulletin/ms09-034)
+[**MS09-034**](https://technet.microsoft.com/security/bulletin/ms09-034)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -570,7 +570,7 @@ Windows Server 2008
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
@@ -579,7 +579,7 @@ Windows Server 2008
 無
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -650,7 +650,7 @@ Windows Server 2008
  
 **Windows Server 2008 注意事項**
 
-**\*\*Windows Server 2008 Server Core 安裝不受影響。** 如果 Windows Server 2008 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 版本。 如需這個安裝選項的詳細資訊，請參閱 [Server Core](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) (英文)。 請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 版本；請參閱[比較 Server Core 安裝選項](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
+**\*\*Windows Server 2008 Server Core 安裝不受影響。** 如果 Windows Server 2008 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 版本。 如需這個安裝選項的詳細資訊，請參閱 [Server Core](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx) (英文)。 請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 版本；請參閱[比較 Server Core 安裝選項](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
 
 **MS09-032 注意事項**
 
@@ -683,7 +683,7 @@ Microsoft Office 套件、系統和元件
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-030**](http://technet.microsoft.com/security/bulletin/ms09-030)
+[**MS09-030**](https://technet.microsoft.com/security/bulletin/ms09-030)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -691,7 +691,7 @@ Microsoft Office 套件、系統和元件
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -728,7 +728,7 @@ Microsoft Visual Studio
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-035**](http://technet.microsoft.com/security/bulletin/ms09-035)
+[**MS09-035**](https://technet.microsoft.com/security/bulletin/ms09-035)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -736,7 +736,7 @@ Microsoft Visual Studio
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -843,7 +843,7 @@ Microsoft Internet Security and Acceleration Server
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-031**](http://technet.microsoft.com/security/bulletin/ms09-031)
+[**MS09-031**](https://technet.microsoft.com/security/bulletin/ms09-031)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -851,7 +851,7 @@ Microsoft Internet Security and Acceleration Server
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -894,7 +894,7 @@ Microsoft Virtual PC
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-033**](http://technet.microsoft.com/security/bulletin/ms09-033)
+[**MS09-033**](https://technet.microsoft.com/security/bulletin/ms09-033)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -902,7 +902,7 @@ Microsoft Virtual PC
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -951,7 +951,7 @@ Microsoft Virtual Server
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS09-033**](http://technet.microsoft.com/security/bulletin/ms09-033)
+[**MS09-033**](https://technet.microsoft.com/security/bulletin/ms09-033)
 </td>
 </tr>
 <tr>
@@ -959,7 +959,7 @@ Microsoft Virtual Server
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1001,37 +1001,37 @@ Microsoft Virtual Server 2005 R2 x64 Edition
 <span></span>
 **資訊安全中心**
 
-管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和安全性更新。 如需更多資訊，請參閱 [TechNet 更新管理中心](http://www.microsoft.com/taiwan/technet/updatemanagement/default.mspx) (英文)。 [TechNet Security Center](http://www.microsoft.com/taiwan/technet/security/default.mspx) 提供 Microsoft 產品安全性的其他資訊。 消費者可以造訪[在家上網的安全性](http://www.microsoft.com/taiwan/protect/default.mspx)網站，只要按一下 \[最新安全性更新\] 即可在此網站取得此資訊。
+管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和安全性更新。 如需更多資訊，請參閱 [TechNet 更新管理中心](https://www.microsoft.com/taiwan/technet/updatemanagement/default.mspx) (英文)。 [TechNet Security Center](https://www.microsoft.com/taiwan/technet/security/default.mspx) 提供 Microsoft 產品安全性的其他資訊。 消費者可以造訪[在家上網的安全性](https://www.microsoft.com/taiwan/protect/default.mspx)網站，只要按一下 \[最新安全性更新\] 即可在此網站取得此資訊。
 
-安全性更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 以及 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 取得。 安全性更新也可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得。 您也可以利用「安全性更新」("security update") 關鍵字搜尋輕易地找到安全性更新。
+安全性更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 以及 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130) 取得。 安全性更新也可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得。 您也可以利用「安全性更新」("security update") 關鍵字搜尋輕易地找到安全性更新。
 
-最後，您可以從 [Microsoft Update Catalog](http://go.microsoft.com/fwlink/?linkid=96155) 下載安全性更新。 Microsoft Update Catalog 提供透過 Windows Update 及 Microsoft Update 所公佈內容的搜尋式目錄，包括安全性更新、驅動程式和 Service Pack。 只要以安全性公告編號 (例如：MS07-036) 執行搜尋，您就可新增所有適用的更新到置物籃 (包括同一項更新的不同語言)，再下載到您自選的資料夾中。 如需更多關於 Microsoft Update Catalog 的相關資訊，請參閱 [Microsoft Update Catalog 常見問題集](http://go.microsoft.com/fwlink/?linkid=97900)。
+最後，您可以從 [Microsoft Update Catalog](https://go.microsoft.com/fwlink/?linkid=96155) 下載安全性更新。 Microsoft Update Catalog 提供透過 Windows Update 及 Microsoft Update 所公佈內容的搜尋式目錄，包括安全性更新、驅動程式和 Service Pack。 只要以安全性公告編號 (例如：MS07-036) 執行搜尋，您就可新增所有適用的更新到置物籃 (包括同一項更新的不同語言)，再下載到您自選的資料夾中。 如需更多關於 Microsoft Update Catalog 的相關資訊，請參閱 [Microsoft Update Catalog 常見問題集](https://go.microsoft.com/fwlink/?linkid=97900)。
 
-**注意：**從 2009 年 8 月 1 日開始，Microsoft 將停止支援 Office Update 與 Office Update Inventory Tool。 若要繼續取得 Microsoft Office 產品的最新更新，請使用 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)。 如需更多資訊，請參閱[關於 Microsoft Office Update： 常見問題集](http://office.microsoft.com/en-us/downloads/fx010402221033.aspx) (英文)。
+**注意：**從 2009 年 8 月 1 日開始，Microsoft 將停止支援 Office Update 與 Office Update Inventory Tool。 若要繼續取得 Microsoft Office 產品的最新更新，請使用 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)。 如需更多資訊，請參閱[關於 Microsoft Office Update： 常見問題集](https://office.microsoft.com/en-us/downloads/fx010402221033.aspx) (英文)。
 
 **偵測與部署指南**
 
-Microsoft 已提供本月安全性更新之偵測與部署指南。 此指南還能幫助 IT 專業人員瞭解如何使用各項工具來協助部署安全性更新，像是 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office Detection Tool、Microsoft Systems Management Server (SMS)、Extended Security Update Inventory Tool (加強版安全性更新清查工具，ESUIT)。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 910723](http://support.microsoft.com/kb/910723/zh-tw)。
+Microsoft 已提供本月安全性更新之偵測與部署指南。 此指南還能幫助 IT 專業人員瞭解如何使用各項工具來協助部署安全性更新，像是 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office Detection Tool、Microsoft Systems Management Server (SMS)、Extended Security Update Inventory Tool (加強版安全性更新清查工具，ESUIT)。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 910723](https://support.microsoft.com/kb/910723/zh-tw)。
 
 **Microsoft Baseline Security Analyzer**
 
-Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134) 網站 (英文)。
+Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134) 網站 (英文)。
 
 **Windows Server Update Services**
 
 透過 Windows Server Update Services (WSUS)，系統管理員可迅速可靠地將 Windows 2000 作業系統及更新系統版本、Office XP 及更新版本、Exchange Server 2003 及 SQL Server 2000 等最新的重大更新與安全性更新部署到 Windows 2000 及更新作業系統版本中。
 
-如需更多關於利用 Windows Server Update Services 部署安全性更新的資訊，請造訪 [Windows Server Update Services](http://www.microsoft.com/taiwan/windowsserversystem/updateservices/evaluation/overview.mspx) 網站。
+如需更多關於利用 Windows Server Update Services 部署安全性更新的資訊，請造訪 [Windows Server Update Services](https://www.microsoft.com/taiwan/windowsserversystem/updateservices/evaluation/overview.mspx) 網站。
 
 **Systems Management Server**
 
-Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 現已推出新版的 SMS，System Center Configuration Manager 2007；另請參閱 [System Center Configuration Manager 2007](http://www.microsoft.com/taiwan/systemcenter/configmgr/default.mspx)。如需更多有關系統管理員如何能使用 SMS 2003 部署安全性更新的資訊，請參閱 [SMS 2003 安全性修補程式管理](http://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm) (英文)。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](http://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/suspack/default.htm)來協助部署安全性更新。 如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server](http://www.microsoft.com/taiwan/smserver/)。
+Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 現已推出新版的 SMS，System Center Configuration Manager 2007；另請參閱 [System Center Configuration Manager 2007](https://www.microsoft.com/taiwan/systemcenter/configmgr/default.mspx)。如需更多有關系統管理員如何能使用 SMS 2003 部署安全性更新的資訊，請參閱 [SMS 2003 安全性修補程式管理](https://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm) (英文)。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](https://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/suspack/default.htm)來協助部署安全性更新。 如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server](https://www.microsoft.com/taiwan/smserver/)。
 
-**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/taiwan/smserver/downloads/2003/adminpack.htm) (英文) 和 [SMS 管理功能套件](http://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/adminpack/default.htm) (英文) 提供) 來安裝這些更新。
+**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](https://www.microsoft.com/taiwan/smserver/downloads/2003/adminpack.htm) (英文) 和 [SMS 管理功能套件](https://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/adminpack/default.htm) (英文) 提供) 來安裝這些更新。
 
 **Update Compatibility Evaluator 和應用程式相容性工具組**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署安全性更新的時間。 您可以使用 [Application Compatibility Toolkit 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式，簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署安全性更新的時間。 您可以使用 [Application Compatibility Toolkit 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式，簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 安全性更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 
@@ -1045,54 +1045,54 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 如需在 Windows Update 和 Microsoft Update 上發行的非安全性更新之相關資訊，請參閱：
 
--   [Microsoft 知識庫文件編號 894199](http://support.microsoft.com/kb/894199/zh-tw)： Software Update Services 與 Windows Server Update Services 的說明內容有所變動。 其中也包括所有 Windows 的內容。
--   [適用於 Microsoft 產品 (除了 Microsoft Windows 以外) 的全新、修訂版以及已發行的更新](http://technet.microsoft.com/en-us/wsus/dd573344.aspx)。
+-   [Microsoft 知識庫文件編號 894199](https://support.microsoft.com/kb/894199/zh-tw)： Software Update Services 與 Windows Server Update Services 的說明內容有所變動。 其中也包括所有 Windows 的內容。
+-   [適用於 Microsoft 產品 (除了 Microsoft Windows 以外) 的全新、修訂版以及已發行的更新](https://technet.microsoft.com/en-us/wsus/dd573344.aspx)。
 
 #### Microsoft 主動保護計畫 (MAPP)
 
-為了增強客戶的安全性保護，Microsoft 將在每月發行安全性更新之前，提前向重要安全性軟體提供者提供弱點資訊。 安全性軟體提供者可利用此弱點資訊，透過其安全性軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。 如果要判斷是否有安全性軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](http://www.microsoft.com/security/msrc/mapp/partners.mspx)上列出的計畫合作夥伴所提供的主動保護計畫網站。
+為了增強客戶的安全性保護，Microsoft 將在每月發行安全性更新之前，提前向重要安全性軟體提供者提供弱點資訊。 安全性軟體提供者可利用此弱點資訊，透過其安全性軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。 如果要判斷是否有安全性軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](https://www.microsoft.com/security/msrc/mapp/partners.mspx)上列出的計畫合作夥伴所提供的主動保護計畫網站。
 
 #### 安全性策略與社群
 
 **更新程式管理策略**
 
-[更新管理安全性指南](http://technet.microsoft.com/zh-tw/library/bb466251(en-us).aspx) (英文) 提供您有關套用安全性更新的 Microsoft 最佳實作建議的其他資訊。
+[更新管理安全性指南](https://technet.microsoft.com/zh-tw/library/bb466251(en-us).aspx) (英文) 提供您有關套用安全性更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他安全性更新**
 
 其他安全性問題的更新可由下列位置取得：
 
--   安全性更新可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用「安全性更新」("security update") 關鍵字搜尋輕易地找到安全性更新。
--   客戶平台的更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 取得。
--   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的安全性更新。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](http://support.microsoft.com/kb/913086/zh-tw)。
+-   安全性更新可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用「安全性更新」("security update") 關鍵字搜尋輕易地找到安全性更新。
+-   客戶平台的更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 取得。
+-   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的安全性更新。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](https://support.microsoft.com/kb/913086/zh-tw)。
 
 **IT 專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全區社群](http://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+在 [IT 專業人員資訊安全區社群](https://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
 #### 感謝
 
-Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
 
--   感謝 [SkyRecon](http://www.skyrecon.com/) 的 Thomas Garnier，和 [Qihoo 360 Security Center](http://www.360.cn/) 的 Zheng Wenbin、Liu Qi 與 Song Shenlei 合作，共同回報 MS09-028 的問題
--   感謝 [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 回報 MS09-028 中描述的問題
--   感謝 [TippingPoint DVLabs](http://dvlabs.tippingpoint.com/) 的 Aaron Portnoy 以及與 TippingPoint [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作的匿名研究者、[SkyRecon](http://www.skyrecon.com/) 的 Thomas Garnier、[Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 合作，共同回報 MS09-028 的問題
--   感謝 [VeriSign iDefense Labs](http://labs.idefense.com/) 回報 MS09-029 中描述的問題
+-   感謝 [SkyRecon](https://www.skyrecon.com/) 的 Thomas Garnier，和 [Qihoo 360 Security Center](https://www.360.cn/) 的 Zheng Wenbin、Liu Qi 與 Song Shenlei 合作，共同回報 MS09-028 的問題
+-   感謝 [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 回報 MS09-028 中描述的問題
+-   感謝 [TippingPoint DVLabs](https://dvlabs.tippingpoint.com/) 的 Aaron Portnoy 以及與 TippingPoint [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作的匿名研究者、[SkyRecon](https://www.skyrecon.com/) 的 Thomas Garnier、[Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 合作，共同回報 MS09-028 的問題
+-   感謝 [VeriSign iDefense Labs](https://labs.idefense.com/) 回報 MS09-029 中描述的問題
 -   感謝 Thomas Garnier 回報 MS09-029 中描述的問題
--   感謝 [Labo Skopia](http://www.laboskopia.com/) 的 Lionel d'Hauenens 與 [VersiSign iDefense Labs](http://www.idefense.com/) 合作，共同回報 MS09-028 的問題
--   感謝 [IBM IIS X-Force](http://www.iss.net/) 的 Ryan Smith 和 Alex Wheeler 最初回報 MS09-032 中描述的問題
--   感謝 [Google Inc.](http://www.google.com/) 的 Julien Tinnes 與 Tavis Ormandy 回報 MS09-033 中描述的問題。
--   感謝 [VeriSign iDefense Labs](http://labs.idefense.com/) 的 Peter Vreugdenhil 回報 MS09-034 中描述的問題
--   感謝 [team509](http://www.team509.com/) 的 Wushi 和 Ling 與 [TippingPoint](http://www.tippingpoint.com/) 及 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 MS09-034 中描述的問題
--   感謝 Peter Vreugdenhil 與 [TippingPoint](http://www.tippingpoint.com/) 及 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 MS09-034 中描述的問題。
--   感謝 [IBM ISS X-Force](http://www.iss.net/) 的 David Dewey 回報 MS09-035 中描述的問題
--   感謝 [VeriSign iDefense Labs](http://labs.idefense.com/) 的 Ryan Smith 回報 MS09-035 中描述的兩個問題
+-   感謝 [Labo Skopia](https://www.laboskopia.com/) 的 Lionel d'Hauenens 與 [VersiSign iDefense Labs](https://www.idefense.com/) 合作，共同回報 MS09-028 的問題
+-   感謝 [IBM IIS X-Force](https://www.iss.net/) 的 Ryan Smith 和 Alex Wheeler 最初回報 MS09-032 中描述的問題
+-   感謝 [Google Inc.](https://www.google.com/) 的 Julien Tinnes 與 Tavis Ormandy 回報 MS09-033 中描述的問題。
+-   感謝 [VeriSign iDefense Labs](https://labs.idefense.com/) 的 Peter Vreugdenhil 回報 MS09-034 中描述的問題
+-   感謝 [team509](https://www.team509.com/) 的 Wushi 和 Ling 與 [TippingPoint](https://www.tippingpoint.com/) 及 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 MS09-034 中描述的問題
+-   感謝 Peter Vreugdenhil 與 [TippingPoint](https://www.tippingpoint.com/) 及 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 MS09-034 中描述的問題。
+-   感謝 [IBM ISS X-Force](https://www.iss.net/) 的 David Dewey 回報 MS09-035 中描述的問題
+-   感謝 [VeriSign iDefense Labs](https://labs.idefense.com/) 的 Ryan Smith 回報 MS09-035 中描述的兩個問題
 
 #### 支援
 
--   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。 其他版本超出它們的支援週期。 若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](http://go.microsoft.com/fwlink/?linkid=21742)。
--   美國及加拿大地區客戶可洽詢[安全性支援](http://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 以取得技術支援。 與安全性更新有關的支援電話不另外收費。 如需更多可用支援選項的資訊，請參閱 [Microsoft 技術支援服務](http://support.microsoft.com/?ln=zh-tw)。
--   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援](http://go.microsoft.com/fwlink/?linkid=21155)網站。
+-   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。 其他版本超出它們的支援週期。 若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   美國及加拿大地區客戶可洽詢[安全性支援](https://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 以取得技術支援。 與安全性更新有關的支援電話不另外收費。 如需更多可用支援選項的資訊，請參閱 [Microsoft 技術支援服務](https://support.microsoft.com/?ln=zh-tw)。
+-   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援](https://go.microsoft.com/fwlink/?linkid=21155)網站。
 
 #### 免責聲明
 

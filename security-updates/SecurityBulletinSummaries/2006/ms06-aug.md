@@ -14,18 +14,18 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-aug(v=Security.10)
 
 **版本:** 1.0
 
-請參考[此處](http://www.microsoft.com/taiwan/security/default.mspx)所提供的使用者版本資訊。
+請參考[此處](https://www.microsoft.com/taiwan/security/default.mspx)所提供的使用者版本資訊。
 
 **保護您的電腦：** Microsoft 在下列網址提供有助於保護電腦的相關資訊：
 
--   一般使用者可以造訪[保護您的電腦網站](http://www.microsoft.com/taiwan/athome/security/protect/)。
--   IT 專業人員可以造訪[資訊安全指導中心](http://www.microsoft.com/taiwan/technet/security/default.mspx)網站。
+-   一般使用者可以造訪[保護您的電腦網站](https://www.microsoft.com/taiwan/athome/security/protect/)。
+-   IT 專業人員可以造訪[資訊安全指導中心](https://www.microsoft.com/taiwan/technet/security/default.mspx)網站。
 
-**更新程式管理策略：**[Microsoft 安全性補充程式管理指南](http://www.microsoft.com/taiwan/technet/security/topics/patchmanagement.mspx)網站提供您有關套用安全性更新的 Microsoft 最佳實作建議。
+**更新程式管理策略：**[Microsoft 安全性補充程式管理指南](https://www.microsoft.com/taiwan/technet/security/topics/patchmanagement.mspx)網站提供您有關套用安全性更新的 Microsoft 最佳實作建議。
 
-**IT 專業人員資訊安全區社群：** 在 [IT Pro Security Zone](http://go.microsoft.com/fwlink/?linkid=21164) 網站上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+**IT 專業人員資訊安全區社群：** 在 [IT Pro Security Zone](https://go.microsoft.com/fwlink/?linkid=21164) 網站上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
-**Microsoft 安全性通知服務：** 如想在 Microsoft 安全性公告發佈時收到電子郵件通知，請訂閱 [Microsoft 安全性通知服務](http://go.microsoft.com/fwlink/?linkid=21163)。
+**Microsoft 安全性通知服務：** 如想在 Microsoft 安全性公告發佈時收到電子郵件通知，請訂閱 [Microsoft 安全性通知服務](https://go.microsoft.com/fwlink/?linkid=21163)。
 
 #### 摘要
 
@@ -37,73 +37,73 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-aug(v=Security.10)
 <span></span>
 | 公告編號             | Microsoft 安全性公告 MS06-040                                                                                       |
 |----------------------|---------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Server 服務中的弱點可能會允許遠端執行程式碼 (921883)**](http://technet.microsoft.com/security/bulletin/ms06-040) |
+| **公告標題**         | [**Server 服務中的弱點可能會允許遠端執行程式碼 (921883)**](https://technet.microsoft.com/security/bulletin/ms06-040) |
 | **提要**             | 本更新解決多個 Server 服務中存在、可能會允許遠端執行程式碼的弱點。                                                  |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                       |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                       |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                      |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                    |
 
 | 公告編號             | Microsoft 安全性公告 MS06-041                                                                                    |
 |----------------------|------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**DNS 解析中的弱點可能會允許遠端執行程式碼 (920683)**](http://technet.microsoft.com/security/bulletin/ms06-041) |
+| **公告標題**         | [**DNS 解析中的弱點可能會允許遠端執行程式碼 (920683)**](https://technet.microsoft.com/security/bulletin/ms06-041) |
 | **提要**             | 本更新解決多個 DNS 服務中存在、可能會允許遠端執行程式碼的弱點。                                                  |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                    |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                    |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                   |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                 |
 
 | 公告編號             | Microsoft 安全性公告 MS06-042                                                                            |
 |----------------------|----------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Internet Explorer 積存安全性更新 (918899)**](http://technet.microsoft.com/security/bulletin/ms06-042) |
+| **公告標題**         | [**Internet Explorer 積存安全性更新 (918899)**](https://technet.microsoft.com/security/bulletin/ms06-042) |
 | **提要**             | 本更新解決多個 Internet Explorer 中存在、可能會允許遠端執行程式碼的弱點。                                |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                            |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                            |
 | **弱點的影響**       | 遠端執行程式碼                                                                                           |
 | **受影響的軟體**     | **Windows、Internet Explorer。** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                    |
 
 | 公告編號             | Microsoft 安全性公告 MS06-043                                                                                              |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Microsoft Windows 中的弱點可能會允許遠端執行程式碼 (920214)**](http://technet.microsoft.com/security/bulletin/ms06-043) |
+| **公告標題**         | [**Microsoft Windows 中的弱點可能會允許遠端執行程式碼 (920214)**](https://technet.microsoft.com/security/bulletin/ms06-043) |
 | **提要**             | 本更新解決了一個 Outlook Express 中可能允許遠端執行程式碼的弱點。                                                          |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                              |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                              |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                             |
 | **受影響的軟體**     | **Windows、Outlook Express**。 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                        |
 
 | 公告編號             | Microsoft 安全性公告 MS06-044                                                                                                         |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Microsoft Management Console 中的弱點可能會允許遠端執行程式碼 (917008)**](http://technet.microsoft.com/security/bulletin/ms06-044) |
+| **公告標題**         | [**Microsoft Management Console 中的弱點可能會允許遠端執行程式碼 (917008)**](https://technet.microsoft.com/security/bulletin/ms06-044) |
 | **提要**             | 本更新解決了 Microsoft Management Console 一個可能允許遠端執行程式碼的弱點。                                                          |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                         |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                         |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                        |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                      |
 
 | 公告編號             | Microsoft 安全性公告 MS06-046                                                                                      |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**HTML Help 中的弱點可能會允許遠端執行程式碼 (922616)**](http://technet.microsoft.com/security/bulletin/ms06-046) |
+| **公告標題**         | [**HTML Help 中的弱點可能會允許遠端執行程式碼 (922616)**](https://technet.microsoft.com/security/bulletin/ms06-046) |
 | **提要**             | 本更新解決多個 HTML Help 中存在、可能會允許遠端執行程式碼的弱點。                                                  |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                      |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                      |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                     |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                   |
 
 | 公告編號             | Microsoft 安全性公告 MS06-047                                                                                                                  |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Microsoft Visual Basic for Applications 中的弱點可能允許遠端執行程式碼 (921645)**](http://technet.microsoft.com/security/bulletin/ms06-047) |
+| **公告標題**         | [**Microsoft Visual Basic for Applications 中的弱點可能允許遠端執行程式碼 (921645)**](https://technet.microsoft.com/security/bulletin/ms06-047) |
 | **提要**             | 本更新解決了 Visual Basic for Applications 一個可能允許遠端執行程式碼的弱點。                                                                  |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                                                  |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                                                  |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                                 |
 | **受影響的軟體**     | **Office**。 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                              |
 
 | 公告編號             | Microsoft 安全性公告 MS06-048                                                                                           |
 |----------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Microsoft Office 的弱點可能會允許遠端執行程式碼 (922968)**](http://technet.microsoft.com/security/bulletin/ms06-048) |
+| **公告標題**         | [**Microsoft Office 的弱點可能會允許遠端執行程式碼 (922968)**](https://technet.microsoft.com/security/bulletin/ms06-048) |
 | **提要**             | 本更新解決了 PowerPoint 兩個可能允許遠端執行程式碼的弱點。                                                              |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                           |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                           |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                          |
 | **受影響的軟體**     | **Office**。 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                       |
 
 | 公告編號             | Microsoft 安全性公告 MS06-051                                                                                      |
 |----------------------|--------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Windows 核心中的弱點可能導致遠端執行程式碼 (917422)**](http://technet.microsoft.com/security/bulletin/ms06-051) |
+| **公告標題**         | [**Windows 核心中的弱點可能導致遠端執行程式碼 (917422)**](https://technet.microsoft.com/security/bulletin/ms06-051) |
 | **提要**             | 本更新解決多個 Windows 核心中存在、可能會允許遠端執行程式碼的弱點。                                                |
-| **最高的嚴重性等級** | [重大](http://technet.microsoft.com/security/bulletin/rating)                                                      |
+| **最高的嚴重性等級** | [重大](https://technet.microsoft.com/security/bulletin/rating)                                                      |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                     |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                   |
 
@@ -113,25 +113,25 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-aug(v=Security.10)
 <span></span>
 | 公告編號             | Microsoft 安全性公告 MS06-045                                                                                          |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Windows 檔案總管的弱點可能會允許遠端執行程式碼 (921398)**](http://technet.microsoft.com/security/bulletin/ms06-045) |
+| **公告標題**         | [**Windows 檔案總管的弱點可能會允許遠端執行程式碼 (921398)**](https://technet.microsoft.com/security/bulletin/ms06-045) |
 | **提要**             | 本更新解決了一個 Windows Explorer 中可能允許遠端執行程式碼的弱點。                                                     |
-| **最高的嚴重性等級** | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                          |
+| **最高的嚴重性等級** | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                          |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                         |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                       |
 
 | 公告編號             | Microsoft 安全性公告 MS06-049                                                                                |
 |----------------------|--------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Windows 核心中的弱點可能導致權限提高 (920958)**](http://technet.microsoft.com/security/bulletin/ms06-049) |
+| **公告標題**         | [**Windows 核心中的弱點可能導致權限提高 (920958)**](https://technet.microsoft.com/security/bulletin/ms06-049) |
 | **提要**             | 本更新解決多個 Windows 核心中存在、可能會允許權限提高的弱點。                                                |
-| **最高的嚴重性等級** | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                |
+| **最高的嚴重性等級** | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                |
 | **弱點的影響**       | 權限提高                                                                                                     |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                             |
 
 | 公告編號             | Microsoft 安全性公告 MS06-050                                                                                                              |
 |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [**Microsoft Windows 超連結物件程式庫中的弱點可能會允許遠端執行程式碼 (920670)**](http://technet.microsoft.com/security/bulletin/ms06-050) |
+| **公告標題**         | [**Microsoft Windows 超連結物件程式庫中的弱點可能會允許遠端執行程式碼 (920670)**](https://technet.microsoft.com/security/bulletin/ms06-050) |
 | **提要**             | 本更新解決了超連結物件程式庫中兩個可能允許遠端執行程式碼的弱點。                                                                           |
-| **最高的嚴重性等級** | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                              |
+| **最高的嚴重性等級** | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                              |
 | **弱點的影響**       | 遠端執行程式碼                                                                                                                             |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部分。                                                                           |
 
@@ -171,21 +171,21 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-aug(v=Security.10)
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>公告編號</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-040"><strong>MS06-040</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-041"><strong>MS06-041</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-042"><strong>MS06-042</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-043"><strong>MS06-043</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-044"><strong>MS06-044</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-045"><strong>MS06-045</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-040"><strong>MS06-040</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-041"><strong>MS06-041</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-042"><strong>MS06-042</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-043"><strong>MS06-043</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-044"><strong>MS06-044</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-045"><strong>MS06-045</strong></a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><strong>最高的嚴重性等級：</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重要</strong></a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>受影響的 Windows 軟體：</strong></td>
@@ -432,21 +432,21 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-aug(v=Security.10)
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>公告編號</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-046"><strong>MS06-046</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-047"><strong>MS06-047</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-048"><strong>MS06-048</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-049"><strong>MS06-049</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-050"><strong>MS06-050</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-051"><strong>MS06-051</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-046"><strong>MS06-046</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-047"><strong>MS06-047</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-048"><strong>MS06-048</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-049"><strong>MS06-049</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-050"><strong>MS06-050</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-051"><strong>MS06-051</strong></a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><strong>最高的嚴重性等級：</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating"><strong>重大</strong></a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>受影響的 Windows 軟體：</strong></td>
@@ -632,7 +632,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-aug(v=Security.10)
 <td style="border:1px solid black;">Microsoft Office v. X for Mac</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/taiwan/mac/">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/taiwan/mac/">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -641,7 +641,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-aug(v=Security.10)
 <td style="border:1px solid black;">Microsoft Office 2004 for Mac</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/taiwan/mac/">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/taiwan/mac/">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -661,81 +661,81 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-aug(v=Security.10)
   
 Microsoft Software Update Services (SUS) 能讓系統管理員以迅速可靠的方式，針對 Windows 2000 和 Windows Server 2003 伺服器以及執行 Windows 2000 Professional 或 Windows XP Professional 的桌面系統，部署最新的重要更新程式及安全性更新程式。
   
-如需如何透過 Software Update Services 部署這個安全性更新的詳細資訊，請造訪 [Software Update Services 網站](http://go.microsoft.com/fwlink/?linkid=21133)。
+如需如何透過 Software Update Services 部署這個安全性更新的詳細資訊，請造訪 [Software Update Services 網站](https://go.microsoft.com/fwlink/?linkid=21133)。
   
 **Windows Server Update Services：**
   
 透過 Windows Server Update Services (WSUS)，系統管理員可迅速可靠地將 Windows 2000 作業系統及後續系統、Office XP 及後續版本、Exchange Server 2003 及 SQL Server 2000 等最新的重大更新與安全性更新部署到 Windows 2000 及後續作業系統中。
   
-如需更多關於利用 Windows Server Update Services 部署安全性更新的資訊，請造訪 [Windows Server Update Services 網站](http://www.microsoft.com/taiwan/windowsserversystem/updateservices/evaluation/overview.mspx)。
+如需更多關於利用 Windows Server Update Services 部署安全性更新的資訊，請造訪 [Windows Server Update Services 網站](https://www.microsoft.com/taiwan/windowsserversystem/updateservices/evaluation/overview.mspx)。
   
 **Systems Management Server：**
   
-Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理網站](http://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm)。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](http://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/suspack/default.htm)來協助部署安全性更新。 如需關於 SMS 的詳細資訊，請造訪 [SMS 網站](http://www.microsoft.com/taiwan/smserver/default.htm)。
+Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理網站](https://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm)。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](https://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/suspack/default.htm)來協助部署安全性更新。 如需關於 SMS 的詳細資訊，請造訪 [SMS 網站](https://www.microsoft.com/taiwan/smserver/default.htm)。
   
-**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需更多關於這個程序的資訊，請瀏覽這個[網站](http://go.microsoft.com/fwlink/?linkid=33341) (英文)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/taiwan/smserver/downloads/2003/adminpack.htm) 和 [SMS 2.0 Administration Feature Pack](http://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/adminpack/default.htm) (英文) 提供) 來安裝這些更新。
+**注意：**SMS 使用 Microsoft Baseline Security Analyzer 及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需更多關於這個程序的資訊，請瀏覽這個[網站](https://go.microsoft.com/fwlink/?linkid=33341) (英文)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](https://www.microsoft.com/taiwan/smserver/downloads/2003/adminpack.htm) 和 [SMS 2.0 Administration Feature Pack](https://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/adminpack/default.htm) (英文) 提供) 來安裝這些更新。
   
 **QChain.exe 和 Update.exe：**
   
-Microsoft 已經發行了一個名為 QChain.exe 的命令行工具，能讓系統管理員以安全可靠的方式將安全性更新串連在一起。 所謂*串連*，是指當您安裝數個更新程式時，不需要在每個更新程式安裝之後重新開機。本摘要文件所描述的更新所使用的 Update.exe 工具中，已內建有串連的功能。客戶如果使用的是 Windows 2000 Service Pack 2 或更新版本、Windows XP 或 Windows Server 2003，就不需要利用 Qchain.exe 來串連這些更新程式。Qchain.exe 仍然支援這些 Windows 更新程式，因此系統管理員可以建立一致的部署指令碼，以便跨所有的平台使用。 如需有關 Qchain 的進一步資訊，請造訪[此網站](http://go.microsoft.com/fwlink/?linkid=21156)。
+Microsoft 已經發行了一個名為 QChain.exe 的命令行工具，能讓系統管理員以安全可靠的方式將安全性更新串連在一起。 所謂*串連*，是指當您安裝數個更新程式時，不需要在每個更新程式安裝之後重新開機。本摘要文件所描述的更新所使用的 Update.exe 工具中，已內建有串連的功能。客戶如果使用的是 Windows 2000 Service Pack 2 或更新版本、Windows XP 或 Windows Server 2003，就不需要利用 Qchain.exe 來串連這些更新程式。Qchain.exe 仍然支援這些 Windows 更新程式，因此系統管理員可以建立一致的部署指令碼，以便跨所有的平台使用。 如需有關 Qchain 的進一步資訊，請造訪[此網站](https://go.microsoft.com/fwlink/?linkid=21156)。
   
 **Microsoft Baseline Security Analyzer：**
   
-Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本地和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer 網站](http://go.microsoft.com/fwlink/?linkid=21134)。
+Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本地和遠端系統，偵查任何缺少安全性更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer 網站](https://go.microsoft.com/fwlink/?linkid=21134)。
   
 **偵測與部署指南：**
   
-Microsoft 已提供本月安全性更新之偵測與部署指南。 此指南還能幫助 IT 專業人員瞭解如何使用各項工具來協助部署安全性更新，像是 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office Detection Tool、Microsoft Systems Management Server (SMS)、加強版安全性更新盤點工具 (Security Update Inventory Tool) 和企業更新掃描工具 (EST)。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 910723](http://support.microsoft.com/kb/910723)。
+Microsoft 已提供本月安全性更新之偵測與部署指南。 此指南還能幫助 IT 專業人員瞭解如何使用各項工具來協助部署安全性更新，像是 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office Detection Tool、Microsoft Systems Management Server (SMS)、加強版安全性更新盤點工具 (Security Update Inventory Tool) 和企業更新掃描工具 (EST)。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 910723](https://support.microsoft.com/kb/910723)。
   
 #### 其他資訊：
   
 **感謝**
   
-Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
   
--   感謝 Pedram Amini 與 [TippingPoint](http://www.tippingpoint.com/) 及 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 [MS06-050](http://technet.microsoft.com/security/bulletin/ms06-050) 中描述的問題。  
--   感謝 Reed Arvin 回報 [MS06-051](http://technet.microsoft.com/security/bulletin/ms06-051) 中描述的問題。  
--   感謝 [CERT/CC](http://www.cert.org/) 的 Will Dormann 回報 [MS06-042](http://technet.microsoft.com/security/bulletin/ms06-042) 中描述的問題。  
--   感謝 [CSC Australia Pty Limited](http://au.country.csc.com/) 的 Steve Tai 回報 [MS06-050](http://technet.microsoft.com/security/bulletin/ms06-050) 中描述的問題。  
--   感謝 Fortinet Security Response Team 的 Dejun 回報 [MS06-048](http://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。  
--   感謝 Tom Gilder 回報 [MS06-044](http://technet.microsoft.com/security/bulletin/ms06-044) 中描述的問題。  
--   感謝 [Information & Communication Security Technology Center](http://www.icst.org.tw/) 的 Shih-hao Weng 先生回報 [MS06-048](http://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。  
--   感謝 [ISS X-Force](http://www.iss.net/) 的 Mark Dowd 回報 [MS06-041](http://technet.microsoft.com/security/bulletin/ms06-041) 中的描述的問題。  
--   感謝 ITsec Security Services 的 Yorick Koster 回報 [MS06-044](http://technet.microsoft.com/security/bulletin/ms06-044) 中描述的問題。  
--   感謝 [Leviathan Security Group](http://www.leviathansecurity.com/) 的 Matt Miller 和 Ken Johnson 回報 [MS06-051](http://technet.microsoft.com/security/bulletin/ms06-051) 中描述的問題。  
--   感謝 [H D Moore](http://www.metasploit.com/) 回報 [MS06-044](http://technet.microsoft.com/security/bulletin/ms06-044) 中描述的問題。  
--   感謝 Nevis Labs 的 [SoWhat](http://www.nevisnetworks.com/) 回報 [MS06-048](http://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。  
--   感謝 [NGS Software](http://www.ngssoftware.com/) 的 Peter Winter Smith 回報 [MS06-041](http://technet.microsoft.com/security/bulletin/ms06-041) 中描述的問題。  
--   感謝 [SANS](http://www.sans.org/) 協助我們解決 [MS06-040](http://technet.microsoft.com/security/bulletin/ms06-040) 中所述之問題。  
--   感謝[賽門鐵克](http://www.symantec.com/)的 Elia Florio 回報 [MS06-048](http://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。  
--   感謝[賽門鐵克](http://www.symantec.com/)的 Ka Chun Leung 回報 [MS06-047](http://technet.microsoft.com/security/bulletin/ms06-047) 中描述的問題。  
--   感謝 Sam Thomas 與 [TippingPoint](http://www.tippingpoint.com/) 及 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 [MS06-042](http://technet.microsoft.com/security/bulletin/ms06-042) 中描述的兩個問題。  
--   感謝 [Tipping Point Security Research Team](http://www.tippingpoint.com/security/) 的 Cody Pierce 回報 [MS06-042](http://technet.microsoft.com/security/bulletin/ms06-042) 中描述的問題，並協助我們解決 [MS06-046](http://technet.microsoft.com/security/bulletin/ms06-046) 中所述之問題。  
--   感謝 [US-CERT](http://www.us-cert.gov/) 協助我們解決 [MS06-040](http://technet.microsoft.com/security/bulletin/ms06-040) 中所述之問題。
+-   感謝 Pedram Amini 與 [TippingPoint](https://www.tippingpoint.com/) 及 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 [MS06-050](https://technet.microsoft.com/security/bulletin/ms06-050) 中描述的問題。  
+-   感謝 Reed Arvin 回報 [MS06-051](https://technet.microsoft.com/security/bulletin/ms06-051) 中描述的問題。  
+-   感謝 [CERT/CC](https://www.cert.org/) 的 Will Dormann 回報 [MS06-042](https://technet.microsoft.com/security/bulletin/ms06-042) 中描述的問題。  
+-   感謝 [CSC Australia Pty Limited](https://au.country.csc.com/) 的 Steve Tai 回報 [MS06-050](https://technet.microsoft.com/security/bulletin/ms06-050) 中描述的問題。  
+-   感謝 Fortinet Security Response Team 的 Dejun 回報 [MS06-048](https://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。  
+-   感謝 Tom Gilder 回報 [MS06-044](https://technet.microsoft.com/security/bulletin/ms06-044) 中描述的問題。  
+-   感謝 [Information & Communication Security Technology Center](https://www.icst.org.tw/) 的 Shih-hao Weng 先生回報 [MS06-048](https://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。  
+-   感謝 [ISS X-Force](https://www.iss.net/) 的 Mark Dowd 回報 [MS06-041](https://technet.microsoft.com/security/bulletin/ms06-041) 中的描述的問題。  
+-   感謝 ITsec Security Services 的 Yorick Koster 回報 [MS06-044](https://technet.microsoft.com/security/bulletin/ms06-044) 中描述的問題。  
+-   感謝 [Leviathan Security Group](https://www.leviathansecurity.com/) 的 Matt Miller 和 Ken Johnson 回報 [MS06-051](https://technet.microsoft.com/security/bulletin/ms06-051) 中描述的問題。  
+-   感謝 [H D Moore](https://www.metasploit.com/) 回報 [MS06-044](https://technet.microsoft.com/security/bulletin/ms06-044) 中描述的問題。  
+-   感謝 Nevis Labs 的 [SoWhat](https://www.nevisnetworks.com/) 回報 [MS06-048](https://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。  
+-   感謝 [NGS Software](https://www.ngssoftware.com/) 的 Peter Winter Smith 回報 [MS06-041](https://technet.microsoft.com/security/bulletin/ms06-041) 中描述的問題。  
+-   感謝 [SANS](https://www.sans.org/) 協助我們解決 [MS06-040](https://technet.microsoft.com/security/bulletin/ms06-040) 中所述之問題。  
+-   感謝[賽門鐵克](https://www.symantec.com/)的 Elia Florio 回報 [MS06-048](https://technet.microsoft.com/security/bulletin/ms06-048) 中描述的問題。  
+-   感謝[賽門鐵克](https://www.symantec.com/)的 Ka Chun Leung 回報 [MS06-047](https://technet.microsoft.com/security/bulletin/ms06-047) 中描述的問題。  
+-   感謝 Sam Thomas 與 [TippingPoint](https://www.tippingpoint.com/) 及 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 [MS06-042](https://technet.microsoft.com/security/bulletin/ms06-042) 中描述的兩個問題。  
+-   感謝 [Tipping Point Security Research Team](https://www.tippingpoint.com/security/) 的 Cody Pierce 回報 [MS06-042](https://technet.microsoft.com/security/bulletin/ms06-042) 中描述的問題，並協助我們解決 [MS06-046](https://technet.microsoft.com/security/bulletin/ms06-046) 中所述之問題。  
+-   感謝 [US-CERT](https://www.us-cert.gov/) 協助我們解決 [MS06-040](https://technet.microsoft.com/security/bulletin/ms06-040) 中所述之問題。
   
 **取得其他安全性更新：**
   
 其他安全性問題的更新可由下列位置取得：
   
--   安裝性更新可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。  
--   客戶平台的更新程式可以從 [Microsoft Update 網站](http://go.microsoft.com/fwlink/?linkid=40747)取得。  
--   您可於本月份安全性和重大更新 ISO 影像中找到 Windows Update 所提供的本月份安全性更新。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](http://support.microsoft.com/kb/913086)。
+-   安裝性更新可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。  
+-   客戶平台的更新程式可以從 [Microsoft Update 網站](https://go.microsoft.com/fwlink/?linkid=40747)取得。  
+-   您可於本月份安全性和重大更新 ISO 影像中找到 Windows Update 所提供的本月份安全性更新。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](https://support.microsoft.com/kb/913086)。
   
 **支援：**
   
--   美國及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 產品支援服務](http://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。 與安全性更新有關的支援電話不另外收費。  
--   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援網站](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   美國及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 產品支援服務](https://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。 與安全性更新有關的支援電話不另外收費。  
+-   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援網站](https://go.microsoft.com/fwlink/?linkid=21155)。
   
 **安全性資源：**
   
--   [Microsoft TechNet 資訊安全](http://www.microsoft.com/taiwan/technet/security/default.mspx)網站提供了有關 Microsoft 產品安全性的其他資訊。  
--   [Microsoft Software Update Services](http://go.microsoft.com/fwlink/?linkid=21133)  
--   [Microsoft Windows Server Update Services](http://www.microsoft.com/taiwan/windowsserversystem/updateservices/evaluation/overview.mspx)  
--   [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134) (MBSA)  
--   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)  
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate)  
--   Windows Update 目錄： 如需有關 Windows Update 目錄的詳細資訊，請參閱 Microsoft 知識庫文件編號 [323166](http://support.microsoft.com/kb/323166/zh-tw)。  
--   [Office Update](http://office.microsoft.com/zh-tw/officeupdate/default.aspx)
+-   [Microsoft TechNet 資訊安全](https://www.microsoft.com/taiwan/technet/security/default.mspx)網站提供了有關 Microsoft 產品安全性的其他資訊。  
+-   [Microsoft Software Update Services](https://go.microsoft.com/fwlink/?linkid=21133)  
+-   [Microsoft Windows Server Update Services](https://www.microsoft.com/taiwan/windowsserversystem/updateservices/evaluation/overview.mspx)  
+-   [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134) (MBSA)  
+-   [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)  
+-   [Microsoft Update](https://update.microsoft.com/microsoftupdate)  
+-   Windows Update 目錄： 如需有關 Windows Update 目錄的詳細資訊，請參閱 Microsoft 知識庫文件編號 [323166](https://support.microsoft.com/kb/323166/zh-tw)。  
+-   [Office Update](https://office.microsoft.com/zh-tw/officeupdate/default.aspx)
   
 **免責聲明：**
   

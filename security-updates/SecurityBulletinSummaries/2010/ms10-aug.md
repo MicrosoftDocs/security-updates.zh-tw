@@ -16,13 +16,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms10-aug(v=Security.10)
 
 此公告摘要列出 2010 年 8 月份發行之資訊安全公告。
 
-發行 2010 年 8 月份公告之後，此公告摘要將取代原先於 2009 年 8 月 5 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 資訊安全公告預先通知](http://technet.microsoft.com/security/bulletin/advance) (英文)。
+發行 2010 年 8 月份公告之後，此公告摘要將取代原先於 2009 年 8 月 5 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 資訊安全公告預先通知](https://technet.microsoft.com/security/bulletin/advance) (英文)。
 
-如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
-Microsoft 將利用網路廣播於 2010 年 8 月 23 日，太平洋時間早上十一點 (美國與加拿大) 解答客戶對於這些公告的問題。 立即註冊參加 [8 月份資訊安全公告網路廣播](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032454431&eventcategory=4&culture=en-us&countrycode=us)。 在這個日期後，此網路廣播將可隨選取得。 如需更多資訊，請參閱 [Microsoft 資訊安全公告摘要和網路廣播](http://technet.microsoft.com/security/bulletin/summary)。
+Microsoft 將利用網路廣播於 2010 年 8 月 23 日，太平洋時間早上十一點 (美國與加拿大) 解答客戶對於這些公告的問題。 立即註冊參加 [8 月份資訊安全公告網路廣播](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032454431&eventcategory=4&culture=en-us&countrycode=us)。 在這個日期後，此網路廣播將可隨選取得。 如需更多資訊，請參閱 [Microsoft 資訊安全公告摘要和網路廣播](https://technet.microsoft.com/security/bulletin/summary)。
 
-對於此不定期資訊安全公告 [MS10-046](http://technet.microsoft.com/security/bulletin/ms10-046) (原先在此公告摘要第 1.0 版中宣布)，Microsoft 在 2010 年 7 月 30 日發佈一個對應的公告預先通知，並在 2010 年 8 月 2 日舉辦公告網路廣播。您可申請參加此 [2010 年 8 月 2 日網路廣播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032456779&culture=zh-tw)。 如需更多資訊，請參閱 [Microsoft 資訊安全公告摘要和網路廣播](http://technet.microsoft.com/security/bulletin/summary)。
+對於此不定期資訊安全公告 [MS10-046](https://technet.microsoft.com/security/bulletin/ms10-046) (原先在此公告摘要第 1.0 版中宣布)，Microsoft 在 2010 年 7 月 30 日發佈一個對應的公告預先通知，並在 2010 年 8 月 2 日舉辦公告網路廣播。您可申請參加此 [2010 年 8 月 2 日網路廣播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032456779&culture=zh-tw)。 如需更多資訊，請參閱 [Microsoft 資訊安全公告摘要和網路廣播](https://technet.microsoft.com/security/bulletin/summary)。
 
 Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任何非安全性、高優先順序更新的優先順序，其中這些非安全性、高優先順序更新的發行日期與每月資訊安全更新的發行日期相同。 請參閱＜其他資訊＞一節。
 
@@ -50,151 +50,151 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-046">MS10-046</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-046">MS10-046</a></td>
 <td style="border:1px solid black;"><strong>Windows Shell 中的弱點可能會允許遠端執行程式碼 (2286198)</strong><br />
 <br />
 此資訊安全更新可解決 Windows Shell 中一項公開揭露的弱點。 當蓄意製作的捷徑圖示顯示時，此弱點可能會允許遠端執行程式碼。 成功利用此弱點的攻擊者可以取得與本機使用者相同的使用者權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-049">MS10-049</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-049">MS10-049</a></td>
 <td style="border:1px solid black;"><strong>SChannel 中的弱點可能會允許遠端執行程式碼 (980436)</strong><br />
 <br />
 此資訊安全更新解決了 Windows 中安全通道 (SChannel) 安全性封裝中一項公開揭露的弱點和一項未公開報告的弱點。 如果使用者造訪蓄意製作的網站，且其設計用於透過網際網路網頁瀏覽器來利用這些弱點，則最嚴重的弱點可能會允許遠端執行程式碼。 但是，攻擊者無法強迫使用者造訪網站， 而是引誘使用者自行前往。一般的做法是設法讓使用者按一下電子郵件訊息或 Instant Messenger 中通往攻擊者網站的連結。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-051">MS10-051</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-051">MS10-051</a></td>
 <td style="border:1px solid black;"><strong>Microsoft XML Core Services 中的弱點可能會允許遠端執行程式碼 (2079403)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft XML Core Services 中一項未公開報告的弱點。 如果使用者使用 Internet Explorer 檢視蓄意製作的網頁，此弱點可能會允許遠端執行程式碼。 攻擊者並不能強迫使用者造訪這些網站。 而是引誘使用者自行前往。一般的做法是設法讓使用者按一下電子郵件或 Instant Messenger 訊息中通往攻擊者網站的連結。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-052">MS10-052</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-052">MS10-052</a></td>
 <td style="border:1px solid black;"><strong>Microsoft MPEG Layer-3 轉碼器中的弱點可能會允許遠端執行程式碼 (2115168)</strong><br />
 <br />
 此資訊安全更新能解決 Microsoft MPEG Layer-3 音訊轉碼器中一項未公開報告的弱點。 當使用者開啟蓄意製作的媒體檔案，或者從網站或任何提供 Web 內容的應用程式收到蓄意製作的串流內容時，這些弱點可能會允許遠端執行程式碼。 成功利用此弱點的攻擊者可以取得與本機使用者相同的使用者權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-053">MS10-053</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-053">MS10-053</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 積存資訊安全更新 (2183461)</strong><br />
 <br />
 此資訊安全更新可解決 Internet Explorer 中六項未公開報告的弱點。 最嚴重的弱點可能會在使用者以 Internet Explorer 檢視蓄意製作的網頁時，允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、Internet Explorer</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-054">MS10-054</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-054">MS10-054</a></td>
 <td style="border:1px solid black;"><strong>SMB 伺服器中的弱點可能會允許遠端執行程式碼 (982214)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Windows 中數個未公開報告的弱點。 如果攻擊者蓄意製作 SMB 封包並將其傳送至受影響的系統，最嚴重的弱點可能會允許遠端執行程式碼。 最佳做法的防火牆和標準預設防火牆設定有助於防止網路受到來自企業外試圖利用這些弱點的攻擊。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-055">MS10-055</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-055">MS10-055</a></td>
 <td style="border:1px solid black;"><strong>Cinepak Codec 中的弱點可能會允許遠端執行程式碼 (982665)</strong><br />
 <br />
 此資訊安全更新可解決 Cinepak Codec 中一項未公開報告的弱點。 當使用者開啟蓄意製作的媒體檔案，或者從網站或任何提供 Web 內容的應用程式收到蓄意製作的串流內容時，這些弱點可能會允許遠端執行程式碼。 成功利用此弱點的攻擊者可以取得與本機使用者相同的使用者權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-056">MS10-056</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-056">MS10-056</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office Word 中的弱點可能會允許遠端執行程式碼 (2269638)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Office 中四項未公開報告的弱點。 最嚴重的弱點可能會在使用者開啟或預覽蓄意製作的 RTF 電子郵件時，允許遠端執行程式碼。 成功利用這類任一弱點的攻擊者可以取得與本機使用者相同的使用者權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-060">MS10-060</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-060">MS10-060</a></td>
 <td style="border:1px solid black;"><strong>Microsoft .NET Common Language Runtime 和 Microsoft Silverlight 中的弱點可能會允許遠端執行程式碼 (2265906)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft .NET Framework 和 Microsoft Silverlight 中兩項未公開報告的弱點。 如果使用者使用可執行 XAML 瀏覽器應用程式 (XBAP) 或 Silverlight 應用程式的網頁瀏覽器來檢視蓄意製作的網頁，或攻擊者成功誘使使用者執行隨意製作的 Microsoft .NET 應用程式，則這些弱點可能會允許在用戶端系統上遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。 如果伺服器允許處理 ASP.NET 網頁，且攻擊者將蓄意製作的 ASP.NET 網頁成功上載到執行 IIS 的伺服器系統並執行，則這些弱點也可能會允許在該伺服器系統上遠端執行程式碼 (虛擬主機案例可能會發生這種情況)。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、Microsoft .NET Framework、Microsoft Silverlight</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-047">MS10-047</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-047">MS10-047</a></td>
 <td style="border:1px solid black;"><strong>Windows 核心中的弱點可能會允許權限提高 (981852)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Windows 中數個未公開報告的弱點。 如果攻擊者從本機登入並執行蓄意製作的應用程式，則最嚴重的弱點可能會允許權限提高。 攻擊者必須擁有有效的登入認證，並能夠登入本機，才能利用這些弱點。 遠端或匿名使用者無法利用這個弱點。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-048">MS10-048</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-048">MS10-048</a></td>
 <td style="border:1px solid black;"><strong>Windows 核心模式驅動程式中的弱點可能會允許權限提高 (2160329)</strong><br />
 <br />
 此資訊安全更新可解決 Windows 核心模式驅動程式中一項公開揭露的弱點和四項未公開報告的弱點。 如果攻擊者登入受影響的系統並執行蓄意製作的應用程式，則最嚴重的弱點可能會允許權限提高。 攻擊者必須擁有有效的登入認證，並能夠登入本機，才能利用這項弱點。 匿名或遠端使用者無法利用這個弱點。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-050">MS10-050</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-050">MS10-050</a></td>
 <td style="border:1px solid black;"><strong>Windows Movie Maker 中的弱點可能會允許遠端執行程式碼 (981997)</strong><br />
 <br />
 這個資訊安全更新可解決 Windows Movie Maker 中一項未公開報告的弱點。 如果攻擊者傳送蓄意製作的 Movie Maker 專案檔案，並且引誘使用者開啟蓄意製作的檔案，則此弱點可允許遠端執行程式碼。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-057">MS10-057</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-057">MS10-057</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office Excel 中的弱點可能會允許遠端執行程式碼 (2269707)</strong> <br />
 <br />
 這個資訊安全更新可解決 Microsoft Office 中一項未公開報告的弱點。 如果使用者開啟蓄意製作的 Excel 檔案，此弱點可能會允許遠端執行程式碼。 成功利用此弱點的攻擊者可以取得與登入使用者相同的使用者權限。 系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-058">MS10-058</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-058">MS10-058</a></td>
 <td style="border:1px solid black;"><strong>TCP/IP 中的弱點可能會允許提高權限 (978886)</strong><br />
 <br />
 這個資訊安全更新可解決 Microsoft Windows 中兩項未公開報告的弱點。 由於特定輸入緩衝區的處理有錯誤，這些弱點中較嚴重者可能會允許權限提高。 能登入目標系統的攻擊者即可利用此弱點，並以系統層級權限執行任意程式碼。 攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms10-059">MS10-059</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms10-059">MS10-059</a></td>
 <td style="border:1px solid black;"><strong>服務的追蹤功能中的弱點可能會允許權限提高 (982799)</strong><br />
 <br />
 此資訊安全更新可解決服務的追蹤功能中一項公開揭露的弱點和一項未公開報告的弱點。 如果攻擊者執行蓄意製作的應用程式，弱點就可能允許權限提高。 攻擊者必須擁有有效的登入認證，並能夠登入本機，才能利用這項弱點。 匿名或遠端使用者無法利用這個弱點。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -210,42 +210,42 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
   
 **我該如何使用這個表格？**
   
-請用這個表格來瞭解您可能需要安裝的每個資訊安全更新，與 30 天內已發行的可利用程式碼受影響之可能性。 您應該檢閱下列的每個評估，按照特定的設定，將部署以優先次序排序。 如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點索引](http://technet.microsoft.com/en-us/security/cc998259.aspx)。
+請用這個表格來瞭解您可能需要安裝的每個資訊安全更新，與 30 天內已發行的可利用程式碼受影響之可能性。 您應該檢閱下列的每個評估，按照特定的設定，將部署以優先次序排序。 如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點索引](https://technet.microsoft.com/en-us/security/cc998259.aspx)。
   
 | 公告編號                                                            | 弱點標題                                                               | CVE ID                                                                           | 弱點索引評估                                                                                            | 主要重點                                                                                                                    |  
 |---------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|  
-| [MS10-060](http://technet.microsoft.com/security/bulletin/ms10-060) | Microsoft Silverlight 記憶體損毀弱點                                   | [CVE-2010-0019](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0019) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-052](http://technet.microsoft.com/security/bulletin/ms10-052) | MPEG Layer-3 音訊解碼器緩衝區溢位弱點                                  | [CVE-2010-1882](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1882) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-047](http://technet.microsoft.com/security/bulletin/ms10-047) | Windows 核心資料初始化弱點                                             | [CVE-2010-1888](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1888) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-058](http://technet.microsoft.com/security/bulletin/ms10-058) | Windows 網路中的整數溢位弱點                                           | [CVE-2010-1893](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1893) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-048](http://technet.microsoft.com/security/bulletin/ms10-048) | Win32k 例外處理弱點                                                    | [CVE-2010-1894](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1894) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | **已經公開發佈這項弱點。**                                                                                                  |  
-| [MS10-048](http://technet.microsoft.com/security/bulletin/ms10-048) | Win32k 集區溢位弱點                                                    | [CVE-2010-1895](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1895) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-048](http://technet.microsoft.com/security/bulletin/ms10-048) | Win32k 使用者輸入驗證弱點                                              | [CVE-2010-1896](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1896) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-048](http://technet.microsoft.com/security/bulletin/ms10-048) | Win32k 視窗建立弱點                                                    | [CVE-2010-1897](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1897) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-060](http://technet.microsoft.com/security/bulletin/ms10-060) | Microsoft Silverlight 和 Microsoft .NET Framework CLR 虛擬方法委派弱點 | [CVE-2010-1898](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1898) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-056](http://technet.microsoft.com/security/bulletin/ms10-056) | Word 記錄剖析弱點                                                      | [CVE-2010-1900](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1900) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-056](http://technet.microsoft.com/security/bulletin/ms10-056) | Word RTF 剖析引擎記憶體損毀弱點                                        | [CVE-2010-1901](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1901) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-055](http://technet.microsoft.com/security/bulletin/ms10-055) | Cinepak Codec 解壓縮弱點                                               | [CVE-2010-2553](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2553) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-059](http://technet.microsoft.com/security/bulletin/ms10-059) | 追蹤記憶體損毀弱點                                                     | [CVE-2010-2555](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2555) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-053](http://technet.microsoft.com/security/bulletin/ms10-053) | 未初始化的記憶體損毀弱點                                               | [CVE-2010-2557](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2557) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 由於缺少資料執行防止 (DEP) 作為風險減輕措施，所以在 Internet Explorer 6 上較有可能利用此弱點進行攻擊。                      |  
-| [MS10-053](http://technet.microsoft.com/security/bulletin/ms10-053) | HTML 配置記憶體損毀弱點                                                | [CVE-2010-2560](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2560) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-057](http://technet.microsoft.com/security/bulletin/ms10-057) | Excel 記憶體損毀弱點                                                   | [CVE-2010-2562](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2562) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-050](http://technet.microsoft.com/security/bulletin/ms10-050) | Movie Maker 記憶體損毀弱點                                             | [CVE-2010-2564](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2564) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-046](http://technet.microsoft.com/security/bulletin/ms10-046) | 捷徑圖示載入弱點                                                       | [CVE-2010-2568](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2568) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | **此弱點目前在網際網路生態系統中遭到利用。**                                                                                |  
-| [MS10-047](http://technet.microsoft.com/security/bulletin/ms10-047) | Windows 核心重覆釋放相同記憶體空間弱點                                 | [CVE-2010-1889](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1889) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-056](http://technet.microsoft.com/security/bulletin/ms10-056) | Word RTF 剖析緩衝區溢位弱點                                            | [CVE-2010-1902](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1902) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 由於具備額外的堆積記憶體這項風險減輕機制，因此較難利用 Windows Vista 和 Windows 7。                                         |  
-| [MS10-056](http://technet.microsoft.com/security/bulletin/ms10-056) | Word HTML 連結的物件記憶體損毀弱點                                     | [CVE-2010-1903](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1903) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-054](http://technet.microsoft.com/security/bulletin/ms10-054) | SMB 集區溢位弱點                                                       | [CVE-2010-2550](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2550) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 遭到利用時比較有可能導致拒絕服務，不太可能執行程式碼。                                                                      |  
-| [MS10-053](http://technet.microsoft.com/security/bulletin/ms10-053) | 未初始化的記憶體損毀弱點                                               | [CVE-2010-2556](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2556) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-053](http://technet.microsoft.com/security/bulletin/ms10-053) | 競爭條件記憶體損毀弱點                                                 | [CVE-2010-2558](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2558) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-053](http://technet.microsoft.com/security/bulletin/ms10-053) | 未初始化的記憶體損毀弱點                                               | [CVE-2010-2559](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2559) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-051](http://technet.microsoft.com/security/bulletin/ms10-051) | Msxml2.XMLHTTP.3.0 回應處理記憶體損毀弱點                              | [CVE-2010-2561](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2561) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
-| [MS10-049](http://technet.microsoft.com/security/bulletin/ms10-049) | SChannel 格式錯誤的憑證要求遠端執行程式碼弱點                          | [CVE-2010-2566](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2566) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 遭到利用時很有可能導致拒絕服務， 不太可能遠端執行程式碼。                                                                   |  
-| [MS10-049](http://technet.microsoft.com/security/bulletin/ms10-049) | TLS/SSL 重新交涉弱點                                                   | [CVE-2009-3555](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3555) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個偽造弱點。 在 [Microsoft 安全性摘要報告 977377](http://technet.microsoft.com/security/advisory/977377) 中已有說明。 |  
-| [MS10-053](http://technet.microsoft.com/security/bulletin/ms10-053) | 事件處理常式跨網域弱點                                                 | [CVE-2010-1258](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1258) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個資訊洩漏的弱點。                                                                                                    |  
-| [MS10-058](http://technet.microsoft.com/security/bulletin/ms10-058) | IPv6 記憶體損毀弱點                                                    | [CVE-2010-1892](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1892) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。                                                                                                    |  
-| [MS10-054](http://technet.microsoft.com/security/bulletin/ms10-054) | SMB 變數驗證弱點                                                       | [CVE-2010-2551](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2551) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。                                                                                                    |  
-| [MS10-054](http://technet.microsoft.com/security/bulletin/ms10-054) | SMB 堆疊耗盡弱點                                                       | [CVE-2010-2552](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2552) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。                                                                                                    |
+| [MS10-060](https://technet.microsoft.com/security/bulletin/ms10-060) | Microsoft Silverlight 記憶體損毀弱點                                   | [CVE-2010-0019](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-0019) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-052](https://technet.microsoft.com/security/bulletin/ms10-052) | MPEG Layer-3 音訊解碼器緩衝區溢位弱點                                  | [CVE-2010-1882](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1882) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-047](https://technet.microsoft.com/security/bulletin/ms10-047) | Windows 核心資料初始化弱點                                             | [CVE-2010-1888](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1888) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-058](https://technet.microsoft.com/security/bulletin/ms10-058) | Windows 網路中的整數溢位弱點                                           | [CVE-2010-1893](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1893) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-048](https://technet.microsoft.com/security/bulletin/ms10-048) | Win32k 例外處理弱點                                                    | [CVE-2010-1894](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1894) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | **已經公開發佈這項弱點。**                                                                                                  |  
+| [MS10-048](https://technet.microsoft.com/security/bulletin/ms10-048) | Win32k 集區溢位弱點                                                    | [CVE-2010-1895](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1895) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-048](https://technet.microsoft.com/security/bulletin/ms10-048) | Win32k 使用者輸入驗證弱點                                              | [CVE-2010-1896](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1896) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-048](https://technet.microsoft.com/security/bulletin/ms10-048) | Win32k 視窗建立弱點                                                    | [CVE-2010-1897](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1897) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-060](https://technet.microsoft.com/security/bulletin/ms10-060) | Microsoft Silverlight 和 Microsoft .NET Framework CLR 虛擬方法委派弱點 | [CVE-2010-1898](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1898) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-056](https://technet.microsoft.com/security/bulletin/ms10-056) | Word 記錄剖析弱點                                                      | [CVE-2010-1900](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1900) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-056](https://technet.microsoft.com/security/bulletin/ms10-056) | Word RTF 剖析引擎記憶體損毀弱點                                        | [CVE-2010-1901](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1901) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-055](https://technet.microsoft.com/security/bulletin/ms10-055) | Cinepak Codec 解壓縮弱點                                               | [CVE-2010-2553](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2553) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-059](https://technet.microsoft.com/security/bulletin/ms10-059) | 追蹤記憶體損毀弱點                                                     | [CVE-2010-2555](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2555) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-053](https://technet.microsoft.com/security/bulletin/ms10-053) | 未初始化的記憶體損毀弱點                                               | [CVE-2010-2557](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2557) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | 由於缺少資料執行防止 (DEP) 作為風險減輕措施，所以在 Internet Explorer 6 上較有可能利用此弱點進行攻擊。                      |  
+| [MS10-053](https://technet.microsoft.com/security/bulletin/ms10-053) | HTML 配置記憶體損毀弱點                                                | [CVE-2010-2560](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2560) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-057](https://technet.microsoft.com/security/bulletin/ms10-057) | Excel 記憶體損毀弱點                                                   | [CVE-2010-2562](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2562) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-050](https://technet.microsoft.com/security/bulletin/ms10-050) | Movie Maker 記憶體損毀弱點                                             | [CVE-2010-2564](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2564) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-046](https://technet.microsoft.com/security/bulletin/ms10-046) | 捷徑圖示載入弱點                                                       | [CVE-2010-2568](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2568) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出可持續利用此漏洞的程式碼 | **此弱點目前在網際網路生態系統中遭到利用。**                                                                                |  
+| [MS10-047](https://technet.microsoft.com/security/bulletin/ms10-047) | Windows 核心重覆釋放相同記憶體空間弱點                                 | [CVE-2010-1889](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1889) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-056](https://technet.microsoft.com/security/bulletin/ms10-056) | Word RTF 剖析緩衝區溢位弱點                                            | [CVE-2010-1902](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1902) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 由於具備額外的堆積記憶體這項風險減輕機制，因此較難利用 Windows Vista 和 Windows 7。                                         |  
+| [MS10-056](https://technet.microsoft.com/security/bulletin/ms10-056) | Word HTML 連結的物件記憶體損毀弱點                                     | [CVE-2010-1903](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1903) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-054](https://technet.microsoft.com/security/bulletin/ms10-054) | SMB 集區溢位弱點                                                       | [CVE-2010-2550](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2550) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 遭到利用時比較有可能導致拒絕服務，不太可能執行程式碼。                                                                      |  
+| [MS10-053](https://technet.microsoft.com/security/bulletin/ms10-053) | 未初始化的記憶體損毀弱點                                               | [CVE-2010-2556](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2556) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-053](https://technet.microsoft.com/security/bulletin/ms10-053) | 競爭條件記憶體損毀弱點                                                 | [CVE-2010-2558](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2558) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-053](https://technet.microsoft.com/security/bulletin/ms10-053) | 未初始化的記憶體損毀弱點                                               | [CVE-2010-2559](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2559) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-051](https://technet.microsoft.com/security/bulletin/ms10-051) | Msxml2.XMLHTTP.3.0 回應處理記憶體損毀弱點                              | [CVE-2010-2561](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2561) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | (無)                                                                                                                        |  
+| [MS10-049](https://technet.microsoft.com/security/bulletin/ms10-049) | SChannel 格式錯誤的憑證要求遠端執行程式碼弱點                          | [CVE-2010-2566](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2566) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能撰寫出偶爾可利用此漏洞的程式碼 | 遭到利用時很有可能導致拒絕服務， 不太可能遠端執行程式碼。                                                                   |  
+| [MS10-049](https://technet.microsoft.com/security/bulletin/ms10-049) | TLS/SSL 重新交涉弱點                                                   | [CVE-2009-3555](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3555) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個偽造弱點。 在 [Microsoft 安全性摘要報告 977377](https://technet.microsoft.com/security/advisory/977377) 中已有說明。 |  
+| [MS10-053](https://technet.microsoft.com/security/bulletin/ms10-053) | 事件處理常式跨網域弱點                                                 | [CVE-2010-1258](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1258) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一個資訊洩漏的弱點。                                                                                                    |  
+| [MS10-058](https://technet.microsoft.com/security/bulletin/ms10-058) | IPv6 記憶體損毀弱點                                                    | [CVE-2010-1892](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-1892) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。                                                                                                    |  
+| [MS10-054](https://technet.microsoft.com/security/bulletin/ms10-054) | SMB 變數驗證弱點                                                       | [CVE-2010-2551](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2551) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。                                                                                                    |  
+| [MS10-054](https://technet.microsoft.com/security/bulletin/ms10-054) | SMB 堆疊耗盡弱點                                                       | [CVE-2010-2552](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-2552) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不太可能撰寫出可利用此漏洞的程式碼 | 這是一項拒絕服務的弱點。                                                                                                    |
   
 受影響的軟體及下載位置  
 ----------------------
@@ -304,43 +304,43 @@ Windows XP
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-046**](http://technet.microsoft.com/security/bulletin/ms10-046)
+[**MS10-046**](https://technet.microsoft.com/security/bulletin/ms10-046)
 </td>
 <td style="border:1px solid black;">
-[**MS10-049**](http://technet.microsoft.com/security/bulletin/ms10-049)
+[**MS10-049**](https://technet.microsoft.com/security/bulletin/ms10-049)
 </td>
 <td style="border:1px solid black;">
-[**MS10-051**](http://technet.microsoft.com/security/bulletin/ms10-051)
+[**MS10-051**](https://technet.microsoft.com/security/bulletin/ms10-051)
 </td>
 <td style="border:1px solid black;">
-[**MS10-052**](http://technet.microsoft.com/security/bulletin/ms10-052)
+[**MS10-052**](https://technet.microsoft.com/security/bulletin/ms10-052)
 </td>
 <td style="border:1px solid black;">
-[**MS10-053**](http://technet.microsoft.com/security/bulletin/ms10-053)
+[**MS10-053**](https://technet.microsoft.com/security/bulletin/ms10-053)
 </td>
 <td style="border:1px solid black;">
-[**MS10-054**](http://technet.microsoft.com/security/bulletin/ms10-054)
+[**MS10-054**](https://technet.microsoft.com/security/bulletin/ms10-054)
 </td>
 <td style="border:1px solid black;">
-[**MS10-055**](http://technet.microsoft.com/security/bulletin/ms10-055)
+[**MS10-055**](https://technet.microsoft.com/security/bulletin/ms10-055)
 </td>
 <td style="border:1px solid black;">
-[**MS10-060**](http://technet.microsoft.com/security/bulletin/ms10-060)
+[**MS10-060**](https://technet.microsoft.com/security/bulletin/ms10-060)
 </td>
 <td style="border:1px solid black;">
-[**MS10-047**](http://technet.microsoft.com/security/bulletin/ms10-047)
+[**MS10-047**](https://technet.microsoft.com/security/bulletin/ms10-047)
 </td>
 <td style="border:1px solid black;">
-[**MS10-048**](http://technet.microsoft.com/security/bulletin/ms10-048)
+[**MS10-048**](https://technet.microsoft.com/security/bulletin/ms10-048)
 </td>
 <td style="border:1px solid black;">
-[**MS10-050**](http://technet.microsoft.com/security/bulletin/ms10-050)
+[**MS10-050**](https://technet.microsoft.com/security/bulletin/ms10-050)
 </td>
 <td style="border:1px solid black;">
-[**MS10-058**](http://technet.microsoft.com/security/bulletin/ms10-058)
+[**MS10-058**](https://technet.microsoft.com/security/bulletin/ms10-058)
 </td>
 <td style="border:1px solid black;">
-[**MS10-059**](http://technet.microsoft.com/security/bulletin/ms10-059)
+[**MS10-059**](https://technet.microsoft.com/security/bulletin/ms10-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -348,37 +348,37 @@ Windows XP
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
@@ -483,7 +483,7 @@ Windows XP Professional x64 Edition Service Pack 2
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/my%20documents/release/5cff5d6e-11a5-40ed-92ac-e12d287919e6)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/my%20documents/release/5cff5d6e-11a5-40ed-92ac-e12d287919e6)  
 (重大)
 </td>
 <td style="border:1px solid black;">
@@ -522,43 +522,43 @@ Windows Server 2003
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-046**](http://technet.microsoft.com/security/bulletin/ms10-046)
+[**MS10-046**](https://technet.microsoft.com/security/bulletin/ms10-046)
 </td>
 <td style="border:1px solid black;">
-[**MS10-049**](http://technet.microsoft.com/security/bulletin/ms10-049)
+[**MS10-049**](https://technet.microsoft.com/security/bulletin/ms10-049)
 </td>
 <td style="border:1px solid black;">
-[**MS10-051**](http://technet.microsoft.com/security/bulletin/ms10-051)
+[**MS10-051**](https://technet.microsoft.com/security/bulletin/ms10-051)
 </td>
 <td style="border:1px solid black;">
-[**MS10-052**](http://technet.microsoft.com/security/bulletin/ms10-052)
+[**MS10-052**](https://technet.microsoft.com/security/bulletin/ms10-052)
 </td>
 <td style="border:1px solid black;">
-[**MS10-053**](http://technet.microsoft.com/security/bulletin/ms10-053)
+[**MS10-053**](https://technet.microsoft.com/security/bulletin/ms10-053)
 </td>
 <td style="border:1px solid black;">
-[**MS10-054**](http://technet.microsoft.com/security/bulletin/ms10-054)
+[**MS10-054**](https://technet.microsoft.com/security/bulletin/ms10-054)
 </td>
 <td style="border:1px solid black;">
-[**MS10-055**](http://technet.microsoft.com/security/bulletin/ms10-055)
+[**MS10-055**](https://technet.microsoft.com/security/bulletin/ms10-055)
 </td>
 <td style="border:1px solid black;">
-[**MS10-060**](http://technet.microsoft.com/security/bulletin/ms10-060)
+[**MS10-060**](https://technet.microsoft.com/security/bulletin/ms10-060)
 </td>
 <td style="border:1px solid black;">
-[**MS10-047**](http://technet.microsoft.com/security/bulletin/ms10-047)
+[**MS10-047**](https://technet.microsoft.com/security/bulletin/ms10-047)
 </td>
 <td style="border:1px solid black;">
-[**MS10-048**](http://technet.microsoft.com/security/bulletin/ms10-048)
+[**MS10-048**](https://technet.microsoft.com/security/bulletin/ms10-048)
 </td>
 <td style="border:1px solid black;">
-[**MS10-050**](http://technet.microsoft.com/security/bulletin/ms10-050)
+[**MS10-050**](https://technet.microsoft.com/security/bulletin/ms10-050)
 </td>
 <td style="border:1px solid black;">
-[**MS10-058**](http://technet.microsoft.com/security/bulletin/ms10-058)
+[**MS10-058**](https://technet.microsoft.com/security/bulletin/ms10-058)
 </td>
 <td style="border:1px solid black;">
-[**MS10-059**](http://technet.microsoft.com/security/bulletin/ms10-059)
+[**MS10-059**](https://technet.microsoft.com/security/bulletin/ms10-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -566,34 +566,34 @@ Windows Server 2003
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-無
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+無
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
@@ -792,43 +792,43 @@ Windows Vista
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-046**](http://technet.microsoft.com/security/bulletin/ms10-046)
+[**MS10-046**](https://technet.microsoft.com/security/bulletin/ms10-046)
 </td>
 <td style="border:1px solid black;">
-[**MS10-049**](http://technet.microsoft.com/security/bulletin/ms10-049)
+[**MS10-049**](https://technet.microsoft.com/security/bulletin/ms10-049)
 </td>
 <td style="border:1px solid black;">
-[**MS10-051**](http://technet.microsoft.com/security/bulletin/ms10-051)
+[**MS10-051**](https://technet.microsoft.com/security/bulletin/ms10-051)
 </td>
 <td style="border:1px solid black;">
-[**MS10-052**](http://technet.microsoft.com/security/bulletin/ms10-052)
+[**MS10-052**](https://technet.microsoft.com/security/bulletin/ms10-052)
 </td>
 <td style="border:1px solid black;">
-[**MS10-053**](http://technet.microsoft.com/security/bulletin/ms10-053)
+[**MS10-053**](https://technet.microsoft.com/security/bulletin/ms10-053)
 </td>
 <td style="border:1px solid black;">
-[**MS10-054**](http://technet.microsoft.com/security/bulletin/ms10-054)
+[**MS10-054**](https://technet.microsoft.com/security/bulletin/ms10-054)
 </td>
 <td style="border:1px solid black;">
-[**MS10-055**](http://technet.microsoft.com/security/bulletin/ms10-055)
+[**MS10-055**](https://technet.microsoft.com/security/bulletin/ms10-055)
 </td>
 <td style="border:1px solid black;">
-[**MS10-060**](http://technet.microsoft.com/security/bulletin/ms10-060)
+[**MS10-060**](https://technet.microsoft.com/security/bulletin/ms10-060)
 </td>
 <td style="border:1px solid black;">
-[**MS10-047**](http://technet.microsoft.com/security/bulletin/ms10-047)
+[**MS10-047**](https://technet.microsoft.com/security/bulletin/ms10-047)
 </td>
 <td style="border:1px solid black;">
-[**MS10-048**](http://technet.microsoft.com/security/bulletin/ms10-048)
+[**MS10-048**](https://technet.microsoft.com/security/bulletin/ms10-048)
 </td>
 <td style="border:1px solid black;">
-[**MS10-050**](http://technet.microsoft.com/security/bulletin/ms10-050)
+[**MS10-050**](https://technet.microsoft.com/security/bulletin/ms10-050)
 </td>
 <td style="border:1px solid black;">
-[**MS10-058**](http://technet.microsoft.com/security/bulletin/ms10-058)
+[**MS10-058**](https://technet.microsoft.com/security/bulletin/ms10-058)
 </td>
 <td style="border:1px solid black;">
-[**MS10-059**](http://technet.microsoft.com/security/bulletin/ms10-059)
+[**MS10-059**](https://technet.microsoft.com/security/bulletin/ms10-059)
 </td>
 </tr>
 <tr>
@@ -836,43 +836,43 @@ Windows Vista
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1025,43 +1025,43 @@ Windows Server 2008
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-046**](http://technet.microsoft.com/security/bulletin/ms10-046)
+[**MS10-046**](https://technet.microsoft.com/security/bulletin/ms10-046)
 </td>
 <td style="border:1px solid black;">
-[**MS10-049**](http://technet.microsoft.com/security/bulletin/ms10-049)
+[**MS10-049**](https://technet.microsoft.com/security/bulletin/ms10-049)
 </td>
 <td style="border:1px solid black;">
-[**MS10-051**](http://technet.microsoft.com/security/bulletin/ms10-051)
+[**MS10-051**](https://technet.microsoft.com/security/bulletin/ms10-051)
 </td>
 <td style="border:1px solid black;">
-[**MS10-052**](http://technet.microsoft.com/security/bulletin/ms10-052)
+[**MS10-052**](https://technet.microsoft.com/security/bulletin/ms10-052)
 </td>
 <td style="border:1px solid black;">
-[**MS10-053**](http://technet.microsoft.com/security/bulletin/ms10-053)
+[**MS10-053**](https://technet.microsoft.com/security/bulletin/ms10-053)
 </td>
 <td style="border:1px solid black;">
-[**MS10-054**](http://technet.microsoft.com/security/bulletin/ms10-054)
+[**MS10-054**](https://technet.microsoft.com/security/bulletin/ms10-054)
 </td>
 <td style="border:1px solid black;">
-[**MS10-055**](http://technet.microsoft.com/security/bulletin/ms10-055)
+[**MS10-055**](https://technet.microsoft.com/security/bulletin/ms10-055)
 </td>
 <td style="border:1px solid black;">
-[**MS10-060**](http://technet.microsoft.com/security/bulletin/ms10-060)
+[**MS10-060**](https://technet.microsoft.com/security/bulletin/ms10-060)
 </td>
 <td style="border:1px solid black;">
-[**MS10-047**](http://technet.microsoft.com/security/bulletin/ms10-047)
+[**MS10-047**](https://technet.microsoft.com/security/bulletin/ms10-047)
 </td>
 <td style="border:1px solid black;">
-[**MS10-048**](http://technet.microsoft.com/security/bulletin/ms10-048)
+[**MS10-048**](https://technet.microsoft.com/security/bulletin/ms10-048)
 </td>
 <td style="border:1px solid black;">
-[**MS10-050**](http://technet.microsoft.com/security/bulletin/ms10-050)
+[**MS10-050**](https://technet.microsoft.com/security/bulletin/ms10-050)
 </td>
 <td style="border:1px solid black;">
-[**MS10-058**](http://technet.microsoft.com/security/bulletin/ms10-058)
+[**MS10-058**](https://technet.microsoft.com/security/bulletin/ms10-058)
 </td>
 <td style="border:1px solid black;">
-[**MS10-059**](http://technet.microsoft.com/security/bulletin/ms10-059)
+[**MS10-059**](https://technet.microsoft.com/security/bulletin/ms10-059)
 </td>
 </tr>
 <tr>
@@ -1069,43 +1069,43 @@ Windows Server 2008
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-無
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+無
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1314,43 +1314,43 @@ Windows 7
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-046**](http://technet.microsoft.com/security/bulletin/ms10-046)
+[**MS10-046**](https://technet.microsoft.com/security/bulletin/ms10-046)
 </td>
 <td style="border:1px solid black;">
-[**MS10-049**](http://technet.microsoft.com/security/bulletin/ms10-049)
+[**MS10-049**](https://technet.microsoft.com/security/bulletin/ms10-049)
 </td>
 <td style="border:1px solid black;">
-[**MS10-051**](http://technet.microsoft.com/security/bulletin/ms10-051)
+[**MS10-051**](https://technet.microsoft.com/security/bulletin/ms10-051)
 </td>
 <td style="border:1px solid black;">
-[**MS10-052**](http://technet.microsoft.com/security/bulletin/ms10-052)
+[**MS10-052**](https://technet.microsoft.com/security/bulletin/ms10-052)
 </td>
 <td style="border:1px solid black;">
-[**MS10-053**](http://technet.microsoft.com/security/bulletin/ms10-053)
+[**MS10-053**](https://technet.microsoft.com/security/bulletin/ms10-053)
 </td>
 <td style="border:1px solid black;">
-[**MS10-054**](http://technet.microsoft.com/security/bulletin/ms10-054)
+[**MS10-054**](https://technet.microsoft.com/security/bulletin/ms10-054)
 </td>
 <td style="border:1px solid black;">
-[**MS10-055**](http://technet.microsoft.com/security/bulletin/ms10-055)
+[**MS10-055**](https://technet.microsoft.com/security/bulletin/ms10-055)
 </td>
 <td style="border:1px solid black;">
-[**MS10-060**](http://technet.microsoft.com/security/bulletin/ms10-060)
+[**MS10-060**](https://technet.microsoft.com/security/bulletin/ms10-060)
 </td>
 <td style="border:1px solid black;">
-[**MS10-047**](http://technet.microsoft.com/security/bulletin/ms10-047)
+[**MS10-047**](https://technet.microsoft.com/security/bulletin/ms10-047)
 </td>
 <td style="border:1px solid black;">
-[**MS10-048**](http://technet.microsoft.com/security/bulletin/ms10-048)
+[**MS10-048**](https://technet.microsoft.com/security/bulletin/ms10-048)
 </td>
 <td style="border:1px solid black;">
-[**MS10-050**](http://technet.microsoft.com/security/bulletin/ms10-050)
+[**MS10-050**](https://technet.microsoft.com/security/bulletin/ms10-050)
 </td>
 <td style="border:1px solid black;">
-[**MS10-058**](http://technet.microsoft.com/security/bulletin/ms10-058)
+[**MS10-058**](https://technet.microsoft.com/security/bulletin/ms10-058)
 </td>
 <td style="border:1px solid black;">
-[**MS10-059**](http://technet.microsoft.com/security/bulletin/ms10-059)
+[**MS10-059**](https://technet.microsoft.com/security/bulletin/ms10-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1358,43 +1358,43 @@ Windows 7
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-無
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+無
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1519,43 +1519,43 @@ Windows Server 2008 R2
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-046**](http://technet.microsoft.com/security/bulletin/ms10-046)
+[**MS10-046**](https://technet.microsoft.com/security/bulletin/ms10-046)
 </td>
 <td style="border:1px solid black;">
-[**MS10-049**](http://technet.microsoft.com/security/bulletin/ms10-049)
+[**MS10-049**](https://technet.microsoft.com/security/bulletin/ms10-049)
 </td>
 <td style="border:1px solid black;">
-[**MS10-051**](http://technet.microsoft.com/security/bulletin/ms10-051)
+[**MS10-051**](https://technet.microsoft.com/security/bulletin/ms10-051)
 </td>
 <td style="border:1px solid black;">
-[**MS10-052**](http://technet.microsoft.com/security/bulletin/ms10-052)
+[**MS10-052**](https://technet.microsoft.com/security/bulletin/ms10-052)
 </td>
 <td style="border:1px solid black;">
-[**MS10-053**](http://technet.microsoft.com/security/bulletin/ms10-053)
+[**MS10-053**](https://technet.microsoft.com/security/bulletin/ms10-053)
 </td>
 <td style="border:1px solid black;">
-[**MS10-054**](http://technet.microsoft.com/security/bulletin/ms10-054)
+[**MS10-054**](https://technet.microsoft.com/security/bulletin/ms10-054)
 </td>
 <td style="border:1px solid black;">
-[**MS10-055**](http://technet.microsoft.com/security/bulletin/ms10-055)
+[**MS10-055**](https://technet.microsoft.com/security/bulletin/ms10-055)
 </td>
 <td style="border:1px solid black;">
-[**MS10-060**](http://technet.microsoft.com/security/bulletin/ms10-060)
+[**MS10-060**](https://technet.microsoft.com/security/bulletin/ms10-060)
 </td>
 <td style="border:1px solid black;">
-[**MS10-047**](http://technet.microsoft.com/security/bulletin/ms10-047)
+[**MS10-047**](https://technet.microsoft.com/security/bulletin/ms10-047)
 </td>
 <td style="border:1px solid black;">
-[**MS10-048**](http://technet.microsoft.com/security/bulletin/ms10-048)
+[**MS10-048**](https://technet.microsoft.com/security/bulletin/ms10-048)
 </td>
 <td style="border:1px solid black;">
-[**MS10-050**](http://technet.microsoft.com/security/bulletin/ms10-050)
+[**MS10-050**](https://technet.microsoft.com/security/bulletin/ms10-050)
 </td>
 <td style="border:1px solid black;">
-[**MS10-058**](http://technet.microsoft.com/security/bulletin/ms10-058)
+[**MS10-058**](https://technet.microsoft.com/security/bulletin/ms10-058)
 </td>
 <td style="border:1px solid black;">
-[**MS10-059**](http://technet.microsoft.com/security/bulletin/ms10-059)
+[**MS10-059**](https://technet.microsoft.com/security/bulletin/ms10-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1563,43 +1563,43 @@ Windows Server 2008 R2
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-無
-</td>
-<td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/security/bulletin/rating)
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+無
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1716,9 +1716,9 @@ Windows Server 2008 R2
  
 **Windows Server 2008 和 Windows Server 2008 R2 注意事項**
 
-**\*Server Core 安裝會受影響。** 無論上述受支援的 Windows Server 2008 或 Windows Server 2008 R2 版本是否使用 Server Core 安裝選項安裝，這個更新均以相同的嚴重性等級套用。 如需此安裝選項的詳細資訊，請參閱 TechNet 文章：[管理 Server Core 安裝](http://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[維護 Server Core 安裝](http://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx) (英文)。 請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 和 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
+**\*Server Core 安裝會受影響。** 無論上述受支援的 Windows Server 2008 或 Windows Server 2008 R2 版本是否使用 Server Core 安裝選項安裝，這個更新均以相同的嚴重性等級套用。 如需此安裝選項的詳細資訊，請參閱 TechNet 文章：[管理 Server Core 安裝](https://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[維護 Server Core 安裝](https://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx) (英文)。 請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 和 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
 
-**\*\*Server Core 安裝不受影響。** 如果 Windows Server 2008 或 Windows Server 2008 R2 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 或 Windows Server 2008 R2。 如需此安裝選項的詳細資訊，請參閱 TechNet 文章：[管理 Server Core 安裝](http://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[維護 Server Core 安裝](http://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx) (英文)。 請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 和 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
+**\*\*Server Core 安裝不受影響。** 如果 Windows Server 2008 或 Windows Server 2008 R2 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 或 Windows Server 2008 R2。 如需此安裝選項的詳細資訊，請參閱 TechNet 文章：[管理 Server Core 安裝](https://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[維護 Server Core 安裝](https://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx) (英文)。 請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 和 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
 
 **MS10-050 注意事項**
 
@@ -1753,10 +1753,10 @@ Microsoft Office 套件、系統和元件
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-056**](http://technet.microsoft.com/security/bulletin/ms10-056)
+[**MS10-056**](https://technet.microsoft.com/security/bulletin/ms10-056)
 </td>
 <td style="border:1px solid black;">
-[**MS10-057**](http://technet.microsoft.com/security/bulletin/ms10-057)
+[**MS10-057**](https://technet.microsoft.com/security/bulletin/ms10-057)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1764,10 +1764,10 @@ Microsoft Office 套件、系統和元件
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1823,10 +1823,10 @@ Microsoft Office for Mac
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-056**](http://technet.microsoft.com/security/bulletin/ms10-056)
+[**MS10-056**](https://technet.microsoft.com/security/bulletin/ms10-056)
 </td>
 <td style="border:1px solid black;">
-[**MS10-057**](http://technet.microsoft.com/security/bulletin/ms10-057)
+[**MS10-057**](https://technet.microsoft.com/security/bulletin/ms10-057)
 </td>
 </tr>
 <tr>
@@ -1834,10 +1834,10 @@ Microsoft Office for Mac
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1895,10 +1895,10 @@ Open XML File Format Converter for Mac
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-056**](http://technet.microsoft.com/security/bulletin/ms10-056)
+[**MS10-056**](https://technet.microsoft.com/security/bulletin/ms10-056)
 </td>
 <td style="border:1px solid black;">
-[**MS10-057**](http://technet.microsoft.com/security/bulletin/ms10-057)
+[**MS10-057**](https://technet.microsoft.com/security/bulletin/ms10-057)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1906,7 +1906,7 @@ Open XML File Format Converter for Mac
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 無
@@ -1975,7 +1975,7 @@ Microsoft Silverlight
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS10-060**](http://technet.microsoft.com/security/bulletin/ms10-060)
+[**MS10-060**](https://technet.microsoft.com/security/bulletin/ms10-060)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1983,7 +1983,7 @@ Microsoft Silverlight
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1991,13 +1991,13 @@ Microsoft Silverlight
 Microsoft Silverlight 2
 </td>
 <td style="border:1px solid black;">
-安裝在 Mac 上的[Microsoft Silverlight 2](http://www.microsoft.com/getsilverlight/get-started/install/default.aspx)<sup>[1]</sup>
+安裝在 Mac 上的[Microsoft Silverlight 2](https://www.microsoft.com/getsilverlight/get-started/install/default.aspx)<sup>[1]</sup>
 (KB982926)  
 (重大)  
-安裝在所有 Microsoft Windows 用戶端版本上的 [Microsoft Silverlight 2](http://www.microsoft.com/getsilverlight/get-started/install/default.aspx)<sup>[1]</sup>
+安裝在所有 Microsoft Windows 用戶端版本上的 [Microsoft Silverlight 2](https://www.microsoft.com/getsilverlight/get-started/install/default.aspx)<sup>[1]</sup>
 (KB982926)  
 (重大)  
-安裝在所有 Microsoft Windows 伺服器版本上的 [Microsoft Silverlight 2](http://www.microsoft.com/getsilverlight/get-started/install/default.aspx)<sup>[1]</sup>\*\*  
+安裝在所有 Microsoft Windows 伺服器版本上的 [Microsoft Silverlight 2](https://www.microsoft.com/getsilverlight/get-started/install/default.aspx)<sup>[1]</sup>\*\*  
 (KB982926)  
 (重大)
 </td>
@@ -2022,7 +2022,7 @@ Microsoft Silverlight 3
  
 **MS10-060 注意事項**
 
-**\*\*Server Core 安裝不受影響。** 如果 Windows Server 2008 或 Windows Server 2008 R2 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 或 Windows Server 2008 R2。 如需此安裝選項的詳細資訊，請參閱 TechNet 文章：[管理 Server Core 安裝](http://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[維護 Server Core 安裝](http://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx) (英文)。 請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 和 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
+**\*\*Server Core 安裝不受影響。** 如果 Windows Server 2008 或 Windows Server 2008 R2 是使用 Server Core 安裝選項所安裝，則這項更新解決的弱點並不會影響受支援的 Windows Server 2008 或 Windows Server 2008 R2。 如需此安裝選項的詳細資訊，請參閱 TechNet 文章：[管理 Server Core 安裝](https://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[維護 Server Core 安裝](https://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx) (英文)。 請注意，Server Core 安裝選項不適用於某些 Windows Server 2008 和 Windows Server 2008 R2 版本；請參閱[比較 Server Core 安裝選項](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx) (英文)。
 
 <sup>[1]</sup>此下載會將 Microsoft Silverlight 2 升級至不受本公告所描述弱點影響的新版。
 
@@ -2036,35 +2036,35 @@ Microsoft Silverlight 3
 <span></span>
 **資訊安全中心**
 
-管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。 如需更多資訊，請參閱 [TechNet 更新管理中心](http://go.microsoft.com/fwlink/?linkid=69903) (英文)。 [TechNet Security Center](http://go.microsoft.com/fwlink/?linkid=21171) 提供 Microsoft 產品安全性的其他資訊。 消費者可以造訪[在家上網的安全性](http://go.microsoft.com/fwlink/?linkid=85102)網站，只要按一下 \[最新資訊安全更新\] 即可在此網站取得此資訊。
+管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。 如需更多資訊，請參閱 [TechNet 更新管理中心](https://go.microsoft.com/fwlink/?linkid=69903) (英文)。 [TechNet Security Center](https://go.microsoft.com/fwlink/?linkid=21171) 提供 Microsoft 產品安全性的其他資訊。 消費者可以造訪[在家上網的安全性](https://go.microsoft.com/fwlink/?linkid=85102)網站，只要按一下 \[最新資訊安全更新\] 即可在此網站取得此資訊。
 
-資訊安全更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 以及 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 取得。 資訊安全更新也可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得。 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
+資訊安全更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 以及 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130) 取得。 資訊安全更新也可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得。 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
 
-最後，您可以從 [Microsoft Update Catalog](http://go.microsoft.com/fwlink/?linkid=96155) 下載資訊安全更新。 Microsoft Update Catalog 提供透過 Windows Update 及 Microsoft Update 所公佈內容的搜尋式目錄，包括資訊安全更新、驅動程式和 Service Pack。 只要以資訊安全公告編號 (例如：MS07-036) 執行搜尋，您就可新增所有適用的更新到置物籃 (包括同一項更新的不同語言)，再下載到您自選的資料夾中。 如需更多關於 Microsoft Update Catalog 的相關資訊，請參閱 [Microsoft Update Catalog 常見問題集](http://go.microsoft.com/fwlink/?linkid=97900)。
+最後，您可以從 [Microsoft Update Catalog](https://go.microsoft.com/fwlink/?linkid=96155) 下載資訊安全更新。 Microsoft Update Catalog 提供透過 Windows Update 及 Microsoft Update 所公佈內容的搜尋式目錄，包括資訊安全更新、驅動程式和 Service Pack。 只要以資訊安全公告編號 (例如：MS07-036) 執行搜尋，您就可新增所有適用的更新到置物籃 (包括同一項更新的不同語言)，再下載到您自選的資料夾中。 如需更多關於 Microsoft Update Catalog 的相關資訊，請參閱 [Microsoft Update Catalog 常見問題集](https://go.microsoft.com/fwlink/?linkid=97900)。
 
-**注意：**自 2009 年 8 月 1 日開始，Microsoft 已停止支援 Office Update 與 Office Update Inventory Tool。 若要繼續取得 Microsoft Office 產品的最新更新，請使用 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)。 如需更多資訊，請參閱[關於 Microsoft Office Update： 常見問題集](http://office.microsoft.com/en-us/downloads/fx010402221033.aspx) (英文)。
+**注意：**自 2009 年 8 月 1 日開始，Microsoft 已停止支援 Office Update 與 Office Update Inventory Tool。 若要繼續取得 Microsoft Office 產品的最新更新，請使用 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)。 如需更多資訊，請參閱[關於 Microsoft Office Update： 常見問題集](https://office.microsoft.com/en-us/downloads/fx010402221033.aspx) (英文)。
 
 **偵測與部署指南**
 
-Microsoft 針對資訊安全更新提供偵測和部署指南。 本指南所含之建議和資訊，能幫助 IT 專業人員瞭解如何使用用於資訊安全更新的偵測和部署的各種工具。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 961747](http://support.microsoft.com/kb/961747/zh-tw)。
+Microsoft 針對資訊安全更新提供偵測和部署指南。 本指南所含之建議和資訊，能幫助 IT 專業人員瞭解如何使用用於資訊安全更新的偵測和部署的各種工具。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 961747](https://support.microsoft.com/kb/961747/zh-tw)。
 
 **Microsoft Baseline Security Analyzer**
 
-Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少資訊安全更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134) 網站 (英文)。
+Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少資訊安全更新以及一般安全性設定錯誤的狀況。 如需更多有關 MBSA 的資訊，請造訪 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134) 網站 (英文)。
 
 **Windows Server Update Services**
 
-Windows Server Update Services (WSUS) 可讓資訊技術管理員將最新的 Microsoft 產品更新部署到執行 Windows 作業系統的電腦。 如需更多關於利用 Windows Server Update Services 部署資訊安全更新的資訊，請參閱 TechNet 文章：[Windows Server Update Services](http://technet.microsoft.com/en-us/wsus/default.aspx) (英文)。
+Windows Server Update Services (WSUS) 可讓資訊技術管理員將最新的 Microsoft 產品更新部署到執行 Windows 作業系統的電腦。 如需更多關於利用 Windows Server Update Services 部署資訊安全更新的資訊，請參閱 TechNet 文章：[Windows Server Update Services](https://technet.microsoft.com/en-us/wsus/default.aspx) (英文)。
 
 **Systems Management Server**
 
-Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要資訊安全更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 現已推出新版的 SMS，System Center Configuration Manager 2007；另請參閱 [System Center Configuration Manager 2007](http://technet.microsoft.com/en-us/library/bb735860.aspx)。如需更多有關系統管理員如何能使用 SMS 2003 部署資訊安全更新的資訊，請參閱 [SMS 2003 安全性修補程式管理](http://go.microsoft.com/fwlink/?linkid=22939) (英文)。 SMS 2.0 使用者也可以使用資訊安全更新盤點工具 (Security Update Inventory Tool，SUIT) 來協助部署資訊安全更新。 如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要資訊安全更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 現已推出新版的 SMS，System Center Configuration Manager 2007；另請參閱 [System Center Configuration Manager 2007](https://technet.microsoft.com/en-us/library/bb735860.aspx)。如需更多有關系統管理員如何能使用 SMS 2003 部署資訊安全更新的資訊，請參閱 [SMS 2003 安全性修補程式管理](https://go.microsoft.com/fwlink/?linkid=22939) (英文)。 SMS 2.0 使用者也可以使用資訊安全更新盤點工具 (Security Update Inventory Tool，SUIT) 來協助部署資訊安全更新。 如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server](https://go.microsoft.com/fwlink/?linkid=21158)。
 
-**注意：**SMS 使用 Microsoft Baseline Security Analyzer 提供廣泛的資訊安全公告更新偵測與部署支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](http://go.microsoft.com/fwlink/?linkid=33341)。 某些資訊安全更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可使用 Elevated Rights Deployment Tool (隨 [SMS 2.0 Administration Feature Pack (英文)](http://go.microsoft.com/fwlink/?linkid=21161) 提供) 來安裝這些更新。
+**注意：**SMS 使用 Microsoft Baseline Security Analyzer 提供廣泛的資訊安全公告更新偵測與部署支援。 不過這些工具可能無法偵測部分的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](https://go.microsoft.com/fwlink/?linkid=33341)。 某些資訊安全更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可使用 Elevated Rights Deployment Tool (隨 [SMS 2.0 Administration Feature Pack (英文)](https://go.microsoft.com/fwlink/?linkid=21161) 提供) 來安裝這些更新。
 
 **Update Compatibility Evaluator 和 Application Compatibility Toolkit**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 
@@ -2078,73 +2078,73 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 如需在 Windows Update 和 Microsoft Update 上發行的非資訊安全更新之相關資訊，請參閱：
 
--   [icrosoft 知識庫文件編號 894199](http://support.microsoft.com/kb/894199/zh-tw)： Software Update Services 與 Windows Server Update Services 的說明內容有所變動。 其中也包括所有 Windows 的內容。
--   [過去幾個月發行的 Windows Server Update Services 更新](http://technet.microsoft.com/en-us/wsus/bb456965.aspx)。 顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
+-   [icrosoft 知識庫文件編號 894199](https://support.microsoft.com/kb/894199/zh-tw)： Software Update Services 與 Windows Server Update Services 的說明內容有所變動。 其中也包括所有 Windows 的內容。
+-   [過去幾個月發行的 Windows Server Update Services 更新](https://technet.microsoft.com/en-us/wsus/bb456965.aspx)。 顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
 
 #### Microsoft 主動保護計畫 (MAPP)
 
-為了增強客戶的安全性保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要資訊安全軟體提供者提供弱點資訊。 資訊安全軟體提供者可利用此弱點資訊，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。 如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](http://www.microsoft.com/security/msrc/mapp/partners.mspx)上列出的計畫合作夥伴所提供的主動保護計畫網站。
+為了增強客戶的安全性保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要資訊安全軟體提供者提供弱點資訊。 資訊安全軟體提供者可利用此弱點資訊，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。 如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](https://www.microsoft.com/security/msrc/mapp/partners.mspx)上列出的計畫合作夥伴所提供的主動保護計畫網站。
 
 #### 安全性策略與社群
 
 **更新程式管理策略**
 
-[更新程式管理安全性指南](http://go.microsoft.com/fwlink/?linkid=21168)提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
+[更新程式管理安全性指南](https://go.microsoft.com/fwlink/?linkid=21168)提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他資訊安全更新**
 
 其他安全性問題的更新可由下列位置取得：
 
--   資訊安全更新可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
--   客戶平台的更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 取得。
--   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](http://support.microsoft.com/kb/913086/zh-tw)。
+-   資訊安全更新可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得， 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
+-   客戶平台的更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 取得。
+-   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。 如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](https://support.microsoft.com/kb/913086/zh-tw)。
 
 **IT 專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全區社群](http://go.microsoft.com/fwlink/?linkid=21164)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+在 [IT 專業人員資訊安全區社群](https://go.microsoft.com/fwlink/?linkid=21164)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
 #### 感謝
 
-Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
 
--   感謝 [VirusBlokAda](http://www.anti-virus.by/) 的 Sergey I. Ulasen 和 Oleg Kupreev 回報 MS10-046 中描述的一項問題
--   感謝 [AV-Test](http://www.av-test.org/) 的Andreas Marx 和 Maik Morgensternfor 回報 MS10-046 中描述的一項問題
--   感謝 [CERT/CC](http://www.cert.org) 的 Will Dormann 協助我們解決 MS10-046 中描述的一項問題
+-   感謝 [VirusBlokAda](https://www.anti-virus.by/) 的 Sergey I. Ulasen 和 Oleg Kupreev 回報 MS10-046 中描述的一項問題
+-   感謝 [AV-Test](https://www.av-test.org/) 的Andreas Marx 和 Maik Morgensternfor 回報 MS10-046 中描述的一項問題
+-   感謝 [CERT/CC](https://www.cert.org) 的 Will Dormann 協助我們解決 MS10-046 中描述的一項問題
 -   感謝 Niels Teusink 協助我們解決 MS10-046 中描述的一項問題
 -   感謝 Stefan Kanthak 協助我們解決 MS10-046 中描述的一項問題
--   感謝 [Google Inc.](http://www.google.com/) 的 Tavis Ormandy 回報 MS10-047 中描述的三個問題
--   感謝 [Google Inc.](http://www.google.com/) 的 Tavis Ormandy 回報 MS10-048 中描述的問題
--   感謝 [MoonSols](http://moonsols.com/) 的 Matthieu Suiche 回報 MS10-048 中描述的兩個問題
--   感謝 [MoonSols](http://moonsols.com/) 的 Matthieu Suiche 與我們合作 MS10-048 中所述的深度防禦變更。
--   感謝 [Core Security Technologies](http://www.coresecurity.com/) 的 Nicolas Economou 回報 MS10-048 中描述的問題
--   感謝 [PhoneFactor](http://www.phonefactor.com/) 的Marsh Ray 和 Steve Dispensa 回報 MS10-049 中描述的問題
--   感謝 [Secunia](http://secunia.com/) 的 Dyon Balding 回報 MS10-050 中描述的問題
--   感謝 [Google Inc.](http://www.google.com/) 的 SkyLined 回報 MS10-051 中描述的問題
--   感謝 n.runs AG 的 Moritz Jodeit 與 [TippingPoint](http://www.tippingpoint.com/) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作，回報 MS10-052 所描述的問題
--   感謝 [Google Inc.](http://www.google.com/) 的 David Bloom 回報 MS10-053 中描述的問題
--   感謝 [VUPEN Vulnerability Research Team](http://www.vupen.com) 的 Nicolas Joly 回報 MS10-053 中描述的四個問題
+-   感謝 [Google Inc.](https://www.google.com/) 的 Tavis Ormandy 回報 MS10-047 中描述的三個問題
+-   感謝 [Google Inc.](https://www.google.com/) 的 Tavis Ormandy 回報 MS10-048 中描述的問題
+-   感謝 [MoonSols](https://moonsols.com/) 的 Matthieu Suiche 回報 MS10-048 中描述的兩個問題
+-   感謝 [MoonSols](https://moonsols.com/) 的 Matthieu Suiche 與我們合作 MS10-048 中所述的深度防禦變更。
+-   感謝 [Core Security Technologies](https://www.coresecurity.com/) 的 Nicolas Economou 回報 MS10-048 中描述的問題
+-   感謝 [PhoneFactor](https://www.phonefactor.com/) 的Marsh Ray 和 Steve Dispensa 回報 MS10-049 中描述的問題
+-   感謝 [Secunia](https://secunia.com/) 的 Dyon Balding 回報 MS10-050 中描述的問題
+-   感謝 [Google Inc.](https://www.google.com/) 的 SkyLined 回報 MS10-051 中描述的問題
+-   感謝 n.runs AG 的 Moritz Jodeit 與 [TippingPoint](https://www.tippingpoint.com/) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作，回報 MS10-052 所描述的問題
+-   感謝 [Google Inc.](https://www.google.com/) 的 David Bloom 回報 MS10-053 中描述的問題
+-   感謝 [VUPEN Vulnerability Research Team](https://www.vupen.com) 的 Nicolas Joly 回報 MS10-053 中描述的四個問題
 -   感謝 Gambino ZaDarkSide 回報 MS10-053 中描述的問題
--   感謝 [stratsec](http://www.stratsec.net/) 的 Laurent Gaffié 回報 MS10-054 中描述的問題
--   感謝 [Sourcefire VRT](http://www.sourcefire.com/services/sf_vrt.html) 的 Todd Wease 和 Richard Johnson 回報 MS10-054 中描述的問題
--   感謝 [Codenomicon](http://www.codenomicon.com/) 的 Riku Hietamaki 回報 MS10-054 中描述的問題
--   感謝匿名的研究人員與 [TippingPoint](http://www.tippingpoint.com/) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 MS10-055 中描述的問題
--   感謝 [team509](http://www.team509.com/) 的 L.W.Z 與 [TippingPoint](http://www.tippingpoint.com/) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 MS10-056 中描述的問題
--   感謝 [team509](http://www.team509.com/) 的 Wushi 與 [VeriSign iDefense Labs](http://labs.idefense.com/) 合作回報 MS10-056 中描述的問題
--   感謝 [team509](http://www.team509.com/) 與 [VeriSign iDefense Labs](http://labs.idefense.com/) 合作回報 MS10-056 中描述的問題
--   感謝 [Check Point](http://www.checkpoint.com/) IPS Research Team 的 Rodrigo Rubira Branco 回報 MS10-056 中描述的問題
--   感謝匿名的研究人員與 [TippingPoint](http://www.tippingpoint.com/) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作回報 MS10-056 中描述的一項問題
--   感謝 [Core Security Technologies](http://www.coresecurity.com/) 的 Damián Frizza 回報 MS10-057 中描述的問題
--   感謝 [Fourteenforty Research Institute, Inc.](http://www.fourteenforty.jp/) 的 Darren Willis 回報 MS10-058 中描述的問題
--   感謝 [MoonSols](http://moonsols.com/) 的 Matthieu Suiche 回報 MS10-058 中描述的問題
--   感謝 [Argeniss](http://www.argeniss.com/) 的 Cesar Cerrudo 協助我們解決 MS10-059 中描述的兩個問題
+-   感謝 [stratsec](https://www.stratsec.net/) 的 Laurent Gaffié 回報 MS10-054 中描述的問題
+-   感謝 [Sourcefire VRT](https://www.sourcefire.com/services/sf_vrt.html) 的 Todd Wease 和 Richard Johnson 回報 MS10-054 中描述的問題
+-   感謝 [Codenomicon](https://www.codenomicon.com/) 的 Riku Hietamaki 回報 MS10-054 中描述的問題
+-   感謝匿名的研究人員與 [TippingPoint](https://www.tippingpoint.com/) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 MS10-055 中描述的問題
+-   感謝 [team509](https://www.team509.com/) 的 L.W.Z 與 [TippingPoint](https://www.tippingpoint.com/) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 MS10-056 中描述的問題
+-   感謝 [team509](https://www.team509.com/) 的 Wushi 與 [VeriSign iDefense Labs](https://labs.idefense.com/) 合作回報 MS10-056 中描述的問題
+-   感謝 [team509](https://www.team509.com/) 與 [VeriSign iDefense Labs](https://labs.idefense.com/) 合作回報 MS10-056 中描述的問題
+-   感謝 [Check Point](https://www.checkpoint.com/) IPS Research Team 的 Rodrigo Rubira Branco 回報 MS10-056 中描述的問題
+-   感謝匿名的研究人員與 [TippingPoint](https://www.tippingpoint.com/) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作回報 MS10-056 中描述的一項問題
+-   感謝 [Core Security Technologies](https://www.coresecurity.com/) 的 Damián Frizza 回報 MS10-057 中描述的問題
+-   感謝 [Fourteenforty Research Institute, Inc.](https://www.fourteenforty.jp/) 的 Darren Willis 回報 MS10-058 中描述的問題
+-   感謝 [MoonSols](https://moonsols.com/) 的 Matthieu Suiche 回報 MS10-058 中描述的問題
+-   感謝 [Argeniss](https://www.argeniss.com/) 的 Cesar Cerrudo 協助我們解決 MS10-059 中描述的兩個問題
 -   感謝 的 Carsten Book 回報 MS10-060 中描述的問題
--   感謝 [Eamon Nerbonne](http://eamon.nerbonne.org/) 回報 MS10-060 中描述的一個問題
+-   感謝 [Eamon Nerbonne](https://eamon.nerbonne.org/) 回報 MS10-060 中描述的一個問題
 
 #### 支援
 
--   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。 其他版本超出它們的支援週期。 若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](http://go.microsoft.com/fwlink/?linkid=21742)。
--   美國及加拿大地區客戶可洽詢[資訊安全支援](http://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 以取得技術支援。 與資訊安全更新有關的支援電話不另外收費。 如需更多可用支援選項的資訊，請參閱 [Microsoft 技術支援服務](http://support.microsoft.com/)。
--   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與資訊安全更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援](http://go.microsoft.com/fwlink/?linkid=21155)網站。
+-   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。 其他版本超出它們的支援週期。 若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   美國及加拿大地區客戶可洽詢[資訊安全支援](https://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 以取得技術支援。 與資訊安全更新有關的支援電話不另外收費。 如需更多可用支援選項的資訊，請參閱 [Microsoft 技術支援服務](https://support.microsoft.com/)。
+-   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與資訊安全更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，請造訪[世界各地技術支援](https://go.microsoft.com/fwlink/?linkid=21155)網站。
 
 #### 免責聲明
 

@@ -16,9 +16,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms12-dec(v=Security.10)
 
 此公告摘要列出 2012 年 12 月份所發行之資訊安全公告。
 
-發行 2012 年 12 月份資訊安全公告之後，此公告摘要將取代原先於 2012 年 12 月 6 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 資訊安全公告預先通知](http://technet.microsoft.com/zh-tw/security/gg309152.aspx)。
+發行 2012 年 12 月份資訊安全公告之後，此公告摘要將取代原先於 2012 年 12 月 6 日發行的公告預先通知。如需更多有關公告預先通知服務的資訊，請參閱 [Microsoft 資訊安全公告預先通知](https://technet.microsoft.com/zh-tw/security/gg309152.aspx)。
 
-如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術資訊安全通知](http://technet.microsoft.com/zh-tw/security/dd252948.aspx)。
+如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術資訊安全通知](https://technet.microsoft.com/zh-tw/security/dd252948.aspx)。
 
 Microsoft 將利用網路廣播於 2012 年 12 月 12 日，太平洋時間早上十一點 (美國與加拿大) 解答客戶對於這些公告的問題。立即註冊參加 12 月份資訊安全公告網路廣播。在這個日期後，此網路廣播將可[隨選取得](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032522564&culture=en-us)。
 
@@ -46,73 +46,73 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077">MS12-077</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077">MS12-077</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer</strong> <strong>積存資訊安全更新</strong> <strong>(2761465)  <br />
 <br />
 </strong>此資訊安全更新可解決 Internet Explorer 中三項未公開報告的資訊安全風險。最嚴重的資訊安全風險可能會在使用者以 Internet Explorer 檢視蓄意製作的網頁時，允許遠端執行程式碼。成功利用這些資訊安全風險的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows、 <br />
 Internet Explorer</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078">MS12-078</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078">MS12-078</a></td>
 <td style="border:1px solid black;"><strong>Windows</strong> <strong>核心模式驅動程式中的資訊安全風險可能會允許遠端執行程式碼<br />
 (2783534)</strong> <br />
 <br />
 此資訊安全更新可解決 Microsoft Windows 中一項公開揭露的資訊安全風險和一項未公開報告的資訊安全風險。如果使用者開啟蓄意製作的文件或是造訪內嵌 TrueType 或 OpenType 字型檔案的惡意網頁，這些資訊安全風險中較嚴重者可能會允許遠端執行程式碼。攻擊者必須引誘使用者造訪網站，通常是設法讓使用者按下電子郵件中連往攻擊者網站的連結。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-079">MS12-079</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-079">MS12-079</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Word</strong> <strong>中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2780642)  <br />
 <br />
 </strong>此資訊安全更新可解決 Microsoft Office 中一項未公開報告的資訊安全風險。如果使用者以受影響版本的 Microsoft Office 軟體開啟蓄意製作的 RTF 檔案，或是以 Microsoft Word 作為電子郵件檢視器，在 Outlook 中預覽或開啟蓄意製作的 RTF 電子郵件訊息，此資訊安全風險可能會允許遠端執行程式碼。成功利用此資訊安全風險的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-080">MS12-080</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-080">MS12-080</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Exchange Server</strong> <strong>中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2784126)  <br />
 <br />
 </strong>這個資訊安全更新可解決 Microsoft Exchange Server 中若干公開揭露的資訊安全風險和一項未公開報告的資訊安全風險。其中最嚴重的資訊安全風險存在於 Microsoft Exchange Server WebReady 文件中檢視中，如果使用者使用 Outlook Web App (OWA) 預覽蓄意製作的檔案，則此資訊安全風險可能會允許在 Exchange Server 上轉碼服務的資訊安全內容中遠端執行程式碼。Exchange 中用於 WebReady 文件檢視的轉碼服務是以 LocalService 帳戶執行。LocalService 帳戶在本機電腦擁有最低權限，在網路上提供匿名認證。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft 伺服器軟體</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081">MS12-081</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081">MS12-081</a></td>
 <td style="border:1px solid black;"><strong>Windows</strong> <strong>檔案處理元件中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2758857)  <br />
 <br />
 </strong>此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。如果使用者瀏覽的資料夾包含具備蓄意製作之名稱的檔案或子資料夾，此資訊安全風險可能會允許遠端執行程式碼。成功利用此資訊安全風險的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重大</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082">MS12-082</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082">MS12-082</a></td>
 <td style="border:1px solid black;"><strong>DirectPlay</strong> <strong>中的資訊安全風險可能會允許遠端執行程式碼</strong> <strong>(2770660)  <br />
 <br />
 </strong>此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。如果攻擊者引誘使用者檢視含有內嵌內容之蓄意製作的 Office 文件，此資訊安全風險可能會允許遠端執行程式碼。成功利用此資訊安全風險的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083">MS12-083</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083">MS12-083</a></td>
 <td style="border:1px solid black;"><strong>IP-HTTPS</strong> <strong>元件中的資訊安全風險可能會允許資訊安全功能略過</strong> <strong>(2765809)  <br />
 <br />
 </strong>此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。如果攻擊者向常見於 Microsoft DirectAccess 部署中的 IP-HTTPS 憑證提供撤銷憑證，此資訊安全風險可能會允許資訊安全功能略過。攻擊者必須使用由 IP-HTTPS 伺服器驗證所在網域發行的憑證，才能利用此資訊安全風險。但登入組織內的系統仍需要系統或網域認證。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/rating">重要</a> <br />
 資訊安全功能略過</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -128,7 +128,7 @@ Internet Explorer</td>
   
 **我該如何使用這個表格？**
   
-您可以運用此表格，針對您可能需要安裝的每一項資訊安全更新，瞭解資訊安全風險在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 資訊安全風險索引](http://technet.microsoft.com/security/cc998259)。
+您可以運用此表格，針對您可能需要安裝的每一項資訊安全更新，瞭解資訊安全風險在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 資訊安全風險索引](https://technet.microsoft.com/security/cc998259)。
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
@@ -148,101 +148,101 @@ Internet Explorer</td>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077">MS12-077</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077">MS12-077</a></td>
 <td style="border:1px solid black;">InjectHTMLStream 釋放後使用資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4781">CVE-2012-4781</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4781">CVE-2012-4781</a></td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077">MS12-077</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077">MS12-077</a></td>
 <td style="border:1px solid black;">CMarkup 釋放後使用資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4782">CVE-2012-4782</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4782">CVE-2012-4782</a></td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077">MS12-077</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077">MS12-077</a></td>
 <td style="border:1px solid black;">不當參考計數釋放後使用資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4787">CVE-2012-4787</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4787">CVE-2012-4787</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078">MS12-078</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078">MS12-078</a></td>
 <td style="border:1px solid black;">OpenType 字型剖析資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-2556">CVE-2012-2556</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-2556">CVE-2012-2556</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">此資訊安全風險已經遭到公開揭發。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078">MS12-078</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078">MS12-078</a></td>
 <td style="border:1px solid black;">TrueType 字型剖析資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4786">CVE-2012-4786</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4786">CVE-2012-4786</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-079">MS12-079</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-079">MS12-079</a></td>
 <td style="border:1px solid black;">Word RTF 'listoverridecount' 遠端執行程式碼資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-2539">CVE-2012-2539</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-2539">CVE-2012-2539</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-080">MS12-080</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-080">MS12-080</a></td>
 <td style="border:1px solid black;">Oracle Outside In 包含多項可能遭利用的資訊安全風險</td>
 <td style="border:1px solid black;">多項*</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">*多項資訊安全風險，請參閱 MS12-080 公告內容以瞭解詳細資訊。<br />
 <br />
 這類資訊安全風險已被公開揭發。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-080">MS12-080</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-080">MS12-080</a></td>
 <td style="border:1px solid black;">RSS Feed 可能會導致 Exchange DoS 資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4791">CVE-2012-4791</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4791">CVE-2012-4791</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">這是一項阻斷服務 (DoS) 的資訊安全風險。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081">MS12-081</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081">MS12-081</a></td>
 <td style="border:1px solid black;">Windows 檔案名稱剖析資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4774">CVE-2012-4774</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-4774">CVE-2012-4774</a></td>
 <td style="border:1px solid black;">不受影響</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能撰寫出可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082">MS12-082</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082">MS12-082</a></td>
 <td style="border:1px solid black;">DirectPlay 堆積溢位資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-1537">CVE-2012-1537</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-1537">CVE-2012-1537</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能撰寫出可利用此漏洞的程式碼</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">2</a> - 很難建立可利用此漏洞的程式碼</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">(無)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083">MS12-083</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083">MS12-083</a></td>
 <td style="border:1px solid black;">撤銷憑證略過資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-2549">CVE-2012-2549</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2012-2549">CVE-2012-2549</a></td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
@@ -278,19 +278,19 @@ Windows XP
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -301,13 +301,13 @@ Windows XP
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -397,19 +397,19 @@ Windows Server 2003
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -420,13 +420,13 @@ Windows Server 2003
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -550,19 +550,19 @@ Windows Vista
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr>
@@ -570,16 +570,16 @@ Windows Vista
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -669,19 +669,19 @@ Windows Server 2008
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr>
@@ -689,16 +689,16 @@ Windows Server 2008
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -819,19 +819,19 @@ Windows 7
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -839,16 +839,16 @@ Windows 7
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -1000,19 +1000,19 @@ Windows Server 2008 R2
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1020,19 +1020,19 @@ Windows Server 2008 R2
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1183,19 +1183,19 @@ Windows 8
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1203,16 +1203,16 @@ Windows 8
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -1286,19 +1286,19 @@ Windows Server 2012
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1306,19 +1306,19 @@ Windows Server 2012
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**中度**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1362,19 +1362,19 @@ Windows RT
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr>
@@ -1382,10 +1382,10 @@ Windows RT
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -1434,19 +1434,19 @@ Server Core 安裝選項
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-077**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
+[**MS12-077**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-077)
 </td>
 <td style="border:1px solid black;">
-[**MS12-078**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
+[**MS12-078**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-078)
 </td>
 <td style="border:1px solid black;">
-[**MS12-081**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
+[**MS12-081**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-081)
 </td>
 <td style="border:1px solid black;">
-[**MS12-082**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
+[**MS12-082**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-082)
 </td>
 <td style="border:1px solid black;">
-[**MS12-083**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
+[**MS12-083**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-083)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1457,16 +1457,16 @@ Server Core 安裝選項
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1614,11 +1614,11 @@ Windows Server 2012 (Server Core 安裝)
 
 <sup>[1]</sup>嚴重性等級不適用此指定軟體的更新，因為在預設設定中會封鎖此公告討論之資訊安全風險的已知攻擊行為。不過，Microsoft 仍建議此軟體的客戶套用此資訊安全更新，以做為深度防禦措施。
 
-<sup>[2]</sup>更新僅透過 [Windows Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-hk) 提供。
+<sup>[2]</sup>更新僅透過 [Windows Update](https://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-hk) 提供。
 
 **MS12-078** **注意事項**
 
-<sup>[1]</sup>更新僅透過 [Windows Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-hk) 提供。
+<sup>[1]</sup>更新僅透過 [Windows Update](https://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-hk) 提供。
 
 #### Microsoft Office 套件及軟體
 
@@ -1635,7 +1635,7 @@ Microsoft Office 套件和元件
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-079**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
+[**MS12-079**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1643,7 +1643,7 @@ Microsoft Office 套件和元件
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1706,7 +1706,7 @@ Microsoft Office 2010 Service Pack 1 (64 位元版本)
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-079**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
+[**MS12-079**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
 </td>
 </tr>
 <tr>
@@ -1714,7 +1714,7 @@ Microsoft Office 2010 Service Pack 1 (64 位元版本)
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1770,10 +1770,10 @@ Microsoft Exchange Server
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-079**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
+[**MS12-079**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
 </td>
 <td style="border:1px solid black;">
-[**MS12-080**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-080)
+[**MS12-080**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-080)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1784,7 +1784,7 @@ Microsoft Exchange Server
 **無**
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重大**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1836,10 +1836,10 @@ Microsoft SharePoint Server
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-079**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
+[**MS12-079**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
 </td>
 <td style="border:1px solid black;">
-[**MS12-080**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-080)
+[**MS12-080**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-080)
 </td>
 </tr>
 <tr>
@@ -1847,7 +1847,7 @@ Microsoft SharePoint Server
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -1876,10 +1876,10 @@ Microsoft Office Web Apps
 **公告編號**
 </td>
 <td style="border:1px solid black;">
-[**MS12-079**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
+[**MS12-079**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-079)
 </td>
 <td style="border:1px solid black;">
-[**MS12-080**](http://technet.microsoft.com/zh-tw/security/bulletin/ms12-080)
+[**MS12-080**](https://technet.microsoft.com/zh-tw/security/bulletin/ms12-080)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1887,7 +1887,7 @@ Microsoft Office Web Apps
 **彙總嚴重性等級**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/zh-tw/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
 **無**
@@ -1918,47 +1918,47 @@ Microsoft Office Web Apps 2010 Service Pack 1 
 <span></span>
 **資訊安全中心**
 
-管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。如需更多資訊，請參閱 [TechNet 更新管理中心](http://technet.microsoft.com/zh-tw/updatemanagement/default.aspx) (英文)。TechNet 資訊安全技術中心提供 Microsoft 產品資訊安全的其他資訊。一般消費者可造訪 [Microsoft Safety & Security Center](http://technet.microsoft.com/zh-tw/security/default.aspx) (英文)，並點選 \[Security Updates\] (資訊安全更新) 來取得上述資訊。
+管理您必須部署到您組織中的伺服器、桌上型電腦及行動電腦的軟體和資訊安全更新。如需更多資訊，請參閱 [TechNet 更新管理中心](https://technet.microsoft.com/zh-tw/updatemanagement/default.aspx) (英文)。TechNet 資訊安全技術中心提供 Microsoft 產品資訊安全的其他資訊。一般消費者可造訪 [Microsoft Safety & Security Center](https://technet.microsoft.com/zh-tw/security/default.aspx) (英文)，並點選 \[Security Updates\] (資訊安全更新) 來取得上述資訊。
 
-資訊安全更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 以及 [Windows Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-hk) 取得。資訊安全更新也可以從 [Microsoft 下載中心](http://www.microsoft.com/zh-tw/download/search.aspx?q=security%20update)取得。您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
+資訊安全更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 以及 [Windows Update](https://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-hk) 取得。資訊安全更新也可以從 [Microsoft 下載中心](https://www.microsoft.com/zh-tw/download/search.aspx?q=security%20update)取得。您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
 
 對於 Microsoft Office for Mac 的客戶，Microsoft AutoUpdate for Mac 可協助您保持最新的 Microsoft 軟體。如需使用 Microsoft AutoUpdate for Mac 的詳細資訊，請參閱自動檢查軟體更新 (英文)。
 
-最後，您可以從 [Microsoft Update Catalog](http://catalog.update.microsoft.com/v7/site/) 下載資訊安全更新。Microsoft Update Catalog 提供透過 Windows Update 及 Microsoft Update 所公佈內容的搜尋式目錄，包括資訊安全更新、驅動程式和 Service Pack。只要以資訊安全公告編號 (例如：MS12-001) 執行搜尋，您就可新增所有適用的更新到置物籃 (包括同一項更新的不同語言)，再下載到您自選的資料夾中。如需更多關於 Microsoft Update Catalog 的相關資訊，請參閱 [Microsoft Update Catalog 常見問題集](http://catalog.update.microsoft.com/v7/site/faq.aspx)。
+最後，您可以從 [Microsoft Update Catalog](https://catalog.update.microsoft.com/v7/site/) 下載資訊安全更新。Microsoft Update Catalog 提供透過 Windows Update 及 Microsoft Update 所公佈內容的搜尋式目錄，包括資訊安全更新、驅動程式和 Service Pack。只要以資訊安全公告編號 (例如：MS12-001) 執行搜尋，您就可新增所有適用的更新到置物籃 (包括同一項更新的不同語言)，再下載到您自選的資料夾中。如需更多關於 Microsoft Update Catalog 的相關資訊，請參閱 [Microsoft Update Catalog 常見問題集](https://catalog.update.microsoft.com/v7/site/faq.aspx)。
 
 **偵測與部署指南**
 
-Microsoft 針對資訊安全更新提供偵測和部署指南。本指南所含之建議和資訊，能幫助 IT 專業人員瞭解如何使用用於資訊安全更新的偵測和部署的各種工具。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 961747](http://support.microsoft.com/kb/961747?ln=zh-tw)。
+Microsoft 針對資訊安全更新提供偵測和部署指南。本指南所含之建議和資訊，能幫助 IT 專業人員瞭解如何使用用於資訊安全更新的偵測和部署的各種工具。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 961747](https://support.microsoft.com/kb/961747?ln=zh-tw)。
 
 **Microsoft Baseline Security Analyzer**
 
-Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少資訊安全更新以及一般資訊安全設定錯誤的狀況。如需更多有關 MBSA 的資訊，請參閱 [Microsoft Baseline Security Analyzer](http://technet.microsoft.com/zh-tw/security/cc184924.aspx) (英文)。
+Microsoft Baseline Security Analyzer (MBSA) 能讓系統管理員掃描本機和遠端系統，偵查任何缺少資訊安全更新以及一般資訊安全設定錯誤的狀況。如需更多有關 MBSA 的資訊，請參閱 [Microsoft Baseline Security Analyzer](https://technet.microsoft.com/zh-tw/security/cc184924.aspx) (英文)。
 
 **Windows Server Update Services**
 
 透過 Windows Server Update Services (WSUS)，系統管理員可迅速而可靠地將 Microsoft Windows 2000 作業系統及更新版本、Office XP 及更新版本、Exchange Server 2003 及 SQL Server 2000 適用的最新重大更新與資訊安全更新部署到 Microsoft Windows 2000 及更新版本的作業系統中。
 
-如需更多關於利用 Windows Server Update Services 部署資訊安全更新的資訊，請造訪 [Windows Server Update Services](http://technet.microsoft.com/wsus/default) (英文)。
+如需更多關於利用 Windows Server Update Services 部署資訊安全更新的資訊，請造訪 [Windows Server Update Services](https://technet.microsoft.com/wsus/default) (英文)。
 
 **System Center** **Configuration Manager**
 
 System Center Configuration Manager 軟體更新管理可簡化遞送和管理企業中 IT 系統更新的繁複作業。IT 系統管理員可以使用 System Center Configuration Manager 遞送 Microsoft 產品更新給各種裝置，包括桌上型電腦、筆記型電腦、伺服器及行動裝置。
 
-System Center Configuration Manager 中的自動資訊安全風險評估會找出更新需求並報告建議動作。System Center Configuration Manager 中的軟體更新管理是建置在 Microsoft Windows Software Update Services (WSUS) 上，經過時間考驗，為全球 IT 系統管理員所熟悉的更新基礎架構。如需更多有關 System Center Configuration Manager 的資訊，請造訪 [System Center 技術資源](http://technet.microsoft.com/systemcenter/bb980621)。
+System Center Configuration Manager 中的自動資訊安全風險評估會找出更新需求並報告建議動作。System Center Configuration Manager 中的軟體更新管理是建置在 Microsoft Windows Software Update Services (WSUS) 上，經過時間考驗，為全球 IT 系統管理員所熟悉的更新基礎架構。如需更多有關 System Center Configuration Manager 的資訊，請造訪 [System Center 技術資源](https://technet.microsoft.com/systemcenter/bb980621)。
 
 **Systems Management Server 2003**
 
 Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。透過 SMS，系統管理員能判斷有哪些 Windows 系統需要資訊安全更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。
 
-**注意：**System Management Server 2003 自 2010 年 1 月 12 日起不受主流支援。如需更多有關產品生命週期的資訊，請造訪 [Microsoft 支援週期](http://support.microsoft.com/common/international.aspx?rdpath=/default.aspx?scid=fh%253b%255bln%255d%253blifecycle)。現已推出新版的 SMS，System Center Configuration Manager；請參閱前段的＜System Center Configuration Manager＞一節。
+**注意：**System Management Server 2003 自 2010 年 1 月 12 日起不受主流支援。如需更多有關產品生命週期的資訊，請造訪 [Microsoft 支援週期](https://support.microsoft.com/common/international.aspx?rdpath=/default.aspx?scid=fh%253b%255bln%255d%253blifecycle)。現已推出新版的 SMS，System Center Configuration Manager；請參閱前段的＜System Center Configuration Manager＞一節。
 
-如需更多有關系統管理員如何使用 SMS 2003 來部署資訊安全更新的資訊，請參閱 [Microsoft Systems Management Server 2003 的案例與程序： 軟體發佈和補充程式管理](https://www.microsoft.com/download/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英文)。如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server 技術中心 (TechCenter)](http://technet.microsoft.com/systemcenter/bb545936)。
+如需更多有關系統管理員如何使用 SMS 2003 來部署資訊安全更新的資訊，請參閱 [Microsoft Systems Management Server 2003 的案例與程序： 軟體發佈和補充程式管理](https://www.microsoft.com/download/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英文)。如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server 技術中心 (TechCenter)](https://technet.microsoft.com/systemcenter/bb545936)。
 
-**注意**：SMS 使用 Microsoft Baseline Security Analyzer 提供廣泛的資訊安全公告更新偵測與部署支援。不過這些工具可能無法偵測部分的軟體更新。在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](http://technet.microsoft.com/zh-tw/library/cc917507.aspx) (英文)。某些資訊安全更新程式在電腦重新啟動之後，會需要系統管理員的權限。系統管理員可使用 Elevated Rights Deployment Tool (隨附於 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d)) 來安裝這些更新。
+**注意**：SMS 使用 Microsoft Baseline Security Analyzer 提供廣泛的資訊安全公告更新偵測與部署支援。不過這些工具可能無法偵測部分的軟體更新。在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](https://technet.microsoft.com/zh-tw/library/cc917507.aspx) (英文)。某些資訊安全更新程式在電腦重新啟動之後，會需要系統管理員的權限。系統管理員可使用 Elevated Rights Deployment Tool (隨附於 [SMS 2003 Administration Feature Pack](https://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d)) 來安裝這些更新。
 
 **Update Compatibility Evaluator** **和** **Application Compatibility Toolkit**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署資訊安全更新的時間。您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) 隨附的 [Update Compatibility Evaluator](http://technet.microsoft.com/library/cc749197) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署資訊安全更新的時間。您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) 隨附的 [Update Compatibility Evaluator](https://technet.microsoft.com/library/cc749197) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 
@@ -1972,50 +1972,50 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 如需在 Windows Update 和 Microsoft Update 上發行的非資訊安全更新之相關資訊，請參閱：
 
--   [Microsoft 知識庫文件編號 894199](http://support.microsoft.com/kb/894199?ln=zh-tw)
+-   [Microsoft 知識庫文件編號 894199](https://support.microsoft.com/kb/894199?ln=zh-tw)
 -   ： Software Update Services 與 Windows Server Update Services 的說明內容有所變動。其中也包括所有 Windows 的內容。
--   [過去幾個月發行的 Windows Server Update Services 更新](http://technet.microsoft.com/wsus/bb456965)
+-   [過去幾個月發行的 Windows Server Update Services 更新](https://technet.microsoft.com/wsus/bb456965)
 -   。顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
 
 #### Microsoft 主動保護計畫 (MAPP)
 
-為了增強客戶的資訊安全保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要資訊安全軟體提供者提供資訊安全風險資訊。資訊安全軟體提供者可利用此資訊安全風險資訊，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](http://www.microsoft.com/security/msrc/collaboration/mapp.aspx) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
+為了增強客戶的資訊安全保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要資訊安全軟體提供者提供資訊安全風險資訊。資訊安全軟體提供者可利用此資訊安全風險資訊，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](https://www.microsoft.com/security/msrc/collaboration/mapp.aspx) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
 
 #### 資訊安全策略與社群
 
 **更新程式管理策略**
 
-[更新管理資訊安全指南](http://technet.microsoft.com/zh-tw/library/bb466251(zh-tw).aspx) (英文) 提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
+[更新管理資訊安全指南](https://technet.microsoft.com/zh-tw/library/bb466251(zh-tw).aspx) (英文) 提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他資訊安全更新**
 
 其他資訊安全問題的更新可由下列位置取得：
 
--   資訊安全更新可以從 [Microsoft 下載中心](http://www.microsoft.com/zh-tw/download/search.aspx?q=security%20update)取得， 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
--   消費性平台的更新可從 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 取得。
--   您可透過下載中心，以資訊安全和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](http://support.microsoft.com/kb/913086?ln=zh-tw)。
+-   資訊安全更新可以從 [Microsoft 下載中心](https://www.microsoft.com/zh-tw/download/search.aspx?q=security%20update)取得， 您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
+-   消費性平台的更新可從 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 取得。
+-   您可透過下載中心，以資訊安全和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](https://support.microsoft.com/kb/913086?ln=zh-tw)。
 
 **IT** **專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全社群](http://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升資訊安全以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類資訊安全議題的討論。
+在 [IT 專業人員資訊安全社群](https://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升資訊安全以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類資訊安全議題的討論。
 
 #### 感謝
 
-Microsoft [感謝](http://technet.microsoft.com/zh-tw/security/gg309157.aspx)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://technet.microsoft.com/zh-tw/security/gg309157.aspx)下列人士協助我們一同保護我們的客戶：
 
 -   感謝 [Rosario Valotta](https://sites.google.com/site/tentacoloviola) 回報 MS12-077 中描述的兩項問題
--   感謝 [Google Inc](http://www.google.com/) 的 Fermin J. Serna 回報 MS12-077 中描述的一項問題
--   感謝 [Documill](http://www.documill.com/) 的 Eetu Luodemaa 和 Joni Vähämäki 與 Chromium Security Rewards Program 合作回報 MS12-078 中描述的一項問題
--   感謝匿名的研究人員與 Beyond Security 的 [SecuriTeam Secure Disclosure](http://www.beyondsecurity.com/ssd.html) 計畫合作，回報 MS12-079 中描述的一項問題
--   感謝 [IOActive](http://ioactive.co.uk/) 的 Lucas Apa 回報 MS12-081 中描述的一項問題
--   感謝 [Aniway](mailto:aniway.anyway@gmail.com) 與 [VeriSign iDefense Labs](http://labs.idefense.com/) 合作，回報 MS12-082 中描述的一項問題
+-   感謝 [Google Inc](https://www.google.com/) 的 Fermin J. Serna 回報 MS12-077 中描述的一項問題
+-   感謝 [Documill](https://www.documill.com/) 的 Eetu Luodemaa 和 Joni Vähämäki 與 Chromium Security Rewards Program 合作回報 MS12-078 中描述的一項問題
+-   感謝匿名的研究人員與 Beyond Security 的 [SecuriTeam Secure Disclosure](https://www.beyondsecurity.com/ssd.html) 計畫合作，回報 MS12-079 中描述的一項問題
+-   感謝 [IOActive](https://ioactive.co.uk/) 的 Lucas Apa 回報 MS12-081 中描述的一項問題
+-   感謝 [Aniway](mailto:aniway.anyway@gmail.com) 與 [VeriSign iDefense Labs](https://labs.idefense.com/) 合作，回報 MS12-082 中描述的一項問題
 
 #### 支援
 
--   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 支援週期](http://support.microsoft.com/common/international.aspx?rdpath=/default.aspx?scid=fh%253b%255bln%255d%253blifecycle)。
--   IT 專業人員的資訊安全解決方案： [TechNet 資訊安全疑難排解與支援](http://technet.microsoft.com/security/bb980617.aspx)
--   協助保護您的 Windows 電腦免於病毒和惡意軟體攻擊： [病毒解決方案與資訊安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
--   您所在國家/地區的當地支援： [國際支援](http://support.microsoft.com/common/international.aspx?ln=zh-tw)
+-   所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 支援週期](https://support.microsoft.com/common/international.aspx?rdpath=/default.aspx?scid=fh%253b%255bln%255d%253blifecycle)。
+-   IT 專業人員的資訊安全解決方案： [TechNet 資訊安全疑難排解與支援](https://technet.microsoft.com/security/bb980617.aspx)
+-   協助保護您的 Windows 電腦免於病毒和惡意軟體攻擊： [病毒解決方案與資訊安全中心](https://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
+-   您所在國家/地區的當地支援： [國際支援](https://support.microsoft.com/common/international.aspx?ln=zh-tw)
 
 #### 免責聲明
 
