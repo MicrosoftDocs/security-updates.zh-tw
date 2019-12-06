@@ -6,7 +6,7 @@ Title: Security Advisories 2018
 Security Advisories 2018
 ========================
 
-For a list of the most recently updated and published Security Advisories, see [Microsoft Security Advisories](http://technet.microsoft.com/en-us/security/dn530791).
+For a list of the most recently updated and published Security Advisories, see [Microsoft Security Advisories](https://technet.microsoft.com/en-us/security/dn530791).
   
 <table style="border:1px solid black;">
 <colgroup>

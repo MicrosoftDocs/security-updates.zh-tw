@@ -16,7 +16,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms16-may(v=Security.10)
 
 此公告摘要列出 2016 年 5 月發行之資訊安全公告。
 
-如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](http://technet.microsoft.com/zh-tw/security/dd252948.aspx)。
+如需有關如何在 Microsoft 資訊安全公告發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](https://technet.microsoft.com/zh-tw/security/dd252948.aspx)。
 
 Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何非安全性更新的優先順序，其中這些非安全性更新的發行日期與每月安全性更新的發行日期相同。請參閱**＜其他資訊＞**一節。
 
@@ -52,7 +52,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-051">MS16-051</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 累積安全性更新 (3155533)<br />
 </strong>此安全性更新可解決 Internet Explorer 中的弱點。其中最嚴重的弱點，可能在使用者以 Internet Explorer 檢視蓄意製作的網頁時允許遠端執行程式碼。成功利用這些弱點的攻擊者可以取得與本機使用者相同的使用者權限。如果目前使用者以系統管理的使用者權限登入，則攻擊者即可取得受影響系統的控制權。攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -63,7 +63,7 @@ Internet Explorer</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-052">MS16-052</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Edge 的累積安全性更新 (3155538)<br />
 </strong>此安全性更新可解決 Microsoft Edge 中的弱點。其中最嚴重的弱點，可能在使用者以 Microsoft Edge 檢視蓄意製作的網頁時允許遠端執行程式碼。成功利用這些弱點的攻擊者可以取得與本機使用者相同的使用者權限。系統上帳戶使用者權限較低的客戶，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -74,7 +74,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-053">MS16-053</a></td>
 <td style="border:1px solid black;"><strong>JScript 和 VBScript 的累積安全性更新 (3156764)<br />
 </strong>這個安全性更新可解決 Microsoft Windows 中 JScript 與 VBScript 指令碼引擎的弱點。如果使用者造訪蓄意製作的網站，這些弱點可能會允許遠端執行程式碼。成功利用這些弱點的攻擊者可以取得與目前使用者相同的使用者權限。如果目前的使用者以系統管理使用者權限登入，則成功利用這些弱點的攻擊者可以取得受影響系統的控制權。攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -84,7 +84,7 @@ Microsoft Edge</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-054">MS16-054</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office 的安全性更新 (3155544)<br />
 </strong>此安全性更新可解決 Microsoft Office 中的弱點。如果使用者開啟蓄意製作的 Microsoft Office 檔案，此弱點可能會允許遠端執行程式碼。成功利用這些弱點的攻擊者，能以目前使用者的權限層級執行任意程式碼。系統上帳戶使用者權限較低的客戶，其受影響的程度比擁有系統管理權限的客戶要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -95,7 +95,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-055">MS16-055</a></td>
 <td style="border:1px solid black;"><strong>Microsoft 圖形元件的安全性更新 (3156754)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果使用者開啟蓄意製作的文件，或是造訪蓄意製作的網站，最嚴重的弱點可能會允許遠端執行程式碼。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -105,7 +105,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-056">MS16-056</a></td>
 <td style="border:1px solid black;"><strong>Windows 筆記本的安全性更新 (3156761)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果使用者開啟蓄意製作的筆記本檔案，此弱點可能會允許遠端執行程式碼。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -115,7 +115,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-057">MS16-057</a></td>
 <td style="border:1px solid black;"><strong>Windows Shell 的安全性更新 (3156987)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果攻擊者成功說服使用者瀏覽至蓄意製作且可接受使用者提供之內容的網站，或開啟蓄意製作的內容，此弱點可允許遠端程式碼執行。成功利用此弱點的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -125,7 +125,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-058">MS16-058</a></td>
 <td style="border:1px solid black;"><strong>Windows IIS 的安全性更新 (3141083)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果具有本機系統存取權的攻擊者執行惡意應用程式，此弱點可能會允許遠端執行程式碼。成功利用此弱點的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -135,7 +135,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-059">MS16-059</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Center 的安全性更新 (3150220)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果 Windows Media Center 開啟參考惡意程式碼的蓄意製作 Media Center 連結 (.mcl) 檔案，則此弱點可能會允許遠端執行程式碼。成功利用此弱點的攻擊者可以取得與目前使用者相同的使用者權限。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -145,7 +145,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-060">MS16-060</a></td>
 <td style="border:1px solid black;"><strong>Windows 核心的安全性更新 (3154846)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果攻擊者登入受影響的系統，並執行蓄意製作的應用程式，則此弱點可能會允許權限提高。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -155,7 +155,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-061">MS16-061</a></td>
 <td style="border:1px solid black;"><strong>Microsoft RPC 的安全性更新 (3155520)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果通過驗證的攻擊者對受影響主機提出錯誤格式的遠端程序呼叫 (RPC) 要求，則弱點可能會允許遠端執行程式碼。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -165,7 +165,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-062">MS16-062</a></td>
 <td style="border:1px solid black;"><strong>Windows 核心模式驅動程式的安全性更新 (3158222)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果攻擊者登入受影響的系統並執行蓄意製作的應用程式，則較嚴重的弱點可能會允許權限提高。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -175,7 +175,7 @@ Microsoft Office Services 和 Web Apps</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-064">MS16-064</a></td>
 <td style="border:1px solid black;"><strong>Adobe Flash Player 的安全性更新 (3157993)</strong><br />
 此安全性更新可解決安裝於 Windows 8.1、Windows Server 2012、Windows Server 2012 R2、Windows RT 8.1 和 Windows 10 上之 Adobe Flash Player 中的弱點。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -186,7 +186,7 @@ Adobe Flash Player</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-065">MS16-065</a></td>
 <td style="border:1px solid black;"><strong>.NET Framework 的安全性更新 (3156757)<br />
 </strong>這個安全性更新可解決 Microsoft .NET Framework 中一項弱點。如果攻擊者將未加密的資料插入目標安全通道，並在目標用戶端與合法伺服器之間發動攔截式 (MiTM) 攻擊，該弱點可造成資訊洩漏。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
 資訊洩漏</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/zh-tw/kb/3156757">3156757</a></td>
@@ -197,7 +197,7 @@ Microsoft .NET Framework</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-066">MS16-066</a></td>
 <td style="border:1px solid black;"><strong>虛擬安全模式的安全性更新 (3155451)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果攻擊者執行蓄意製作的應用程式，來略過 Windows 的程式碼完整性保護，則弱點可能會允許略過資訊安全功能。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
 資訊安全功能略過</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -207,7 +207,7 @@ Microsoft .NET Framework</td>
 <td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/library/security/ms16-067">MS16-067</a></td>
 <td style="border:1px solid black;"><strong>磁碟區管理員驅動程式的安全性更新 (3155784)<br />
 </strong>此安全性更新可解決 Microsoft Windows 中的弱點。如果透過 Microsoft RemoteFX 掛接到遠端桌面通訊協定 (RDP) 的 USB 磁碟，未正確與掛接使用者的工作階段相關聯，該弱點可造成資訊洩漏。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a> <br />
 資訊洩漏</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">---------</td>
@@ -223,7 +223,7 @@ Microsoft .NET Framework</td>
   
 **我該如何使用這個表格？**
   
-您可以運用此表格，針對您可能需要安裝的每一項安全性更新，瞭解弱點在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點入侵指數](http://technet.microsoft.com/zh-tw/security/cc998259)。
+您可以運用此表格，針對您可能需要安裝的每一項安全性更新，瞭解弱點在資訊安全公告發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點入侵指數](https://technet.microsoft.com/zh-tw/security/cc998259)。
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如公告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
 
@@ -263,7 +263,7 @@ Microsoft .NET Framework</td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0187](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0187)
+[CVE-2016-0187](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0187)
 
 </td>
 <td style="border:1px solid black;">
@@ -285,7 +285,7 @@ Microsoft .NET Framework</td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0188](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0188)
+[CVE-2016-0188](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0188)
 
 </td>
 <td style="border:1px solid black;">
@@ -307,7 +307,7 @@ Internet Explorer 資訊安全功能略過
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0189](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0189)
+[CVE-2016-0189](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0189)
 
 </td>
 <td style="border:1px solid black;">
@@ -329,7 +329,7 @@ Internet Explorer 資訊安全功能略過
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0192](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0192)
+[CVE-2016-0192](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0192)
 
 </td>
 <td style="border:1px solid black;">
@@ -351,7 +351,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0194](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0194)
+[CVE-2016-0194](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0194)
 
 </td>
 <td style="border:1px solid black;">
@@ -379,7 +379,7 @@ Internet Explorer 資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0186](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0186)
+[CVE-2016-0186](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0186)
 
 </td>
 <td style="border:1px solid black;">
@@ -401,7 +401,7 @@ Internet Explorer 資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0191](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0191)
+[CVE-2016-0191](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0191)
 
 </td>
 <td style="border:1px solid black;">
@@ -423,7 +423,7 @@ Internet Explorer 資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0192](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0192)
+[CVE-2016-0192](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0192)
 
 </td>
 <td style="border:1px solid black;">
@@ -445,7 +445,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0193](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0193)
+[CVE-2016-0193](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0193)
 
 </td>
 <td style="border:1px solid black;">
@@ -473,7 +473,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0187](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0187)
+[CVE-2016-0187](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0187)
 
 </td>
 <td style="border:1px solid black;">
@@ -495,7 +495,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0189](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0189)
+[CVE-2016-0189](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0189)
 
 </td>
 <td style="border:1px solid black;">
@@ -523,7 +523,7 @@ Microsoft 瀏覽器記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0126](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0126)
+[CVE-2016-0126](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0126)
 
 </td>
 <td style="border:1px solid black;">
@@ -545,7 +545,7 @@ Microsoft Office 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0140](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0140)
+[CVE-2016-0140](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0140)
 
 </td>
 <td style="border:1px solid black;">
@@ -567,7 +567,7 @@ Microsoft Office 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0183](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0183)
+[CVE-2016-0183](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0183)
 
 </td>
 <td style="border:1px solid black;">
@@ -589,7 +589,7 @@ Microsoft Office 圖形 RCE 弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0198](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0198)
+[CVE-2016-0198](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0198)
 
 </td>
 <td style="border:1px solid black;">
@@ -617,7 +617,7 @@ Microsoft Office 記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0168](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0168)
+[CVE-2016-0168](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0168)
 
 </td>
 <td style="border:1px solid black;">
@@ -639,7 +639,7 @@ Windows 圖形元件資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0169](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0169)
+[CVE-2016-0169](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0169)
 
 </td>
 <td style="border:1px solid black;">
@@ -661,7 +661,7 @@ Windows 圖形元件資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0170](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0170)
+[CVE-2016-0170](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0170)
 
 </td>
 <td style="border:1px solid black;">
@@ -683,7 +683,7 @@ Windows 圖形元件 RCE 弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0184](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0184)
+[CVE-2016-0184](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0184)
 
 </td>
 <td style="border:1px solid black;">
@@ -705,7 +705,7 @@ Direct3D 釋放後使用弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0195](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0195)
+[CVE-2016-0195](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0195)
 
 </td>
 <td style="border:1px solid black;">
@@ -733,7 +733,7 @@ Windows 影像處理元件記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0182](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0182)
+[CVE-2016-0182](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0182)
 
 </td>
 <td style="border:1px solid black;">
@@ -761,7 +761,7 @@ Windows 影像處理元件記憶體損毀弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0179](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0179)
+[CVE-2016-0179](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0179)
 
 </td>
 <td style="border:1px solid black;">
@@ -789,7 +789,7 @@ Windows Shell 遠端執行程式碼弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0152](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0152)
+[CVE-2016-0152](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0152)
 
 </td>
 <td style="border:1px solid black;">
@@ -817,7 +817,7 @@ Windows DLL 載入遠端執行程式碼弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0185](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0185)
+[CVE-2016-0185](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0185)
 
 </td>
 <td style="border:1px solid black;">
@@ -845,7 +845,7 @@ Windows Media Center 遠端執行程式碼弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0180](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0180)
+[CVE-2016-0180](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0180)
 
 </td>
 <td style="border:1px solid black;">
@@ -873,7 +873,7 @@ Windows 核心權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0178](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0178)
+[CVE-2016-0178](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0178)
 
 </td>
 <td style="border:1px solid black;">
@@ -901,7 +901,7 @@ RPC 網路資料表現引擎遠端執行程式碼弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0171](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0171)
+[CVE-2016-0171](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0171)
 
 </td>
 <td style="border:1px solid black;">
@@ -923,7 +923,7 @@ Win32k 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0173](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0173)
+[CVE-2016-0173](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0173)
 
 </td>
 <td style="border:1px solid black;">
@@ -945,7 +945,7 @@ Win32k 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0174](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0174)
+[CVE-2016-0174](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0174)
 
 </td>
 <td style="border:1px solid black;">
@@ -967,7 +967,7 @@ Win32k 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0175](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0175)
+[CVE-2016-0175](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0175)
 
 </td>
 <td style="border:1px solid black;">
@@ -989,7 +989,7 @@ Win32k 資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0176](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0176)
+[CVE-2016-0176](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0176)
 
 </td>
 <td style="border:1px solid black;">
@@ -1011,7 +1011,7 @@ Microsoft DirectX 圖形核心子系統權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0196](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0196)
+[CVE-2016-0196](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0196)
 
 </td>
 <td style="border:1px solid black;">
@@ -1033,7 +1033,7 @@ Win32k 權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0197](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0197)
+[CVE-2016-0197](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0197)
 
 </td>
 <td style="border:1px solid black;">
@@ -1089,7 +1089,7 @@ Microsoft DirectX 圖形核心子系統權限提高弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0149](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0149)
+[CVE-2016-0149](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0149)
 
 </td>
 <td style="border:1px solid black;">
@@ -1117,7 +1117,7 @@ TLS/SSL 資訊洩漏弱點
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0181](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0181)
+[CVE-2016-0181](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0181)
 
 </td>
 <td style="border:1px solid black;">
@@ -1145,7 +1145,7 @@ Hypervisor 程式碼完整性資訊安全功能略過
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0190](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0190)
+[CVE-2016-0190](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0190)
 
 </td>
 <td style="border:1px solid black;">
@@ -1234,7 +1234,7 @@ Hypervisor 程式碼完整性資訊安全功能略過
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1242,15 +1242,15 @@ Hypervisor 程式碼完整性資訊安全功能略過
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1258,11 +1258,11 @@ Hypervisor 程式碼完整性資訊安全功能略過
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1428,7 +1428,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**中度**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1436,15 +1436,11 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**中度**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1452,7 +1448,11 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1661,7 +1661,7 @@ VBScript 5.7
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1673,15 +1673,11 @@ VBScript 5.7
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1689,7 +1685,11 @@ VBScript 5.7
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1847,7 +1847,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**中度**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1859,7 +1859,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2023,7 +2023,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2035,15 +2035,15 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2051,7 +2051,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2213,7 +2213,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**中度**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2225,7 +2225,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2233,7 +2233,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2393,7 +2393,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2405,15 +2405,15 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2527,11 +2527,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2539,15 +2539,15 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2809,15 +2809,11 @@ Microsoft Edge
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**中度**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2825,7 +2821,11 @@ Microsoft Edge
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3133,15 +3133,15 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3149,7 +3149,7 @@ Windows Server 2012 R2 (Server Core 安裝)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3309,15 +3309,15 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3325,7 +3325,7 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3530,15 +3530,15 @@ Microsoft .NET Framework 2.0 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3546,7 +3546,7 @@ Microsoft .NET Framework 2.0 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3706,15 +3706,15 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3722,7 +3722,7 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3876,23 +3876,23 @@ Microsoft .NET Framework 3.5.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4056,23 +4056,23 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**中度**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**中度**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4080,7 +4080,7 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4240,23 +4240,23 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4364,27 +4364,27 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4634,23 +4634,15 @@ Microsoft .NET Framework 4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4658,7 +4650,15 @@ Microsoft .NET Framework 4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4963,7 +4963,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5007,7 +5007,7 @@ Microsoft Word 2007 Service Pack 3
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5075,7 +5075,7 @@ Microsoft Word 2010 Service Pack 2 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5131,7 +5131,7 @@ Microsoft Word 2013 Service Pack 1 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5172,7 +5172,7 @@ Microsoft Word 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5228,7 +5228,7 @@ Microsoft Word 2016 (64 位元版本)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5266,7 +5266,7 @@ Microsoft Word for Mac 2011
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5304,7 +5304,7 @@ Microsoft Word 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5365,7 +5365,7 @@ Microsoft Word Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5403,7 +5403,7 @@ Word Automation Services
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5436,7 +5436,7 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 
 應用程式相容性工具組隨附的 Update Compatibility Evaluator 元件可針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
-如需上述工具以及其他可使用工具的詳細資訊，請參閱 [IT 專業人員的資訊安全工具](http://technet.microsoft.com/zh-tw/security/cc297183)。
+如需上述工具以及其他可使用工具的詳細資訊，請參閱 [IT 專業人員的資訊安全工具](https://technet.microsoft.com/zh-tw/security/cc297183)。
 
 致謝
 ----
@@ -5455,39 +5455,39 @@ Microsoft 了解資訊安全業界所做的努力，其盡責地透露弱點來�
 如需在 Windows Update 和 Microsoft Update 上發行的非安全性更新之相關資訊，請參閱：
 
 -   [Microsoft 知識庫文章 894199](https://support.microsoft.com/zh-tw/kb/894199)：Software Update Services 與 Windows Server Update Services 的說明內容有所變動。其中也包括所有 Windows 的內容。
--   [過去幾個月發行的 Windows Server Update Services 更新](http://technet.microsoft.com/zh-tw/windowsserver/bb332157.aspx)。顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
+-   [過去幾個月發行的 Windows Server Update Services 更新](https://technet.microsoft.com/zh-tw/windowsserver/bb332157.aspx)。顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
 
 ### Microsoft 主動保護計畫 (MAPP)
 
-為了增強客戶的資訊安全保護，Microsoft 將在每月發行安全性更新之前，提前向重要資訊安全軟體提供者提供弱點資訊。資訊安全軟體提供者可利用此弱點，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](http://technet.microsoft.com/zh-tw/security/dn467918) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
+為了增強客戶的資訊安全保護，Microsoft 將在每月發行安全性更新之前，提前向重要資訊安全軟體提供者提供弱點資訊。資訊安全軟體提供者可利用此弱點，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](https://technet.microsoft.com/zh-tw/security/dn467918) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
 
 ### 安全性策略與社群
 
 **更新程式管理策略**
 
-[更新管理資訊安全指南](http://technet.microsoft.com/zh-tw/library/bb466251.aspx) (英文) 提供您有關套用安全性更新的 Microsoft 最佳實作建議的其他資訊。
+[更新管理資訊安全指南](https://technet.microsoft.com/zh-tw/library/bb466251.aspx) (英文) 提供您有關套用安全性更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他安全性更新**
 
 其他資訊安全問題的更新可由下列位置取得：
 
--   安全性更新可以從 [Microsoft 下載中心](http://go.microsoft.com/fwlink/?linkid=21129)取得，您也可以利用「安全性更新」("security update") 關鍵字搜尋輕易地找到安全性更新。
--   客戶平台的更新可從 [Microsoft Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-tw) 取得。
+-   安全性更新可以從 [Microsoft 下載中心](https://go.microsoft.com/fwlink/?linkid=21129)取得，您也可以利用「安全性更新」("security update") 關鍵字搜尋輕易地找到安全性更新。
+-   客戶平台的更新可從 [Microsoft Update](https://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-tw) 取得。
 -   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的安全性更新。如需更多資訊，請參閱 [Microsoft 知識庫文章編號 913086](https://support.microsoft.com/zh-tw/kb/913086)。
 
 **IT 專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全區社群](http://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+在 [IT 專業人員資訊安全區社群](https://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
 ### 支援
 
 所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](https://support.microsoft.com/zh-tw/lifecycle)。
 
-適用於 IT 專業人員的安全性解決方案：[TechNet 安全性疑難排解與支援](http://technet.microsoft.com/zh-tw/security/bb980617)
+適用於 IT 專業人員的安全性解決方案：[TechNet 安全性疑難排解與支援](https://technet.microsoft.com/zh-tw/security/bb980617)
 
-協助保護您的 Widows 電腦免於病毒和惡意軟體攻擊：[病毒解決方案與資訊安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
+協助保護您的 Windows 電腦免於病毒和惡意軟體攻擊：[病毒解決方案與資訊安全中心](https://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
 
-您所在國家/地區的當地支援：[多語系支援](http://support.microsoft.com/common/international.aspx?ln=zh-tw)
+您所在國家/地區的當地支援：[多語系支援](https://support.microsoft.com/common/international.aspx?ln=zh-tw)
 
 ### 免責聲明
 

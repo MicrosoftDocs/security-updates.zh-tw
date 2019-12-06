@@ -17,18 +17,18 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms04-nov(v=Security.10)
 **發佈日期：**2004 年 11 月 10 日  
 **版本號碼：**1.0
 
-請參考[此處](http://www.microsoft.com/taiwan/security/default.mspx)所提供的使用者版本資訊。
+請參考[此處](https://www.microsoft.com/taiwan/security/default.mspx)所提供的使用者版本資訊。
 
 **保護您的電腦：**Microsoft 在下列網址提供有助於保護電腦的相關資訊：
 
--   一般使用者可以瀏覽[保護您的電腦網站](http://www.microsoft.com/taiwan/security/protect/)。
--   IT 專業人員可以瀏覽[資訊安全指導中心](http://www.microsoft.com/taiwan/security/guidance/default.mspx)網站。
+-   一般使用者可以瀏覽[保護您的電腦網站](https://www.microsoft.com/taiwan/security/protect/)。
+-   IT 專業人員可以瀏覽[資訊安全指導中心](https://www.microsoft.com/taiwan/security/guidance/default.mspx)網站。
 
-**更新程式管理策略：**[Microsoft 安全性補充程式管理指南](http://www.microsoft.com/taiwan/security/spm_guide.asp)網站提供您有關套用安全性更新的 Microsoft 最佳實作建議資訊。
+**更新程式管理策略：**[Microsoft 安全性補充程式管理指南](https://www.microsoft.com/taiwan/security/spm_guide.asp)網站提供您有關套用安全性更新的 Microsoft 最佳實作建議資訊。
 
-**IT Pro 資訊安全區社群：**在 [IT Pro 資訊安全區網站](http://go.microsoft.com/fwlink/?linkid=21164) (英文) 上，學習如何提升安全性及加強您的 IT 基礎結構，並與其他的 IT 專業人員共同參與各類安全性議題的討論。
+**IT Pro 資訊安全區社群：**在 [IT Pro 資訊安全區網站](https://go.microsoft.com/fwlink/?linkid=21164) (英文) 上，學習如何提升安全性及加強您的 IT 基礎結構，並與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
-**Microsoft 安全性通知服務：**如果要在 Microsoft 安全性公告發佈時收到電子郵件通知，請訂閱 [Microsoft 安全性通知服務](http://go.microsoft.com/fwlink/?linkid=21163) (英文)。
+**Microsoft 安全性通知服務：**如果要在 Microsoft 安全性公告發佈時收到電子郵件通知，請訂閱 [Microsoft 安全性通知服務](https://go.microsoft.com/fwlink/?linkid=21163) (英文)。
 
 #### 摘要
 
@@ -40,9 +40,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms04-nov(v=Security.10)
 <span></span>
 | 公告編號             | Microsoft 安全性公告 MS04-039                                                                                                                      |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告標題**         | [ISA Server 2000 及 Proxy Server 2.0 中的弱點可能會允許網際網路內容偽造 (888258)](http://www.microsoft.com/taiwan/security/bulletin/ms04-039.mspx) |
+| **公告標題**         | [ISA Server 2000 及 Proxy Server 2.0 中的弱點可能會允許網際網路內容偽造 (888258)](https://www.microsoft.com/taiwan/security/bulletin/ms04-039.mspx) |
 | **提要**             | 這項弱點可使攻擊者能夠偽造信任的網際網路內容。                                                                                                     |
-| **最高的嚴重性等級** | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                      |
+| **最高的嚴重性等級** | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                      |
 | **弱點的影響**       | 偽造                                                                                                                                               |
 | **受影響的軟體**     | **Windows** 如需更多資訊，請參閱＜受影響的軟體及下載位置＞部份。                                                                                   |
 
@@ -58,13 +58,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms04-nov(v=Security.10)
 
 |                                                                                                                                                    | 詳細資訊                                                                                              |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| **公告編號**                                                                                                                                       | [**MS04-039**](http://www.microsoft.com/taiwan/security/bulletin/ms04-039.mspx)                       |
-| **最高的嚴重性等級**                                                                                                                               | [**重要**](http://technet.microsoft.com/security/bulletin/rating)                                     |
+| **公告編號**                                                                                                                                       | [**MS04-039**](https://www.microsoft.com/taiwan/security/bulletin/ms04-039.mspx)                       |
+| **最高的嚴重性等級**                                                                                                                               | [**重要**](https://technet.microsoft.com/security/bulletin/rating)                                     |
 | **受影響的 Windows 軟體：**                                                                                                                        |                                                                                                       |
-| Microsoft Internet Security and Acceleration Server 2000 Service Pack 1 及 Microsoft Internet Security and Acceleration Server 2000 Service Pack 2 | [重要](http://www.microsoft.com/downloads/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
-| Microsoft Small Business Server 2000 (其中即包含 Microsoft Internet Security and Acceleration Server 2000)                                         | [重要](http://www.microsoft.com/downloads/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
-| Microsoft Small Business Server 2003 Premium Edition (其中即包含 Microsoft Internet Security and Acceleration Server 2000)                         | [重要](http://www.microsoft.com/downloads/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
-| Microsoft Proxy Server 2.0 Service Pack 1                                                                                                          | [重要](http://www.microsoft.com/downloads/details.aspx?familyid=55643141-91e3-4474-8134-72887bc6fc18) |
+| Microsoft Internet Security and Acceleration Server 2000 Service Pack 1 及 Microsoft Internet Security and Acceleration Server 2000 Service Pack 2 | [重要](https://www.microsoft.com/download/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
+| Microsoft Small Business Server 2000 (其中即包含 Microsoft Internet Security and Acceleration Server 2000)                                         | [重要](https://www.microsoft.com/download/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
+| Microsoft Small Business Server 2003 Premium Edition (其中即包含 Microsoft Internet Security and Acceleration Server 2000)                         | [重要](https://www.microsoft.com/download/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
+| Microsoft Proxy Server 2.0 Service Pack 1                                                                                                          | [重要](https://www.microsoft.com/download/details.aspx?familyid=55643141-91e3-4474-8134-72887bc6fc18) |
 
 部署
 ----
@@ -72,15 +72,15 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms04-nov(v=Security.10)
 <span></span>
 **Systems Management Server：**
 
-Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理網站](http://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm)。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](http://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/suspack/)來協助部署安全性更新。 如需關於 SMS 的詳細資訊，請瀏覽 [SMS 網站](http://www.microsoft.com/taiwan/smserver/)。
+Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決方案，能夠對更新程式進行方便的管理。 透過 SMS，系統管理員能判斷有哪些 Windows 系統需要安全性更新，並控制更新程式在企業中的部署，同時將對使用者造成的干擾降到最低。 如需更多關於系統管理員如何使用 SMS 2003 部署安全性更新的資訊，請瀏覽 [SMS 2003 的安全性補充程式管理網站](https://www.microsoft.com/taiwan/smserver/evaluation/capabilities/patch.htm)。 SMS 2.0 使用者也可以利用 [SMS 軟體更新服務功能套件](https://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/suspack/)來協助部署安全性更新。 如需關於 SMS 的詳細資訊，請瀏覽 [SMS 網站](https://www.microsoft.com/taiwan/smserver/)。
 
-**注意：**SMS 使用 Microsoft 基線安全性分析器及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部份的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需更多關於這個程序的資訊，請瀏覽這個[網站](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/taiwan/smserver/downloads/2003/adminpack.htm) 和 [SMS 管理功能套件](http://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/adminpack/default.htm)提供) 來安裝這些更新。
+**注意：**SMS 使用 Microsoft 基線安全性分析器及 Microsoft Office Detection Tool，為安全性公告更新的偵測及部署作業提供相當廣泛的支援。 不過這些工具可能無法偵測部份的軟體更新。 在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。 如需更多關於這個程序的資訊，請瀏覽這個[網站](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全性更新程式在電腦重新啟動之後，會需要系統管理員的權限。 系統管理員可以用 Elevated Rights Deployment Tool (隨 [SMS 2003 Administration Feature Pack](https://www.microsoft.com/taiwan/smserver/downloads/2003/adminpack.htm) 和 [SMS 管理功能套件](https://www.microsoft.com/taiwan/smserver/downloads/20/featurepacks/adminpack/default.htm)提供) 來安裝這些更新。
 
 #### 其他資訊：
 
 **感謝**
 
-Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
+Microsoft [感謝](https://go.microsoft.com/fwlink/?linkid=21127)下列人士協助我們一同保護我們的客戶：
 
 -   Info Support 的 [Martijn de Vries](mailto:martijnv@infosupport.com) 與 [Thomas de Klerk](mailto:thomask@infosupport.com) 分別發現和回報偽造弱點 (CAN-2004-0892)。
 
@@ -88,22 +88,22 @@ Microsoft [感謝](http://go.microsoft.com/fwlink/?linkid=21127)下列人士協�
 
 其他安全性問題的更新可由下列位置取得：
 
--   安全性更新可以從 [Microsoft 下載中心](http://www.microsoft.com/downloads/search.aspx?displaylang=zh-tw)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。
--   使用者平台的更新程式可以從 [Windows Update 網站](http://go.microsoft.com/fwlink/?linkid=21130)取得。
+-   安全性更新可以從 [Microsoft 下載中心](https://www.microsoft.com/downloads/search.aspx?displaylang=zh-tw)取得， 您也可以利用 "security\_patch" 關鍵字搜尋輕易地找到安全性更新。
+-   使用者平台的更新程式可以從 [Windows Update 網站](https://go.microsoft.com/fwlink/?linkid=21130)取得。
 
 **支援：**
 
--   美國及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 技術支援服務](http://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。 與安全性更新有關的支援電話不另外收費。
--   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，可以從[世界各地技術支援網站](http://go.microsoft.com/fwlink/?linkid=21155)取得。
+-   美國及加拿大地區客戶可電洽 1-866-PCSAFETY [Microsoft 技術支援服務](https://go.microsoft.com/fwlink/?linkid=21131)以取得技術支援。 與安全性更新有關的支援電話不另外收費。
+-   不同國家的客戶，可以從當地的 Microsoft 分公司取得支援。 與安全性更新有關的支援電話不另外收費。 如需更多關於連絡 Microsoft 技術支援的資訊，可以從[世界各地技術支援網站](https://go.microsoft.com/fwlink/?linkid=21155)取得。
 
 **安全性資源：**
 
--   [Microsoft TechNet 資訊安全](http://www.microsoft.com/taiwan/technet/security/default.mspx)網站提供了有關 Microsoft 產品安全性的其他資訊。
--   [Microsoft Software Update Services](http://www.microsoft.com/taiwan/windowsserversystem/sus/default.mspx)
--   [Microsoft 基線安全性分析器](http://www.microsoft.com/taiwan/security/tools/mbsahome.asp) (MBSA)
--   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)
--   Windows Update 目錄：如需更多關於 Windows Update 目錄的資訊，請參閱 Microsoft 知識庫文件編號 [323166](http://support.microsoft.com/default.aspx?scid=kb;en-us;323166)。
--   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+-   [Microsoft TechNet 資訊安全](https://www.microsoft.com/taiwan/technet/security/default.mspx)網站提供了有關 Microsoft 產品安全性的其他資訊。
+-   [Microsoft Software Update Services](https://www.microsoft.com/taiwan/windowsserversystem/sus/default.mspx)
+-   [Microsoft 基線安全性分析器](https://www.microsoft.com/taiwan/security/tools/mbsahome.asp) (MBSA)
+-   [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)
+-   Windows Update 目錄：如需更多關於 Windows Update 目錄的資訊，請參閱 Microsoft 知識庫文件編號 [323166](https://support.microsoft.com/default.aspx?scid=kb;en-us;323166)。
+-   [Office Update](https://go.microsoft.com/fwlink/?linkid=21135)
 
 **免責聲明：**
 

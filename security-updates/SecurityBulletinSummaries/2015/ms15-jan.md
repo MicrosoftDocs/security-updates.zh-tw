@@ -16,7 +16,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms15-jan(v=Security.10)
 
 此佈告摘要列出 2015 年 1 月份發行之資訊安全佈告欄。
 
-如需有關如何在 Microsoft 資訊安全佈告欄發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](http://technet.microsoft.com/zh-tw/security/dd252948.aspx)。
+如需有關如何在 Microsoft 資訊安全佈告欄發佈時收到自動通知之詳細資訊，請造訪 [Microsoft 技術安全性通知](https://technet.microsoft.com/zh-tw/security/dd252948.aspx)。
 
 Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任何非資訊安全更新的優先順序，其中這些非資訊安全更新的發行日期與每月資訊安全更新的發行日期相同。請參閱**＜其他資訊＞**一節。
 
@@ -46,81 +46,81 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 <td style="border:1px solid black;"><strong>受影響的軟體</strong></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522536">MS15-001</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522536">MS15-001</a></td>
 <td style="border:1px solid black;"><strong>Windows 應用程式相容性快取中的資訊安全風險可能會允許權限提高 (3023266)<br />
 <br />
 </strong>此資訊安全更新可解決 Microsoft Windows 中一項公開揭露的資訊安全風險。如果攻擊者登入系統並執行蓄意製作的應用程式，則這個資訊安全風險可能允許權限提高。成功利用此資訊安全風險的驗證攻擊者，可以略過現有於 Microsoft Windows 應用程式相容性元件的快取修改中操作的權限檢查，並使用提高的權限執行任意程式碼。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522537">MS15-002</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522537">MS15-002</a></td>
 <td style="border:1px solid black;"><strong>Windows Telnet 服務中的資訊安全風險可能會允許遠端執行程式碼 (3020393)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。如果攻擊者傳送蓄意製作的封包到受影響的 Windows 伺服器，這項資訊安全風險可允許遠端執行程式碼。依照預設，Telnet 並未安裝於任何受影響的作業系統版本上。唯有手動安裝此項服務的客戶，才有可能受影響。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重大</a><br />
 遠端執行程式碼</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522528">MS15-003</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522528">MS15-003</a></td>
 <td style="border:1px solid black;"><strong>Windows 使用者設定檔服務中的資訊安全風險可能會允許權限提高 (3021674)</strong><br />
 <br />
 此安全性更新可解決 Microsoft Windows 中一項公開揭露的資訊安全風險。如果攻擊者登入系統並執行蓄意製作的應用程式，則此資訊安全風險可能允許權限提高。一旦攻擊得逞，本機攻擊者將能在目標系統上以提高的權限執行任意程式碼。攻擊者必須擁有有效的登入認證，並能夠登入本機，才能利用這項資訊安全風險。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522521">MS15-004</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522521">MS15-004</a></td>
 <td style="border:1px solid black;"><strong>Windows 元件中的資訊安全風險可能會允許權限提高 (3025421)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。如果攻擊者成功誘使使用者執行蓄意製作的應用程式，則此資訊安全風險可能允許權限提高。成功利用此資訊安全風險的攻擊者可以取得與目前使用者相同的使用者權限。如果目前的使用者以系統管理的使用者權限登入，攻擊者接下來就能安裝程式，並檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。系統上帳戶使用者權限較低的客戶，其受影響的程度比擁有系統管理權限的使用者要小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522531">MS15-005</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522531">MS15-005</a></td>
 <td style="border:1px solid black;"><strong>網路位置感知服務中的資訊安全風險可能會允許資訊安全功能略過 (3022777)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。此資訊安全風險發生於與受害者位於相同網路的攻擊者偽造受害者啟動的 DNS 和 LDAP 流量回應時，無意間放鬆防火牆原則及/或某些服務的設定造成資訊安全功能略過。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
 資訊安全功能略過</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522535">MS15-006</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522535">MS15-006</a></td>
 <td style="border:1px solid black;"><strong>Windows 錯誤報告中的資訊安全風險可能允許安全性功能略過 (3004365)</strong><br />
 <br />
 此資訊安全更新可解決 Windows 錯誤報告 (WER) 中一項未公開報告的資訊安全風險。如果攻擊者成功利用此資訊安全風險，可能會允許資訊安全功能略過。成功利用這項資訊安全風險的攻擊者可存取執行程序的記憶體。設定為具有較少使用者權限的使用者帳戶所受到的影響，可能會比利用系統管理使用者權限進行操作的使用者帳戶小。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
 資訊安全功能略過</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=519134">MS15-007</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=519134">MS15-007</a></td>
 <td style="border:1px solid black;"><strong>網路原則伺服器 RADIUS 實施中的資訊安全風險可能會導致阻斷服務 (3014029)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。此資訊安全風險在攻擊者傳送蓄意製作的 Username 字串值至網際網路驗證服務 (IAS) 或網路原則伺服器 (NPS) 時，將導致 IAS 或 NPS 阻斷服務。請注意，拒絕服務資訊安全風險不會允許攻擊者執行程式碼或提高其使用者權限，但會導致 RADIUS 認證在 IAS 或 NPS 上無法使用。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
 阻斷服務 (DoS)</td>
 <td style="border:1px solid black;">可能需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522533">MS15-008</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522533">MS15-008</a></td>
 <td style="border:1px solid black;"><strong>Windows 核心模式驅動程式的資訊安全風險可能會允許權限提高 (3019215)</strong><br />
 <br />
 此資訊安全更新可解決 Microsoft Windows 中一項未公開報告的資訊安全風險。如果攻擊者在受影響的系統上執行蓄意製作的應用程式，這項資訊安全風險可能會允許權限提高。攻擊者必須擁有有效的登入認證，並能夠登入本機，才能利用這項資訊安全風險。</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/zh-tw/security/gg309177.aspx">重要</a><br />
 權限提高</td>
 <td style="border:1px solid black;">需要重新開機</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -137,7 +137,7 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
   
 **我該如何使用這個表格？**
   
-您可以運用此表格，針對您可能需要安裝的每一項資訊安全更新，瞭解資訊安全風險在資訊安全佈告欄發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點索引](http://technet.microsoft.com/zh-tw/security/cc998259)。
+您可以運用此表格，針對您可能需要安裝的每一項資訊安全更新，瞭解資訊安全風險在資訊安全佈告欄發行 30 日內遭成功利用而導致程式碼執行與阻斷服務 (DoS) 的可能性。請根據您特定的組態設定，檢閱下列各項評估，決定部署本月份更新的優先次序。如需關於這些分級意義的資訊，以及決定分級方式的詳細資訊，請參閱 [Microsoft 弱點索引](https://technet.microsoft.com/zh-tw/security/cc998259)。
   
 在下方欄位中，「最新軟體版本」意指受影響軟體，「較舊軟體版本」意指受影響軟體所有較舊的支援版本，如佈告中的「受影響的軟體」或「不受影響的軟體」表格裡所示。
   
@@ -163,9 +163,9 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 <td style="border:1px solid black;"><strong>主要重點</strong></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522536">MS15-001</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522536">MS15-001</a></td>
 <td style="border:1px solid black;">Microsoft 應用程式相容性基礎結構權限提高的資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0002">CVE-2015-0002</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0002">CVE-2015-0002</a></td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">不適用</td>
@@ -174,18 +174,18 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 這是權限提高的資訊安全風險。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522537">MS15-002</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522537">MS15-002</a></td>
 <td style="border:1px solid black;">Windows Telnet 服務緩衝區溢位資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0014">CVE-2015-0014</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0014">CVE-2015-0014</a></td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">這是遠端執行程式碼的資訊安全風險。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522528">MS15-003</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522528">MS15-003</a></td>
 <td style="border:1px solid black;">Microsoft 使用者設定檔服務權限提高的資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0004">CVE-2015-0004</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0004">CVE-2015-0004</a></td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">不適用</td>
@@ -194,9 +194,9 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 這是權限提高的資訊安全風險。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522521">MS15-004</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522521">MS15-004</a></td>
 <td style="border:1px solid black;">目錄周遊權限提高資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0016">CVE-2015-0016</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0016">CVE-2015-0016</a></td>
 <td style="border:1px solid black;">0 - 已偵測到利用</td>
 <td style="border:1px solid black;">0 - 已偵測到利用</td>
 <td style="border:1px solid black;">不適用</td>
@@ -205,36 +205,36 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 此資訊安全風險正被用於略過沙箱的受限、目標式攻擊。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522531">MS15-005</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522531">MS15-005</a></td>
 <td style="border:1px solid black;">NLA 資訊安全功能略過資訊安全風險 - CVE-2015-0006</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0006">CVE-2015-0006</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0006">CVE-2015-0006</a></td>
 <td style="border:1px solid black;">3 - 不太可能遭到利用</td>
 <td style="border:1px solid black;">3 - 不太可能遭到利用</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">這是一個資訊安全功能略過之資訊安全風險。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522535">MS15-006</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522535">MS15-006</a></td>
 <td style="border:1px solid black;">Windows 錯誤報告資訊安全功能略過資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0001">CVE-2015-0001</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0001">CVE-2015-0001</a></td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">這是一個資訊安全功能略過之資訊安全風險。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=519134">MS15-007</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=519134">MS15-007</a></td>
 <td style="border:1px solid black;">網路原則伺服器 RADIUS 實作拒絕服務資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0015">CVE-2015-0015</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0015">CVE-2015-0015</a></td>
 <td style="border:1px solid black;">3 - 不太可能遭到利用</td>
 <td style="border:1px solid black;">3 - 不太可能遭到利用</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">此資訊安全風險會造成拒絕服務。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=522533">MS15-008</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=522533">MS15-008</a></td>
 <td style="border:1px solid black;">WebDAV 權限提高資訊安全風險</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0011">CVE-2015-0011</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-0011">CVE-2015-0011</a></td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">2 - 遭到利用的可能性較小</td>
 <td style="border:1px solid black;">不適用</td>
@@ -271,35 +271,35 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -313,19 +313,11 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -333,11 +325,19 @@ Microsoft 也會提供資訊協助客戶排定每月資訊安全更新以及任�
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -494,35 +494,35 @@ Windows Server 2003 Itanium 系統 (含 SP2)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -536,23 +536,19 @@ Windows Server 2003 Itanium 系統 (含 SP2)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -560,7 +556,11 @@ Windows Server 2003 Itanium 系統 (含 SP2)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -672,35 +672,35 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -714,19 +714,11 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -734,11 +726,19 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -894,35 +894,35 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -932,27 +932,23 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -960,7 +956,11 @@ Itanium 系統的 Windows Server 2008 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1088,35 +1088,35 @@ Windows 7 x64 系統 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -1126,23 +1126,23 @@ Windows 7 x64 系統 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1150,11 +1150,11 @@ Windows 7 x64 系統 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1276,35 +1276,35 @@ Windows Server 2008 R2 x64 系統 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -1314,27 +1314,27 @@ Windows Server 2008 R2 x64 系統 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1342,7 +1342,7 @@ Windows Server 2008 R2 x64 系統 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1566,35 +1566,35 @@ Windows 8.1 x64 系統
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -1604,35 +1604,35 @@ Windows 8.1 x64 系統
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1756,35 +1756,35 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -1794,7 +1794,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1802,19 +1802,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**無**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1822,7 +1814,15 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**無**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1934,35 +1934,35 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-001**](http://go.microsoft.com/fwlink/?linkid=522536)
+[**MS15-001**](https://go.microsoft.com/fwlink/?linkid=522536)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-002**](http://go.microsoft.com/fwlink/?linkid=522537)
+[**MS15-002**](https://go.microsoft.com/fwlink/?linkid=522537)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-003**](http://go.microsoft.com/fwlink/?linkid=522528)
+[**MS15-003**](https://go.microsoft.com/fwlink/?linkid=522528)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-004**](http://go.microsoft.com/fwlink/?linkid=522521)
+[**MS15-004**](https://go.microsoft.com/fwlink/?linkid=522521)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-005**](http://go.microsoft.com/fwlink/?linkid=522531)
+[**MS15-005**](https://go.microsoft.com/fwlink/?linkid=522531)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-006**](http://go.microsoft.com/fwlink/?linkid=522535)
+[**MS15-006**](https://go.microsoft.com/fwlink/?linkid=522535)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-007**](http://go.microsoft.com/fwlink/?linkid=519134)
+[**MS15-007**](https://go.microsoft.com/fwlink/?linkid=519134)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-008**](http://go.microsoft.com/fwlink/?linkid=522533)
+[**MS15-008**](https://go.microsoft.com/fwlink/?linkid=522533)
 
 </td>
 </tr>
@@ -1972,27 +1972,27 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重大**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重大**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-tw/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-tw/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2258,7 +2258,7 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 
 應用程式相容性工具組隨附的 Update Compatibility Evaluator 元件可針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
-如需上述工具以及其他可使用工具的詳細資訊，請參閱 [IT 專業人員的資訊安全工具](http://technet.microsoft.com/zh-tw/security/cc297183)。
+如需上述工具以及其他可使用工具的詳細資訊，請參閱 [IT 專業人員的資訊安全工具](https://technet.microsoft.com/zh-tw/security/cc297183)。
 
 致謝
 ----
@@ -2277,39 +2277,39 @@ Microsoft 了解資訊安全業界所做的努力，其盡責地透露資訊安�
 如需在 Windows Update 和 Microsoft Update 上發行的非資訊安全更新之相關資訊，請參閱：
 
 -   [Microsoft 知識庫文件編號 894199](https://support.microsoft.com/kb/894199/zh-tw)：Software Update Services 與 Windows Server Update Services 的說明內容有所變動。其中也包括所有 Windows 的內容。
--   [過去幾個月發行的 Windows Server Update Services 更新](http://technet.microsoft.com/zh-tw/windowsserver/bb332157.aspx)。顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
+-   [過去幾個月發行的 Windows Server Update Services 更新](https://technet.microsoft.com/zh-tw/windowsserver/bb332157.aspx)。顯示除了 Microsoft Windows 以外其他 Microsoft 產品的所有全新、修訂版或重新發行的更新。
 
 ### Microsoft 主動保護計畫 (MAPP)
 
-為了增強客戶的資訊安全保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要資訊安全軟體提供者提供資訊安全風險資訊。資訊安全軟體提供者可利用此資訊安全風險資訊，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](http://technet.microsoft.com/zh-tw/security/dn467918) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
+為了增強客戶的資訊安全保護，Microsoft 將在每月發行資訊安全更新之前，提前向重要資訊安全軟體提供者提供資訊安全風險資訊。資訊安全軟體提供者可利用此資訊安全風險資訊，透過其資訊安全軟體或裝置 (如防毒軟體、網路入侵偵測系統、或主機入侵預防系統)，為客戶提供更新的保護措施。如果要判斷是否有資訊安全軟體提供者的主動保護可用，請造訪由 [Microsoft 主動保護計畫 (MAPP) 合作夥伴](https://technet.microsoft.com/zh-tw/security/dn467918) (英文) 上列出的計畫合作夥伴所提供的主動保護計畫網站。
 
 ### 安全性策略與社群
 
 **更新程式管理策略**
 
-[更新管理安全性指南](http://technet.microsoft.com/zh-tw/library/bb466251.aspx) (英文) 提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
+[更新管理安全性指南](https://technet.microsoft.com/zh-tw/library/bb466251.aspx) (英文) 提供您有關套用資訊安全更新的 Microsoft 最佳實作建議的其他資訊。
 
 **取得其他資訊安全更新**
 
 其他資訊安全問題的更新可由下列位置取得：
 
--   資訊安全更新可以從 [Microsoft 下載中心](http://www.microsoft.com/downloads/results.aspx?displaylang=zh-tw&freetext=security%20update)取得，您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
--   客戶平台的更新可從 [Microsoft Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-tw) 取得。
+-   資訊安全更新可以從 [Microsoft 下載中心](https://www.microsoft.com/downloads/results.aspx?displaylang=zh-tw&freetext=security%20update)取得，您也可以利用「資訊安全更新」("security update") 關鍵字搜尋輕易地找到資訊安全更新。
+-   客戶平台的更新可從 [Microsoft Update](https://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-tw) 取得。
 -   您可透過下載中心，以安全性和重大更新 ISO CD 影響檔的方式取得本月份 Windows Update 提供的資訊安全更新。如需更多資訊，請參閱 [Microsoft 知識庫文件編號 913086](https://support.microsoft.com/kb/913086/zh-tw)。
 
 **IT 專業人員資訊安全社群**
 
-在 [IT 專業人員資訊安全區社群](http://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
+在 [IT 專業人員資訊安全區社群](https://technet.microsoft.com/zh-tw/security/cc136632.aspx)上，學習如何提升安全性以及改善您的 IT 基礎結構，與其他的 IT 專業人員共同參與各類安全性議題的討論。
 
 ### 支援
 
-所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](http://go.microsoft.com/fwlink/?linkid=21742)。
+所列出的受影響軟體版本已經過測試判斷哪些版本會受到影響。其他版本超出它們的支援週期。若要瞭解您的軟體版本的支援週期，請造訪 [Microsoft 產品技術支援週期網站](https://go.microsoft.com/fwlink/?linkid=21742)。
 
-IT 專業人員的資訊安全解決方案：[安全性疑難排解與支援](http://technet.microsoft.com/zh-tw/security/bb980617)
+IT 專業人員的資訊安全解決方案：[安全性疑難排解與支援](https://technet.microsoft.com/zh-tw/security/bb980617)
 
-協助保護您的 Widows 電腦免於病毒和惡意軟體攻擊：[病毒解决方案和安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
+協助保護您的 Windows 電腦免於病毒和惡意軟體攻擊：[病毒解决方案和安全中心](https://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-tw)
 
-您所在國家/地區的當地支援：[國際支援](http://support.microsoft.com/common/international.aspx?ln=zh-tw)
+您所在國家/地區的當地支援：[國際支援](https://support.microsoft.com/common/international.aspx?ln=zh-tw)
 
 ### 免責聲明
 
