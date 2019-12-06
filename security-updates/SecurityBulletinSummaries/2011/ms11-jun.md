@@ -640,17 +640,17 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=2371079f-fb20-4fd5-999e-e73f3701818c)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=2371079f-fb20-4fd5-999e-e73f3701818c)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
 (KB2478656)  
 (重大)  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
 (KB2478658)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
@@ -658,33 +658,33 @@ Windows XP Service Pack 3
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=67a25abd-f43c-4b01-b507-a109b739238f)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=67a25abd-f43c-4b01-b507-a109b739238f)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=492310d3-bbb4-4fff-b5fe-3470c17e7681)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=492310d3-bbb4-4fff-b5fe-3470c17e7681)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (無嚴重性等級<sup>[2]</sup>)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
 (KB2530095)  
 (重大)  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=26ec66af-9727-4423-90da-012ed5b30856)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=26ec66af-9727-4423-90da-012ed5b30856)  
 (重大)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4203a59a-a809-45db-a234-fef0ff5063f9)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4203a59a-a809-45db-a234-fef0ff5063f9)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=4a49ec89-2a8f-41d9-8f0b-ee57fdf21f50)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=4a49ec89-2a8f-41d9-8f0b-ee57fdf21f50)  
 (重大)
 </td>
 </tr>
@@ -693,52 +693,52 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b53d6631-4ded-48f5-a503-925b89b322b2)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b53d6631-4ded-48f5-a503-925b89b322b2)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
 (KB2478656)  
 (重大)  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
 (KB2478658)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=035d5115-54b6-41d3-b9f0-890041ead178)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=035d5115-54b6-41d3-b9f0-890041ead178)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=af6b7627-c462-45fe-8948-70da37e60659)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=af6b7627-c462-45fe-8948-70da37e60659)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e10a4c3c-2ef8-4cfc-ac9b-4d97bfa79ac1)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e10a4c3c-2ef8-4cfc-ac9b-4d97bfa79ac1)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (無嚴重性等級<sup>[2]</sup>)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
 (KB2530095)  
 (重大)  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=f6e05fef-ee8c-44ff-a106-d7b8659c8d91)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=f6e05fef-ee8c-44ff-a106-d7b8659c8d91)  
 (重大)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=9fc734db-a177-43d2-a74a-b1fe6ea6f779)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=9fc734db-a177-43d2-a74a-b1fe6ea6f779)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=4e4e18a4-97dc-4c5e-a078-8466913aa29e)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=4e4e18a4-97dc-4c5e-a078-8466913aa29e)  
 (重大)
 </td>
 </tr>
@@ -804,17 +804,17 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7e6ff410-4552-4687-81ab-83d9c91f8af5)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7e6ff410-4552-4687-81ab-83d9c91f8af5)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
 (KB2478656)  
 (重大)  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
 (KB2478658)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
@@ -822,33 +822,33 @@ Windows Server 2003 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3aa8f1bc-07de-451a-8244-1733247e6f2e)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3aa8f1bc-07de-451a-8244-1733247e6f2e)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=2719e0fb-3cfd-47b2-906d-3e07b0e3c978)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=2719e0fb-3cfd-47b2-906d-3e07b0e3c978)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (無嚴重性等級<sup>[2]</sup>)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
 (KB2530095)  
 (重大)  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=638f6dd6-bea0-4356-b23a-45e865a6b28b)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=638f6dd6-bea0-4356-b23a-45e865a6b28b)  
 (中度)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=a3bd0012-4a45-4f96-8a51-3ff1f85d1e37)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=a3bd0012-4a45-4f96-8a51-3ff1f85d1e37)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=19557984-5088-44cc-b5ba-9bab33df8e7e)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=19557984-5088-44cc-b5ba-9bab33df8e7e)  
 (重大)
 </td>
 </tr>
@@ -857,52 +857,52 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9c1a539f-1472-4394-8354-bd549d8332e0)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9c1a539f-1472-4394-8354-bd549d8332e0)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
 (KB2478656)  
 (重大)  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
 (KB2478658)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4aa8c003-0353-4a5b-8aea-c01a103af393)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4aa8c003-0353-4a5b-8aea-c01a103af393)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e9018258-5a72-47a1-8584-3d1aa52317c3)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e9018258-5a72-47a1-8584-3d1aa52317c3)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=c962531e-f580-4195-989b-cf348cc96fa7)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=c962531e-f580-4195-989b-cf348cc96fa7)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (無嚴重性等級<sup>[2]</sup>)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
 (KB2530095)  
 (重大)  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=ce616970-343d-49f1-994d-4269b9a11448)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=ce616970-343d-49f1-994d-4269b9a11448)  
 (中度)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=70ece3b4-e5bb-469c-bfef-c8310681f5a7)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=70ece3b4-e5bb-469c-bfef-c8310681f5a7)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c92d94c5-5e8f-45aa-a24a-f4d0efd93732)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c92d94c5-5e8f-45aa-a24a-f4d0efd93732)  
 (重大)
 </td>
 </tr>
@@ -911,50 +911,50 @@ Windows Server 2003 x64 Edition Service Pack 2
 適用於 Itanium 型系統的 Windows Server 2003 SP2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=c194dd35-b9db-44a5-a252-38f9f803802f)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=c194dd35-b9db-44a5-a252-38f9f803802f)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=686e5192-63e4-410e-b653-2cfddd5b409f)  
 (KB2478656)  
 (重大)  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3db8a718-4441-4e1a-889f-abcc4bde1125)  
 (KB2478658)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=2e07b5fa-c9fa-495b-9352-c07ce46a7e8b)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=2e07b5fa-c9fa-495b-9352-c07ce46a7e8b)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=96309c49-4822-4c47-b364-2ba65327cac5)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=96309c49-4822-4c47-b364-2ba65327cac5)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=ea18a916-03cf-4eac-bacc-ceb006491f24)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=ea18a916-03cf-4eac-bacc-ceb006491f24)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (無嚴重性等級<sup>[2]</sup>)  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=c7e115a1-486b-4a2b-a7d6-42c4018fc02d)  
 (KB2530095)  
 (重大)  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=960f8920-906b-48a8-8700-94f09babc628)  
 (KB2518864)  
 (重大)  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=f58ebc9e-00e1-413c-8076-d7a44003d0c7)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=f58ebc9e-00e1-413c-8076-d7a44003d0c7)  
 (中度)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=80231a27-b37c-4101-a34f-19a26a040836)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=80231a27-b37c-4101-a34f-19a26a040836)  
 (重大)
 </td>
 </tr>
@@ -1020,20 +1020,20 @@ Windows Vista
 Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f33c9e54-c2e5-498d-a798-5bbfe9e4249c)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f33c9e54-c2e5-498d-a798-5bbfe9e4249c)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)  
+僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)  
 (KB2478657)  
 (重大)  
-僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)  
+僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)  
 (KB2478659)  
 (重大)  
-僅限 Windows Vista Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)  
+僅限 Windows Vista Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)  
 (KB2478660)  
 (重大)  
-Windows Vista Service Pack 1 和 Windows Vista Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+Windows Vista Service Pack 1 和 Windows Vista Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
@@ -1041,42 +1041,42 @@ Windows Vista Service Pack 1 和 Windows Vista Service Pack 2： [Microsoft .NET
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=aded8f20-479d-40c1-9560-c0581c6f77a2)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=aded8f20-479d-40c1-9560-c0581c6f77a2)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a62edfd8-9016-4bb5-bf48-885498fa0042)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a62edfd8-9016-4bb5-bf48-885498fa0042)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
+僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
 (KB2518863)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
+僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
 (KB2518865)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
+僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
 (KB2518863)  
 (重大)  
-僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
+僅限 Windows Vista Service Pack 1： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
 (KB2518865)  
 (重大)  
-僅限 Windows Vista Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
+僅限 Windows Vista Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
 (KB2518866)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅限 Windows Vista Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
+僅限 Windows Vista Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
 (KB2518866)  
 (重大)  
-Windows Vista Service Pack 1 和 Windows Vista Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+Windows Vista Service Pack 1 和 Windows Vista Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=fea735a8-032b-4fa6-8337-1fa411df0b88)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=fea735a8-032b-4fa6-8337-1fa411df0b88)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=4cddfc68-eff6-4587-8607-63307d039489)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=4cddfc68-eff6-4587-8607-63307d039489)  
 (重大)  
-僅限 Windows Vista Service Pack 2： [Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=392316fc-f531-469c-aa60-4ecf061a5354)  
+僅限 Windows Vista Service Pack 2： [Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=392316fc-f531-469c-aa60-4ecf061a5354)  
 (重大)
 </td>
 </tr>
@@ -1085,64 +1085,64 @@ Windows Vista Service Pack 1 和 Windows Vista Service Pack 2： [Microsoft .NET
 Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4566528f-62ee-4d78-b3af-131a7cc15e1f)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4566528f-62ee-4d78-b3af-131a7cc15e1f)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)  
+僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)  
 (KB2478657)  
 (重大)  
-僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)  
+僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)  
 (KB2478659)  
 (重大)  
-僅限 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)  
+僅限 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)  
 (KB2478660)  
 (重大)  
-Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a519a5d7-bfe3-4e53-99e9-d85f7e34237f)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a519a5d7-bfe3-4e53-99e9-d85f7e34237f)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=962cb40c-680c-4c37-98d4-ca9789ca7270)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=962cb40c-680c-4c37-98d4-ca9789ca7270)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=cb561ba6-af4d-40cc-947c-923f9cca9a7e)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=cb561ba6-af4d-40cc-947c-923f9cca9a7e)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
+僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
 (KB2518863)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
+僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
 (KB2518865)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
+僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
 (KB2518863)  
 (重大)  
-僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
+僅限 Windows Vista x64 Edition Service Pack 1： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
 (KB2518865)  
 (重大)  
-僅限 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
+僅限 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
 (KB2518866)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅限 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
+僅限 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
 (KB2518866)  
 (重大)  
-Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=49dcb47b-3c79-4f69-ba07-f471304c16e2)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=49dcb47b-3c79-4f69-ba07-f471304c16e2)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e0a8fbac-2c31-4cf8-9967-6171edabd560)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e0a8fbac-2c31-4cf8-9967-6171edabd560)  
 (重大)  
-僅限 Windows Vista x64 Edition Service Pack 2： [Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=44b2aa73-c318-47ac-ad87-0d24afd9cdd7)  
+僅限 Windows Vista x64 Edition Service Pack 2： [Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=44b2aa73-c318-47ac-ad87-0d24afd9cdd7)  
 (重大)
 </td>
 </tr>
@@ -1208,20 +1208,20 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0c9614d9-6f61-463d-b1fa-bd5eb2c1a5c5)\*\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0c9614d9-6f61-463d-b1fa-bd5eb2c1a5c5)\*\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)\*\*  
 (KB2478657)  
 (重大)  
-僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)\*\*  
 (KB2478659)  
 (重大)  
-僅適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)\*\*  
 (KB2478660)  
 (重大)  
-適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)\*\*<sup>[1]</sup>
+適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)\*\*<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
@@ -1229,42 +1229,42 @@ Windows Server 2008
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=8ebfa067-0236-4454-8605-df1b99742f90)\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=8ebfa067-0236-4454-8605-df1b99742f90)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=8ab9679e-6a69-4ca3-9210-7ca4fb1980c2)\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=8ab9679e-6a69-4ca3-9210-7ca4fb1980c2)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)\*\*  
 (KB2518863)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)\*\*  
 (KB2518865)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)\*\*  
 (KB2518863)  
 (重大)  
-僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)\*\*  
 (KB2518865)  
 (重大)  
-僅適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)\*\*  
 (KB2518866)  
 (重大)  
-僅適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)\*\*  
 (KB2518866)  
 (重大)  
-適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)\*\*<sup>[1]</sup>
+適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)\*\*<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=b6547ff0-b059-495d-8816-bb094ac11be7)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=b6547ff0-b059-495d-8816-bb094ac11be7)\*\*  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c9650c47-ac52-433d-b409-ce1cfe8d3e87)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c9650c47-ac52-433d-b409-ce1cfe8d3e87)\*\*  
 (重大)  
-僅適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=7f9b1ba2-8247-494b-990c-f62003188c5a)\*\*  
+僅適用於 32 位元系統的 Windows Server 2008 Service Pack 2： [Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=7f9b1ba2-8247-494b-990c-f62003188c5a)\*\*  
 (重大)
 </td>
 </tr>
@@ -1273,64 +1273,64 @@ Windows Server 2008
 適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=36698775-0e4e-4980-ae4c-43542de424ca)\*\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=36698775-0e4e-4980-ae4c-43542de424ca)\*\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)\*\*  
 (KB2478657)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)\*\*  
 (KB2478659)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)\*\*  
 (KB2478660)  
 (重大)  
-適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)\*\*<sup>[1]</sup>
+適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)\*\*<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=cd8f3713-b408-4db6-aecd-7eed2176a715)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=cd8f3713-b408-4db6-aecd-7eed2176a715)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f1d76b82-9996-4d08-894b-9c16a4b3bb1e)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f1d76b82-9996-4d08-894b-9c16a4b3bb1e)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=22c63fc3-2c5a-4e50-9026-2e04a6e74210)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=22c63fc3-2c5a-4e50-9026-2e04a6e74210)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)\*\*  
 (KB2518863)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)\*\*  
 (KB2518865)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)\*\*  
 (KB2518863)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)\*\*  
 (KB2518865)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)\*\*  
 (KB2518866)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)\*\*  
 (KB2518866)  
 (重大)  
-適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)\*\*<sup>[1]</sup>
+適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)\*\*<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=feff3364-4bfd-45f5-99da-9192b47ef5d4)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=feff3364-4bfd-45f5-99da-9192b47ef5d4)\*\*  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=7dff9f08-19cb-41dd-a315-84c1dac81510)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=7dff9f08-19cb-41dd-a315-84c1dac81510)\*\*  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=fdf88a52-c099-44eb-95a0-650129c0e678)\*\*  
+僅適用於 x64 型系統的 Windows Server 2008 Service Pack 2： [Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=fdf88a52-c099-44eb-95a0-650129c0e678)\*\*  
 (重大)
 </td>
 </tr>
@@ -1339,60 +1339,60 @@ Windows Server 2008
 適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3edb613f-5bf0-4e28-9835-4afbb6ef0e01)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3edb613f-5bf0-4e28-9835-4afbb6ef0e01)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)  
+僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=2eabacce-394f-4b9a-8306-0875ca19a3a9)  
 (KB2478657)  
 (重大)  
-僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)  
+僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=55fd3254-7e59-4cf9-afa8-45ae66bc7390)  
 (KB2478659)  
 (重大)  
-僅適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)  
+僅適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=afa11dda-a543-42a7-b997-5292fd869a8b)  
 (KB2478660)  
 (重大)  
-適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5a61f888-c81e-4b8a-8932-2fe67df4b2ad)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5a61f888-c81e-4b8a-8932-2fe67df4b2ad)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f80c89c6-27ab-4f6a-afad-9c8e92cbbce4)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f80c89c6-27ab-4f6a-afad-9c8e92cbbce4)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5bb889de-8ff6-4587-8ef9-ffb13e8d60fd)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5bb889de-8ff6-4587-8ef9-ffb13e8d60fd)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
+僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
 (KB2518863)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
+僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
 (KB2518865)  
 (無嚴重性等級<sup>[2]</sup>)  
-僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
+僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=5f7092fe-079d-4175-b8b7-412f259ff7e4)  
 (KB2518863)  
 (重大)  
-僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
+僅適用於 Itanium 型系統的 Windows Server 2008： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=80423e37-0a54-413d-b44a-41c68c2030b8)  
 (KB2518865)  
 (重大)  
-僅適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
+僅適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
 (KB2518866)  
 (重大)  
-僅適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
+僅適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e3ca981-5565-41a8-ab5e-941c92e74c7d)  
 (KB2518866)  
 (重大)  
-適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=d81a9219-da95-4fbf-af7f-898f553b0572)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=d81a9219-da95-4fbf-af7f-898f553b0572)  
 (重大)
 </td>
 </tr>
@@ -1458,17 +1458,17 @@ Windows 7
 適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=50ae36ff-2406-48a4-97cc-12782b6d30ac)  
+[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=50ae36ff-2406-48a4-97cc-12782b6d30ac)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 32 位元系統的 Windows 7： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=9720a317-ca4c-4a47-b99c-2c66301e62c6)  
+僅適用於 32 位元系統的 Windows 7： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=9720a317-ca4c-4a47-b99c-2c66301e62c6)  
 (KB2478661)  
 (重大)  
-僅適用於 32 位元系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=c8152a18-0367-4c00-a3c7-669325a899f4)  
+僅適用於 32 位元系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=c8152a18-0367-4c00-a3c7-669325a899f4)  
 (KB2478662)  
 (重大)  
-適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
@@ -1476,28 +1476,28 @@ Windows 7
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7](http://www.microsoft.com/downloads/details.aspx?familyid=9de1bf5d-6f25-496d-bc44-a32c5e8920fe)  
+[適用於 32 位元系統的 Windows 7](https://www.microsoft.com/download/details.aspx?familyid=9de1bf5d-6f25-496d-bc44-a32c5e8920fe)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=19a15098-1754-4536-a9ca-ff07d16464b7)  
+[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=19a15098-1754-4536-a9ca-ff07d16464b7)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 32 位元系統的 Windows 7： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=bff13134-ed84-4370-beb4-340c340a5d98)  
+僅適用於 32 位元系統的 Windows 7： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=bff13134-ed84-4370-beb4-340c340a5d98)  
 (KB2518867)  
 (重大)  
-僅適用於 32 位元系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=dab623bf-d23d-42a9-9e74-ae75d779b980)  
+僅適用於 32 位元系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=dab623bf-d23d-42a9-9e74-ae75d779b980)  
 (KB2518869)  
 (重大)  
-適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=91b98f02-a09e-48f1-9f78-a949f7268542)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=91b98f02-a09e-48f1-9f78-a949f7268542)  
 (重大)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=79f846da-3b17-43c9-9016-a055c2c56975)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=79f846da-3b17-43c9-9016-a055c2c56975)  
 (重大)
 </td>
 </tr>
@@ -1506,47 +1506,47 @@ Windows 7
 適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1241f0f8-a5c7-420a-a5b7-b6c3caa9e5e2)  
+[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1241f0f8-a5c7-420a-a5b7-b6c3caa9e5e2)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 x64 型系統的 Windows 7： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=9720a317-ca4c-4a47-b99c-2c66301e62c6)  
+僅適用於 x64 型系統的 Windows 7： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=9720a317-ca4c-4a47-b99c-2c66301e62c6)  
 (KB2478661)  
 (重大)  
-僅適用於 x64 型系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=c8152a18-0367-4c00-a3c7-669325a899f4)  
+僅適用於 x64 型系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=c8152a18-0367-4c00-a3c7-669325a899f4)  
 (KB2478662)  
 (重大)  
-適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=e7f52b13-5b3d-438c-ae14-86da50c8b67a)  
+[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=e7f52b13-5b3d-438c-ae14-86da50c8b67a)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7](http://www.microsoft.com/downloads/details.aspx?familyid=50d1c677-57aa-4e3f-bdfc-6f01b5d3bfe2)  
+[適用於 x64 型系統的 Windows 7](https://www.microsoft.com/download/details.aspx?familyid=50d1c677-57aa-4e3f-bdfc-6f01b5d3bfe2)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=b449f23e-b3df-46e5-bfe3-98268d20ad54)  
+[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=b449f23e-b3df-46e5-bfe3-98268d20ad54)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 x64 型系統的 Windows 7： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=bff13134-ed84-4370-beb4-340c340a5d98)  
+僅適用於 x64 型系統的 Windows 7： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=bff13134-ed84-4370-beb4-340c340a5d98)  
 (KB2518867)  
 (重大)  
-僅適用於 x64 型系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=dab623bf-d23d-42a9-9e74-ae75d779b980)  
+僅適用於 x64 型系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=dab623bf-d23d-42a9-9e74-ae75d779b980)  
 (KB2518869)  
 (重大)  
-適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=264107cc-68b4-401c-82f7-de64b535c18d)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=264107cc-68b4-401c-82f7-de64b535c18d)  
 (重大)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=e87a09f2-b755-48ef-9b85-fc78d0bfce43)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=e87a09f2-b755-48ef-9b85-fc78d0bfce43)  
 (重大)
 </td>
 </tr>
@@ -1612,53 +1612,53 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=8181c359-cd79-438a-87be-093b363d0b04)\*\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=8181c359-cd79-438a-87be-093b363d0b04)\*\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 x64 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=9720a317-ca4c-4a47-b99c-2c66301e62c6)\*  
+僅適用於 x64 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=9720a317-ca4c-4a47-b99c-2c66301e62c6)\*  
 (KB2478661)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+僅適用於 x64 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=c8152a18-0367-4c00-a3c7-669325a899f4)\*  
+僅適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=c8152a18-0367-4c00-a3c7-669325a899f4)\*  
 (KB2478662)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)\*<sup>[1]</sup>
+僅適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)\*<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=b77e5be6-d3eb-4e3a-9be2-831578f0447c)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=b77e5be6-d3eb-4e3a-9be2-831578f0447c)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=9d66b1e7-dbf9-4475-a973-49fb85557eca)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=9d66b1e7-dbf9-4475-a973-49fb85557eca)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=06008192-3cac-477b-a913-83eed39d8718)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=06008192-3cac-477b-a913-83eed39d8718)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 x64 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=bff13134-ed84-4370-beb4-340c340a5d98)\*  
+僅適用於 x64 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=bff13134-ed84-4370-beb4-340c340a5d98)\*  
 (KB2518867)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+僅適用於 x64 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=dab623bf-d23d-42a9-9e74-ae75d779b980)\*  
+僅適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=dab623bf-d23d-42a9-9e74-ae75d779b980)\*  
 (KB2518869)  
 (重大)  
-僅適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)\*<sup>[1]</sup>
+僅適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)\*<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=8b18e6f9-96b8-4dec-bcd0-d71f1bac3eb0)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=8b18e6f9-96b8-4dec-bcd0-d71f1bac3eb0)\*\*  
 (重大)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=81814b15-ebdf-4817-932b-5ea7a37fa6ed)\*\*  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=81814b15-ebdf-4817-932b-5ea7a37fa6ed)\*\*  
 (重大)
 </td>
 </tr>
@@ -1667,45 +1667,45 @@ Windows Server 2008 R2
 適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=6b63a1eb-445a-4cd3-b357-9a1dd82d7a35)  
+[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=6b63a1eb-445a-4cd3-b357-9a1dd82d7a35)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 Itanium 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=9720a317-ca4c-4a47-b99c-2c66301e62c6)  
+僅適用於 Itanium 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=9720a317-ca4c-4a47-b99c-2c66301e62c6)  
 (KB2478661)  
 (重大)  
-僅適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=c8152a18-0367-4c00-a3c7-669325a899f4)  
+僅適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=c8152a18-0367-4c00-a3c7-669325a899f4)  
 (KB2478662)  
 (重大)  
-適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
+適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=c72635e4-c733-4fa1-9db0-75de6ead9e1c)<sup>[1]</sup>
 (KB2478663)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=c00a33bc-c874-4693-b0f7-5034c5df9424)  
+[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=c00a33bc-c874-4693-b0f7-5034c5df9424)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=3c8455f1-b8a0-4ba2-84a2-043d25ef75c5)  
+[適用於 Itanium 型系統的 Windows Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=3c8455f1-b8a0-4ba2-84a2-043d25ef75c5)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=93a32bd9-7e67-4ace-8c45-116f91b032f9)  
+[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=93a32bd9-7e67-4ace-8c45-116f91b032f9)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-僅適用於 Itanium 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=bff13134-ed84-4370-beb4-340c340a5d98)  
+僅適用於 Itanium 型系統的 Windows Server 2008 R2： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=bff13134-ed84-4370-beb4-340c340a5d98)  
 (KB2518867)  
 (重大)  
-僅適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=dab623bf-d23d-42a9-9e74-ae75d779b980)  
+僅適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=dab623bf-d23d-42a9-9e74-ae75d779b980)  
 (KB2518869)  
 (重大)  
-適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
+適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1： [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=f7afba05-974f-48f8-b600-9e131ceb7951)<sup>[1]</sup>
 (KB2518870)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ab2406a8-06f7-4f88-9af4-dc136d64bc35)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ab2406a8-06f7-4f88-9af4-dc136d64bc35)  
 (重大)
 </td>
 </tr>
@@ -1806,19 +1806,19 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=6c760c7f-94f1-437f-a645-fd33b50d03f4)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=6c760c7f-94f1-437f-a645-fd33b50d03f4)  
 (重大)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=0b88f9e9-3439-44e5-92c8-66a3c97cb03d)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=0b88f9e9-3439-44e5-92c8-66a3c97cb03d)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=03b45ad8-cc6b-473b-8112-bd513ed97f5d)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=03b45ad8-cc6b-473b-8112-bd513ed97f5d)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=ce5bc2d7-9438-4bf0-be5e-be9dd00c3286)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=ce5bc2d7-9438-4bf0-be5e-be9dd00c3286)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=a1db7736-f3e4-45df-af1d-52746978a0a8)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=a1db7736-f3e4-45df-af1d-52746978a0a8)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -1836,19 +1836,19 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=c94c0d17-fdbe-41b3-a23d-98f43f907b89)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=c94c0d17-fdbe-41b3-a23d-98f43f907b89)  
 (重大)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=ff955dc3-58ca-40ea-b7f1-9ff40c37f997)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=ff955dc3-58ca-40ea-b7f1-9ff40c37f997)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ed502ece-737e-44cb-84fd-8a0d1bc321c8)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ed502ece-737e-44cb-84fd-8a0d1bc321c8)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7b211b02-a005-46a3-ad1d-d4baaeec8289)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7b211b02-a005-46a3-ad1d-d4baaeec8289)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=71497891-41a2-476d-b524-4eb5cecb9639)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=71497891-41a2-476d-b524-4eb5cecb9639)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -1917,19 +1917,19 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=5dafb455-969e-4be9-8735-d4ee0682d22f)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=5dafb455-969e-4be9-8735-d4ee0682d22f)  
 (中度)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=ba3beb80-a921-489e-a6ff-a7b2d665ada6)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=ba3beb80-a921-489e-a6ff-a7b2d665ada6)  
 (中度)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=a8038325-0d14-445b-a5d9-ce7ac1fa44b5)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=a8038325-0d14-445b-a5d9-ce7ac1fa44b5)  
 (中度)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6427ea5d-05d0-4367-805c-9cb305802b3c)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6427ea5d-05d0-4367-805c-9cb305802b3c)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=c614cb8b-223e-4f84-b94c-f15747760aa5)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=c614cb8b-223e-4f84-b94c-f15747760aa5)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -1939,7 +1939,7 @@ Windows Server 2003 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ef90d6c1-ea7f-4c32-9c90-0303e04c7436)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ef90d6c1-ea7f-4c32-9c90-0303e04c7436)  
 (重要)
 </td>
 </tr>
@@ -1948,19 +1948,19 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=e78829d0-8215-4e56-8959-ebd3bc8e9a91)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=e78829d0-8215-4e56-8959-ebd3bc8e9a91)  
 (中度)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=3bec943e-5758-4439-a947-a8fafd30edec)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=3bec943e-5758-4439-a947-a8fafd30edec)  
 (中度)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=5f7bcbad-f647-4fbb-88d4-b19c54db6f00)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=5f7bcbad-f647-4fbb-88d4-b19c54db6f00)  
 (中度)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e7f65891-32c0-4817-b3b2-d8be73145df9)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e7f65891-32c0-4817-b3b2-d8be73145df9)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9a951087-25c5-4f5c-8407-a1585491ae0b)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9a951087-25c5-4f5c-8407-a1585491ae0b)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -1970,7 +1970,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=62944095-33d6-4131-be32-a79d9ec4d4a9)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=62944095-33d6-4131-be32-a79d9ec4d4a9)  
 (重要)
 </td>
 </tr>
@@ -1979,17 +1979,17 @@ Windows Server 2003 x64 Edition Service Pack 2
 適用於 Itanium 型系統的 Windows Server 2003 SP2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=1e822515-9f0a-4ef0-bb70-d4889d200f47)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=1e822515-9f0a-4ef0-bb70-d4889d200f47)  
 (中度)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=47a0fdc6-7576-4c32-b8fd-cbb05d57599d)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=47a0fdc6-7576-4c32-b8fd-cbb05d57599d)  
 (中度)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=ca8b1d09-9f80-417b-99b1-8f86e86e1f11)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=ca8b1d09-9f80-417b-99b1-8f86e86e1f11)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=dd48b93b-24fa-45a3-91fb-9f9f9418c49f)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=dd48b93b-24fa-45a3-91fb-9f9f9418c49f)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -2058,24 +2058,24 @@ Windows Vista
 Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e541f1bb-c9bf-4dc8-96ec-58a3de5ba7fd)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e541f1bb-c9bf-4dc8-96ec-58a3de5ba7fd)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=cd059690-52b0-4b37-9fbb-d9906ae46fed)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=cd059690-52b0-4b37-9fbb-d9906ae46fed)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ebea38a7-1fbe-4141-a529-52d7a7326d6a)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ebea38a7-1fbe-4141-a529-52d7a7326d6a)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b69e3bda-940b-4524-a724-0af4ae0ec719)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b69e3bda-940b-4524-a724-0af4ae0ec719)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5f0007c3-8d11-4940-8766-1112e3777aae)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5f0007c3-8d11-4940-8766-1112e3777aae)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -2087,24 +2087,24 @@ Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=6c7d7162-ef19-49f4-a8fc-5db7415445a4)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=6c7d7162-ef19-49f4-a8fc-5db7415445a4)  
 (重大)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=256bb26f-df9e-4259-881b-e8313a9fafa8)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=256bb26f-df9e-4259-881b-e8313a9fafa8)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=54833350-a385-4a31-995a-9ddc38798c21)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=54833350-a385-4a31-995a-9ddc38798c21)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e3a26bc5-1757-4b38-9cae-419c919f4877)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e3a26bc5-1757-4b38-9cae-419c919f4877)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fadf6f12-1f09-4d49-93b1-8fce01400b4f)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fadf6f12-1f09-4d49-93b1-8fce01400b4f)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -2167,28 +2167,28 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4446121a-0aab-4fbc-ba74-68d7650e8bca)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4446121a-0aab-4fbc-ba74-68d7650e8bca)\*\*  
 (中度)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ed089de4-c9ec-4ac7-a711-5f7cb29c05bc)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ed089de4-c9ec-4ac7-a711-5f7cb29c05bc)\*\*  
 (中度)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6a3bbd67-94db-40b2-8786-cb39a493ec92)\*\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6a3bbd67-94db-40b2-8786-cb39a493ec92)\*\*  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e34e4cf9-cdae-4240-8574-950c0be00822)\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e34e4cf9-cdae-4240-8574-950c0be00822)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=8960dd62-7cf7-41cb-97b2-b082bd1750aa)\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=8960dd62-7cf7-41cb-97b2-b082bd1750aa)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=46ade106-e0cb-4c71-8230-793a15062823)\*\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=46ade106-e0cb-4c71-8230-793a15062823)\*\*  
 (重要)
 </td>
 </tr>
@@ -2197,29 +2197,29 @@ Windows Server 2008
 適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=01399fc7-dc2b-461e-a1a5-751a3b61bde0)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=01399fc7-dc2b-461e-a1a5-751a3b61bde0)\*\*  
 (中度)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=dd32b7c6-daa1-47aa-807f-25a678790cf2)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=dd32b7c6-daa1-47aa-807f-25a678790cf2)\*\*  
 (中度)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4cb870f3-9878-4075-b8fd-2ee90c8e3bc8)\*\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4cb870f3-9878-4075-b8fd-2ee90c8e3bc8)\*\*  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a3604f05-26b2-451b-9153-0e718158371e)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a3604f05-26b2-451b-9153-0e718158371e)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=24789423-72b7-48d1-bdc1-f0e5174d99bb)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=24789423-72b7-48d1-bdc1-f0e5174d99bb)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0abc6908-ac6a-4da3-843a-af6841ccc1db)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0abc6908-ac6a-4da3-843a-af6841ccc1db)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6141a1c5-ecaf-4553-9d27-dd6e5c4a13fd)\*\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6141a1c5-ecaf-4553-9d27-dd6e5c4a13fd)\*\*  
 (重要)
 </td>
 </tr>
@@ -2228,22 +2228,22 @@ Windows Server 2008
 適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=16a8b78a-3979-4cc7-bbe5-6d962aa64336)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=16a8b78a-3979-4cc7-bbe5-6d962aa64336)  
 (中度)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e1243011-00e6-49f2-a676-c04cb805d36a)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e1243011-00e6-49f2-a676-c04cb805d36a)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e8a82b44-e1d8-45f8-b8b8-b1f74e1efce0)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e8a82b44-e1d8-45f8-b8b8-b1f74e1efce0)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=057f1356-9c70-4457-a1df-69334fdab467)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=057f1356-9c70-4457-a1df-69334fdab467)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -2306,22 +2306,22 @@ Windows 7
 適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=27e767d8-84e3-434f-bb8d-3b2303774ad0)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=27e767d8-84e3-434f-bb8d-3b2303774ad0)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=c3647646-658a-423b-b0cb-bba7613b67e7)  
+[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=c3647646-658a-423b-b0cb-bba7613b67e7)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=63d8b801-5178-474b-a21e-72a0ce501d3e)  
+[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=63d8b801-5178-474b-a21e-72a0ce501d3e)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=cf9e5ecd-68f7-4982-b4ed-be80859b757c)  
+[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=cf9e5ecd-68f7-4982-b4ed-be80859b757c)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -2333,22 +2333,22 @@ Windows 7
 適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=747ba56a-0d47-4946-99a4-bae1f11ea748)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=747ba56a-0d47-4946-99a4-bae1f11ea748)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7996511d-4b8e-49c3-a0fa-4da907a6c947)  
+[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7996511d-4b8e-49c3-a0fa-4da907a6c947)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=cd7d3cb9-cb60-4b62-b0df-a38fe21802e9)  
+[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=cd7d3cb9-cb60-4b62-b0df-a38fe21802e9)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=2707650a-604c-4044-acc4-07a30b5640d8)  
+[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=2707650a-604c-4044-acc4-07a30b5640d8)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -2411,27 +2411,27 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=cff7f53d-0fd6-48f8-a9d6-bf19e0a32905)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=cff7f53d-0fd6-48f8-a9d6-bf19e0a32905)\*\*  
 (中度)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=40354f73-4f4d-4a4a-abac-f8a3d4c3ae5f)\*\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=40354f73-4f4d-4a4a-abac-f8a3d4c3ae5f)\*\*  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=e67c73ca-d0f9-40c1-8b6e-25b1b13caa3a)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=e67c73ca-d0f9-40c1-8b6e-25b1b13caa3a)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=c9c6c36d-a455-42f7-b7d4-9fb9824c07cb)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=c9c6c36d-a455-42f7-b7d4-9fb9824c07cb)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=f9824310-772d-4e1e-980e-11e2db3ac53e)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=f9824310-772d-4e1e-980e-11e2db3ac53e)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1da04414-6210-43ea-8e0a-cf21cf144076)\*\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1da04414-6210-43ea-8e0a-cf21cf144076)\*\*  
 (重要)
 </td>
 </tr>
@@ -2440,22 +2440,22 @@ Windows Server 2008 R2
 適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=4dd2c0f4-b29c-4648-a123-83d3ae6a878f)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=4dd2c0f4-b29c-4648-a123-83d3ae6a878f)  
 (中度)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=22853823-8f63-4258-8991-1ad50e58a0d9)  
+[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=22853823-8f63-4258-8991-1ad50e58a0d9)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=72d1d6b6-e8bd-492b-b65a-82060beef441)  
+[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=72d1d6b6-e8bd-492b-b65a-82060beef441)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=0533d293-e186-4d39-a925-ab3d9ed46290)  
+[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=0533d293-e186-4d39-a925-ab3d9ed46290)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -2515,7 +2515,7 @@ Microsoft Office 套件和元件
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=853c0663-94f7-4634-98ad-47ca4b1f7b1e)  
+[Microsoft Excel 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=853c0663-94f7-4634-98ad-47ca4b1f7b1e)  
 (KB2541003)  
 (重要)
 </td>
@@ -2528,7 +2528,7 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=f38f183a-9c64-406b-9bf6-807cb2d55e56)  
+[Microsoft Excel 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=f38f183a-9c64-406b-9bf6-807cb2d55e56)  
 (KB2541025)  
 (重要)
 </td>
@@ -2541,7 +2541,7 @@ Microsoft Office 2003 Service Pack 3
 Microsoft Office 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5b271f87-a279-419f-9437-ded224fa19f1)<sup>[1]</sup>
+[Microsoft Excel 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5b271f87-a279-419f-9437-ded224fa19f1)<sup>[1]</sup>
 (KB2541007)  
 (重要)
 </td>
@@ -2554,7 +2554,7 @@ Microsoft Office 2007 Service Pack 2
 Microsoft Office 2010 (32 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2010 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=baba7ec1-4a5e-4e13-9d0e-9085a39a0554)  
+[Microsoft Excel 2010 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=baba7ec1-4a5e-4e13-9d0e-9085a39a0554)  
 (KB2523021)  
 (重要)
 </td>
@@ -2567,7 +2567,7 @@ Microsoft Office 2010 (32 位元版本)
 Microsoft Office 2010 (64 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2010 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=d6e9f422-43b0-4da5-8356-c38482e8eebb)  
+[Microsoft Excel 2010 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=d6e9f422-43b0-4da5-8356-c38482e8eebb)  
 (KB2523021)  
 (重要)
 </td>
@@ -2607,7 +2607,7 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=d12d0868-4f28-4c0a-ab61-338878064b70)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=d12d0868-4f28-4c0a-ab61-338878064b70)  
 (KB2555786)  
 (重要)
 </td>
@@ -2620,7 +2620,7 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=9e2d348b-c753-4eab-838c-370cd5af5e14)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=9e2d348b-c753-4eab-838c-370cd5af5e14)  
 (KB2555785)  
 (重要)
 </td>
@@ -2633,7 +2633,7 @@ Microsoft Office 2008 for Mac
 Microsoft Office for Mac 2011
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office for Mac 2011](http://www.microsoft.com/downloads/details.aspx?familyid=3c58555c-1eba-42fe-a10f-b30af9031e44)  
+[Microsoft Office for Mac 2011](https://www.microsoft.com/download/details.aspx?familyid=3c58555c-1eba-42fe-a10f-b30af9031e44)  
 (KB2555784)  
 (重要)
 </td>
@@ -2646,7 +2646,7 @@ Microsoft Office for Mac 2011
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=6118d5f5-b6fd-4584-be25-209534772379)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=6118d5f5-b6fd-4584-be25-209534772379)  
 (KB2555787)  
 (重要)
 </td>
@@ -2689,7 +2689,7 @@ Microsoft InfoPath 2007 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=88eedb0b-a2cf-4a1b-b1b9-0b2926c25872)  
+[Microsoft InfoPath 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=88eedb0b-a2cf-4a1b-b1b9-0b2926c25872)  
 (KB2510061)  
 (重要)
 </td>
@@ -2702,7 +2702,7 @@ Microsoft InfoPath 2010 (32 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2010 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=90ffe910-bd9c-48aa-8007-2b43e1a99999)  
+[Microsoft InfoPath 2010 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=90ffe910-bd9c-48aa-8007-2b43e1a99999)  
 (KB2510065)  
 (重要)
 </td>
@@ -2715,7 +2715,7 @@ Microsoft InfoPath 2010 (64 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2010 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=f3244003-fb63-44d8-bedc-6399c39aacba)  
+[Microsoft InfoPath 2010 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=f3244003-fb63-44d8-bedc-6399c39aacba)  
 (KB2510065)  
 (重要)
 </td>
@@ -2752,7 +2752,7 @@ Microsoft InfoPath 2010 (64 位元版本)
 Microsoft Excel Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel Viewer Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=77c1e7e2-207f-46fd-81f2-43a25eddc010)  
+[Microsoft Excel Viewer Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=77c1e7e2-207f-46fd-81f2-43a25eddc010)  
 (KB2541015)  
 (重要)
 </td>
@@ -2765,7 +2765,7 @@ Microsoft Excel Viewer
 Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3512a033-871d-49ec-a8d2-1b9c7dec4936)  
+[Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3512a033-871d-49ec-a8d2-1b9c7dec4936)  
 (KB2541012)  
 (重要)
 </td>
@@ -2821,11 +2821,11 @@ SQL Server 2005 Service Pack 3
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
+[SQL Server 2005 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
 (KB2494113)  
 (重要)  
 QFE 更新：  
-[SQL Server 2005 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
+[SQL Server 2005 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
 (KB2494112)  
 (重要)
 </td>
@@ -2836,11 +2836,11 @@ SQL Server 2005 x64 Edition Service Pack 3
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 x64 Edition Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
+[SQL Server 2005 x64 Edition Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
 (KB2494113)  
 (重要)  
 QFE 更新：  
-[SQL Server 2005 x64 Edition Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
+[SQL Server 2005 x64 Edition Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
 (KB2494112)  
 (重要)
 </td>
@@ -2851,11 +2851,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 Itanium 型系統的 SQL Server 2005 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
+[適用於 Itanium 型系統的 SQL Server 2005 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
 (KB2494113)  
 (重要)  
 QFE 更新：  
-[適用於 Itanium 型系統的 SQL Server 2005 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
+[適用於 Itanium 型系統的 SQL Server 2005 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
 (KB2494112)  
 (重要)
 </td>
@@ -2866,11 +2866,11 @@ SQL Server 2005 Service Pack 4
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
+[SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
 (KB2494120)  
 (重要)  
 QFE 更新：  
-[SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
+[SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
 (KB2494123)
 </td>
 </tr>
@@ -2880,11 +2880,11 @@ SQL Server 2005 x64 Edition Service Pack 4
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 x64 Edition Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
+[SQL Server 2005 x64 Edition Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
 (KB2494120)  
 (重要)  
 QFE 更新：  
-[SQL Server 2005 x64 Edition Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
+[SQL Server 2005 x64 Edition Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
 (KB2494123)  
 (重要)
 </td>
@@ -2895,11 +2895,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 Itanium 型系統的 SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
+[適用於 Itanium 型系統的 SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
 (KB2494120)  
 (重要)  
 QFE 更新：  
-[適用於 Itanium 型系統的 SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
+[適用於 Itanium 型系統的 SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
 (KB2494123)  
 (重要)
 </td>
@@ -2910,11 +2910,11 @@ SQL Server 2005 Express Edition Service Pack 3
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 Express Edition Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
+[SQL Server 2005 Express Edition Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
 (KB2494113)  
 (重要)  
 QFE 更新：  
-[SQL Server 2005 Express Edition Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
+[SQL Server 2005 Express Edition Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
 (KB2494112)  
 (重要)
 </td>
@@ -2925,11 +2925,11 @@ SQL Server 2005 Express Edition Service Pack 4
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 Express Edition Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
+[SQL Server 2005 Express Edition Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
 (KB2494120)  
 (重要)  
 QFE 更新：  
-[SQL Server 2005 Express Edition Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
+[SQL Server 2005 Express Edition Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
 (KB2494123)  
 (重要)
 </td>
@@ -2940,11 +2940,11 @@ SQL Server 2005 Express Edition with Advanced Services Service Pack 3
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 Express Edition with Advanced Services Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
+[SQL Server 2005 Express Edition with Advanced Services Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=faca7f7a-c346-48e3-9bf5-f140a51aae4e)  
 (KB2494113)  
 (重要)  
 QFE 更新：  
-[SQL Server 2005 Express Edition with Advanced Services Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
+[SQL Server 2005 Express Edition with Advanced Services Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=d214763c-5a16-4959-90ff-08112345d867)  
 (KB2494112)  
 (重要)
 </td>
@@ -2955,11 +2955,11 @@ SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 Express Edition with Advanced Services Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
+[SQL Server 2005 Express Edition with Advanced Services Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2aba4a2e-477f-4267-9ebe-ab7b29d218ad)  
 (KB2494120)  
 (重要)  
 QFE 更新：  
-[SQL Server 2005 Express Edition with Advanced Services Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
+[SQL Server 2005 Express Edition with Advanced Services Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=2975ad1a-1852-4771-b3fa-2be79899be57)  
 (KB2494123)  
 (重要)
 </td>
@@ -2970,7 +2970,7 @@ SQL Server Management Studio Express (SSMSE) 2005
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server Management Studio Express (SSMSE) 2005](http://www.microsoft.com/downloads/details.aspx?familyid=34c3ba21-b158-4e6d-82ba-831053d41161)  
+[SQL Server Management Studio Express (SSMSE) 2005](https://www.microsoft.com/download/details.aspx?familyid=34c3ba21-b158-4e6d-82ba-831053d41161)  
 (KB2546869)  
 (重要)  
 QFE 更新：  
@@ -2983,7 +2983,7 @@ SQL Server Management Studio Express (SSMSE) 2005 x64 Edition
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server Management Studio Express (SSMSE) 2005 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=34c3ba21-b158-4e6d-82ba-831053d41161)  
+[SQL Server Management Studio Express (SSMSE) 2005 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=34c3ba21-b158-4e6d-82ba-831053d41161)  
 (KB2546869)  
 (重要)  
 QFE 更新：  
@@ -2996,11 +2996,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 32 位元系統的 SQL Server 2008 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae7db514-d96b-4cff-a13d-c74f4cf8cf0c)<sup>[1]</sup>
+[適用於 32 位元系統的 SQL Server 2008 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae7db514-d96b-4cff-a13d-c74f4cf8cf0c)<sup>[1]</sup>
 (KB2494096)  
 (重要)  
 QFE 更新：  
-[適用於 32 位元系統的 SQL Server 2008 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=312a39c4-cb32-4216-8672-1b1c0937ba6c)<sup>[1]</sup>
+[適用於 32 位元系統的 SQL Server 2008 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=312a39c4-cb32-4216-8672-1b1c0937ba6c)<sup>[1]</sup>
 (KB2494100)  
 (重要)
 </td>
@@ -3011,11 +3011,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 x64 型系統的 SQL Server 2008 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae7db514-d96b-4cff-a13d-c74f4cf8cf0c)<sup>[1]</sup>
+[適用於 x64 型系統的 SQL Server 2008 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae7db514-d96b-4cff-a13d-c74f4cf8cf0c)<sup>[1]</sup>
 (KB2494096)  
 (重要)  
 QFE 更新：  
-[適用於 x64 型系統的 SQL Server 2008 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=312a39c4-cb32-4216-8672-1b1c0937ba6c)<sup>[1]</sup>
+[適用於 x64 型系統的 SQL Server 2008 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=312a39c4-cb32-4216-8672-1b1c0937ba6c)<sup>[1]</sup>
 (KB2494100)  
 (重要)
 </td>
@@ -3026,11 +3026,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 Itanium 型系統 SQL Server 2008 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae7db514-d96b-4cff-a13d-c74f4cf8cf0c)  
+[適用於 Itanium 型系統 SQL Server 2008 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae7db514-d96b-4cff-a13d-c74f4cf8cf0c)  
 (KB2494096)  
 (重要)  
 QFE 更新：  
-[適用於 Itanium 型系統 SQL Server 2008 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=312a39c4-cb32-4216-8672-1b1c0937ba6c)  
+[適用於 Itanium 型系統 SQL Server 2008 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=312a39c4-cb32-4216-8672-1b1c0937ba6c)  
 (KB2494100)  
 (重要)
 </td>
@@ -3041,11 +3041,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 32 位元系統的 SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6f4767bf-257d-4822-b768-7b6702261276)<sup>[1]</sup>
+[適用於 32 位元系統的 SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6f4767bf-257d-4822-b768-7b6702261276)<sup>[1]</sup>
 (KB2494089)  
 (重要)  
 QFE 更新：  
-[適用於 32 位元系統的 SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=23240963-e2c6-4d40-8179-661117b53e91)<sup>[1]</sup>
+[適用於 32 位元系統的 SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=23240963-e2c6-4d40-8179-661117b53e91)<sup>[1]</sup>
 (KB2494094)  
 (重要)
 </td>
@@ -3056,11 +3056,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 x64 型系統的 SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6f4767bf-257d-4822-b768-7b6702261276)<sup>[1]</sup>
+[適用於 x64 型系統的 SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6f4767bf-257d-4822-b768-7b6702261276)<sup>[1]</sup>
 (KB2494089)  
 (重要)  
 QFE 更新：  
-[適用於 x64 型系統的 SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=23240963-e2c6-4d40-8179-661117b53e91)<sup>[1]</sup>
+[適用於 x64 型系統的 SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=23240963-e2c6-4d40-8179-661117b53e91)<sup>[1]</sup>
 (KB2494094)  
 (重要)
 </td>
@@ -3071,11 +3071,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 Itanium 型系統的 SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6f4767bf-257d-4822-b768-7b6702261276)  
+[適用於 Itanium 型系統的 SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6f4767bf-257d-4822-b768-7b6702261276)  
 (KB2494089)  
 (重要)  
 QFE 更新：  
-[適用於 Itanium 型系統的 SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=23240963-e2c6-4d40-8179-661117b53e91)  
+[適用於 Itanium 型系統的 SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=23240963-e2c6-4d40-8179-661117b53e91)  
 (KB2494094)  
 (重要)
 </td>
@@ -3086,11 +3086,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 32 位元系統的 SQL Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=80e98567-1b28-49b1-a646-579f8c115a41)<sup>[1]</sup>
+[適用於 32 位元系統的 SQL Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=80e98567-1b28-49b1-a646-579f8c115a41)<sup>[1]</sup>
 (KB2494088)  
 (重要)  
 QFE 更新：  
-[適用於 32 位元系統的 SQL Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=9df95137-d1b3-4fac-8958-8042aa2010c4)<sup>[1]</sup>
+[適用於 32 位元系統的 SQL Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=9df95137-d1b3-4fac-8958-8042aa2010c4)<sup>[1]</sup>
 (KB2494086)  
 (重要)
 </td>
@@ -3101,11 +3101,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 x64 型系統的 SQL Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=80e98567-1b28-49b1-a646-579f8c115a41)<sup>[1]</sup>
+[適用於 x64 型系統的 SQL Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=80e98567-1b28-49b1-a646-579f8c115a41)<sup>[1]</sup>
 (KB2494088)  
 (重要)  
 QFE 更新：  
-[適用於 x64 型系統的 SQL Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=9df95137-d1b3-4fac-8958-8042aa2010c4)<sup>[1]</sup>
+[適用於 x64 型系統的 SQL Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=9df95137-d1b3-4fac-8958-8042aa2010c4)<sup>[1]</sup>
 (KB2494086)  
 (重要)
 </td>
@@ -3116,11 +3116,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[適用於 Itanium 型系統的 SQL Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=80e98567-1b28-49b1-a646-579f8c115a41)  
+[適用於 Itanium 型系統的 SQL Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=80e98567-1b28-49b1-a646-579f8c115a41)  
 (KB2494088)  
 (重要)  
 QFE 更新：  
-[適用於 Itanium 型系統的 SQL Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=9df95137-d1b3-4fac-8958-8042aa2010c4)  
+[適用於 Itanium 型系統的 SQL Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=9df95137-d1b3-4fac-8958-8042aa2010c4)  
 (KB2494086)  
 (重要)
 </td>
@@ -3178,13 +3178,13 @@ Microsoft Silverlight
 Microsoft Silverlight 4
 </td>
 <td style="border:1px solid black;">
-安裝在 Mac 上的 [Microsoft Silverlight 4](http://www.microsoft.com/downloads/details.aspx?familyid=2f71b104-b66f-4146-9d70-fcde766c91b8)  
+安裝在 Mac 上的 [Microsoft Silverlight 4](https://www.microsoft.com/download/details.aspx?familyid=2f71b104-b66f-4146-9d70-fcde766c91b8)  
 (KB2512827)  
 (重大)  
-安裝在所有 Microsoft Windows 用戶端版本上的 [Microsoft Silverlight 4](http://www.microsoft.com/downloads/details.aspx?familyid=2f71b104-b66f-4146-9d70-fcde766c91b8)  
+安裝在所有 Microsoft Windows 用戶端版本上的 [Microsoft Silverlight 4](https://www.microsoft.com/download/details.aspx?familyid=2f71b104-b66f-4146-9d70-fcde766c91b8)  
 (KB2512827)  
 (重大)  
-安裝在所有 Microsoft Windows 伺服器版本上的 [Microsoft Silverlight 4](http://www.microsoft.com/downloads/details.aspx?familyid=2f71b104-b66f-4146-9d70-fcde766c91b8)\*\*  
+安裝在所有 Microsoft Windows 伺服器版本上的 [Microsoft Silverlight 4](https://www.microsoft.com/download/details.aspx?familyid=2f71b104-b66f-4146-9d70-fcde766c91b8)\*\*  
 (KB2512827)  
 (重大)
 </td>
@@ -3227,7 +3227,7 @@ Microsoft Visual Studio 2005 Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio 2005 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=e5ce8a9a-e89b-4095-9f21-7e6f307fbf2b)  
+[Microsoft Visual Studio 2005 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=e5ce8a9a-e89b-4095-9f21-7e6f307fbf2b)  
 (KB2251481)  
 (重要)
 </td>
@@ -3240,7 +3240,7 @@ Microsoft Visual Studio 2008 Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio 2008 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=cc01bce9-3f38-4590-9c6e-a4048c886d33)  
+[Microsoft Visual Studio 2008 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=cc01bce9-3f38-4590-9c6e-a4048c886d33)  
 (KB2251487)  
 (重要)
 </td>
@@ -3253,7 +3253,7 @@ Microsoft Visual Studio 2010
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio 2010](http://www.microsoft.com/downloads/details.aspx?familyid=213b820f-dcba-4895-b339-b50eeb92524d)  
+[Microsoft Visual Studio 2010](https://www.microsoft.com/download/details.aspx?familyid=213b820f-dcba-4895-b339-b50eeb92524d)  
 (KB2251489)  
 (重要)
 </td>
@@ -3307,7 +3307,7 @@ Microsoft Forefront
 Microsoft Forefront Threat Management Gateway 2010 Client
 </td>
 <td style="border:1px solid black;">
-[Microsoft Forefront Threat Management Gateway 2010 Client](http://www.microsoft.com/downloads/details.aspx?familyid=d1c85acd-a6df-4634-9cd4-c562ad92097e)  
+[Microsoft Forefront Threat Management Gateway 2010 Client](https://www.microsoft.com/download/details.aspx?familyid=d1c85acd-a6df-4634-9cd4-c562ad92097e)  
 (重大)
 </td>
 </tr>
@@ -3360,7 +3360,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和 Application Compatibility Toolkit**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署安全性更新的時間。您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署安全性更新的時間。您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 安全性更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

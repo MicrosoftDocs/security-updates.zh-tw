@@ -84,11 +84,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-may(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=67581d32-743f-44ff-9b53-30277c196923&amp;displaylang=zh-tw">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=67581d32-743f-44ff-9b53-30277c196923&amp;displaylang=zh-tw">重要</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=67581d32-743f-44ff-9b53-30277c196923&amp;displaylang=zh-tw">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=67581d32-743f-44ff-9b53-30277c196923&amp;displaylang=zh-tw">重要</a></td>
 </tr>
 </tbody>
 </table>

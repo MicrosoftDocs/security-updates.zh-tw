@@ -214,15 +214,15 @@ Microsoft Windows 2000 Service Pack 4
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=365a8dff-2383-42f6-b567-e545461fd135)  
+[Microsoft Windows 2000 Server Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=365a8dff-2383-42f6-b567-e545461fd135)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=45db8bb1-c81b-4d3f-a658-74f5fa445f81)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=45db8bb1-c81b-4d3f-a658-74f5fa445f81)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server Service Pack 4 上的 Active Directory](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=297158cf-374c-45d9-b213-978e1f54d244)  
+[Microsoft Windows 2000 Server Service Pack 4 上的 Active Directory](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=297158cf-374c-45d9-b213-978e1f54d244)  
 (KB973037)  
 (重要)
 </td>
@@ -277,11 +277,11 @@ Windows XP Service Pack 2 及 Windows XP Service Pack 3
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 與 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=916abdad-44b7-4f9d-986a-0c3558fb8e06)  
+[Windows XP Service Pack 2 與 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=916abdad-44b7-4f9d-986a-0c3558fb8e06)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 應用程式模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=cbe09780-f288-457a-b254-58c9c8744055)  
+[Active Directory 應用程式模式 (ADAM)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=cbe09780-f288-457a-b254-58c9c8744055)  
 (KB973039)  
 (重要)
 </td>
@@ -297,11 +297,11 @@ Windows XP Professional x64 Edition Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1d0464c6-5ed8-4064-887e-618a2db09236)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1d0464c6-5ed8-4064-887e-618a2db09236)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 應用程式模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=b65ddf36-a02d-4aa2-9b4f-7416dbf59e2a)  
+[Active Directory 應用程式模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=b65ddf36-a02d-4aa2-9b4f-7416dbf59e2a)  
 (KB973039)  
 (重要)
 </td>
@@ -356,14 +356,14 @@ Windows Server 2003 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=5cd62750-e269-44ae-8c7c-c335e8545b9a)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=5cd62750-e269-44ae-8c7c-c335e8545b9a)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=28f1c494-4e16-43b6-93d2-49e15f142ac9)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=28f1c494-4e16-43b6-93d2-49e15f142ac9)  
 (KB973037)  
 (重要)  
-[Active Directory 應用程式模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=44cb9029-4b19-4bad-8fc9-3efe285adb0e)  
+[Active Directory 應用程式模式 (ADAM)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=44cb9029-4b19-4bad-8fc9-3efe285adb0e)  
 (KB973039)  
 (重要)
 </td>
@@ -379,14 +379,14 @@ Windows Server 2003 x64 Edition Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=04a7f817-f330-4003-8b25-d3e744905b12)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=04a7f817-f330-4003-8b25-d3e744905b12)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=509aeec0-112b-44ab-8686-43f381b61940)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=509aeec0-112b-44ab-8686-43f381b61940)  
 (KB973037)  
 (重要)  
-[Active Directory 應用程式模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=87f2109e-5129-467c-930f-70af31ebf5de)  
+[Active Directory 應用程式模式 (ADAM)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=87f2109e-5129-467c-930f-70af31ebf5de)  
 (KB973039)  
 (重要)
 </td>
@@ -402,11 +402,11 @@ Windows Server 2003 SP2 for Itanium-based Systems
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=b95daac0-4c99-47a4-b0ca-9429997ea3d9)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=b95daac0-4c99-47a4-b0ca-9429997ea3d9)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=040e691b-1ef0-4b73-bef7-a1d77b84b0ca)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=040e691b-1ef0-4b73-bef7-a1d77b84b0ca)  
 (KB973037)  
 (重要)
 </td>
@@ -455,14 +455,14 @@ Windows Vista
 Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=ebf0c294-cd99-445a-a741-78253e47189f)  
+[Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=ebf0c294-cd99-445a-a741-78253e47189f)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=54562103-1d99-42d7-8f7f-c0cbcdce90db)  
+[Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=54562103-1d99-42d7-8f7f-c0cbcdce90db)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -474,14 +474,14 @@ Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=d9645fc9-f524-43f1-8b8c-94b3b4312158)  
+[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=d9645fc9-f524-43f1-8b8c-94b3b4312158)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fcb87cc8-6fd7-4f16-93d6-552999462fb1)  
+[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fcb87cc8-6fd7-4f16-93d6-552999462fb1)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -532,18 +532,18 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=d6a60883-b103-459a-a91b-cd6ed946cefe)\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=d6a60883-b103-459a-a91b-cd6ed946cefe)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=b97d48de-0f6d-4bca-b990-acf543fdb8b7)\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=b97d48de-0f6d-4bca-b990-acf543fdb8b7)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 和 Active Directory 輕量型目錄服務 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=701abf15-7f93-41de-8d09-13404fd79a7e)\*  
+[Active Directory 和 Active Directory 輕量型目錄服務 (AD LDS)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=701abf15-7f93-41de-8d09-13404fd79a7e)\*  
 (KB973037)  
 (重要)
 </td>
@@ -553,18 +553,18 @@ Windows Server 2008
 適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=3dde1587-42d3-438f-8344-696a5657b9b1)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=3dde1587-42d3-438f-8344-696a5657b9b1)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=0e2b8607-10fa-406a-96a5-18290f479c48)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=0e2b8607-10fa-406a-96a5-18290f479c48)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Active Directory 和 Active Directory 輕量型目錄服務 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=17f5f9e0-5869-41da-9b3b-6e67540af1f0)\*  
+[Active Directory 和 Active Directory 輕量型目錄服務 (AD LDS)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=17f5f9e0-5869-41da-9b3b-6e67540af1f0)\*  
 (KB973037)  
 (重要)
 </td>
@@ -574,14 +574,14 @@ Windows Server 2008
 適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=841a027f-22fa-42de-93b3-57a3fe92a1d3)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=841a027f-22fa-42de-93b3-57a3fe92a1d3)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=28eba3f3-99a5-424c-bc8d-a718c716699e)  
+[適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=28eba3f3-99a5-424c-bc8d-a718c716699e)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -639,12 +639,12 @@ Microsoft Office 套件、系統和元件
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=5672c8fc-8509-4962-ad86-ebc0f2575043)  
+[Microsoft Office Excel 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=5672c8fc-8509-4962-ad86-ebc0f2575043)  
 (KB973471)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=0369fae5-958b-4eba-83a4-9c07e701c273)  
+[Microsoft Office Word 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=0369fae5-958b-4eba-83a4-9c07e701c273)  
 (KB973444)  
 (重要)
 </td>
@@ -654,12 +654,12 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=6a6a0f5d-17dc-4a34-b9a0-0774aa287ba5)  
+[Microsoft Office Excel 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=6a6a0f5d-17dc-4a34-b9a0-0774aa287ba5)  
 (KB973475)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=6b77bc62-bcbb-4b9a-97d1-a49ca0582e54)  
+[Microsoft Office Word 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=6b77bc62-bcbb-4b9a-97d1-a49ca0582e54)  
 (KB973443)  
 (重要)
 </td>
@@ -669,7 +669,7 @@ Microsoft Office 2003
 2007 Microsoft Office System
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2007 Service Pack 1 和 Microsoft Office Excel 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=322b24ca-aff6-4ca0-acf1-440cae0f9693)<sup>[1]</sup>
+[Microsoft Office Excel 2007 Service Pack 1 和 Microsoft Office Excel 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=322b24ca-aff6-4ca0-acf1-440cae0f9693)<sup>[1]</sup>
 (KB973593)  
 (重要)
 </td>
@@ -709,12 +709,12 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=8f115b1c-1e28-4ecf-937c-99c4b60c7c8e)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=8f115b1c-1e28-4ecf-937c-99c4b60c7c8e)  
 (KB976830)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=8f115b1c-1e28-4ecf-937c-99c4b60c7c8e)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=8f115b1c-1e28-4ecf-937c-99c4b60c7c8e)  
 (KB976830)  
 (重要)
 </td>
@@ -724,12 +724,12 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=b84fe57d-ddda-451e-9ead-69e10aee7928)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=b84fe57d-ddda-451e-9ead-69e10aee7928)  
 (KB976828)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=b84fe57d-ddda-451e-9ead-69e10aee7928)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=b84fe57d-ddda-451e-9ead-69e10aee7928)  
 (KB976828)  
 (重要)
 </td>
@@ -739,12 +739,12 @@ Microsoft Office 2008 for Mac
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=4dd4bc05-1217-497e-8f65-4347f2544ed6)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=4dd4bc05-1217-497e-8f65-4347f2544ed6)  
 (KB976831)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=4dd4bc05-1217-497e-8f65-4347f2544ed6)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=4dd4bc05-1217-497e-8f65-4347f2544ed6)  
 (KB976831)  
 (重要)
 </td>
@@ -781,7 +781,7 @@ Open XML File Format Converter for Mac
 Microsoft Office Excel Viewer 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=19151e22-5642-456c-bd39-298574369cdb)  
+[Microsoft Office Excel Viewer 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=19151e22-5642-456c-bd39-298574369cdb)  
 (KB973484)  
 (重要)
 </td>
@@ -794,7 +794,7 @@ Microsoft Office Excel Viewer 2003
 Microsoft Office Excel Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer Service Pack 1 和 Microsoft Office Excel Viewer Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fb36df5e-ebef-46bf-9edd-67f2c76dbdb3)  
+[Microsoft Office Excel Viewer Service Pack 1 和 Microsoft Office Excel Viewer Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fb36df5e-ebef-46bf-9edd-67f2c76dbdb3)  
 (KB973707)  
 (重要)
 </td>
@@ -810,7 +810,7 @@ Microsoft Office Word Viewer 2003
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word Viewer 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4cc5e6c5-7efb-4180-9a9b-0788115c91e1)  
+[Microsoft Office Word Viewer 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4cc5e6c5-7efb-4180-9a9b-0788115c91e1)  
 (KB973866)  
 (重要)
 </td>
@@ -823,7 +823,7 @@ Microsoft Office Word Viewer
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word Viewer](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4cc5e6c5-7efb-4180-9a9b-0788115c91e1)  
+[Microsoft Office Word Viewer](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4cc5e6c5-7efb-4180-9a9b-0788115c91e1)  
 (KB973866)  
 (重要)
 </td>
@@ -833,7 +833,7 @@ Microsoft Office Word Viewer
 適用於 Word、Excel 及 PowerPoint 2007 檔案格式的 Microsoft Office 相容性套件
 </td>
 <td style="border:1px solid black;">
-[適用於 Word、Excel 及 PowerPoint 2007 檔案格式 Service Pack 1 的 Microsoft Office 相容性套件和適用於 Word、Excel 及 PowerPoint 2007 檔案格式 Service Pack 2 的 Microsoft Office 相容性套件](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=c4c92d2e-e87d-446f-8d3e-8f4be10c70aa)  
+[適用於 Word、Excel 及 PowerPoint 2007 檔案格式 Service Pack 1 的 Microsoft Office 相容性套件和適用於 Word、Excel 及 PowerPoint 2007 檔案格式 Service Pack 2 的 Microsoft Office 相容性套件](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=c4c92d2e-e87d-446f-8d3e-8f4be10c70aa)  
 (KB973704)  
 (重要)
 </td>
@@ -845,7 +845,7 @@ Microsoft Office Word Viewer
  
 MS09-067 的注意事項
 
-<sup>[1]</sup>針對 Microsoft Office Excel 2007 Service Pack 1 和 Microsoft Office Excel 2007 Service Pack 2，除了資訊安全公告更新套件 KB973593，客戶還需要安裝 [Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 1 和 Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=c4c92d2e-e87d-446f-8d3e-8f4be10c70aa) (KB973704) 的資訊安全公告更新，才能免於受此公告中描述的弱點影響。
+<sup>[1]</sup>針對 Microsoft Office Excel 2007 Service Pack 1 和 Microsoft Office Excel 2007 Service Pack 2，除了資訊安全公告更新套件 KB973593，客戶還需要安裝 [Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 1 和 Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=c4c92d2e-e87d-446f-8d3e-8f4be10c70aa) (KB973704) 的資訊安全公告更新，才能免於受此公告中描述的弱點影響。
 
 偵測與部署工具及指南
 --------------------
@@ -883,7 +883,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和應用程式相容性工具組**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全公告更新的時間。 您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全公告更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 資訊安全公告更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

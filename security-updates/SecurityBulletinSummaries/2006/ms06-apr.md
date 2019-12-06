@@ -143,7 +143,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;">Windows Server 2003</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=099ee535-8b31-4356-b3fb-ef524c20a424">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=099ee535-8b31-4356-b3fb-ef524c20a424">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 </tr>
@@ -151,7 +151,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;">Windows Server 2003 Service Pack 1</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=238ab809-5a7e-4678-b01b-38fd82e9c701">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=238ab809-5a7e-4678-b01b-38fd82e9c701">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 </tr>
@@ -167,7 +167,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;">Itanium 系統的 Windows Server 2003</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e3c7e736-1583-4bd5-b661-a9aaddfa5b86">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e3c7e736-1583-4bd5-b661-a9aaddfa5b86">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 </tr>
@@ -175,7 +175,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;">Windows Server 2003 with SP1 for Itanium-based Systems</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e3c7e736-1583-4bd5-b661-a9aaddfa5b86">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e3c7e736-1583-4bd5-b661-a9aaddfa5b86">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 </tr>
@@ -183,7 +183,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;">Windows XP Service Pack 1</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=392c2f1b-aa24-48e5-8d5b-ea56341db936">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=392c2f1b-aa24-48e5-8d5b-ea56341db936">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 </tr>
@@ -191,7 +191,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=392c2f1b-aa24-48e5-8d5b-ea56341db936">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=392c2f1b-aa24-48e5-8d5b-ea56341db936">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 </tr>
@@ -199,7 +199,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;">Windows XP Professional x64 Edition</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=11a5195e-3f32-41f9-ab39-68a099ee945d">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=11a5195e-3f32-41f9-ab39-68a099ee945d">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 </tr>
@@ -207,7 +207,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ae28bc65-3a5e-4497-ad05-2cde8e7b5e95">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ae28bc65-3a5e-4497-ad05-2cde8e7b5e95">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 </tr>
@@ -245,7 +245,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4 中的 Internet Explorer 5.01 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=594e7b87-af8f-4346-9164-596e3e5c22b1">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=594e7b87-af8f-4346-9164-596e3e5c22b1">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -253,7 +253,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4 或 Microsoft Windows XP Service Pack 1 中的 Internet Explorer 6 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=033c41e1-2b36-4696-987a-099fc57e0129">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=033c41e1-2b36-4696-987a-099fc57e0129">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -261,7 +261,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2 中的 Internet Explorer 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f05ffb31-e6b4-4771-81f1-4accebf72133">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f05ffb31-e6b4-4771-81f1-4accebf72133">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -269,7 +269,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003 和 Windows Server 2003 Service Pack 1 中的 Internet Explorer 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ee566871-d217-41d3-becc-b27fafa00054">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ee566871-d217-41d3-becc-b27fafa00054">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -277,7 +277,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows Server 2003 for Itanium-based Systems、Microsoft Windows Server 2003 SP1 for Itanium-based Systems</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e584957c-0abe-4129-abaf-aa2852ad62a3">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e584957c-0abe-4129-abaf-aa2852ad62a3">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -285,7 +285,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Internet Explorer 6 for Microsoft Windows Server 2003 x64 Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5a1c8be3-39ee-4937-9bd1-280fc35125c6">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=5a1c8be3-39ee-4937-9bd1-280fc35125c6">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -293,7 +293,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Internet Explorer 6 for Microsoft Windows XP Professional x64 Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c278fe3e-620a-4bbc-868b-ca2d9eff7ac3">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c278fe3e-620a-4bbc-868b-ca2d9eff7ac3">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -302,7 +302,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="even">
 <td style="border:1px solid black;">執行 Microsoft Data Access Components 2.7 Service Pack 1 的 Windows XP Service Pack 1</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2f9e772c-8122-4027-a117-e93227b2c79f">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2f9e772c-8122-4027-a117-e93227b2c79f">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -310,7 +310,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="odd">
 <td style="border:1px solid black;">執行 Microsoft Data Access Components 2.8 Service Pack 1 的 Windows XP Service Pack 2</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2f9e772c-8122-4027-a117-e93227b2c79f">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2f9e772c-8122-4027-a117-e93227b2c79f">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -318,7 +318,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="even">
 <td style="border:1px solid black;">執行 Microsoft Data Access Components 2.8 Service Pack 2 的 Windows XP Professional x64 Edition</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9c8b645d-0f01-4b79-b6b3-55279bedb944">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9c8b645d-0f01-4b79-b6b3-55279bedb944">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -326,7 +326,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="odd">
 <td style="border:1px solid black;">執行 Microsoft Data Access Components 2.8 的 Windows Server 2003</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=39b29ed4-9b95-4593-bcb6-4bb03ca5f8f1">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=39b29ed4-9b95-4593-bcb6-4bb03ca5f8f1">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -334,7 +334,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="even">
 <td style="border:1px solid black;">執行 Microsoft Data Access Components 2.8 Service Pack 2 的 Windows Server 2003 Service Pack 1</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=39b29ed4-9b95-4593-bcb6-4bb03ca5f8f1">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=39b29ed4-9b95-4593-bcb6-4bb03ca5f8f1">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -342,7 +342,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="odd">
 <td style="border:1px solid black;">執行 Microsoft Data Access Components 2.8 的 Windows Server 2003 for Itanium-based Systems</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=4d2fe426-e34e-4192-8a0f-35e440e948e2">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=4d2fe426-e34e-4192-8a0f-35e440e948e2">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -350,7 +350,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="even">
 <td style="border:1px solid black;">執行 Microsoft Data Access Components 2.8 Service Pack 2 的 Windows Server 2003 x64 Edition</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e237c2c7-9819-437b-ab70-298ba62ac285">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e237c2c7-9819-437b-ab70-298ba62ac285">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -358,7 +358,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="odd">
 <td style="border:1px solid black;">安裝了 Microsoft Data Access Components 2.5 Service Pack 3 的 Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1b3e6cb9-1ef2-4ba1-a2f2-f87b717372fb">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=1b3e6cb9-1ef2-4ba1-a2f2-f87b717372fb">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -366,7 +366,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="even">
 <td style="border:1px solid black;">安裝了 Microsoft Data Access Components 2.7 Service Pack 1 的 Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0aa7c8b7-8417-42d8-8e73-5466c03b8c65">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=0aa7c8b7-8417-42d8-8e73-5466c03b8c65">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -374,7 +374,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="odd">
 <td style="border:1px solid black;">安裝了 Microsoft Data Access Components 2.8 的 Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2494b25d-452f-4025-8b67-41a5c840f7e2">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2494b25d-452f-4025-8b67-41a5c840f7e2">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -382,7 +382,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="even">
 <td style="border:1px solid black;">安裝了 Microsoft Data Access Components 2.8 Service Pack 1 的 Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7358da31-959c-4e3e-8115-51dc6d441365">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7358da31-959c-4e3e-8115-51dc6d441365">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -390,7 +390,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <tr class="odd">
 <td style="border:1px solid black;">安裝了 Microsoft Data Access Components 2.8 的 Windows XP Service Pack 1</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2494b25d-452f-4025-8b67-41a5c840f7e2">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2494b25d-452f-4025-8b67-41a5c840f7e2">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -400,7 +400,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=484de679-5505-4196-bdd8-f7cf325af0f5">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=484de679-5505-4196-bdd8-f7cf325af0f5">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
@@ -408,7 +408,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a7b10d8f-d9d7-4423-aa6d-c1c41d23794e">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a7b10d8f-d9d7-4423-aa6d-c1c41d23794e">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
@@ -416,7 +416,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=800bf687-bee5-478f-a025-43cd16682f31">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=800bf687-bee5-478f-a025-43cd16682f31">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
@@ -424,7 +424,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0dd827bc-6fa1-405a-933e-fb422a4e8096">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=0dd827bc-6fa1-405a-933e-fb422a4e8096">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
@@ -432,7 +432,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ff772c0b-6f98-449d-b02e-c9c236068172">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ff772c0b-6f98-449d-b02e-c9c236068172">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
@@ -440,7 +440,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=cda93501-99cb-4f28-bb73-6438cad081db">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=cda93501-99cb-4f28-bb73-6438cad081db">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
@@ -448,7 +448,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e61a3d64-14fd-4976-bb03-c31ca6ee61e2">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e61a3d64-14fd-4976-bb03-c31ca6ee61e2">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
@@ -457,7 +457,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a6932151-2ae2-4c6e-861a-6ff5bde61191">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a6932151-2ae2-4c6e-861a-6ff5bde61191">中度</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">隨 Windows Server 2003 for Itanium-based Systems 及 Windows Server 2003 with SP1 for Itanium-based Systems 出貨的 FrontPage Server Extensions 2002</td>
@@ -465,7 +465,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a6932151-2ae2-4c6e-861a-6ff5bde61191">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a6932151-2ae2-4c6e-861a-6ff5bde61191">中度</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 x64 Edition 及 Windows XP Professional x64 Edition 上的 FrontPage Server Extensions 2002 (x64 Edition)</td>
@@ -473,7 +473,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f453530d-7063-49ab-b304-9c455de6d8da">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f453530d-7063-49ab-b304-9c455de6d8da">中度</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">下載並安裝在 Windows Server 2000 Service Pack 4、Windows XP Service Pack 1 及 Windows XP Service Pack 2 上的 FrontPage Server Extensions 2002 (x86 Editions)</td>
@@ -481,7 +481,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f453530d-7063-49ab-b304-9c455de6d8da">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f453530d-7063-49ab-b304-9c455de6d8da">中度</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">SharePoint Team Services 2002</td>
@@ -489,7 +489,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-apr(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=eee40662-39e6-4c07-8241-1ac4f5d24ffc">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=eee40662-39e6-4c07-8241-1ac4f5d24ffc">中度</a></td>
 </tr>
 </tbody>
 </table>

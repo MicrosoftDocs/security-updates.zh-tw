@@ -111,31 +111,31 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-may(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=e70515c7-8924-46da-8573-457957eea0d7">輕微</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=e70515c7-8924-46da-8573-457957eea0d7">輕微</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Itanium 系統的 Windows Server 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7bd81335-79ea-46ce-8d3c-0aa91eefff02">輕微</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7bd81335-79ea-46ce-8d3c-0aa91eefff02">輕微</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=d80b43b2-727b-46b6-82d1-f2cbd916fe32">輕微</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=d80b43b2-727b-46b6-82d1-f2cbd916fe32">輕微</a></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b2b8f9a8-4874-405a-9f0c-768b2631673a">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b2b8f9a8-4874-405a-9f0c-768b2631673a">重大</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=d80b43b2-727b-46b6-82d1-f2cbd916fe32">輕微</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=d80b43b2-727b-46b6-82d1-f2cbd916fe32">輕微</a></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b2b8f9a8-4874-405a-9f0c-768b2631673a">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b2b8f9a8-4874-405a-9f0c-768b2631673a">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8b98f380-0e5c-4b80-9710-95e1b35afd83">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8b98f380-0e5c-4b80-9710-95e1b35afd83">中度</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -154,19 +154,19 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-may(v=Security.10)
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Exchange Server 2003 Service Pack 1</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=f32574e0-f35c-4537-9ad0-524cb49afe53">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=f32574e0-f35c-4537-9ad0-524cb49afe53">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Exchange Server 2003 Service Pack 2</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=82ae4397-0982-4585-84c1-dc1af6944a0f">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=82ae4397-0982-4585-84c1-dc1af6944a0f">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">具備 2004 年 8 月發行之 Exchange 2000 Post-Service Pack 3 更新彙總套件的 Microsoft Exchange Server 2000</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e72c8f94-782f-4670-9221-e2e37eadb8ec">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e72c8f94-782f-4670-9221-e2e37eadb8ec">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">

@@ -128,7 +128,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms04-aug(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Outlook Web Access (OWA)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=66e4e033-5a4c-4eec-84f1-31f0ca878092&amp;displaylang=en">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=66e4e033-5a4c-4eec-84f1-31f0ca878092&amp;displaylang=en">中度</a></td>
 </tr>
 </tbody>
 </table>

@@ -143,7 +143,7 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7951fd7b-6b0a-4168-8519-312a62ff3289)  
+[Microsoft Data Access Components 2.8 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7951fd7b-6b0a-4168-8519-312a62ff3289)  
 (KB2419632)  
 (重大)
 </td>
@@ -156,7 +156,7 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ce06bfdc-7b0d-4e65-9a13-e009e3a6a9f0)  
+[Microsoft Data Access Components 2.8 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ce06bfdc-7b0d-4e65-9a13-e009e3a6a9f0)  
 (KB2419635)  
 (重大)
 </td>
@@ -196,7 +196,7 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=d451ced7-c9c7-4c41-9d44-8f8929fca390)  
+[Microsoft Data Access Components 2.8 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=d451ced7-c9c7-4c41-9d44-8f8929fca390)  
 (KB2419635)  
 (重要)
 </td>
@@ -209,7 +209,7 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3f2c8cfa-819e-4fd9-93ba-b687eb2d46fe)  
+[Microsoft Data Access Components 2.8 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3f2c8cfa-819e-4fd9-93ba-b687eb2d46fe)  
 (KB2419635)  
 (重要)
 </td>
@@ -222,7 +222,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 SP2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Microsoft Data Access Components 2.8 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=8dbcbb91-464b-4eb3-b7e5-afe82febf8d7)  
+[Microsoft Data Access Components 2.8 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=8dbcbb91-464b-4eb3-b7e5-afe82febf8d7)  
 (KB2419635)  
 (重要)
 </td>
@@ -262,12 +262,12 @@ Windows Vista
 Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=13445e4a-099a-4edd-864e-c44f42940500)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=13445e4a-099a-4edd-864e-c44f42940500)  
 (KB2419640)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4eeaad20-729c-4594-8853-e4ae55e9d491)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4eeaad20-729c-4594-8853-e4ae55e9d491)  
 (重要)
 </td>
 </tr>
@@ -276,12 +276,12 @@ Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=fd6b806e-50d4-4f4d-96e1-7c71fca4c543)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=fd6b806e-50d4-4f4d-96e1-7c71fca4c543)  
 (KB2419640)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b2839cd0-1958-4a22-9aac-0e0aa8f2b52c)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b2839cd0-1958-4a22-9aac-0e0aa8f2b52c)  
 (重要)
 </td>
 </tr>
@@ -317,7 +317,7 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=3d0885ac-97b3-46b5-970d-cc810270fba3)\*  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=3d0885ac-97b3-46b5-970d-cc810270fba3)\*  
 (KB2419640)  
 (重要)
 </td>
@@ -330,7 +330,7 @@ Windows Server 2008
 適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=8f33c57e-343c-4cdb-b667-af18a8779ad2)\*  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=8f33c57e-343c-4cdb-b667-af18a8779ad2)\*  
 (KB2419640)  
 (重要)
 </td>
@@ -343,7 +343,7 @@ Windows Server 2008
 適用於 Itanium 型系統的 Windows Server 2008 和適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=5ecc8180-6baa-4f4b-a392-4b45a30469fc)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=5ecc8180-6baa-4f4b-a392-4b45a30469fc)  
 (KB2419640)  
 (重要)
 </td>
@@ -383,7 +383,7 @@ Windows 7
 適用於 32 位元系統的 Windows 7
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=3dfd4f1c-e7a5-4686-8d2c-b7a5a53c5333)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=3dfd4f1c-e7a5-4686-8d2c-b7a5a53c5333)  
 (KB2419640)  
 (重大)
 </td>
@@ -396,7 +396,7 @@ Windows 7
 適用於 x64 型系統的 Windows 7
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cf30e5c0-811b-4ecd-a6b2-874000d25074)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=cf30e5c0-811b-4ecd-a6b2-874000d25074)  
 (KB2419640)  
 (重大)
 </td>
@@ -436,7 +436,7 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=cc9bac5a-3eaa-46fb-9ef4-c511b5f57996)\*  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=cc9bac5a-3eaa-46fb-9ef4-c511b5f57996)\*  
 (KB2419640)  
 (重要)
 </td>
@@ -449,7 +449,7 @@ Windows Server 2008 R2
 適用於 Itanium 型系統的 Windows Server 2008 R2
 </td>
 <td style="border:1px solid black;">
-[Windows Data Access Components 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=ba2612ec-ffad-4cd3-85c6-ba07f70a0d24)  
+[Windows Data Access Components 6.0](https://www.microsoft.com/download/details.aspx?familyid=ba2612ec-ffad-4cd3-85c6-ba07f70a0d24)  
 (KB2419640)  
 (重要)
 </td>
@@ -509,7 +509,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和 Application Compatibility Toolkit**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

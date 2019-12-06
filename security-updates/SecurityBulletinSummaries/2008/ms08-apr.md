@@ -149,26 +149,26 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=caac000a-22b6-48cb-aa00-1a0bfe886de2">Microsoft Windows 2000 Service Pack 4</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=caac000a-22b6-48cb-aa00-1a0bfe886de2">Microsoft Windows 2000 Service Pack 4</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8e3ff44f-145b-4a68-9ad4-4a55d74b216e">VBScript 5.1 與 JScript 5.1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8e3ff44f-145b-4a68-9ad4-4a55d74b216e">VBScript 5.1 與 JScript 5.1</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8e3ff44f-145b-4a68-9ad4-4a55d74b216e">VBScript 5.6 與 JScript 5.6</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8e3ff44f-145b-4a68-9ad4-4a55d74b216e">VBScript 5.6 與 JScript 5.6</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0395451f-b719-4f71-a7b4-403d0c7e8fcc">Microsoft Internet Explorer 5.01 Service Pack 4</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0395451f-b719-4f71-a7b4-403d0c7e8fcc">Microsoft Internet Explorer 5.01 Service Pack 4</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=ba6d3aeb-e35a-47cc-bace-7bd9d58a9d3f">Microsoft Internet Explorer 6 Service Pack 1</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=ba6d3aeb-e35a-47cc-bace-7bd9d58a9d3f">Microsoft Internet Explorer 6 Service Pack 1</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b051ae04-fe81-440d-9136-d6b239ca954e">Microsoft Internet Explorer 5.01 Service Pack 4</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b051ae04-fe81-440d-9136-d6b239ca954e">Microsoft Internet Explorer 5.01 Service Pack 4</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=75d2dc78-e3a4-4ff6-9e2d-bf1935003e8e">Microsoft Internet Explorer 6 Service Pack 1</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=75d2dc78-e3a4-4ff6-9e2d-bf1935003e8e">Microsoft Internet Explorer 6 Service Pack 1</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=41326ade-96b6-47ce-9291-d4e3039471c4">Microsoft Windows 2000 Service Pack 4</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=41326ade-96b6-47ce-9291-d4e3039471c4">Microsoft Windows 2000 Service Pack 4</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8db9f328-da0e-4fb8-96c4-6d368b47c224">Microsoft Windows 2000 Service Pack 4</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8db9f328-da0e-4fb8-96c4-6d368b47c224">Microsoft Windows 2000 Service Pack 4</a><br />
 (重要)</td>
 </tr>
 </tbody>
@@ -200,38 +200,38 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=c2763dd8-a03e-4a48-aa86-a7ec00250a7a">Windows XP Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=c2763dd8-a03e-4a48-aa86-a7ec00250a7a">Windows XP Service Pack 2</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=c0124698-3b94-4474-9473-22a2f39a4a56">VBScript 5.6 與 JScript 5.6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=c0124698-3b94-4474-9473-22a2f39a4a56">VBScript 5.6 與 JScript 5.6</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=9dbf002f-fe53-4cc7-a430-35f45c520d10">Windows XP Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=9dbf002f-fe53-4cc7-a430-35f45c520d10">Windows XP Service Pack 2</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=36c641ad-953f-4b09-ba1c-9c383295e180">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=36c641ad-953f-4b09-ba1c-9c383295e180">Microsoft Internet Explorer 6</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=e771efe8-8881-4f23-b5b0-15651a390ba9">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=e771efe8-8881-4f23-b5b0-15651a390ba9">Windows Internet Explorer 7</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=893f4cef-0395-4c44-ba28-7a10b6e7dd48">Windows XP Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=893f4cef-0395-4c44-ba28-7a10b6e7dd48">Windows XP Service Pack 2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0e937f65-abd0-46dd-8883-5bfd70ea1178">Windows XP Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0e937f65-abd0-46dd-8883-5bfd70ea1178">Windows XP Service Pack 2</a><br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=166f2ab5-913c-47a9-86fe-b814797b751e">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2 (英文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=166f2ab5-913c-47a9-86fe-b814797b751e">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2 (英文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=87b80ae3-e299-4d15-a135-3b1bcf943652">VBScript 5.6 與 JScript 5.6(英文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=87b80ae3-e299-4d15-a135-3b1bcf943652">VBScript 5.6 與 JScript 5.6(英文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=01400970-df68-4daf-aa39-2fc4f969974c">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=01400970-df68-4daf-aa39-2fc4f969974c">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=85beacc0-8ca2-4ded-9c24-23348d05c735">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=85beacc0-8ca2-4ded-9c24-23348d05c735">Microsoft Internet Explorer 6</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=9364bf81-6505-4788-958d-a4bd29dc98ad">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=9364bf81-6505-4788-958d-a4bd29dc98ad">Windows Internet Explorer 7</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8fdd1207-6e93-4c43-bacc-fe3623a6ebe7">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2(英文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8fdd1207-6e93-4c43-bacc-fe3623a6ebe7">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2(英文下載更新程式)</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a29bbd13-761f-44fa-8948-e1a8c244bd7a">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2(英文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a29bbd13-761f-44fa-8948-e1a8c244bd7a">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2(英文下載更新程式)</a><br />
 (重要)</td>
 </tr>
 </tbody>
@@ -263,56 +263,56 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=bee91d80-d49a-4d3d-82d6-d5aa63f54979">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=bee91d80-d49a-4d3d-82d6-d5aa63f54979">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=88518aa6-e334-4529-aa63-0bf2ef417ce3">VBScript 5.6 與 JScript 5.6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=88518aa6-e334-4529-aa63-0bf2ef417ce3">VBScript 5.6 與 JScript 5.6</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=ad384fea-53be-4be3-8acb-1cd23a7f5405">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=ad384fea-53be-4be3-8acb-1cd23a7f5405">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0444b76e-93fa-43c2-b1bc-a5c054529eb5">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0444b76e-93fa-43c2-b1bc-a5c054529eb5">Microsoft Internet Explorer 6</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=9acd2a03-5530-49c8-9ea1-0bfaf259700d">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=9acd2a03-5530-49c8-9ea1-0bfaf259700d">Windows Internet Explorer 7</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=214bd8f5-6eb2-414c-b013-c516a306d692">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=214bd8f5-6eb2-414c-b013-c516a306d692">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=d3b855a6-4648-4771-826d-11a151828eac">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=d3b855a6-4648-4771-826d-11a151828eac">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=e3dde449-e062-4ce0-a9f4-433bff23e224">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=e3dde449-e062-4ce0-a9f4-433bff23e224">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=12cefefc-8553-4dca-9850-c653371de61e">VBScript 5.6 與 JScript 5.6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=12cefefc-8553-4dca-9850-c653371de61e">VBScript 5.6 與 JScript 5.6</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=ffc5c893-cb24-4875-b0a7-6d5c7aa4d642">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=ffc5c893-cb24-4875-b0a7-6d5c7aa4d642">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=5ebb5ef9-615f-4cab-bac5-6f45f1b94952">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=5ebb5ef9-615f-4cab-bac5-6f45f1b94952">Microsoft Internet Explorer 6</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=a9e406aa-33e2-49b8-ab54-4a7328e46147">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=a9e406aa-33e2-49b8-ab54-4a7328e46147">Windows Internet Explorer 7</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=fd123394-a5d6-4b55-be74-2938f52ce922">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=fd123394-a5d6-4b55-be74-2938f52ce922">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=320fd100-35e1-4345-9399-796393235cbc">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=320fd100-35e1-4345-9399-796393235cbc">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7886a802-f2b5-489c-b14b-631f4c4c0742">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7886a802-f2b5-489c-b14b-631f4c4c0742">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (中文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=fe22a828-cca4-4b51-bbd5-995c65fead21">VBScript 5.6 與 JScript 5.6 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=fe22a828-cca4-4b51-bbd5-995c65fead21">VBScript 5.6 與 JScript 5.6 (中文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=94cf78d3-b6c3-41bc-993e-3af3be0d70f1">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=94cf78d3-b6c3-41bc-993e-3af3be0d70f1">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (中文下載更新程式)</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=63da8040-fda2-42c7-8543-26ad6f9811f2">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=63da8040-fda2-42c7-8543-26ad6f9811f2">Microsoft Internet Explorer 6</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=75a05d3a-92a0-4a00-95d4-e2b2f6755180">Windows Internet Explorer 7 (中文下載更新程式)</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=75a05d3a-92a0-4a00-95d4-e2b2f6755180">Windows Internet Explorer 7 (中文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e0e63f03-904d-47ee-94fc-51a8dea668eb">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e0e63f03-904d-47ee-94fc-51a8dea668eb">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (中文下載更新程式)</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=126426a7-be38-4327-89db-02d99d76589d">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=126426a7-be38-4327-89db-02d99d76589d">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (中文下載更新程式)</a><br />
 (重要)</td>
 </tr>
 </tbody>
@@ -344,30 +344,30 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Vista 和 Windows Vista Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=9b51deb8-3873-4146-977f-7e3d0840a4c5">Windows Vista 和 Windows Vista Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=9b51deb8-3873-4146-977f-7e3d0840a4c5">Windows Vista 和 Windows Vista Service Pack 1</a><br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=d7f14001-7f42-4ca0-9193-cdf061179b59">Windows Vista 和 Windows Vista Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=d7f14001-7f42-4ca0-9193-cdf061179b59">Windows Vista 和 Windows Vista Service Pack 1</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=d4e24966-6530-463a-9ee2-f6a9d000f998">Windows Internet Explorer 7</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=d4e24966-6530-463a-9ee2-f6a9d000f998">Windows Internet Explorer 7</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8203d303-c855-4579-9bbf-b06ddf5c1b87">Windows Vista</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8203d303-c855-4579-9bbf-b06ddf5c1b87">Windows Vista</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=9640cd8b-d749-4ddd-8af9-b298cebed969">Windows Vista 和 Windows Vista Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=9640cd8b-d749-4ddd-8af9-b298cebed969">Windows Vista 和 Windows Vista Service Pack 1</a><br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4ad6dcd1-6ea5-43bf-8bee-a5f507beadc6">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4ad6dcd1-6ea5-43bf-8bee-a5f507beadc6">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1</a><br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=d33462b6-7391-482d-babe-fb4cd0beaa21">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=d33462b6-7391-482d-babe-fb4cd0beaa21">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=295cf8f2-265e-4570-b708-21033337fe05">Windows Internet Explorer 7</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=295cf8f2-265e-4570-b708-21033337fe05">Windows Internet Explorer 7</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=73f3a234-3973-4467-be7e-69efa7ee978c">Windows Vista x64 Edition</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=73f3a234-3973-4467-be7e-69efa7ee978c">Windows Vista x64 Edition</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=d56bb4fe-304e-45e0-95f2-fde2f47b2a04">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=d56bb4fe-304e-45e0-95f2-fde2f47b2a04">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1</a><br />
 (重要)</td>
 </tr>
 </tbody>
@@ -399,41 +399,41 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">適用於 32 位元系統的 Windows Server 2008</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=006d5c47-53e6-4ee1-932c-497611804938">適用於 32 位元系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=006d5c47-53e6-4ee1-932c-497611804938">適用於 32 位元系統的 Windows Server 2008</a><br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=95691924-2813-4a86-9e11-99d853f8e606">適用於 32 位元系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=95691924-2813-4a86-9e11-99d853f8e606">適用於 32 位元系統的 Windows Server 2008</a><br />
 (輕微)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=e57b4d94-19ad-4818-8311-a3f94be01a4b">Windows Internet Explorer 7</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=e57b4d94-19ad-4818-8311-a3f94be01a4b">Windows Internet Explorer 7</a><br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4497333c-9418-4b91-83dc-0155735421c0">適用於 32 位元系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4497333c-9418-4b91-83dc-0155735421c0">適用於 32 位元系統的 Windows Server 2008</a><br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">適用於 x64 系統的 Windows Server 2008</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8909f144-655b-4f07-916f-fd967f1efb2b">適用於 x64 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8909f144-655b-4f07-916f-fd967f1efb2b">適用於 x64 型系統的 Windows Server 2008</a><br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=920ae29b-19d0-4089-ac79-f2da824a2256">適用於 x64 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=920ae29b-19d0-4089-ac79-f2da824a2256">適用於 x64 型系統的 Windows Server 2008</a><br />
 (輕微)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=93e9f52a-c7d0-4033-9c12-740665a219af">Windows Internet Explorer 7</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=93e9f52a-c7d0-4033-9c12-740665a219af">Windows Internet Explorer 7</a><br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=5aefc7a6-79a4-45a2-b534-35d0ec400dda">適用於 x64 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=5aefc7a6-79a4-45a2-b534-35d0ec400dda">適用於 x64 型系統的 Windows Server 2008</a><br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">適用於 Itanium 系統的 Windows Server 2008</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b7771a4a-4e4f-48d1-8551-bb8b778ca5a7">適用於 Itanium 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b7771a4a-4e4f-48d1-8551-bb8b778ca5a7">適用於 Itanium 型系統的 Windows Server 2008</a><br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=66df79ac-8364-4922-9688-ebc7ec76d89f">適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=66df79ac-8364-4922-9688-ebc7ec76d89f">適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)</a><br />
 (輕微)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=acf948e8-c4a9-40da-b282-f5e584e77b05">Windows Internet Explorer 7 (英文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=acf948e8-c4a9-40da-b282-f5e584e77b05">Windows Internet Explorer 7 (英文下載更新程式)</a><br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=3080c26b-7456-41ef-8668-28f15bc7b8ce">適用於 Itanium 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=3080c26b-7456-41ef-8668-28f15bc7b8ce">適用於 Itanium 型系統的 Windows Server 2008</a><br />
 (重要)</td>
 </tr>
 </tbody>
@@ -459,21 +459,21 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Project 2000 Service Release 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=fbe46241-b9da-40c6-803d-42eb6234be77">Project 2000 Service Release 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=fbe46241-b9da-40c6-803d-42eb6234be77">Project 2000 Service Release 1</a><br />
 (KB949043)<br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Project 2002 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=07a90718-6597-426d-9dca-a336d60c01b8">Project 2002 Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=07a90718-6597-426d-9dca-a336d60c01b8">Project 2002 Service Pack 1</a><br />
 (KB949005)<br />
 (重要)</td>
 <td style="border:1px solid black;">無</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Project 2003 Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=aaba07d6-e972-4e85-bccd-406aa2c4a4f4">Project 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=aaba07d6-e972-4e85-bccd-406aa2c4a4f4">Project 2003 Service Pack 2</a><br />
 (KB948962)<br />
 (重要)</td>
 <td style="border:1px solid black;">無</td>
@@ -499,35 +499,35 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Office XP Service Pack 3</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0056a936-def5-40fa-bcfc-0ab0dd5c3964">Visio 2002 Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0056a936-def5-40fa-bcfc-0ab0dd5c3964">Visio 2002 Service Pack 3</a><br />
 (KB947896)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Office 2003 Service Pack 2</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=18af0ce6-99a0-4471-8d26-9700a8a8e631">Visio 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=18af0ce6-99a0-4471-8d26-9700a8a8e631">Visio 2003 Service Pack 2</a><br />
 (KB947650)<br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Office 2003 Service Pack 3</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=18af0ce6-99a0-4471-8d26-9700a8a8e631">Visio 2003 Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=18af0ce6-99a0-4471-8d26-9700a8a8e631">Visio 2003 Service Pack 3</a><br />
 (KB947650)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">2007 Microsoft Office System</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0510a1bb-b464-452c-900f-7f4e58ed9c7e">Visio 2007</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0510a1bb-b464-452c-900f-7f4e58ed9c7e">Visio 2007</a><br />
 (KB947590)<br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">2007 Microsoft Office System Service Pack 1</td>
 <td style="border:1px solid black;">無</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0510a1bb-b464-452c-900f-7f4e58ed9c7e">Visio 2007 Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0510a1bb-b464-452c-900f-7f4e58ed9c7e">Visio 2007 Service Pack 1</a><br />
 (KB947590)<br />
 (重要)</td>
 </tr>

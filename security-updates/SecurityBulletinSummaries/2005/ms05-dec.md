@@ -143,7 +143,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-dec(v=Security.10)
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3832ff23-6b04-4ca2-80b9-d344b4cc98ea">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=3832ff23-6b04-4ca2-80b9-d344b4cc98ea">重要</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Millennium Edition (Me)</td>
@@ -167,7 +167,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-dec(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4 中的 Internet Explorer 5.01 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=4005b74a-d6e6-4a32-a3b1-276686b4a428">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=4005b74a-d6e6-4a32-a3b1-276686b4a428">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
@@ -182,17 +182,17 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-dec(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4 或 Microsoft Windows XP Service Pack 1 中的 Internet Explorer 6 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a8443cd2-d98d-427b-9f0e-bd7e19fcb994">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a8443cd2-d98d-427b-9f0e-bd7e19fcb994">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2 中的 Internet Explorer 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e4b5ba57-d4f2-4798-9154-2869e371c9d1">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e4b5ba57-d4f2-4798-9154-2869e371c9d1">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003 和 Windows Server 2003 Service Pack 1 中的 Internet Explorer 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9d70fb20-c7c9-43af-a864-6dbc9a542cc6">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9d70fb20-c7c9-43af-a864-6dbc9a542cc6">中度</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
@@ -202,17 +202,17 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-dec(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">適用於 Itanium 系統的 Microsoft Windows Server 2003 及適用於 Itanium 系統的 Microsoft Windows Server 2003 SP1 中的 Internet Explorer 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1ee790b9-e596-4344-aec3-fcb3289d7e9c">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=1ee790b9-e596-4344-aec3-fcb3289d7e9c">中度</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Internet Explorer 6 for Microsoft Windows XP Professional x64 Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e1652b4a-6339-4b31-8acf-d2a844c24f70">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e1652b4a-6339-4b31-8acf-d2a844c24f70">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Internet Explorer 6 for Microsoft Windows Server 2003 x64 Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8e9c23e5-7988-42da-a8bd-2c1a534bf995">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8e9c23e5-7988-42da-a8bd-2c1a534bf995">中度</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 </tbody>

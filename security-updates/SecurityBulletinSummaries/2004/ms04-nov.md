@@ -61,10 +61,10 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms04-nov(v=Security.10)
 | **公告編號**                                                                                                                                       | [**MS04-039**](http://www.microsoft.com/taiwan/security/bulletin/ms04-039.mspx)                       |
 | **最高的嚴重性等級**                                                                                                                               | [**重要**](http://technet.microsoft.com/security/bulletin/rating)                                     |
 | **受影響的 Windows 軟體：**                                                                                                                        |                                                                                                       |
-| Microsoft Internet Security and Acceleration Server 2000 Service Pack 1 及 Microsoft Internet Security and Acceleration Server 2000 Service Pack 2 | [重要](http://www.microsoft.com/downloads/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
-| Microsoft Small Business Server 2000 (其中即包含 Microsoft Internet Security and Acceleration Server 2000)                                         | [重要](http://www.microsoft.com/downloads/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
-| Microsoft Small Business Server 2003 Premium Edition (其中即包含 Microsoft Internet Security and Acceleration Server 2000)                         | [重要](http://www.microsoft.com/downloads/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
-| Microsoft Proxy Server 2.0 Service Pack 1                                                                                                          | [重要](http://www.microsoft.com/downloads/details.aspx?familyid=55643141-91e3-4474-8134-72887bc6fc18) |
+| Microsoft Internet Security and Acceleration Server 2000 Service Pack 1 及 Microsoft Internet Security and Acceleration Server 2000 Service Pack 2 | [重要](https://www.microsoft.com/download/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
+| Microsoft Small Business Server 2000 (其中即包含 Microsoft Internet Security and Acceleration Server 2000)                                         | [重要](https://www.microsoft.com/download/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
+| Microsoft Small Business Server 2003 Premium Edition (其中即包含 Microsoft Internet Security and Acceleration Server 2000)                         | [重要](https://www.microsoft.com/download/details.aspx?familyid=7a4c318f-5ac9-4cf2-8792-a4a62076ebe7) |
+| Microsoft Proxy Server 2.0 Service Pack 1                                                                                                          | [重要](https://www.microsoft.com/download/details.aspx?familyid=55643141-91e3-4474-8134-72887bc6fc18) |
 
 部署
 ----

@@ -103,7 +103,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0de12d09-e675-4cf0-bc6f-e42eeb4784a1">Microsoft Jet 4.0 資料庫引擎</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0de12d09-e675-4cf0-bc6f-e42eeb4784a1">Microsoft Jet 4.0 資料庫引擎</a><br />
 (重大)</td>
 </tr>
 </tbody>
@@ -125,12 +125,12 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=3247433f-0aa9-49b8-9e40-c5463a95bcff">Microsoft Jet 4.0 資料庫引擎</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=3247433f-0aa9-49b8-9e40-c5463a95bcff">Microsoft Jet 4.0 資料庫引擎</a><br />
 (重大)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Professional x64 Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=4915ebc4-5e7b-493e-b8c4-321d40d9a701">Microsoft Jet 4.0 資料庫引擎</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=4915ebc4-5e7b-493e-b8c4-321d40d9a701">Microsoft Jet 4.0 資料庫引擎</a><br />
 (重大)</td>
 </tr>
 </tbody>
@@ -152,17 +152,17 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=86e3ed62-98f7-46ec-96ab-5e8c123b1288">Microsoft Jet 4.0 資料庫引擎</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=86e3ed62-98f7-46ec-96ab-5e8c123b1288">Microsoft Jet 4.0 資料庫引擎</a><br />
 (重大)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003 x64 Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5dfc867b-74b7-4818-9fc2-d71e7c9d2e38">Microsoft Jet 4.0 資料庫引擎</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=5dfc867b-74b7-4818-9fc2-d71e7c9d2e38">Microsoft Jet 4.0 資料庫引擎</a><br />
 (重大)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 SP1 for Itanium-based Systems</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3452119b-ba4c-4272-82ec-97396b2c2c3d">Microsoft Jet 4.0 資料庫引擎</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=3452119b-ba4c-4272-82ec-97396b2c2c3d">Microsoft Jet 4.0 資料庫引擎</a><br />
 (重大)</td>
 </tr>
 </tbody>
@@ -188,68 +188,68 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Office 2000 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=9215ff71-38c0-416a-b89a-fe3474160f41">Microsoft Word 2000 Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=9215ff71-38c0-416a-b89a-fe3474160f41">Microsoft Word 2000 Service Pack 3</a><br />
 (KB950250)<br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8675b9b6-fbf0-4ad2-9210-285e2cc10556">Microsoft Publisher 2000 Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8675b9b6-fbf0-4ad2-9210-285e2cc10556">Microsoft Publisher 2000 Service Pack 3</a><br />
 (KB950682)<br />
 (重大)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Office XP Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b348a518-221e-4567-a797-999715a8b2ef">Microsoft Word 2002 Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b348a518-221e-4567-a797-999715a8b2ef">Microsoft Word 2002 Service Pack 3</a><br />
 (KB950243)<br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=df623784-6e26-42c0-9e21-e7960b849e1e">Microsoft Publisher 2002 Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=df623784-6e26-42c0-9e21-e7960b849e1e">Microsoft Publisher 2002 Service Pack 3</a><br />
 (KB950129)<br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Office 2003 Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=bc33d144-f917-47b8-961f-744ca847e14c">Microsoft Word 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=bc33d144-f917-47b8-961f-744ca847e14c">Microsoft Word 2003 Service Pack 2</a><br />
 (KB950241)<br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=c18b060b-9828-4952-8e80-5328c0832d83">Microsoft Publisher 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=c18b060b-9828-4952-8e80-5328c0832d83">Microsoft Publisher 2003 Service Pack 2</a><br />
 (KB950213)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Office 2003 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=bc33d144-f917-47b8-961f-744ca847e14c">Microsoft Word 2003 Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=bc33d144-f917-47b8-961f-744ca847e14c">Microsoft Word 2003 Service Pack 3</a><br />
 (KB950241)<br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=c18b060b-9828-4952-8e80-5328c0832d83">Microsoft Publisher 2003 Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=c18b060b-9828-4952-8e80-5328c0832d83">Microsoft Publisher 2003 Service Pack 3</a><br />
 (KB950213)<br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">2007 Microsoft Office System</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=071ceaa2-12e3-4401-9331-2a54a93e2550">Microsoft Word 2007</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=071ceaa2-12e3-4401-9331-2a54a93e2550">Microsoft Word 2007</a><br />
 (KB950113)<br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=e4b647c2-79a3-49e0-9b1d-741667fdbcca">Microsoft Publisher 2007</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=e4b647c2-79a3-49e0-9b1d-741667fdbcca">Microsoft Publisher 2007</a><br />
 (KB950114)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=071ceaa2-12e3-4401-9331-2a54a93e2550">Microsoft Outlook 2007</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=071ceaa2-12e3-4401-9331-2a54a93e2550">Microsoft Outlook 2007</a><br />
 (KB950113)<br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">2007 Microsoft Office System Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=071ceaa2-12e3-4401-9331-2a54a93e2550">Microsoft Word 2007 Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=071ceaa2-12e3-4401-9331-2a54a93e2550">Microsoft Word 2007 Service Pack 1</a><br />
 (KB950113)<br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=e4b647c2-79a3-49e0-9b1d-741667fdbcca">Microsoft Publisher 2007 Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=e4b647c2-79a3-49e0-9b1d-741667fdbcca">Microsoft Publisher 2007 Service Pack 1</a><br />
 (KB950114)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=071ceaa2-12e3-4401-9331-2a54a93e2550">Microsoft Outlook 2007 Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=071ceaa2-12e3-4401-9331-2a54a93e2550">Microsoft Outlook 2007 Service Pack 1</a><br />
 (KB950113)<br />
 (重大)</td>
 <td style="border:1px solid black;">無</td>
@@ -272,13 +272,13 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Office 2004 for Mac</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=99f54471-ccf9-4d94-a882-a05ecd128adc">Microsoft Office 2004 for Mac</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=99f54471-ccf9-4d94-a882-a05ecd128adc">Microsoft Office 2004 for Mac</a><br />
 (KB952332)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Office 2008 for Mac</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=395d1487-a3a6-4106-a0f8-4d6e1d6d89d2">Microsoft Office 2008 for Mac</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=395d1487-a3a6-4106-a0f8-4d6e1d6d89d2">Microsoft Office 2008 for Mac</a><br />
 (KB952331)<br />
 (重要)</td>
 </tr>
@@ -301,21 +301,21 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Word Viewer</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=bce7ea31-2bf0-4930-aff9-837bcc82a682">Microsoft Word Viewer 2003</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=bce7ea31-2bf0-4930-aff9-837bcc82a682">Microsoft Word Viewer 2003</a><br />
 (KB950625)<br />
 (重要)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=bce7ea31-2bf0-4930-aff9-837bcc82a682">Microsoft Word Viewer 2003 Service Pack 3</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=bce7ea31-2bf0-4930-aff9-837bcc82a682">Microsoft Word Viewer 2003 Service Pack 3</a><br />
 (KB950625)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Office 相容性套件</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=2d718f37-c5d1-4e15-a7e1-5a15fedef52f">Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=2d718f37-c5d1-4e15-a7e1-5a15fedef52f">Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats</a><br />
 (KB951808)<br />
 (重要)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=2d718f37-c5d1-4e15-a7e1-5a15fedef52f">Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats Service Pack 1</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=2d718f37-c5d1-4e15-a7e1-5a15fedef52f">Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats Service Pack 1</a><br />
 (KB951808)<br />
 (重要)</td>
 </tr>

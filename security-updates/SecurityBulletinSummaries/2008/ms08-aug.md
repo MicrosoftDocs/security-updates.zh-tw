@@ -226,30 +226,30 @@ Microsoft Windows 2000
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=db455d17-435f-46d7-b2dd-5babb5a1eeb3)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=db455d17-435f-46d7-b2dd-5babb5a1eeb3)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 5.01 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=1557b93b-ecba-4f42-b89d-db0ee067d65b)  
+[Microsoft Internet Explorer 5.01 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=1557b93b-ecba-4f42-b89d-db0ee067d65b)  
 (重大)  
-[Microsoft Internet Explorer 6 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=aa780735-5928-4c46-89a4-63a814954796)  
+[Microsoft Internet Explorer 6 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=aa780735-5928-4c46-89a4-63a814954796)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=1b2ad648-7dc9-407a-99f6-f39922746027)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=1b2ad648-7dc9-407a-99f6-f39922746027)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 5.5 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=6257bfae-35f0-4c0e-b960-bca7aa6f86f7)  
+[Microsoft Outlook Express 5.5 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=6257bfae-35f0-4c0e-b960-bca7aa6f86f7)  
 (重要)  
-[Microsoft Outlook Express 6 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=dab178f7-c282-41f4-acb1-a86e6aa4c91b)  
+[Microsoft Outlook Express 6 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=dab178f7-c282-41f4-acb1-a86e6aa4c91b)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (重要)
 </td>
@@ -310,31 +310,31 @@ Windows XP
 Windows XP Service Pack 2 及 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 與 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=d313f42c-f43f-48ea-82ef-3bc33077c7fa)  
+[Windows XP Service Pack 2 與 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=d313f42c-f43f-48ea-82ef-3bc33077c7fa)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=69af2f30-138e-4b15-ab8d-4fce44cc0bc2)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=69af2f30-138e-4b15-ab8d-4fce44cc0bc2)  
 (重大)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=8e2125c7-52cb-4052-82a3-2d3c6a953752)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=8e2125c7-52cb-4052-82a3-2d3c6a953752)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 與 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=01a34aa4-a456-4efc-a93a-c3c682b0181c)  
+[Windows XP Service Pack 2 與 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=01a34aa4-a456-4efc-a93a-c3c682b0181c)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=91469f2f-461c-4a67-8738-d42520427f6b)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=91469f2f-461c-4a67-8738-d42520427f6b)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=8f588f7e-c4ed-42a0-b157-54b1eda60474)  
+[Windows Messenger 4.7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=8f588f7e-c4ed-42a0-b157-54b1eda60474)  
 (KB946648)  
 (重要)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (重要)
 </td>
@@ -344,31 +344,31 @@ Windows XP Service Pack 2 及 Windows XP Service Pack 3
 Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=3150c6b8-f50b-4b84-a7ce-c8daf77c080c)  
+[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=3150c6b8-f50b-4b84-a7ce-c8daf77c080c)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=4780b89e-9735-4d3f-8def-34e7337ff604)  
+[Microsoft Internet Explorer 6 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=4780b89e-9735-4d3f-8def-34e7337ff604)  
 (重大)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=39b41e4b-3237-409d-a818-ab0517c5e7cf)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=39b41e4b-3237-409d-a818-ab0517c5e7cf)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=246b2686-e330-47a2-b4d4-68f218ad4021)  
+[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=246b2686-e330-47a2-b4d4-68f218ad4021)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=2220aece-79d2-426f-90ec-24a17470567a)  
+[Microsoft Outlook Express 6 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=2220aece-79d2-426f-90ec-24a17470567a)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=a5fc5457-832f-4ee8-be60-4cc8518d1c10)  
+[Windows Messenger 4.7 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=a5fc5457-832f-4ee8-be60-4cc8518d1c10)  
 (KB946648)  
 (重要)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (重要)
 </td>
@@ -429,31 +429,31 @@ Windows Server 2003
 Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=828d8fdc-8534-4621-85a5-08aec255496f)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=828d8fdc-8534-4621-85a5-08aec255496f)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=0617a5dd-dce9-4de0-b0a0-ce38efe13524)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=0617a5dd-dce9-4de0-b0a0-ce38efe13524)  
 (重大)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=b3c2e2fd-1cb9-491b-937c-053dd59a65bf)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=b3c2e2fd-1cb9-491b-937c-053dd59a65bf)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=92a3d08f-c117-4b24-bc78-2b913d270df6)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=92a3d08f-c117-4b24-bc78-2b913d270df6)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=30f2244a-f6fd-4fc1-a871-abf6958cb660)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=30f2244a-f6fd-4fc1-a871-abf6958cb660)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=302315a8-ccb2-47c2-9104-b8e1d1f49aa0)  
+[Windows Messenger 4.7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=302315a8-ccb2-47c2-9104-b8e1d1f49aa0)  
 (KB954723)  
 (中度)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (中度)
 </td>
@@ -463,31 +463,31 @@ Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0a13776f-d543-41df-b904-d51e368c81cc)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0a13776f-d543-41df-b904-d51e368c81cc)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=32a63f52-9fe6-48e3-bb4e-7d4dda5e0a90)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=32a63f52-9fe6-48e3-bb4e-7d4dda5e0a90)  
 (重大)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=88a26b76-f7df-45c9-8ed0-7d3cd71c1987)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=88a26b76-f7df-45c9-8ed0-7d3cd71c1987)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows 2003 Server x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=6bfbb6d8-5106-4adf-83cb-35ffc6e8eaf8)  
+[Windows Server 2003 x64 Edition 和 Windows 2003 Server x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=6bfbb6d8-5106-4adf-83cb-35ffc6e8eaf8)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=3287f006-cbb2-4c6d-820c-32833e08035a)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=3287f006-cbb2-4c6d-820c-32833e08035a)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=be94d138-7d7b-489e-baa6-e214950be6b9)  
+[Windows Messenger 4.7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=be94d138-7d7b-489e-baa6-e214950be6b9)  
 (KB954723)  
 (中度)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (中度)
 </td>
@@ -497,31 +497,31 @@ Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack
 Windows Server 2003 SP1 for Itanium-based Systems 和 Windows Server 2003 SP2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2(英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=9566493f-4260-4072-947a-527887d2cd63)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2(英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=9566493f-4260-4072-947a-527887d2cd63)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=1855997e-a3be-46b1-a0bc-bb55eb0045fe)  
+[Microsoft Internet Explorer 6 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=1855997e-a3be-46b1-a0bc-bb55eb0045fe)  
 (重大)  
-[Windows Internet Explorer 7 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=97d0d37d-5d76-4bc3-8cbd-1e3976c82acf)  
+[Windows Internet Explorer 7 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=97d0d37d-5d76-4bc3-8cbd-1e3976c82acf)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=45356565-697f-41b3-9879-3edd11dbcb7e)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=45356565-697f-41b3-9879-3edd11dbcb7e)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=c8570e40-355b-4a9b-933d-53ae021cbda5)  
+[Microsoft Outlook Express 6 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=c8570e40-355b-4a9b-933d-53ae021cbda5)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
-[Windows Messenger 4.7 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=e4b72618-536b-4a21-bd91-d91be9ca24e5)  
+[Windows Messenger 4.7 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=e4b72618-536b-4a21-bd91-d91be9ca24e5)  
 (KB954723)  
 (中度)  
-[Windows Messenger 5.1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
+[Windows Messenger 5.1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774)  
 (KB899283)  
 (中度)
 </td>
@@ -585,19 +585,19 @@ Windows Vista 和 Windows Vista Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=13cba012-dd20-48f9-8e44-e4cb104c4cad)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=13cba012-dd20-48f9-8e44-e4cb104c4cad)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 和 Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=3f21a8a2-9861-4fef-9d1e-caf5f7822c1a)  
+[Windows Vista 和 Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=3f21a8a2-9861-4fef-9d1e-caf5f7822c1a)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 和 Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=6418c78f-f008-4028-beb1-5a5ea8e797a1)  
+[Windows Vista 和 Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=6418c78f-f008-4028-beb1-5a5ea8e797a1)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=3851bcf8-f971-4d38-b27f-97396854aac0)  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=3851bcf8-f971-4d38-b27f-97396854aac0)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -612,19 +612,19 @@ Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=ead919c2-d548-47b7-9cd6-80f991266428)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=ead919c2-d548-47b7-9cd6-80f991266428)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=aa04a754-fbfb-42a7-89d2-14373e3f4742)  
+[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=aa04a754-fbfb-42a7-89d2-14373e3f4742)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=e03ccfb0-3ea3-4c59-adcf-9882d7086013)  
+[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=e03ccfb0-3ea3-4c59-adcf-9882d7086013)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=3bf7eb8a-b347-4661-be2d-682adc713769)  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=3bf7eb8a-b347-4661-be2d-682adc713769)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -690,19 +690,19 @@ Windows Server 2008
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4b52ff2f-d2f5-4c20-b6cf-86d86c56b0f8)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4b52ff2f-d2f5-4c20-b6cf-86d86c56b0f8)\*\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=c3363df6-39dc-4910-9ce5-66553155378e)\*  
+[適用於 32 位元系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=c3363df6-39dc-4910-9ce5-66553155378e)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=0640f95e-1eee-4dd1-b4dd-2b82b7e984b9)\*  
+[適用於 32 位元系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=0640f95e-1eee-4dd1-b4dd-2b82b7e984b9)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=dc3c4b63-acd3-4469-8d47-e0562d99ee65)\*\*  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=dc3c4b63-acd3-4469-8d47-e0562d99ee65)\*\*  
 (輕微)
 </td>
 <td style="border:1px solid black;">
@@ -717,19 +717,19 @@ Windows Server 2008
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=df9814a6-5be0-4ac1-a767-a0eae8d5ee5d)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=df9814a6-5be0-4ac1-a767-a0eae8d5ee5d)\*\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=39dd1722-412b-469d-a475-b6513764838c)\*  
+[適用於 x64 型系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=39dd1722-412b-469d-a475-b6513764838c)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=51a93538-5e94-4f81-a6e0-d497a7b4899d)\*  
+[適用於 x64 型系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=51a93538-5e94-4f81-a6e0-d497a7b4899d)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=5f973f54-2322-4b41-8c1a-3e712c0da8ae)\*\*  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=5f973f54-2322-4b41-8c1a-3e712c0da8ae)\*\*  
 (輕微)
 </td>
 <td style="border:1px solid black;">
@@ -744,19 +744,19 @@ Windows Server 2008
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=ffc3cfcb-73fe-4a6d-9595-e9d7a5b3d3f7)  
+[Windows Internet Explorer 7 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=ffc3cfcb-73fe-4a6d-9595-e9d7a5b3d3f7)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=e9c6cd46-30ad-46ee-9c8b-d0b446e660c4)  
+[適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=e9c6cd46-30ad-46ee-9c8b-d0b446e660c4)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=390da130-749d-4890-aad7-be91e15b32bb)  
+[適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=390da130-749d-4890-aad7-be91e15b32bb)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Mail (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=9226cd85-1445-4976-a126-757c5d142ffd)  
+[Windows Mail (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=9226cd85-1445-4976-a126-757c5d142ffd)  
 (輕微)
 </td>
 <td style="border:1px solid black;">
@@ -847,7 +847,7 @@ Microsoft Works 8
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Works 8](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=458985c3-9c6f-4049-81cd-0d0389c81f11)  
+[Microsoft Works 8](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=458985c3-9c6f-4049-81cd-0d0389c81f11)  
 (KB955428)  
 (重要)
 </td>
@@ -860,22 +860,22 @@ Microsoft Works 8
 Microsoft Office 2000 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Access 2000 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=54e4031d-298f-480c-88d5-0ad3b2b62ba9)  
+[Microsoft Office Access 2000 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=54e4031d-298f-480c-88d5-0ad3b2b62ba9)  
 (KB955441)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Excel 2000 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4bf8688e-e5b9-4e53-a1a1-8cf1acfdb80b)  
+[Excel 2000 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4bf8688e-e5b9-4e53-a1a1-8cf1acfdb80b)  
 (KB951582)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2000 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=e7c044d8-778a-4985-b25b-4f7f6e4abadd)  
+[Microsoft Office PowerPoint 2000 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=e7c044d8-778a-4985-b25b-4f7f6e4abadd)  
 (KB949007)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2000 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=3ab323ec-9f92-453c-b7c7-9a95a9efcaea)  
+[Microsoft Office 2000 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=3ab323ec-9f92-453c-b7c7-9a95a9efcaea)  
 (KB921595)  
 (重大)
 </td>
@@ -888,27 +888,27 @@ Microsoft Office 2000 Service Pack 3
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Access 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=34b655f8-1922-4246-94ca-ed381c3e3b13)  
+[Microsoft Office Access 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=34b655f8-1922-4246-94ca-ed381c3e3b13)  
 (KB955440)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Excel 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=9bbf7550-f5c4-4b9b-bd86-1e7be6c42eb5)  
+[Excel 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=9bbf7550-f5c4-4b9b-bd86-1e7be6c42eb5)  
 (KB951551)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=f8921074-7985-4d42-ac2b-d2f3b1d466ba)  
+[Microsoft Office PowerPoint 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=f8921074-7985-4d42-ac2b-d2f3b1d466ba)  
 (KB948995)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=bf566ce6-23da-45e5-9c2b-c47331d30e79)  
+[Microsoft Office XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=bf566ce6-23da-45e5-9c2b-c47331d30e79)  
 (KB921596)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=c7146dfc-e1be-4d13-877b-1d9bcacc4a64)  
+[Microsoft Word 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=c7146dfc-e1be-4d13-877b-1d9bcacc4a64)  
 (KB954463)  
 (重要)
 </td>
@@ -918,36 +918,36 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 2 和 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Access 2003 Service Pack 2 和 Microsoft Office Access 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fd698517-a504-427d-9e5f-fde8f102142c)  
+[Microsoft Office Access 2003 Service Pack 2 和 Microsoft Office Access 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fd698517-a504-427d-9e5f-fde8f102142c)  
 (KB955439)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Excel 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fc612e9a-bdf3-4952-8ada-0de5a50973f0)  
+[Excel 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fc612e9a-bdf3-4952-8ada-0de5a50973f0)  
 (KB951548)  
 (重要)  
-[Excel 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fc612e9a-bdf3-4952-8ada-0de5a50973f0)  
+[Excel 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fc612e9a-bdf3-4952-8ada-0de5a50973f0)  
 (KB951548)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=7a7c21f0-5e0e-4dee-9710-1ce3d565913f)  
+[Microsoft Office PowerPoint 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=7a7c21f0-5e0e-4dee-9710-1ce3d565913f)  
 (KB948988)  
 (重要)  
-[Microsoft Office PowerPoint 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=7a7c21f0-5e0e-4dee-9710-1ce3d565913f)  
+[Microsoft Office PowerPoint 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=7a7c21f0-5e0e-4dee-9710-1ce3d565913f)  
 (KB948988)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=e0df2f6e-1102-461d-829f-5f3e2d7eb4b3)  
+[Microsoft Office 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=e0df2f6e-1102-461d-829f-5f3e2d7eb4b3)  
 (KB921598)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=13a37b76-9fec-426f-8176-3c95f934efe0)  
+[Microsoft Word 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=13a37b76-9fec-426f-8176-3c95f934efe0)  
 (KB954464)  
 (重要)  
-[Microsoft Word 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=13a37b76-9fec-426f-8176-3c95f934efe0)  
+[Microsoft Word 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=13a37b76-9fec-426f-8176-3c95f934efe0)  
 (KB954464)  
 (重要)
 </td>
@@ -960,18 +960,18 @@ Microsoft Office 2003 Service Pack 2 和 Microsoft Office 2003 Service Pack 3
 不適用
 </td>
 <td style="border:1px solid black;">
-[Excel 2007](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=2753e8d6-e156-49ef-af2d-4c521c808ffd)  
+[Excel 2007](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=2753e8d6-e156-49ef-af2d-4c521c808ffd)  
 (KB951546)  
 (重要)  
-[Excel 2007 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=2753e8d6-e156-49ef-af2d-4c521c808ffd)  
+[Excel 2007 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=2753e8d6-e156-49ef-af2d-4c521c808ffd)  
 (KB951546)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2007](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=55fd618a-e9c5-4f1e-b9a5-b2e47ec98ef1)  
+[Microsoft Office PowerPoint 2007](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=55fd618a-e9c5-4f1e-b9a5-b2e47ec98ef1)  
 (KB951338)  
 (重要)  
-[Microsoft Office PowerPoint 2007 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=55fd618a-e9c5-4f1e-b9a5-b2e47ec98ef1)  
+[Microsoft Office PowerPoint 2007 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=55fd618a-e9c5-4f1e-b9a5-b2e47ec98ef1)  
 (KB951338)  
 (重要)
 </td>
@@ -1041,7 +1041,7 @@ Microsoft Office Project 2002
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Project 2002 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=bf566ce6-23da-45e5-9c2b-c47331d30e79)  
+[Microsoft Project 2002 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=bf566ce6-23da-45e5-9c2b-c47331d30e79)  
 (KB921596)  
 (重要)
 </td>
@@ -1080,7 +1080,7 @@ Microsoft Office PowerPoint Viewer 2003
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint Viewer 2003](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=911c8872-dec8-4b8e-9708-93dcabd3e036)  
+[Microsoft Office PowerPoint Viewer 2003](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=911c8872-dec8-4b8e-9708-93dcabd3e036)  
 (KB949041)  
 (重要)
 </td>
@@ -1099,10 +1099,10 @@ Microsoft Office Excel Viewer 和 Microsoft Office Excel Viewer 2003 Service Pac
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 2003](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=d7ed9e75-15f2-4950-98b3-93023ba0f4c1)  
+[Microsoft Office Excel Viewer 2003](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=d7ed9e75-15f2-4950-98b3-93023ba0f4c1)  
 (KB951589)  
 (重要)  
-[Microsoft Office Excel Viewer 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=d7ed9e75-15f2-4950-98b3-93023ba0f4c1)  
+[Microsoft Office Excel Viewer 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=d7ed9e75-15f2-4950-98b3-93023ba0f4c1)  
 (KB951589)  
 (重要)
 </td>
@@ -1124,7 +1124,7 @@ Microsoft Office Excel Viewer
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=b574d906-7f09-49b0-80bf-e84dee8c4583)  
+[Microsoft Office Excel Viewer](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=b574d906-7f09-49b0-80bf-e84dee8c4583)  
 (KB955472)  
 (重要)
 </td>
@@ -1152,7 +1152,7 @@ Microsoft Office Converter Pack
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Converter Pack (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=199b08c7-6d79-4930-8f0c-31034629c485)  
+[Microsoft Office Converter Pack (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=199b08c7-6d79-4930-8f0c-31034629c485)  
 (KB925256)  
 (重要)
 </td>
@@ -1168,17 +1168,17 @@ Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Fo
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=7afdae9b-9c74-4af7-9844-0e54221ea3b9)  
+[Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=7afdae9b-9c74-4af7-9844-0e54221ea3b9)  
 (KB951596)  
 (重要)  
-[Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=7afdae9b-9c74-4af7-9844-0e54221ea3b9)  
+[Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=7afdae9b-9c74-4af7-9844-0e54221ea3b9)  
 (KB951596)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=84ce5d58-0010-4945-bce9-67a41f898f2f) (KB954038)  
+[Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=84ce5d58-0010-4945-bce9-67a41f898f2f) (KB954038)  
 (重要)  
-[Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=84ce5d58-0010-4945-bce9-67a41f898f2f) (KB954038)  
+[Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=84ce5d58-0010-4945-bce9-67a41f898f2f) (KB954038)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -1196,10 +1196,10 @@ Microsoft Office SharePoint Server 2007 和 Microsoft Office SharePoint Server 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a7731749-b026-4765-808a-e151b990f0e1)  
+[Microsoft Office SharePoint Server 2007](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a7731749-b026-4765-808a-e151b990f0e1)  
 (KB953397)  
 (重要)  
-[Microsoft Office SharePoint Server 2007 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a7731749-b026-4765-808a-e151b990f0e1)  
+[Microsoft Office SharePoint Server 2007 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a7731749-b026-4765-808a-e151b990f0e1)  
 (KB953397)  
 (重要)
 </td>
@@ -1221,10 +1221,10 @@ Microsoft Office SharePoint Server 2007 x64 Edition 和 Microsoft Office SharePo
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 x64 Edition](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fc95ab88-2d31-44e1-a702-7cb10e83695b)  
+[Microsoft Office SharePoint Server 2007 x64 Edition](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fc95ab88-2d31-44e1-a702-7cb10e83695b)  
 (KB953397)  
 (重要)  
-[Microsoft Office SharePoint Server 2007 x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fc95ab88-2d31-44e1-a702-7cb10e83695b)  
+[Microsoft Office SharePoint Server 2007 x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fc95ab88-2d31-44e1-a702-7cb10e83695b)  
 (KB953397)  
 (重要)
 </td>
@@ -1291,12 +1291,12 @@ Microsoft Office 2004 for Mac
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=ebd3af0c-3f62-4d18-bf45-881655683bd5)  
+[Microsoft Office 2004 for Mac (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=ebd3af0c-3f62-4d18-bf45-881655683bd5)  
 (KB956343)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=ebd3af0c-3f62-4d18-bf45-881655683bd5)  
+[Microsoft Office 2004 for Mac (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=ebd3af0c-3f62-4d18-bf45-881655683bd5)  
 (KB953824)  
 (重要)
 </td>
@@ -1315,7 +1315,7 @@ Microsoft Office 2008 for Mac
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=9515c70d-be80-4ade-856a-ea542f7d84e1)  
+[Microsoft Office 2008 for Mac (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=9515c70d-be80-4ade-856a-ea542f7d84e1)  
 (KB956344)  
 (重要)
 </td>
@@ -1367,7 +1367,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和應用程式相容性工具組**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署安全性更新的時間。 您可以使用 [Application Compatibility Toolkit 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式，簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署安全性更新的時間。 您可以使用 [Application Compatibility Toolkit 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式，簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 安全性更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

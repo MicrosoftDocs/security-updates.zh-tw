@@ -148,23 +148,23 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=88990b23-d37f-4d02-a5a3-2ee389ade53c">Microsoft Internet Explorer 5.01 Service Pack 4</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=88990b23-d37f-4d02-a5a3-2ee389ade53c">Microsoft Internet Explorer 5.01 Service Pack 4</a><br />
 (重要)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4c47cf8a-8100-4d43-855a-f225a3492b19">Microsoft Internet Explorer 6 Service Pack 1</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4c47cf8a-8100-4d43-855a-f225a3492b19">Microsoft Internet Explorer 6 Service Pack 1</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=65640123-a9e4-455c-a51a-9df28bd2d412">DirectX 7.0</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=65640123-a9e4-455c-a51a-9df28bd2d412">DirectX 7.0</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=c6a28d45-13cf-48c4-8f89-3417d552e90b">DirectX 8.1</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=c6a28d45-13cf-48c4-8f89-3417d552e90b">DirectX 8.1</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=4dc47e04-5e95-4636-a814-3f912d961461">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=4dc47e04-5e95-4636-a814-3f912d961461">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
 (重大)</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=cedfd988-232c-4cba-ac65-beb54b8946e0">Microsoft Windows 2000 Service Pack 4</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=cedfd988-232c-4cba-ac65-beb54b8946e0">Microsoft Windows 2000 Service Pack 4</a><br />
 (中度)</td>
 </tr>
 <tr class="even">
@@ -172,9 +172,9 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=aa8aa79f-c2cc-440c-9e5c-089143e6f814">Microsoft Windows 2000 Server Service Pack 4</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=aa8aa79f-c2cc-440c-9e5c-089143e6f814">Microsoft Windows 2000 Server Service Pack 4</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=53438880-9ea9-4975-9b85-2a1d3d232793">Active Directory</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=53438880-9ea9-4975-9b85-2a1d3d232793">Active Directory</a><br />
 (KB949014)<br />
 (重要)</td>
 <td style="border:1px solid black;">不適用</td>
@@ -210,20 +210,20 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2 及 Windows XP Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=980bb421-950f-4825-8039-44cc961a47b8">Windows XP Service Pack 2 及 Windows XP Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=980bb421-950f-4825-8039-44cc961a47b8">Windows XP Service Pack 2 及 Windows XP Service Pack 3</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=cc325017-3a48-4475-90e4-0c79a002fce3">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=cc325017-3a48-4475-90e4-0c79a002fce3">Microsoft Internet Explorer 6</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=fbc31bde-0bf5-490c-96a8-071310d9464a">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=fbc31bde-0bf5-490c-96a8-071310d9464a">Windows Internet Explorer 7</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=7aaa6427-1e22-4566-960c-836a3b9e5f36">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=7aaa6427-1e22-4566-960c-836a3b9e5f36">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
 (重大)</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=36b14a81-5979-4e38-9ba3-ed83dfc17adf">Windows XP Service Pack 2 及 Windows XP Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=36b14a81-5979-4e38-9ba3-ed83dfc17adf">Windows XP Service Pack 2 及 Windows XP Service Pack 3</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=2d8957c2-e473-4dca-8d68-19fdaea36e26">Windows XP Service Pack 2 及 Windows XP Service Pack 3</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=2d8957c2-e473-4dca-8d68-19fdaea36e26">Windows XP Service Pack 2 及 Windows XP Service Pack 3</a><br />
 (中度)</td>
 </tr>
 <tr class="even">
@@ -232,7 +232,7 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <td style="border:1px solid black;">(請參閱「Windows XP Service Pack 2 與 Windows XP Service Pack 3」這一列)</td>
 <td style="border:1px solid black;">(請參閱「Windows XP Service Pack 2 與 Windows XP Service Pack 3」這一列)</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=7d6aec31-cfb4-470c-983e-78c6a3ebabfe">ADAM</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=7d6aec31-cfb4-470c-983e-78c6a3ebabfe">ADAM</a><br />
 (KB949269)<br />
 (中度)</td>
 <td style="border:1px solid black;">(請參閱 Windows XP Service Pack 2 與 Windows XP Service Pack 3 這一列)</td>
@@ -240,22 +240,22 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=81ab56ca-933f-4974-a393-290a54c30a78">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=81ab56ca-933f-4974-a393-290a54c30a78">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c8783cfe-9da5-4842-ab3a-1e2be4fafc47">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c8783cfe-9da5-4842-ab3a-1e2be4fafc47">Microsoft Internet Explorer 6</a><br />
 (重大)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=19c0ccdc-95c9-4151-96b6-4f49b594ebe0">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=19c0ccdc-95c9-4151-96b6-4f49b594ebe0">Windows Internet Explorer 7</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5e8e7e9d-828d-442c-acac-8d91e80dfb36">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=5e8e7e9d-828d-442c-acac-8d91e80dfb36">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
 (重大)</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=ef2e0b48-1bde-4ccc-8f40-2918c2568b2b">ADAM</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=ef2e0b48-1bde-4ccc-8f40-2918c2568b2b">ADAM</a><br />
 (KB949269)<br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9e9d24ee-8183-428c-8067-168a8d85eaa1">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9e9d24ee-8183-428c-8067-168a8d85eaa1">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=62874096-7d17-4116-9795-4756e2fb6dae">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=62874096-7d17-4116-9795-4756e2fb6dae">Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2</a><br />
 (中度)</td>
 </tr>
 </tbody>
@@ -290,69 +290,69 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=286aada6-a358-41f1-b81a-8de39b9f908a">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=286aada6-a358-41f1-b81a-8de39b9f908a">Microsoft Internet Explorer 6</a><br />
 (中度)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=a1ae9ad2-8329-4c96-b950-7534b3287eaa">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=a1ae9ad2-8329-4c96-b950-7534b3287eaa">Windows Internet Explorer 7</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=2274ecb2-2802-47e2-84fd-6621fcb17758">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=2274ecb2-2802-47e2-84fd-6621fcb17758">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=08fc90d5-23aa-4327-8aef-16bc5170769d">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=08fc90d5-23aa-4327-8aef-16bc5170769d">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=a4aed117-3c76-4d80-b50e-8e07e2ef2f7d">Active Directory</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=a4aed117-3c76-4d80-b50e-8e07e2ef2f7d">Active Directory</a><br />
 (KB949014)<br />
 (中度)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0a983ffb-4f5a-4b78-9bf5-813dcc5df8d3">ADAM</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0a983ffb-4f5a-4b78-9bf5-813dcc5df8d3">ADAM</a><br />
 (KB949269)<br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=1e8e2faf-009f-403b-a5fe-a47cf014db3a">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=1e8e2faf-009f-403b-a5fe-a47cf014db3a">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=dadead99-09cb-4f2b-850d-e98a627cb9f8">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=dadead99-09cb-4f2b-850d-e98a627cb9f8">Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2</a><br />
 (輕微)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=6604569a-3db0-47e7-bd30-7dfba8145386">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=6604569a-3db0-47e7-bd30-7dfba8145386">Microsoft Internet Explorer 6</a><br />
 (中度)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=fb0c70b4-ce9f-43d6-875a-3cfd0d3a2681">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=fb0c70b4-ce9f-43d6-875a-3cfd0d3a2681">Windows Internet Explorer 7</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=5ba63bb7-ed6d-4c59-88b3-456eda07e190">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=5ba63bb7-ed6d-4c59-88b3-456eda07e190">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=71675ae8-d60a-4834-b358-2d8e761e62fc">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=71675ae8-d60a-4834-b358-2d8e761e62fc">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8298a6e4-d3e2-48ea-ac29-aa4dc5a8ec77">Active Directory</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8298a6e4-d3e2-48ea-ac29-aa4dc5a8ec77">Active Directory</a><br />
 (KB949014)<br />
 (中度)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=334252db-4a7a-4161-bb71-2a20c0b5bd93">ADAM</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=334252db-4a7a-4161-bb71-2a20c0b5bd93">ADAM</a><br />
 (KB949269)<br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=78bf92d8-63c4-4596-8425-8fcfea7f5582">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=78bf92d8-63c4-4596-8425-8fcfea7f5582">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=84f9b533-b0cb-46d1-b4a8-5c9469abbd22">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=84f9b533-b0cb-46d1-b4a8-5c9469abbd22">Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2</a><br />
 (輕微)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 SP1 for Itanium-based Systems 和 Windows Server 2003 SP2 for Itanium-based Systems</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0262beb8-1eb5-4c2d-a50a-0c6c6e0c1f61">Microsoft Internet Explorer 6</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=0262beb8-1eb5-4c2d-a50a-0c6c6e0c1f61">Microsoft Internet Explorer 6</a><br />
 (中度)<br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=28d2913c-1c6b-4671-9892-de08698cd5a6">Windows Internet Explorer 7</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=28d2913c-1c6b-4671-9892-de08698cd5a6">Windows Internet Explorer 7</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=be71c002-2f64-49e9-9f4b-ba99c4f3caf6">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=be71c002-2f64-49e9-9f4b-ba99c4f3caf6">DirectX 9.0、DirectX 9.0b 或 DirectX 9.0c</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=87affdc9-d9fe-413c-af30-f3d3b671ec72">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=87affdc9-d9fe-413c-af30-f3d3b671ec72">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f6bf4b85-b91d-4378-a356-cd11f12cbbfd">Active Directory</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f6bf4b85-b91d-4378-a356-cd11f12cbbfd">Active Directory</a><br />
 (KB949014)<br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5b7e94fa-22ed-4f7c-b452-647b2e620113">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=5b7e94fa-22ed-4f7c-b452-647b2e620113">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
 (重要)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ac35ce19-d761-4529-9f55-1e1b5b2447ad">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ac35ce19-d761-4529-9f55-1e1b5b2447ad">適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
 (輕微)</td>
 </tr>
 </tbody>
@@ -386,32 +386,32 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Vista 和 Windows Vista Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=6524debe-be50-44d1-8543-af0bfaf086ad">Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=6524debe-be50-44d1-8543-af0bfaf086ad">Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=6d68b39d-157f-4c3d-ac76-bc5a9386db59">Windows Internet Explorer 7 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=6d68b39d-157f-4c3d-ac76-bc5a9386db59">Windows Internet Explorer 7 (中文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4d4b305b-57f8-448d-92fa-3dcdd1f42ed7">DirectX 10.0 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4d4b305b-57f8-448d-92fa-3dcdd1f42ed7">DirectX 10.0 (中文下載更新程式)</a><br />
 (重大)</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=ef2d2a4b-4831-41be-b5d0-8df5b01fd205">Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=ef2d2a4b-4831-41be-b5d0-8df5b01fd205">Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4af6575e-b061-45a6-b3d8-ecb32d76b2d3">Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4af6575e-b061-45a6-b3d8-ecb32d76b2d3">Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)</a><br />
 (中度)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=6adee8b9-3455-4f3b-8bdd-2585c8ff83b8">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=6adee8b9-3455-4f3b-8bdd-2585c8ff83b8">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4cf92235-861e-4b74-bee3-8e977c8688d9">Windows Internet Explorer 7 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4cf92235-861e-4b74-bee3-8e977c8688d9">Windows Internet Explorer 7 (中文下載更新程式)</a><br />
 (重大)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b040cfad-2290-44f4-8f5a-5d1ed98a7265">DirectX 10.0 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b040cfad-2290-44f4-8f5a-5d1ed98a7265">DirectX 10.0 (中文下載更新程式)</a><br />
 (重大)</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0839fcf4-85ca-445e-896b-f634b10b6700">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0839fcf4-85ca-445e-896b-f634b10b6700">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=67576acb-9cb6-4c76-9a72-dc5e5556b658">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=67576acb-9cb6-4c76-9a72-dc5e5556b658">Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)</a><br />
 (中度)</td>
 </tr>
 </tbody>
@@ -446,55 +446,55 @@ Microsoft 也會提供資訊協助客戶排定每月安全性更新以及任何�
 <tr class="odd">
 <td style="border:1px solid black;">適用於 32 位元系統的 Windows Server 2008</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=a8922e7e-9264-4e09-b8ad-c5420fed8690">Windows Internet Explorer 7</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=a8922e7e-9264-4e09-b8ad-c5420fed8690">Windows Internet Explorer 7</a><br />
 (中度)<strong>**</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=c0c495f8-2a35-4638-a635-1e55dd15e062">DirectX 10.0</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=c0c495f8-2a35-4638-a635-1e55dd15e062">DirectX 10.0</a><br />
 (重大)<strong>**</strong></td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=2981156e-2e2f-469e-91be-da127d50f3fc">Active Directory</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=2981156e-2e2f-469e-91be-da127d50f3fc">Active Directory</a><br />
 (KB949014)<br />
 (中度)<strong>*</strong><br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=2981156e-2e2f-469e-91be-da127d50f3fc">AD LDS</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=2981156e-2e2f-469e-91be-da127d50f3fc">AD LDS</a><br />
 (KB949014)<br />
 (中度)<strong>*</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0466a6e7-fdca-4647-af62-449e5f20d1e4">適用於 32 位元系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0466a6e7-fdca-4647-af62-449e5f20d1e4">適用於 32 位元系統的 Windows Server 2008</a><br />
 (中度)<strong>**</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=8a507fba-8c93-4952-91e4-98e9e7affbd2">適用於 32 位元系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=8a507fba-8c93-4952-91e4-98e9e7affbd2">適用於 32 位元系統的 Windows Server 2008</a><br />
 (輕微)<strong>*</strong></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">適用於 x64 系統的 Windows Server 2008</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=05b0e838-24d7-4387-b069-2604bbcc43b9">Windows Internet Explorer 7</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=05b0e838-24d7-4387-b069-2604bbcc43b9">Windows Internet Explorer 7</a><br />
 (中度)<strong>**</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=0b70fc2e-4e80-4ae8-8682-41ea04c24e4e">DirectX 10.0</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=0b70fc2e-4e80-4ae8-8682-41ea04c24e4e">DirectX 10.0</a><br />
 (重大)<strong>**</strong></td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b5cfe6f4-c5ba-4be9-a6b8-9381c40c85aa">Active Directory</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b5cfe6f4-c5ba-4be9-a6b8-9381c40c85aa">Active Directory</a><br />
 (KB949014)<br />
 (中度)<strong>*</strong><br />
 <br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=b5cfe6f4-c5ba-4be9-a6b8-9381c40c85aa">AD LDS</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=b5cfe6f4-c5ba-4be9-a6b8-9381c40c85aa">AD LDS</a><br />
 (KB949014)<br />
 (中度)<strong>*</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=304898e6-21a7-476f-b9ed-7ac0d88a91e2">適用於 x64 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=304898e6-21a7-476f-b9ed-7ac0d88a91e2">適用於 x64 型系統的 Windows Server 2008</a><br />
 (中度)<strong>**</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=1a11499d-a008-407f-9084-a5189fa27015">適用於 x64 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=1a11499d-a008-407f-9084-a5189fa27015">適用於 x64 型系統的 Windows Server 2008</a><br />
 (輕微)<strong>*</strong></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">適用於 Itanium 系統的 Windows Server 2008</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=640e1865-ebcc-4d69-a770-fd360020da1e">Windows Internet Explorer 7</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=640e1865-ebcc-4d69-a770-fd360020da1e">Windows Internet Explorer 7</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=80ec83e0-cfb8-4a5e-9254-6679a7225b83">DirectX 10.0</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=80ec83e0-cfb8-4a5e-9254-6679a7225b83">DirectX 10.0</a><br />
 (重大)</td>
 <td style="border:1px solid black;">不適用</td>
 <td style="border:1px solid black;">不適用</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8907783b-e3fe-40b2-9fc8-4937e7d58b7e">適用於 Itanium 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8907783b-e3fe-40b2-9fc8-4937e7d58b7e">適用於 Itanium 型系統的 Windows Server 2008</a><br />
 (中度)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=59b1689c-e723-4d87-973e-4beac107a6f7">適用於 Itanium 型系統的 Windows Server 2008</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=59b1689c-e723-4d87-973e-4beac107a6f7">適用於 Itanium 型系統的 Windows Server 2008</a><br />
 (輕微)</td>
 </tr>
 </tbody>

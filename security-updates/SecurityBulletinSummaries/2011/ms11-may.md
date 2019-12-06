@@ -139,7 +139,7 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0d289146-8470-45dd-a886-d1b35a2c6d4b)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0d289146-8470-45dd-a886-d1b35a2c6d4b)  
 (重大)
 </td>
 </tr>
@@ -148,7 +148,7 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0d3e85a9-42ff-447b-ab8c-095a1c0b224c)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0d3e85a9-42ff-447b-ab8c-095a1c0b224c)  
 (重大)
 </td>
 </tr>
@@ -157,7 +157,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 適用於 Itanium 型系統的 Windows Server 2003 SP2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=4c388fe8-883a-4118-a7ff-50f1e9d0a071)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=4c388fe8-883a-4118-a7ff-50f1e9d0a071)  
 (重大)
 </td>
 </tr>
@@ -187,7 +187,7 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9019a3ff-d953-4b0b-8c7a-05aa9cf65c92)\*  
+[適用於 32 位元系統的 Windows Server 2008 和適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9019a3ff-d953-4b0b-8c7a-05aa9cf65c92)\*  
 (重大)
 </td>
 </tr>
@@ -196,7 +196,7 @@ Windows Server 2008
 適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=841130fa-4522-4079-b7eb-f8466ac3ef12)\*  
+[適用於 x64 型系統的 Windows Server 2008 和適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=841130fa-4522-4079-b7eb-f8466ac3ef12)\*  
 (重大)
 </td>
 </tr>
@@ -226,7 +226,7 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=8732b41e-2f25-4ee1-a8b7-a8b8b9e22d08)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=8732b41e-2f25-4ee1-a8b7-a8b8b9e22d08)\*  
 (重大)
 </td>
 </tr>
@@ -273,7 +273,7 @@ Microsoft Office 套件和元件
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=2e8a30ac-bcfe-4535-8ceb-723c25b43d5f)  
+[Microsoft PowerPoint 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=2e8a30ac-bcfe-4535-8ceb-723c25b43d5f)  
 (KB2535802)  
 (重要)
 </td>
@@ -283,7 +283,7 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=fc1cfcac-64cc-484a-97f2-3dcfe84cfdcd)  
+[Microsoft PowerPoint 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=fc1cfcac-64cc-484a-97f2-3dcfe84cfdcd)  
 (KB2535812)  
 (重要)
 </td>
@@ -293,7 +293,7 @@ Microsoft Office 2003 Service Pack 3
 Microsoft Office 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9a181739-709a-4c0d-a97f-f9891c45c04c)<sup>[1]</sup>
+[Microsoft PowerPoint 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9a181739-709a-4c0d-a97f-f9891c45c04c)<sup>[1]</sup>
 (KB2535818)  
 (重要)
 </td>
@@ -372,7 +372,7 @@ Open XML File Format Converter for Mac<sup>[2]</sup>
 Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Word、Excel 與 PowerPoint 2007 檔案格式的 Microsoft Office 相容性套件 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5be09069-1cac-4b1e-ac94-4fb7024fb4ac)  
+[Word、Excel 與 PowerPoint 2007 檔案格式的 Microsoft Office 相容性套件 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5be09069-1cac-4b1e-ac94-4fb7024fb4ac)  
 (KB2540162)  
 (重要)
 </td>
@@ -431,7 +431,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和 Application Compatibility Toolkit**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

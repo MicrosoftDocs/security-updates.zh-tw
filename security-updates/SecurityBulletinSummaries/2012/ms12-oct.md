@@ -277,7 +277,7 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=6aa1e4b3-273a-49ff-8086-0d2c16dd14f3)   
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=6aa1e4b3-273a-49ff-8086-0d2c16dd14f3)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -295,7 +295,7 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3c509cc0-63a1-4cc7-b7f9-cc9f0f12b378)   
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3c509cc0-63a1-4cc7-b7f9-cc9f0f12b378)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -340,7 +340,7 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6c7dd00a-a983-477b-88b1-dc16f1b5e42a)   
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6c7dd00a-a983-477b-88b1-dc16f1b5e42a)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -358,7 +358,7 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=eaac4dae-62e6-4020-8b4d-a95e7e0e11f1)   
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=eaac4dae-62e6-4020-8b4d-a95e7e0e11f1)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -376,7 +376,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 適用於 Itanium 型系統的 Windows Server 2003 SP2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=315cc115-1496-471f-8887-f334a1ca8246)   
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=315cc115-1496-471f-8887-f334a1ca8246)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
@@ -417,7 +417,7 @@ Windows Vista
 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=828ca8a2-777c-4b41-8d97-caed894a37cb)   
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=828ca8a2-777c-4b41-8d97-caed894a37cb)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
@@ -431,7 +431,7 @@ Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=731d67dc-e028-42e4-8ef3-454f74835593)   
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=731d67dc-e028-42e4-8ef3-454f74835593)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
@@ -472,7 +472,7 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=526f786b-7aef-4a1f-b03d-587baadf3f5b)   
+[適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=526f786b-7aef-4a1f-b03d-587baadf3f5b)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -490,7 +490,7 @@ Windows Server 2008
 適用於 x64 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5697076c-541f-42b7-8dc3-e8bd4a25fda8)   
+[適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5697076c-541f-42b7-8dc3-e8bd4a25fda8)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
@@ -504,7 +504,7 @@ Windows Server 2008
 適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6216b875-c7a6-4d62-8062-49996ac7a478)   
+[適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6216b875-c7a6-4d62-8062-49996ac7a478)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
@@ -545,13 +545,13 @@ Windows 7
 適用於 32 位元系統的 Windows 7
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7](http://www.microsoft.com/downloads/details.aspx?familyid=593a29c3-c459-4a39-9f25-016a5268fc7d)   
+[適用於 32 位元系統的 Windows 7](https://www.microsoft.com/download/details.aspx?familyid=593a29c3-c459-4a39-9f25-016a5268fc7d)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7](http://www.microsoft.com/downloads/details.aspx?familyid=4ffa9c0e-26b1-4309-bfb4-fa5374f28d6c)   
+[適用於 32 位元系統的 Windows 7](https://www.microsoft.com/download/details.aspx?familyid=4ffa9c0e-26b1-4309-bfb4-fa5374f28d6c)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)
@@ -562,13 +562,13 @@ Windows 7
 適用於 32 位元系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=593a29c3-c459-4a39-9f25-016a5268fc7d)   
+[適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=593a29c3-c459-4a39-9f25-016a5268fc7d)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=4ffa9c0e-26b1-4309-bfb4-fa5374f28d6c)   
+[適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=4ffa9c0e-26b1-4309-bfb4-fa5374f28d6c)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)
@@ -579,7 +579,7 @@ Windows 7
 適用於 x64 型系統的 Windows 7
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7](http://www.microsoft.com/downloads/details.aspx?familyid=2d273f99-3460-4e84-9f2d-2a349bfc7ce6)   
+[適用於 x64 型系統的 Windows 7](https://www.microsoft.com/download/details.aspx?familyid=2d273f99-3460-4e84-9f2d-2a349bfc7ce6)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -589,7 +589,7 @@ Windows 7
 (中文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7](http://www.microsoft.com/downloads/details.aspx?familyid=d5584b7d-434f-49fc-9c30-ef16c40d475f)   
+[適用於 x64 型系統的 Windows 7](https://www.microsoft.com/download/details.aspx?familyid=d5584b7d-434f-49fc-9c30-ef16c40d475f)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)  
@@ -604,13 +604,13 @@ Windows 7
 適用於 x64 型系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=2d273f99-3460-4e84-9f2d-2a349bfc7ce6)   
+[適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=2d273f99-3460-4e84-9f2d-2a349bfc7ce6)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=d5584b7d-434f-49fc-9c30-ef16c40d475f)   
+[適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=d5584b7d-434f-49fc-9c30-ef16c40d475f)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)
@@ -648,7 +648,7 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f)   
+[適用於 x64 型系統的 Windows Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -658,7 +658,7 @@ Windows Server 2008 R2
 (中文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897)   
+[適用於 x64 型系統的 Windows Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)  
@@ -673,13 +673,13 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f)   
+[適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897)   
+[適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)
@@ -690,13 +690,13 @@ Windows Server 2008 R2
 適用於 Itanium 型系統的 Windows Server 2008 R2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=ded1f351-022a-463c-9f5f-84b6081e6173)   
+[適用於 Itanium 型系統的 Windows Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=ded1f351-022a-463c-9f5f-84b6081e6173)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=7dc47f1d-8af8-4f31-9f96-3ae226632723)   
+[適用於 Itanium 型系統的 Windows Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=7dc47f1d-8af8-4f31-9f96-3ae226632723)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)  
@@ -711,13 +711,13 @@ Windows Server 2008 R2
 適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ded1f351-022a-463c-9f5f-84b6081e6173)   
+[適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ded1f351-022a-463c-9f5f-84b6081e6173)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7dc47f1d-8af8-4f31-9f96-3ae226632723)   
+[適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7dc47f1d-8af8-4f31-9f96-3ae226632723)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)
@@ -755,7 +755,7 @@ Server Core 安裝選項
 適用於 32 位元系統的 Windows Server 2008 Service Pack 2 (Server Core 安裝)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=526f786b-7aef-4a1f-b03d-587baadf3f5b) (Server Core 安裝)   
+[適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=526f786b-7aef-4a1f-b03d-587baadf3f5b) (Server Core 安裝)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
@@ -769,7 +769,7 @@ Server Core 安裝選項
 適用於 x64 型系統的 Windows Server 2008 Service Pack 2 (Server Core 安裝)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5697076c-541f-42b7-8dc3-e8bd4a25fda8) (Server Core 安裝)   
+[適用於 x64 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5697076c-541f-42b7-8dc3-e8bd4a25fda8) (Server Core 安裝)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -787,7 +787,7 @@ Server Core 安裝選項
 適用於 x64 型系統的 Windows Server 2008 R2 (Server Core 安裝)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f) (Server Core 安裝)   
+[適用於 x64 型系統的 Windows Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f) (Server Core 安裝)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)  
@@ -797,7 +797,7 @@ Server Core 安裝選項
 (中文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2](http://www.microsoft.com/downloads/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897) (Server Core 安裝)   
+[適用於 x64 型系統的 Windows Server 2008 R2](https://www.microsoft.com/download/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897) (Server Core 安裝)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)  
@@ -812,13 +812,13 @@ Server Core 安裝選項
 適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1 (Server Core 安裝)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f) (Server Core 安裝)   
+[適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f) (Server Core 安裝)   
 (KB2724197)  
 (重要)  
 (英文下載更新程式)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897) (Server Core 安裝)   
+[適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897) (Server Core 安裝)   
 (KB2743555)  
 (重要)  
 (英文下載更新程式)
@@ -870,7 +870,7 @@ Microsoft Office 套件和元件
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=e49eadec-0fe1-43ce-9c25-a92aad17d940)   
+[Microsoft Word 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=e49eadec-0fe1-43ce-9c25-a92aad17d940)   
 (KB2687483)  
 (重要)  
 (英文下載更新程式)  
@@ -891,7 +891,7 @@ Microsoft Office 2003 Service Pack 3
 Microsoft Office 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=be58b650-ee4f-405e-ab3c-c28aca48345b)<sup>[1]</sup>   
+[Microsoft Word 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=be58b650-ee4f-405e-ab3c-c28aca48345b)<sup>[1]</sup>   
 (KB2687315)  
 (重大)  
 (英文下載更新程式)
@@ -908,7 +908,7 @@ Microsoft Office 2007 Service Pack 2
 Microsoft Office 2007 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2007 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=be58b650-ee4f-405e-ab3c-c28aca48345b)<sup>[1]</sup>   
+[Microsoft Word 2007 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=be58b650-ee4f-405e-ab3c-c28aca48345b)<sup>[1]</sup>   
 (KB2687315)  
 (重大)  
 (英文下載更新程式)
@@ -925,7 +925,7 @@ Microsoft Office 2007 Service Pack 3
 Microsoft Office 2010 Service Pack 1 (32 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2010 Service Pack 1 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=27e07115-d569-438c-b95f-203e444d4408)   
+[Microsoft Word 2010 Service Pack 1 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=27e07115-d569-438c-b95f-203e444d4408)   
 (KB2553488)  
 (重大)  
 (英文下載更新程式)  
@@ -946,7 +946,7 @@ Microsoft Office 2010 Service Pack 1 (32 位元版本)
 Microsoft Office 2010 Service Pack 1 (64 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2010 Service Pack 1 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=30f9efac-3ecd-48a6-adcf-922f4d4d18d4)   
+[Microsoft Word 2010 Service Pack 1 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=30f9efac-3ecd-48a6-adcf-922f4d4d18d4)   
 (KB2553488)  
 (重大)  
 (英文下載更新程式)
@@ -996,7 +996,7 @@ Microsoft Office 2010 Service Pack 1 (64 位元版本)
 Microsoft Word Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=1e392ff8-92e9-408d-bb14-1e0a6b4b6c9d)   
+[Microsoft Word Viewer](https://www.microsoft.com/download/details.aspx?familyid=1e392ff8-92e9-408d-bb14-1e0a6b4b6c9d)   
 (KB2687485)  
 (重要)  
 (英文下載更新程式)
@@ -1013,7 +1013,7 @@ Microsoft Word Viewer
 Microsoft Office 相容性套件 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 相容性套件 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=301446f7-991e-4abd-a06e-4a854f05ac84)   
+[Microsoft Office 相容性套件 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=301446f7-991e-4abd-a06e-4a854f05ac84)   
 (KB2687314)  
 (重要)  
 (英文下載更新程式)
@@ -1030,7 +1030,7 @@ Microsoft Office 相容性套件 Service Pack 2
 Microsoft Office 相容性套件 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 相容性套件 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=301446f7-991e-4abd-a06e-4a854f05ac84)   
+[Microsoft Office 相容性套件 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=301446f7-991e-4abd-a06e-4a854f05ac84)   
 (KB2687314)  
 (重要)  
 (英文下載更新程式)
@@ -1053,11 +1053,11 @@ Microsoft InfoPath 2007 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a0989a9f-3a7a-4343-9dd0-b2d694a0813b)   
+[Microsoft InfoPath 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a0989a9f-3a7a-4343-9dd0-b2d694a0813b)   
 (KB2687439)  
 (重要)  
 (英文下載更新程式)  
-[Microsoft InfoPath 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=29330e1a-6bac-4c54-98ef-b9a831801247)   
+[Microsoft InfoPath 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=29330e1a-6bac-4c54-98ef-b9a831801247)   
 (KB2687440)  
 (重要)  
 (英文下載更新程式)
@@ -1074,11 +1074,11 @@ Microsoft InfoPath 2007 Service Pack 3
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2007 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=a0989a9f-3a7a-4343-9dd0-b2d694a0813b)   
+[Microsoft InfoPath 2007 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=a0989a9f-3a7a-4343-9dd0-b2d694a0813b)   
 (KB2687439)  
 (重要)  
 (英文下載更新程式)  
-[Microsoft InfoPath 2007 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=29330e1a-6bac-4c54-98ef-b9a831801247)   
+[Microsoft InfoPath 2007 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=29330e1a-6bac-4c54-98ef-b9a831801247)   
 (KB2687440)  
 (重要)  
 (英文下載更新程式)
@@ -1095,11 +1095,11 @@ Microsoft InfoPath 2010 Service Pack 1 (32 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2010 Service Pack 1 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=724b12b9-84bf-4102-912e-56aa9ee0878c)   
+[Microsoft InfoPath 2010 Service Pack 1 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=724b12b9-84bf-4102-912e-56aa9ee0878c)   
 (KB2687436)  
 (重要)  
 (英文下載更新程式)  
-[Microsoft InfoPath 2010 Service Pack 1 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=b0be62c6-4eae-458e-8cf5-754742393e4c)   
+[Microsoft InfoPath 2010 Service Pack 1 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=b0be62c6-4eae-458e-8cf5-754742393e4c)   
 (KB2687417)  
 (重要)  
 (英文下載更新程式)
@@ -1116,11 +1116,11 @@ Microsoft InfoPath 2010 Service Pack 1 (64 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2010 Service Pack 1 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=17b36fa3-9964-480a-bff8-b028619c5dfd)   
+[Microsoft InfoPath 2010 Service Pack 1 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=17b36fa3-9964-480a-bff8-b028619c5dfd)   
 (KB2687436)  
 (重要)  
 (英文下載更新程式)  
-[Microsoft InfoPath 2010 Service Pack 1 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=6e5a7817-345e-4b75-aeca-94f74691c0e0)   
+[Microsoft InfoPath 2010 Service Pack 1 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=6e5a7817-345e-4b75-aeca-94f74691c0e0)   
 (KB2687417)  
 (重要)  
 (英文下載更新程式)
@@ -1134,7 +1134,7 @@ Microsoft Works 9
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Works 9](http://www.microsoft.com/downloads/details.aspx?familyid=7e48cd96-4b91-4f7b-b8a0-2b88131ba51d)   
+[Microsoft Works 9](https://www.microsoft.com/download/details.aspx?familyid=7e48cd96-4b91-4f7b-b8a0-2b88131ba51d)   
 (KB2754670)  
 (重要)  
 (英文下載更新程式)
@@ -1201,7 +1201,7 @@ Microsoft SharePoint Server 2007 Service Pack 2 (32 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2007 Service Pack 2 (coreserver) (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=a8a818bb-67a3-4558-aac1-aaa33c6f4584)<sup>[1]</sup>   
+[Microsoft SharePoint Server 2007 Service Pack 2 (coreserver) (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=a8a818bb-67a3-4558-aac1-aaa33c6f4584)<sup>[1]</sup>   
 (KB2687405)  
 (重要)  
 (英文下載更新程式)  
@@ -1222,7 +1222,7 @@ Microsoft SharePoint Server 2007 Service Pack 3 (32 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2007 Service Pack 3 (coreserver) (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=a8a818bb-67a3-4558-aac1-aaa33c6f4584)<sup>[1]</sup>   
+[Microsoft SharePoint Server 2007 Service Pack 3 (coreserver) (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=a8a818bb-67a3-4558-aac1-aaa33c6f4584)<sup>[1]</sup>   
 (KB2687405)  
 (重要)  
 (英文下載更新程式)  
@@ -1243,7 +1243,7 @@ Microsoft SharePoint Server 2007 Service Pack 2 (64 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2007 Service Pack 2 (coreserver) (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=93f4e385-880a-4edc-9cde-24f38a11a41d)<sup>[1]</sup>   
+[Microsoft SharePoint Server 2007 Service Pack 2 (coreserver) (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=93f4e385-880a-4edc-9cde-24f38a11a41d)<sup>[1]</sup>   
 (KB2687405)  
 (重要)  
 (英文下載更新程式)  
@@ -1264,7 +1264,7 @@ Microsoft SharePoint Server 2007 Service Pack 3 (64 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2007 Service Pack 3 (coreserver) (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=93f4e385-880a-4edc-9cde-24f38a11a41d)<sup>[1]</sup>   
+[Microsoft SharePoint Server 2007 Service Pack 3 (coreserver) (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=93f4e385-880a-4edc-9cde-24f38a11a41d)<sup>[1]</sup>   
 (KB2687405)  
 (重要)  
 (英文下載更新程式)
@@ -1278,16 +1278,16 @@ Microsoft SharePoint Server 2007 Service Pack 3 (64 位元版本)
 Microsoft SharePoint Server 2010 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Word Automation Services](http://www.microsoft.com/downloads/details.aspx?familyid=3582ab6c-930b-4660-afcd-e2423ce56d8f)   
+[Word Automation Services](https://www.microsoft.com/download/details.aspx?familyid=3582ab6c-930b-4660-afcd-e2423ce56d8f)   
 (KB2598237)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2010 Service Pack 1 (wosrv)](http://www.microsoft.com/downloads/details.aspx?familyid=af3ade8e-349f-4eec-a5c3-c5a70071582d)   
+[Microsoft SharePoint Server 2010 Service Pack 1 (wosrv)](https://www.microsoft.com/download/details.aspx?familyid=af3ade8e-349f-4eec-a5c3-c5a70071582d)   
 (KB2687435)  
 (重要)  
 (英文下載更新程式)  
-[Microsoft SharePoint Server 2010 Service Pack 1 (coreserver)](http://www.microsoft.com/downloads/details.aspx?familyid=5518b70b-cac9-4aff-b049-156d3c08b04b)   
+[Microsoft SharePoint Server 2010 Service Pack 1 (coreserver)](https://www.microsoft.com/download/details.aspx?familyid=5518b70b-cac9-4aff-b049-156d3c08b04b)   
 (KB2589280)  
 (重要)  
 (英文下載更新程式)
@@ -1340,7 +1340,7 @@ Microsoft FAST Search Server 2010 for SharePoint
 不適用
 </td>
 <td style="border:1px solid black;">
-[Advanced Filter Pack](http://www.microsoft.com/downloads/details.aspx?familyid=17909d1f-c679-4a20-b39d-b99f9cc7dbc1)  
+[Advanced Filter Pack](https://www.microsoft.com/download/details.aspx?familyid=17909d1f-c679-4a20-b39d-b99f9cc7dbc1)  
 (KB2553402)  
 (重要)  
 (英文下載更新程式)
@@ -1387,7 +1387,7 @@ Microsoft Groove Server 2010 Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Groove Server 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=80552d2c-98f2-4c99-bfc6-e091fd1d51c4)   
+[Microsoft Groove Server 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=80552d2c-98f2-4c99-bfc6-e091fd1d51c4)   
 (KB2687402)  
 (重要)  
 (英文下載更新程式)  
@@ -1441,7 +1441,7 @@ Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=e3a31cd4-bba3-4572-ab24-7b1dd0c4c01c)   
+[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=e3a31cd4-bba3-4572-ab24-7b1dd0c4c01c)   
 (KB2687356)  
 (重要)  
 (英文下載更新程式)
@@ -1458,7 +1458,7 @@ Microsoft Windows SharePoint Services 3.0 Service Pack 3 (32 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 3.0 Service Pack 3 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=e3a31cd4-bba3-4572-ab24-7b1dd0c4c01c)   
+[Microsoft Windows SharePoint Services 3.0 Service Pack 3 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=e3a31cd4-bba3-4572-ab24-7b1dd0c4c01c)   
 (KB2687356)  
 (重要)  
 (英文下載更新程式)
@@ -1475,7 +1475,7 @@ Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=77cab67c-be97-4808-9fb4-4defad563851)   
+[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=77cab67c-be97-4808-9fb4-4defad563851)   
 (KB2687356)  
 (重要)  
 (英文下載更新程式)
@@ -1492,7 +1492,7 @@ Microsoft Windows SharePoint Services 3.0 Service Pack 3 (64 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 3.0 Service Pack 3 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=77cab67c-be97-4808-9fb4-4defad563851)   
+[Microsoft Windows SharePoint Services 3.0 Service Pack 3 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=77cab67c-be97-4808-9fb4-4defad563851)   
 (KB2687356)  
 (重要)  
 (英文下載更新程式)
@@ -1509,7 +1509,7 @@ Microsoft SharePoint Foundation 2010 Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Foundation 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=79724c7c-7cdf-44c9-9e25-577104c5004b)   
+[Microsoft SharePoint Foundation 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=79724c7c-7cdf-44c9-9e25-577104c5004b)   
 (KB2687434)  
 (重要)  
 (英文下載更新程式)
@@ -1556,14 +1556,14 @@ Microsoft Office Web Apps
 Microsoft Office Web Apps 2010 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Web Apps 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=e7a2dd61-36d5-4313-a8dc-15456b275b9c)   
+[Microsoft Office Web Apps 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=e7a2dd61-36d5-4313-a8dc-15456b275b9c)   
 (KB2687401)  
 (重要)  
 (英文下載更新程式)
 
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Web Apps 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=e7a2dd61-36d5-4313-a8dc-15456b275b9c)   
+[Microsoft Office Web Apps 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=e7a2dd61-36d5-4313-a8dc-15456b275b9c)   
 (KB2687401)  
 (重要)  
 (英文下載更新程式)  
@@ -1619,7 +1619,7 @@ Microsoft Communicator
 Microsoft Communicator 2007 R2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Communicator 2007 R2](http://www.microsoft.com/downloads/details.aspx?familyid=a228c1dd-9e57-48cb-8db4-896d6c499b46)   
+[Microsoft Communicator 2007 R2](https://www.microsoft.com/download/details.aspx?familyid=a228c1dd-9e57-48cb-8db4-896d6c499b46)   
 (KB2726391)  
 (重要)  
 (英文下載更新程式)  
@@ -1655,7 +1655,7 @@ Microsoft Lync
 Microsoft Lync 2010 (32 位元)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Lync 2010 (32 位元)](http://www.microsoft.com/downloads/details.aspx?familyid=6ea3afea-baa2-4b74-9747-8051c544ddf7)   
+[Microsoft Lync 2010 (32 位元)](https://www.microsoft.com/download/details.aspx?familyid=6ea3afea-baa2-4b74-9747-8051c544ddf7)   
 (KB2726382)  
 (重要)  
 (英文下載更新程式)
@@ -1666,7 +1666,7 @@ Microsoft Lync 2010 (32 位元)
 Microsoft Lync 2010 (64 位元)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Lync 2010 (64 位元)](http://www.microsoft.com/downloads/details.aspx?familyid=670c20e6-4f26-47b9-b6e0-25f195bf7000)   
+[Microsoft Lync 2010 (64 位元)](https://www.microsoft.com/download/details.aspx?familyid=670c20e6-4f26-47b9-b6e0-25f195bf7000)   
 (KB2726382)  
 (重要)  
 (英文下載更新程式)
@@ -1677,12 +1677,12 @@ Microsoft Lync 2010 (64 位元)
 Microsoft Lync 2010 Attendee
 </td>
 <td style="border:1px solid black;">
-[Microsoft Lync 2010 Attendee](http://www.microsoft.com/downloads/details.aspx?familyid=7f98cb55-027a-40bf-b539-d8fa38ffcc83)   
+[Microsoft Lync 2010 Attendee](https://www.microsoft.com/download/details.aspx?familyid=7f98cb55-027a-40bf-b539-d8fa38ffcc83)   
 (系統管理員層級安裝)  
 (KB2726388)  
 (重要)  
 (英文下載更新程式)  
-[Microsoft Lync 2010 Attendee](http://www.microsoft.com/downloads/details.aspx?familyid=32860684-998e-4e55-b719-c44532bc753d)<sup>[1]</sup>   
+[Microsoft Lync 2010 Attendee](https://www.microsoft.com/download/details.aspx?familyid=32860684-998e-4e55-b719-c44532bc753d)<sup>[1]</sup>   
 (使用者層級安裝)  
 (KB2726384)  
 (重要)  
@@ -1728,7 +1728,7 @@ SQL Server 2000
 Microsoft SQL Server 2000 Reporting Services Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Reporting Services Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1c70a2cb-e8a9-439f-b34a-7d1641daf325)   
+[Microsoft SQL Server 2000 Reporting Services Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1c70a2cb-e8a9-439f-b34a-7d1641daf325)   
 (KB983814)  
 (重要)  
 (英文下載更新程式)  
@@ -1764,7 +1764,7 @@ SQL Server 2005
 Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
 (GDR)  
 (KB2716429)  
 (重要)  
@@ -1774,7 +1774,7 @@ Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 (KB2716429)  
 (重要)  
 (中文下載更新程式)  
-[Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
 (QFE)  
 (KB2716427)  
 (重要)  
@@ -1791,12 +1791,12 @@ Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 適用於 32 位元系統的 Microsoft SQL Server 2005 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Microsoft SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
 (GDR)  
 (KB2716429)  
 (重要)  
 (英文下載更新程式)  
-[適用於 32 位元系統的 Microsoft SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
 (QFE)  
 (KB2716427)  
 (重要)  
@@ -1808,7 +1808,7 @@ Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 適用於 x64 型系統的 Microsoft SQL Server 2005 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Microsoft SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
 (GDR)  
 (KB2716429)  
 (重要)  
@@ -1819,7 +1819,7 @@ Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 (重要)
   
 (中文下載更新程式)  
-[適用於 x64 型系統的 Microsoft SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
 (QFE)  
 (KB2716427)  
 (重要)  
@@ -1837,12 +1837,12 @@ Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 適用於 Itanium 型系統的 Microsoft SQL Server 2005 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Microsoft SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
+[適用於 Itanium 型系統的 Microsoft SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
 (GDR)  
 (KB2716429)  
 (重要)  
 (英文下載更新程式)  
-[適用於 Itanium 型系統的 Microsoft SQL Server 2005 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
+[適用於 Itanium 型系統的 Microsoft SQL Server 2005 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
 (QFE)  
 (KB2716427)  
 (重要)  
@@ -1875,12 +1875,12 @@ SQL Server 2008
 適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
 (GDR)  
 (KB2716434)  
 (重要)  
 (英文下載更新程式)  
-[適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
 (QFE)  
 (KB2716433)  
 (重要)  
@@ -1892,12 +1892,12 @@ SQL Server 2008
 適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
 (GDR)  
 (KB2716436)  
 (重要)  
 (英文下載更新程式)  
-[適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2008 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
 (QFE)  
 (KB2716435)  
 (重要)  
@@ -1910,12 +1910,12 @@ SQL Server 2008
 適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
 (GDR)  
 (KB2716434)  
 (重要)  
 (英文下載更新程式)  
-[適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
 (QFE)  
 (KB2716433)  
 (重要)  
@@ -1927,7 +1927,7 @@ SQL Server 2008
 適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
 (GDR)  
 (KB2716436)  
 (重要)  
@@ -1937,7 +1937,7 @@ SQL Server 2008
 (KB2716436)  
 (重要)  
 (中文下載更新程式)  
-[適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
 (QFE)  
 (KB2716435)  
 (重要)  
@@ -1954,12 +1954,12 @@ SQL Server 2008
 適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
+[適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
 (GDR)  
 (KB2716434)  
 (重要)  
 (英文下載更新程式)  
-[適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
+[適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
 (QFE)  
 (KB2716433)  
 (重要)  
@@ -1972,12 +1972,12 @@ SQL Server 2008
 適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
+[適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
 (GDR)  
 (KB2716436)  
 (重要)  
 (英文下載更新程式)  
-[適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
+[適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
 (QFE)  
 (KB2716435)  
 (重要)  
@@ -2010,7 +2010,7 @@ SQL Server 2008 R2
 適用於 32 位元系統的 Microsoft SQL Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Microsoft SQL Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
 (GDR)  
 (KB2716440)  
 (重要)  
@@ -2020,7 +2020,7 @@ SQL Server 2008 R2
 (KB2716440)  
 (重要)  
 (中文下載更新程式)  
-[適用於 32 位元系統的 Microsoft SQL Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
 (QFE)  
 (KB2716439)  
 (重要)  
@@ -2037,12 +2037,12 @@ SQL Server 2008 R2
 適用於 x64 型系統的 Microsoft SQL Server 2008 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Microsoft SQL Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
 (GDR)  
 (KB2716440)  
 (重要)  
 (英文下載更新程式)  
-[適用於 x64 型系統的 Microsoft SQL Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
 (QFE)  
 (KB2716439)  
 (重要)  
@@ -2054,12 +2054,12 @@ SQL Server 2008 R2
 適用於 Itanium 型系統的 Microsoft SQL Server 2008 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Microsoft SQL Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
+[適用於 Itanium 型系統的 Microsoft SQL Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
 (GDR)  
 (KB2716440)  
 (重要)  
 (英文下載更新程式)  
-[適用於 Itanium 型系統的 Microsoft SQL Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
+[適用於 Itanium 型系統的 Microsoft SQL Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
 (QFE)  
 (KB2716439)  
 (重要)  
@@ -2092,12 +2092,12 @@ SQL Server 2012
 適用於 32 位元系統的 Microsoft SQL Server 2012
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Microsoft SQL Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=e79b4e5b-1549-4e76-afef-b771b432365b)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2012](https://www.microsoft.com/download/details.aspx?familyid=e79b4e5b-1549-4e76-afef-b771b432365b)<sup>[1]</sup>   
 (GDR)  
 (KB2716442)  
 (重要)  
 (英文下載更新程式)  
-[適用於 32 位元系統的 Microsoft SQL Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=ebfcb341-e240-4107-92f1-ab75cc28151a)<sup>[1]</sup>   
+[適用於 32 位元系統的 Microsoft SQL Server 2012](https://www.microsoft.com/download/details.aspx?familyid=ebfcb341-e240-4107-92f1-ab75cc28151a)<sup>[1]</sup>   
 (QFE)  
 (KB2716441)  
 (重要)  
@@ -2109,12 +2109,12 @@ SQL Server 2012
 適用於 x64 型系統的 Microsoft SQL Server 2012
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Microsoft SQL Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=e79b4e5b-1549-4e76-afef-b771b432365b)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2012](https://www.microsoft.com/download/details.aspx?familyid=e79b4e5b-1549-4e76-afef-b771b432365b)<sup>[1]</sup>   
 (GDR)  
 (KB2716442)  
 (重要)  
 (英文下載更新程式)  
-[適用於 x64 型系統的 Microsoft SQL Server 2012](http://www.microsoft.com/downloads/details.aspx?familyid=ebfcb341-e240-4107-92f1-ab75cc28151a)<sup>[1]</sup>   
+[適用於 x64 型系統的 Microsoft SQL Server 2012](https://www.microsoft.com/download/details.aspx?familyid=ebfcb341-e240-4107-92f1-ab75cc28151a)<sup>[1]</sup>   
 (QFE)  
 (KB2716441)  
 (重要)  
@@ -2167,13 +2167,13 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **注意：**System Management Server 2003 自 2010 年 1 月 12 日起不受主流支援。如需更多有關產品生命週期的資訊，請造訪 [Microsoft 支援週期](http://support.microsoft.com/default.aspx?scid=fh;%5bln%5d;lifecycle)。現已推出新版的 SMS，System Center Configuration Manager；請參閱前段的＜System Center Configuration Manager＞一節。
 
-如需更多有關系統管理員如何使用 SMS 2003 來部署資訊安全更新的資訊，請參閱 [Microsoft Systems Management Server 2003 的案例與程序： 軟體發佈和補充程式管理](http://www.microsoft.com/downloads/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英文)。如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server 技術中心 (TechCenter)](http://technet.microsoft.com/systemcenter/bb545936)。
+如需更多有關系統管理員如何使用 SMS 2003 來部署資訊安全更新的資訊，請參閱 [Microsoft Systems Management Server 2003 的案例與程序： 軟體發佈和補充程式管理](https://www.microsoft.com/download/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英文)。如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server 技術中心 (TechCenter)](http://technet.microsoft.com/systemcenter/bb545936)。
 
 **注意**：SMS 使用 Microsoft Baseline Security Analyzer 提供廣泛的資訊安全公告更新偵測與部署支援。不過這些工具可能無法偵測部分的軟體更新。在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。如需關於此程序的詳細資訊，請參閱[使用 SMS 軟體發佈功能部署軟體更新](http://technet.microsoft.com/zh-tw/library/cc917507.aspx) (英文)。某些資訊安全更新程式在電腦重新啟動之後，會需要系統管理員的權限。系統管理員可使用 Elevated Rights Deployment Tool (隨附於 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d)) 來安裝這些更新。
 
 **Update Compatibility Evaluator** **和** **Application Compatibility Toolkit**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署資訊安全更新的時間。您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) 隨附的 [Update Compatibility Evaluator](http://technet.microsoft.com/library/cc749197) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署資訊安全更新的時間。您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) 隨附的 [Update Compatibility Evaluator](http://technet.microsoft.com/library/cc749197) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

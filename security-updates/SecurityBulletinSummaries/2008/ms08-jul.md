@@ -141,10 +141,10 @@ Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
 DNS 用戶端更新：  
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=269c219c-9d6b-4b12-b621-c70cd07cdd22)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=269c219c-9d6b-4b12-b621-c70cd07cdd22)  
 (重要)  
 DNS 伺服器更新：  
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=332aa92f-a1ad-42a0-87d0-485d2d41335b)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=332aa92f-a1ad-42a0-87d0-485d2d41335b)  
 (重要)
 </td>
 </tr>
@@ -193,7 +193,7 @@ Windows XP Service Pack 2 及 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
 DNS 用戶端更新：  
-[Windows XP Service Pack 2 及 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=ed989a33-7a9e-4423-93a8-b38907467cdf)  
+[Windows XP Service Pack 2 及 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=ed989a33-7a9e-4423-93a8-b38907467cdf)  
 (重要)  
 無適用的 DNS 伺服器更新
 </td>
@@ -210,7 +210,7 @@ Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Serv
 </td>
 <td style="border:1px solid black;">
 DNS 用戶端更新：  
-[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a2b016fa-b108-4e8e-b41b-4ca89002907b)  
+[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a2b016fa-b108-4e8e-b41b-4ca89002907b)  
 (重要)  
 無適用的 DNS 伺服器更新
 </td>
@@ -253,10 +253,10 @@ Windows Server 2003
 Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7)  
+[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7)  
 (KB948110)  
 (重要)  
-[Windows Internal Database (WYukon) Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)  
+[Windows Internal Database (WYukon) Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)  
 (KB948109)  
 (重要)
 </td>
@@ -265,10 +265,10 @@ Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
 DNS 用戶端更新：  
-[Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4ef5033c-9843-4e0b-bfad-fcaf05d7dab9)  
+[Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4ef5033c-9843-4e0b-bfad-fcaf05d7dab9)  
 (重要)  
 DNS 伺服器更新：  
-[Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=d1fcb794-e6a5-4c28-b3b3-9cd88f468a42)  
+[Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=d1fcb794-e6a5-4c28-b3b3-9cd88f468a42)  
 (重要)
 </td>
 </tr>
@@ -277,10 +277,10 @@ DNS 伺服器更新：
 Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7)  
+[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=1c0ae18b-1f17-44b3-a337-b36e7de437a7)  
 (KB948110)  
 (重要)  
-[Windows Internal Database (WYukon) x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)  
+[Windows Internal Database (WYukon) x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)  
 (KB948109)  
 (重要)
 </td>
@@ -289,10 +289,10 @@ Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack
 </td>
 <td style="border:1px solid black;">
 DNS 用戶端更新：  
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=66624a1f-38bf-4af7-936d-3131474ffe1f)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=66624a1f-38bf-4af7-936d-3131474ffe1f)  
 (重要)  
 DNS 伺服器更新：  
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=040a1ba8-21b0-439e-bf21-1acd1c43b162)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=040a1ba8-21b0-439e-bf21-1acd1c43b162)  
 (重要)
 </td>
 </tr>
@@ -308,10 +308,10 @@ Windows Server 2003 SP1 for Itanium-based Systems 和 Windows Server 2003 SP2 fo
 </td>
 <td style="border:1px solid black;">
 DNS 用戶端更新：  
-[Windows Server 2003 SP1 for Itanium-based Systems 和 Windows Server 2003 SP2 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?familyid=facc80da-61d6-49c5-872d-a1980b66ae3e)  
+[Windows Server 2003 SP1 for Itanium-based Systems 和 Windows Server 2003 SP2 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?familyid=facc80da-61d6-49c5-872d-a1980b66ae3e)  
 (重要)  
 DNS 伺服器更新：  
-[Windows Server 2003 SP1 for Itanium-based Systems 和 Windows Server 2003 SP2 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?familyid=c63e3ee6-6055-4313-b0f1-fec7408886bb)  
+[Windows Server 2003 SP1 for Itanium-based Systems 和 Windows Server 2003 SP2 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?familyid=c63e3ee6-6055-4313-b0f1-fec7408886bb)  
 (重要)
 </td>
 </tr>
@@ -356,7 +356,7 @@ Windows Vista 和 Windows Vista Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 和 Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=06739ca6-7368-4acb-bb67-7e8146071a29)  
+[Windows Vista 和 Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=06739ca6-7368-4acb-bb67-7e8146071a29)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -372,7 +372,7 @@ Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=74ea0893-7c2f-4fad-ad27-588ad953b046)  
+[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=74ea0893-7c2f-4fad-ad27-588ad953b046)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -418,18 +418,18 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008
 </td>
 <td style="border:1px solid black;">
-[Windows Internal Database (WYukon) Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)\*  
+[Windows Internal Database (WYukon) Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)\*  
 (KB948109)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=189a4170-b495-4904-9cbd-209e7494d303)\*  
+[適用於 32 位元系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=189a4170-b495-4904-9cbd-209e7494d303)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
 無適用的 DNS 用戶端更新  
 DNS 伺服器更新：  
-[適用於 32 位元系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=1fcea8f4-b233-42e1-b913-c4fcae276c7b)\*  
+[適用於 32 位元系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=1fcea8f4-b233-42e1-b913-c4fcae276c7b)\*  
 (重要)
 </td>
 </tr>
@@ -438,18 +438,18 @@ DNS 伺服器更新：
 適用於 x64 系統的 Windows Server 2008
 </td>
 <td style="border:1px solid black;">
-[Windows Internal Database (WYukon) x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)\*  
+[Windows Internal Database (WYukon) x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=48f6aaa5-49fc-4a16-bc34-8514e214b8cf)\*  
 (KB948109)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=85d8701d-f8c7-4079-8a21-a3a9d5ba71ce)\*  
+[適用於 x64 型系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=85d8701d-f8c7-4079-8a21-a3a9d5ba71ce)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
 無適用的 DNS 用戶端更新  
 DNS 伺服器更新：  
-[適用於 x64 型系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=afac5bbc-71fa-457b-8b0a-f5902d37bfd0)\*  
+[適用於 x64 型系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=afac5bbc-71fa-457b-8b0a-f5902d37bfd0)\*  
 (重要)
 </td>
 </tr>
@@ -461,7 +461,7 @@ DNS 伺服器更新：
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008](http://www.microsoft.com/downloads/details.aspx?familyid=b30ee4f0-850f-4ff3-86a4-663603a0a802)  
+[適用於 Itanium 型系統的 Windows Server 2008](https://www.microsoft.com/download/details.aspx?familyid=b30ee4f0-850f-4ff3-86a4-663603a0a802)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -491,120 +491,120 @@ DNS 伺服器更新：
 <tr class="odd">
 <td style="border:1px solid black;">SQL Server 7.0 Service Pack 4</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 Service Pack 4</a><br />
 (KB948113)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">SQL Server 7.0 Service Pack 4</a><br />
 (KB948113)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">SQL Server 2000 Service Pack 4</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 Service Pack 4</a><br />
 (KB948110)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">SQL Server 2000 Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">SQL Server 2000 Service Pack 4</a><br />
 (KB948111)<br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">SQL Server 2000 Itanium Edition Service Pack 4</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 Itanium Edition Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">SQL Server 2000 Itanium Edition Service Pack 4</a><br />
 (KB948110)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">SQL Server 2000 Itanium Edition Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">SQL Server 2000 Itanium Edition Service Pack 4</a><br />
 (KB948111)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">SQL Server 2005 Service Pack 2</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 Service Pack 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 Service Pack 2</a><br />
 (KB948109)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 Service Pack 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 Service Pack 2</a><br />
 (KB948108)<br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">SQL Server 2005 x64 Edition Service Pack 2</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 x64 Edition Service Pack</a>2<br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">SQL Server 2005 x64 Edition Service Pack</a>2<br />
 (KB948109)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 x64 Edition Service Pack</a>2<br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">SQL Server 2005 x64 Edition Service Pack</a>2<br />
 (KB948108)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">適用於 Itanium 型系統的 Windows Server 2003 SP2</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
 (KB948109)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">適用於 Itanium 型系統的 Windows Server 2003 SP2</a><br />
 (KB948108)<br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Data Engine (MSDE) 1.0 Service Pack 4</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine (MSDE) 1.0 Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine (MSDE) 1.0 Service Pack 4</a><br />
 (KB948113)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine (MSDE) 1.0 Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=c95b2cb3-51a4-44e4-b9f4-9416e9ce16a0">Microsoft Data Engine (MSDE) 1.0 Service Pack 4</a><br />
 (KB948113)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4fd1f86a-94a2-43d8-9b0a-774c81426d9e">Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4</a><br />
 (KB948110)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=8316bc5e-8c2d-4710-8acc-b815ccc81cd4">Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4</a><br />
 (KB948111)<br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft SQL Server 2005 Express Edition Service Pack 2</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">Microsoft SQL Server 2005 Express Edition Service Pack 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">Microsoft SQL Server 2005 Express Edition Service Pack 2</a><br />
 (KB948109)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">Microsoft SQL Server 2005 Express Edition Service Pack 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">Microsoft SQL Server 2005 Express Edition Service Pack 2</a><br />
 (KB948108)<br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 2</td>
 <td style="border:1px solid black;">GDR 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=4c9851cc-2c4c-4190-872c-84993a7623b7">Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 2</a><br />
 (KB948109)<br />
 (重要)<br />
 <br />
 QFE 更新：<br />
-<a href="http://www.microsoft.com/downloads/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 2</a><br />
+<a href="https://www.microsoft.com/download/details.aspx?familyid=a60bb7e7-ef4e-4cbd-b63a-0ad7bd1402b3">Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 2</a><br />
 (KB948108)<br />
 (重要)</td>
 </tr>
@@ -627,17 +627,17 @@ QFE 更新：<br />
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Exchange Server 2003 Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=e099c1d1-5af6-4d6c-b735-9599412b3131">Microsoft Exchange Server 2003 Service Pack 2</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=e099c1d1-5af6-4d6c-b735-9599412b3131">Microsoft Exchange Server 2003 Service Pack 2</a><br />
 (重要)</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Exchange Server 2007</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=086a2a13-a1de-4b1d-bd12-b148bfd2dafa">Microsoft Exchange Server 2007</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=086a2a13-a1de-4b1d-bd12-b148bfd2dafa">Microsoft Exchange Server 2007</a><br />
 (重要)</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Exchange Server 2007 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=63e7f26c-92a8-4264-882d-f96b348c96ab">Microsoft Exchange Server 2007 Service Pack 1</a><br />
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=63e7f26c-92a8-4264-882d-f96b348c96ab">Microsoft Exchange Server 2007 Service Pack 1</a><br />
 (重要)</td>
 </tr>
 </tbody>

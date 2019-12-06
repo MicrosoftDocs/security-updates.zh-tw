@@ -149,7 +149,7 @@ Microsoft Office 2000 Service Pack 3
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=72735aa1-e22c-40ed-8c79-38fba89979aa)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=72735aa1-e22c-40ed-8c79-38fba89979aa)
 </td>
 <td style="border:1px solid black;">
 **<sup>[1]</sup>**
@@ -164,7 +164,7 @@ Microsoft Office XP Service Pack 3
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=72735aa1-e22c-40ed-8c79-38fba89979aa)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=72735aa1-e22c-40ed-8c79-38fba89979aa)
 </td>
 <td style="border:1px solid black;">
 **<sup>[1]</sup>**
@@ -179,7 +179,7 @@ Microsoft Office 2003 Service Pack 2
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=9f25922c-d3c2-4ef1-b164-8a21a77d29aa)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=9f25922c-d3c2-4ef1-b164-8a21a77d29aa)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -189,7 +189,7 @@ Microsoft Office 2003 Service Pack 2
 Microsoft Office Excel 2000 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=f7f90c30-1bfd-406b-a77f-612443e30185)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=f7f90c30-1bfd-406b-a77f-612443e30185)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -203,7 +203,7 @@ Microsoft Office Excel 2000 Service Pack 3
 Microsoft Office Excel 2002 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=907f96d5-d1e9-4471-b41c-3ac811e63038)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=907f96d5-d1e9-4471-b41c-3ac811e63038)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -217,7 +217,7 @@ Microsoft Office Excel 2002 Service Pack 3
 Microsoft Office Excel 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=296e5f2c-f594-41c8-a20a-3e4c40ae3948)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=296e5f2c-f594-41c8-a20a-3e4c40ae3948)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -231,12 +231,12 @@ Microsoft Office Excel 2003 Service Pack 2
 Microsoft Office Excel Viewer 2003
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=280bb2ac-b21a-46b5-8751-5a50fbebf107)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=280bb2ac-b21a-46b5-8751-5a50fbebf107)
 </td>
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=9f25922c-d3c2-4ef1-b164-8a21a77d29aa)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=9f25922c-d3c2-4ef1-b164-8a21a77d29aa)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -250,7 +250,7 @@ Microsoft Office Excel Viewer 2003 Service Pack 3
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=9f25922c-d3c2-4ef1-b164-8a21a77d29aa)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=9f25922c-d3c2-4ef1-b164-8a21a77d29aa)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -260,7 +260,7 @@ Microsoft Office Excel Viewer 2003 Service Pack 3
 Microsoft Office Excel 2007
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=e7634cb5-9531-4284-9554-4168fc488e0c)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=e7634cb5-9531-4284-9554-4168fc488e0c)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -274,7 +274,7 @@ Microsoft Office Excel 2007
 適用於 Word、Excel 及 PowerPoint 2007 檔案格式的 Microsoft Office 相容性套件
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=e9251d71-9098-4125-ae91-7d4c83ea58ad)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=e9251d71-9098-4125-ae91-7d4c83ea58ad)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -290,7 +290,7 @@ Microsoft Office Outlook 2000 Service Pack 3
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=714a49cd-5bca-4719-96a1-e1077f279533)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=714a49cd-5bca-4719-96a1-e1077f279533)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -304,7 +304,7 @@ Microsoft Office Outlook 2002 Service Pack 3
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=59853687-d885-4059-9460-ee403855dbd8)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=59853687-d885-4059-9460-ee403855dbd8)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -318,7 +318,7 @@ Microsoft Office Outlook 2003 Service Pack 2
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fccc7c4c-8496-4682-bd46-6590503c1bf2)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fccc7c4c-8496-4682-bd46-6590503c1bf2)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -332,7 +332,7 @@ Microsoft Office Outlook 2003 Service Pack 3
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fccc7c4c-8496-4682-bd46-6590503c1bf2)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fccc7c4c-8496-4682-bd46-6590503c1bf2)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -346,7 +346,7 @@ Microsoft Office Outlook 2007
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4e2baf00-88eb-4eb6-961a-54245b363c21)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4e2baf00-88eb-4eb6-961a-54245b363c21)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -358,12 +358,12 @@ Microsoft Office Outlook 2007
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=95dceb37-b35f-46db-b280-db0f3b298aa9)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=95dceb37-b35f-46db-b280-db0f3b298aa9)
 </td>
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=95dceb37-b35f-46db-b280-db0f3b298aa9)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=95dceb37-b35f-46db-b280-db0f3b298aa9)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -373,7 +373,7 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=8fe8c32a-6d7a-482b-97c6-42562f089ee4)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=8fe8c32a-6d7a-482b-97c6-42562f089ee4)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -399,7 +399,7 @@ Microsoft Office Web Components 2000
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=806c654a-35e3-4385-855a-4b803249bfcf)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=806c654a-35e3-4385-855a-4b803249bfcf)
 </td>
 </tr>
 <tr>
@@ -414,7 +414,7 @@ Microsoft Office Web Components 2000
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=f54d2a5e-c0ed-4f70-9746-38dd61c8e9d7)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=f54d2a5e-c0ed-4f70-9746-38dd61c8e9d7)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -429,7 +429,7 @@ Microsoft Office Web Components 2000
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=d71b23fa-a873-406d-bad7-e38e565dee39)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=d71b23fa-a873-406d-bad7-e38e565dee39)
 </td>
 </tr>
 <tr>
@@ -444,7 +444,7 @@ Microsoft Office Web Components 2000
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=2fe10ccd-40cb-4090-b83d-eae3d4eca174)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=2fe10ccd-40cb-4090-b83d-eae3d4eca174)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -459,7 +459,7 @@ Microsoft Office Web Components 2000
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=e0993e49c0a811d2973d00c04f79e4b3)  
+[重大](https://www.microsoft.com/download/details.aspx?familyid=e0993e49c0a811d2973d00c04f79e4b3)  
 **<sup>[2]</sup>**
 </td>
 </tr>
@@ -475,7 +475,7 @@ Microsoft Office Web Components 2000
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=12b7d09a92ab4596996670799837d961)  
+[重大](https://www.microsoft.com/download/details.aspx?familyid=12b7d09a92ab4596996670799837d961)  
 **<sup>[3]</sup>**
 </td>
 </tr>
@@ -491,7 +491,7 @@ Microsoft Office Web Components 2000
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=71de76ba-b62c-4a7a-a78a-9317f5255b13)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=71de76ba-b62c-4a7a-a78a-9317f5255b13)
 </td>
 </tr>
 <tr>
@@ -506,7 +506,7 @@ Microsoft Office Web Components 2000
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=526d87bd-c3da-412e-8765-c15987ae9b01)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=526d87bd-c3da-412e-8765-c15987ae9b01)
 </td>
 </tr>
 <tr class="alternateRow">

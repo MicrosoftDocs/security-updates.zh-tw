@@ -213,7 +213,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=80aa33f4-e5b0-42a6-844b-f80d6168e25e">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=80aa33f4-e5b0-42a6-844b-f80d6168e25e">中度</a></td>
 <td style="border:1px solid black;"><strong>[3] [4]</strong></td>
 </tr>
 <tr class="odd">
@@ -222,7 +222,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9ee7ff53-20ec-4b75-a255-72dd0ab52ff3&amp;displaylang=en">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9ee7ff53-20ec-4b75-a255-72dd0ab52ff3&amp;displaylang=en">中度</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
@@ -230,8 +230,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b8c867c2-b7cd-4e2f-90e0-169b2c7125dc">重要</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=865b5d9d-fc5b-4f91-a860-2c35a025a907">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b8c867c2-b7cd-4e2f-90e0-169b2c7125dc">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=865b5d9d-fc5b-4f91-a860-2c35a025a907">重要</a></td>
 <td style="border:1px solid black;"><strong>[3] [4] [5]</strong></td>
 </tr>
 <tr class="odd">
@@ -239,8 +239,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=b8c867c2-b7cd-4e2f-90e0-169b2c7125dc">中度</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&amp;familyid=865b5d9d-fc5b-4f91-a860-2c35a025a907">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=b8c867c2-b7cd-4e2f-90e0-169b2c7125dc">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&amp;familyid=865b5d9d-fc5b-4f91-a860-2c35a025a907">重要</a></td>
 <td style="border:1px solid black;"><strong>[3] [5]</strong></td>
 </tr>
 <tr class="even">
@@ -248,8 +248,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2f68945e-eeb8-42bc-a8ad-0d3991204889">重要</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b6daa99a-6e0b-477d-99e9-5237bcf57762">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2f68945e-eeb8-42bc-a8ad-0d3991204889">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=b6daa99a-6e0b-477d-99e9-5237bcf57762">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
@@ -258,7 +258,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9ee7ff53-20ec-4b75-a255-72dd0ab52ff3">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9ee7ff53-20ec-4b75-a255-72dd0ab52ff3">中度</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
@@ -267,7 +267,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3b6a6cc1-cce4-4462-a0d2-e88d38def807">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=3b6a6cc1-cce4-4462-a0d2-e88d38def807">重要</a></td>
 <td style="border:1px solid black;"><strong>[3] [4]</strong></td>
 </tr>
 <tr class="odd">
@@ -276,7 +276,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3b6a6cc1-cce4-4462-a0d2-e88d38def807">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=3b6a6cc1-cce4-4462-a0d2-e88d38def807">重要</a></td>
 <td style="border:1px solid black;"><strong>[3] [4]</strong></td>
 </tr>
 <tr class="even">
@@ -346,7 +346,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;">Windows SharePoint Services</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6bb93661-0ce7-46cf-b8bb-55546b58a2f2">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=6bb93661-0ce7-46cf-b8bb-55546b58a2f2">中度</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -358,7 +358,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a52279dc-3b6c-4720-8192-45657edbb14f">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a52279dc-3b6c-4720-8192-45657edbb14f">重大</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows 98、Windows 98 SE 或 Windows ME 中的 Windows Media Player 9 Series</td>
@@ -367,7 +367,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6e48651d-9a70-4957-a4e6-439bf9079fcb">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=6e48651d-9a70-4957-a4e6-439bf9079fcb">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Messenger 4.7.0.2009</td>
@@ -376,7 +376,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e3dc209b-ad57-49e1-bb90-6fa2ca8763a6">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e3dc209b-ad57-49e1-bb90-6fa2ca8763a6">中度</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Messenger 4.7.0.3000</td>
@@ -385,7 +385,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1dcc9628-e2d0-496f-b4f2-3afefa0a0156">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=1dcc9628-e2d0-496f-b4f2-3afefa0a0156">中度</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Messenger 5.0</td>
@@ -394,7 +394,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a8d9eb73-5f8c-4b9a-940f-9157a3b3d774">中度</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"></td>
@@ -418,7 +418,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;">SharePoint Team Services from Microsoft</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6be3f8ad-768e-4bcb-8eb3-ad74b576038c">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=6be3f8ad-768e-4bcb-8eb3-ad74b576038c">中度</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -444,7 +444,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3 或 Service Pack 4、Windows XP Service Pack 1 或 Service Pack 2、Windows Server 2003 中的 .NET Framework 1.0 Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3271acd5-ee3c-4bdf-ae28-56d2df77151e">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=3271acd5-ee3c-4bdf-ae28-56d2df77151e">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -453,7 +453,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3 或 Service Pack 4、Windows XP Service Pack 1 或 Service Pack 2、Windows Server 2003 中的 .NET Framework 1.0 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=4e6d56e5-3d8d-423b-99a1-41edf23d65bc">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=4e6d56e5-3d8d-423b-99a1-41edf23d65bc">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -462,7 +462,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Tablet PC Edition 或 Windows XP Media Center Edition 中的 .NET Framework 1.0 Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ee611d27-52cf-43db-bb97-21318c7faa70">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ee611d27-52cf-43db-bb97-21318c7faa70">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -471,7 +471,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Tablet PC Edition 或 Windows XP Media Center Edition 中的 .NET Framework 1.0 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=33d4d33e-473f-4842-a3a8-c8266aee8fab">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=33d4d33e-473f-4842-a3a8-c8266aee8fab">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -480,7 +480,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3 或 Service Pack 4、Windows XP Service Pack 1 或 Service Pack 2、Windows XP Tablet PC Edition、Windows XP Media Center Edition 中的 .NET Framework 1.1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c5e19719-000f-456a-beab-5bd7949f8aa2">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c5e19719-000f-456a-beab-5bd7949f8aa2">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -489,7 +489,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 中的 .NET Framework 1.1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e54be8be-22af-4390-86e1-25d76794d5c7">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e54be8be-22af-4390-86e1-25d76794d5c7">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -498,7 +498,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3 或 Service Pack 4、Windows XP Service Pack 1 或 Service Pack 2、Windows XP Tablet PC Edition、Windows XP Media Center Edition 中的 .NET Framework 1.1 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8ec6fb8a-29eb-49cf-9dbc-1a0dc2273ff9">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8ec6fb8a-29eb-49cf-9dbc-1a0dc2273ff9">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -507,7 +507,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 中的 .NET Framework 1.1 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9bbd5617-49ae-40bf-b0fa-f9049349c6f5">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9bbd5617-49ae-40bf-b0fa-f9049349c6f5">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -597,74 +597,74 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server™ 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1b703115-54c0-445c-b5ce-e9a53c45b36a">重大</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=83b97ece-0010-443e-9353-82ffcaf73771">重要</a><strong>[6]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e99f5bdd-8ea8-4837-960e-0d20dea9ac4d">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=1b703115-54c0-445c-b5ce-e9a53c45b36a">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=83b97ece-0010-443e-9353-82ffcaf73771">重要</a><strong>[6]</strong></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e99f5bdd-8ea8-4837-960e-0d20dea9ac4d">中度</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=68c55e18-3a3f-455b-a6c3-bb87b33cfd8e">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=68c55e18-3a3f-455b-a6c3-bb87b33cfd8e">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 64-Bit Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8da45dd0-882e-417c-a7f2-4aabad675129">重大</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a2c9e842-551c-458e-bf19-1c2ba9f21a06">重要</a><strong>[6]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2ce98263-2ab4-4fe3-8b0b-5b3155119730">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8da45dd0-882e-417c-a7f2-4aabad675129">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a2c9e842-551c-458e-bf19-1c2ba9f21a06">重要</a><strong>[6]</strong></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2ce98263-2ab4-4fe3-8b0b-5b3155119730">中度</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=558ab19e-a5a3-44a6-99a3-f0d9e7c1f714">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=558ab19e-a5a3-44a6-99a3-f0d9e7c1f714">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6df9b2d9-b86e-4924-b677-978ec6b81b54">重大</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a><strong>[6]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9490e7d2-03c2-463a-b3d0-b949f5295208">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=6df9b2d9-b86e-4924-b677-978ec6b81b54">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a><strong>[6]</strong></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9490e7d2-03c2-463a-b3d0-b949f5295208">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6005c5a3-aff2-4765-b26f-be47ed408e0b">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=6005c5a3-aff2-4765-b26f-be47ed408e0b">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6df9b2d9-b86e-4924-b677-978ec6b81b54">重大</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a><strong>[6]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9490e7d2-03c2-463a-b3d0-b949f5295208">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=6df9b2d9-b86e-4924-b677-978ec6b81b54">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a><strong>[6]</strong></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9490e7d2-03c2-463a-b3d0-b949f5295208">重要</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6005c5a3-aff2-4765-b26f-be47ed408e0b">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=6005c5a3-aff2-4765-b26f-be47ed408e0b">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows XP 64-Bit Edition Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e5043926-0b79-489b-8ea1-85512828c6f4">重大</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f80eabc3-6d39-4532-9178-7967626977ee">重要</a><strong>[6]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9e0247b8-240e-416c-9586-acd5ef8578de">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e5043926-0b79-489b-8ea1-85512828c6f4">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f80eabc3-6d39-4532-9178-7967626977ee">重要</a><strong>[6]</strong></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9e0247b8-240e-416c-9586-acd5ef8578de">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=84712902-1c6b-4402-9959-7a51ee319d7f">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=84712902-1c6b-4402-9959-7a51ee319d7f">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP 64-Bit Edition Version 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8da45dd0-882e-417c-a7f2-4aabad675129">重大</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a2c9e842-551c-458e-bf19-1c2ba9f21a06">重要</a><strong>[6]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2ce98263-2ab4-4fe3-8b0b-5b3155119730">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8da45dd0-882e-417c-a7f2-4aabad675129">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a2c9e842-551c-458e-bf19-1c2ba9f21a06">重要</a><strong>[6]</strong></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2ce98263-2ab4-4fe3-8b0b-5b3155119730">中度</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=558ab19e-a5a3-44a6-99a3-f0d9e7c1f714">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=558ab19e-a5a3-44a6-99a3-f0d9e7c1f714">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=656bdda5-672b-4a6b-b192-24a2171c7355">重大</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=84b4f65e-39d5-4521-b692-051f76f2492e">重要</a><strong>[6]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=aea07cba-0e2b-4a22-91ed-1d23bb012c04">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=656bdda5-672b-4a6b-b192-24a2171c7355">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=84b4f65e-39d5-4521-b692-051f76f2492e">重要</a><strong>[6]</strong></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=aea07cba-0e2b-4a22-91ed-1d23bb012c04">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9dc37971-9268-4ced-85a3-2cf487eae378">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9dc37971-9268-4ced-85a3-2cf487eae378">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=656bdda5-672b-4a6b-b192-24a2171c7355">重大</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=84b4f65e-39d5-4521-b692-051f76f2492e">重要</a><strong>[6]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=aea07cba-0e2b-4a22-91ed-1d23bb012c04">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=656bdda5-672b-4a6b-b192-24a2171c7355">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=84b4f65e-39d5-4521-b692-051f76f2492e">重要</a><strong>[6]</strong></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=aea07cba-0e2b-4a22-91ed-1d23bb012c04">重大</a></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9dc37971-9268-4ced-85a3-2cf487eae378">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9dc37971-9268-4ced-85a3-2cf487eae378">重大</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
@@ -735,7 +735,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=4c2cbb4b-2f00-4cd6-bb98-ad14a48b53c0">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=4c2cbb4b-2f00-4cd6-bb98-ad14a48b53c0">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -744,7 +744,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=34f5bcde-4ee2-4efd-bb60-f5a6bc5f56d1">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=34f5bcde-4ee2-4efd-bb60-f5a6bc5f56d1">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -753,7 +753,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c92f14c6-8a4f-4f3b-906d-885b6b8964be">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c92f14c6-8a4f-4f3b-906d-885b6b8964be">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -762,7 +762,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e473cd05-3320-4322-b437-f3a61e62f567">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e473cd05-3320-4322-b437-f3a61e62f567">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -771,7 +771,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7eae62c0-3da0-4bac-b2fe-ece89959053d">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7eae62c0-3da0-4bac-b2fe-ece89959053d">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -780,7 +780,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=82056eab-8367-4b04-a11a-1002d14eb55b">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=82056eab-8367-4b04-a11a-1002d14eb55b">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -789,7 +789,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=4dc0fe8a-9d03-4ab8-8eaf-c85ff25cb1a2">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=4dc0fe8a-9d03-4ab8-8eaf-c85ff25cb1a2">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -798,7 +798,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e3c4da1f-6fa2-4a2b-a6d9-24b599c353b3">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e3c4da1f-6fa2-4a2b-a6d9-24b599c353b3">重大</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>
@@ -836,7 +836,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Office XP Service Pack 3</td>
@@ -845,7 +845,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Project 2002</td>
@@ -854,7 +854,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9fb0b8cc-593a-4955-9af1-84ad2664e3ac">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9fb0b8cc-593a-4955-9af1-84ad2664e3ac">重大</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Visio 2002</td>
@@ -863,7 +863,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=07eb60c3-d38a-4130-bc44-6c8511ecadb9">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=07eb60c3-d38a-4130-bc44-6c8511ecadb9">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Works Suite 2002</td>
@@ -872,7 +872,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Works Suite 2003</td>
@@ -881,7 +881,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Works Suite 2004</td>
@@ -890,7 +890,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms05-feb(v=Security.10)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a0115bf8-5f80-43e9-be28-24d344600d69">重大</a></td>
 </tr>
 </tbody>
 </table>

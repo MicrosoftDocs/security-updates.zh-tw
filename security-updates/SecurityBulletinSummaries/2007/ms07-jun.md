@@ -194,7 +194,7 @@ Microsoft Windows 2000 Service Pack 4
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[中度](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=5b8e728c-cb9f-4176-93a0-bf42d6387f93)
+[中度](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=5b8e728c-cb9f-4176-93a0-bf42d6387f93)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -204,7 +204,7 @@ Microsoft Windows 2000 Service Pack 4
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=3918ac76-ebb6-4886-9a9e-808eafb96b1b)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=3918ac76-ebb6-4886-9a9e-808eafb96b1b)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -214,7 +214,7 @@ Windows XP Service Pack 2
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=8615e6f3-415b-4c23-ba52-7eef70a11d77)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=8615e6f3-415b-4c23-ba52-7eef70a11d77)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -225,7 +225,7 @@ Windows XP Service Pack 2
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=27c7f1b9-2d1d-40cb-ad7e-bfedb6156a9c)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=27c7f1b9-2d1d-40cb-ad7e-bfedb6156a9c)
 </td>
 </tr>
 <tr>
@@ -235,7 +235,7 @@ Windows XP Professional x64 Edition
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=7e994340-c616-4f66-845b-7eaf095e968a)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=7e994340-c616-4f66-845b-7eaf095e968a)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -246,7 +246,7 @@ Windows XP Professional x64 Edition
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=0ba12191-1e6f-443b-9150-7ab8b2deb7c2)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=0ba12191-1e6f-443b-9150-7ab8b2deb7c2)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -256,7 +256,7 @@ Windows XP Professional x64 Edition Service Pack 2
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=7e994340-c616-4f66-845b-7eaf095e968a)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=7e994340-c616-4f66-845b-7eaf095e968a)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -267,7 +267,7 @@ Windows XP Professional x64 Edition Service Pack 2
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=0ba12191-1e6f-443b-9150-7ab8b2deb7c2)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=0ba12191-1e6f-443b-9150-7ab8b2deb7c2)
 </td>
 </tr>
 <tr>
@@ -277,7 +277,7 @@ Windows Server 2003 Service Pack 1
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=39e6c6d2-7e6f-4992-a731-36f44fe2d87f)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=39e6c6d2-7e6f-4992-a731-36f44fe2d87f)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -288,7 +288,7 @@ Windows Server 2003 Service Pack 1
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=d554dff4-bcfb-4bbc-8fa0-af2f939d2610)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=d554dff4-bcfb-4bbc-8fa0-af2f939d2610)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -298,7 +298,7 @@ Windows Server 2003 Service Pack 2
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=39e6c6d2-7e6f-4992-a731-36f44fe2d87f)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=39e6c6d2-7e6f-4992-a731-36f44fe2d87f)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -309,7 +309,7 @@ Windows Server 2003 Service Pack 2
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=d554dff4-bcfb-4bbc-8fa0-af2f939d2610)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=d554dff4-bcfb-4bbc-8fa0-af2f939d2610)
 </td>
 </tr>
 <tr>
@@ -319,7 +319,7 @@ Windows Server 2003 x64 Edition
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=da424772-079c-4351-9759-8886e0f1ba79)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=da424772-079c-4351-9759-8886e0f1ba79)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -330,7 +330,7 @@ Windows Server 2003 x64 Edition
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=170473d8-6bb1-4fbd-8494-a059dbfdf182)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=170473d8-6bb1-4fbd-8494-a059dbfdf182)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -340,7 +340,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=da424772-079c-4351-9759-8886e0f1ba79)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=da424772-079c-4351-9759-8886e0f1ba79)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -351,7 +351,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=170473d8-6bb1-4fbd-8494-a059dbfdf182)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=170473d8-6bb1-4fbd-8494-a059dbfdf182)
 </td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@ Windows Server 2003 SP1 for Itanium-based Systems
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=028592ff-2b69-472e-b186-bd2cc76bdfa4)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=028592ff-2b69-472e-b186-bd2cc76bdfa4)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -372,7 +372,7 @@ Windows Server 2003 SP1 for Itanium-based Systems
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=f5e45e3c-4cac-41a5-99f7-42c2c2c73e99)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=f5e45e3c-4cac-41a5-99f7-42c2c2c73e99)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -382,7 +382,7 @@ Windows Server 2003 SP2 for Itanium-based Systems
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=028592ff-2b69-472e-b186-bd2cc76bdfa4)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=028592ff-2b69-472e-b186-bd2cc76bdfa4)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -393,7 +393,7 @@ Windows Server 2003 SP2 for Itanium-based Systems
 **<sup>[1]</sup>**
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=f5e45e3c-4cac-41a5-99f7-42c2c2c73e99)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=f5e45e3c-4cac-41a5-99f7-42c2c2c73e99)
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ Windows Vista
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[中度](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=cdf79d00-6f34-404b-8ad5-a2801ff35443)
+[中度](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=cdf79d00-6f34-404b-8ad5-a2801ff35443)
 </td>
 <td style="border:1px solid black;">
 **<sup>[1]</sup>**
@@ -425,7 +425,7 @@ Windows Vista x64 Edition
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[中度](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=89dde3f4-4123-4c97-86d8-00a83462c34b)
+[中度](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=89dde3f4-4123-4c97-86d8-00a83462c34b)
 </td>
 <td style="border:1px solid black;">
 **<sup>[1]</sup>**
@@ -452,7 +452,7 @@ Microsoft Windows 2000 Service Pack 4 中的 Internet Explorer 5.01 Service Pack
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=3b49f1ed-abe3-4dbd-a91d-973415658f6b)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=3b49f1ed-abe3-4dbd-a91d-973415658f6b)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -470,7 +470,7 @@ Microsoft Windows 2000 Service Pack 4 中的 Internet Explorer 6 Service Pack 1
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=5c958650-28d2-4dd0-96a8-dbfe79ce3f68)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=5c958650-28d2-4dd0-96a8-dbfe79ce3f68)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -488,7 +488,7 @@ Windows XP Service Pack 2 中的 Internet Explorer 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=60fb294e-a8e1-405e-a289-2d2723edf7ee)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=60fb294e-a8e1-405e-a289-2d2723edf7ee)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -506,7 +506,7 @@ Windows XP Service Pack 2 中的 Internet Explorer 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=086d6d6e-4703-4c6c-a7af-b6dafeeede5d)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=086d6d6e-4703-4c6c-a7af-b6dafeeede5d)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -524,7 +524,7 @@ Windows XP Service Pack 2 中的 Internet Explorer 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=7ed19127-5c2d-48e4-a8d1-090dc69fd68b)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=7ed19127-5c2d-48e4-a8d1-090dc69fd68b)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -542,7 +542,7 @@ Windows XP Service Pack 2 中的 Internet Explorer 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=1449eb5d-6e4c-4332-8cb6-ab9ee59c9a95)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=1449eb5d-6e4c-4332-8cb6-ab9ee59c9a95)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -560,7 +560,7 @@ Windows XP Service Pack 2 中的 Internet Explorer 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?familyid=b628a3cc-a70c-478a-a10c-eee254ee34ab)
+[重大](https://www.microsoft.com/download/details.aspx?familyid=b628a3cc-a70c-478a-a10c-eee254ee34ab)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -578,7 +578,7 @@ Windows XP Service Pack 2 的 Internet Explorer 7
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=c2191703-8cbd-4959-9f84-e13f21173926)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=c2191703-8cbd-4959-9f84-e13f21173926)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -596,7 +596,7 @@ Windows XP Service Pack 2 的 Internet Explorer 7
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=69c526b8-8b07-42bc-9bed-e18deae21c8e)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=69c526b8-8b07-42bc-9bed-e18deae21c8e)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -614,7 +614,7 @@ Windows XP Service Pack 2 的 Internet Explorer 7
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[中度](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a074d9c0-1fed-4753-845e-073cfce99f45)
+[中度](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a074d9c0-1fed-4753-845e-073cfce99f45)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -632,7 +632,7 @@ Windows XP Service Pack 2 的 Internet Explorer 7
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[中度](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=744acb43-64da-48cc-ae69-9386b597eabc)
+[中度](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=744acb43-64da-48cc-ae69-9386b597eabc)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -650,7 +650,7 @@ Windows XP Service Pack 2 的 Internet Explorer 7
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[中度](http://www.microsoft.com/downloads/details.aspx?familyid=069c1560-b5e5-4dfe-a18d-e0507d406028)
+[中度](https://www.microsoft.com/download/details.aspx?familyid=069c1560-b5e5-4dfe-a18d-e0507d406028)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -668,7 +668,7 @@ Windows Vista 中的 Internet Explorer 7
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=77287386-48eb-4aa9-9537-626a3093aaf7)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=77287386-48eb-4aa9-9537-626a3093aaf7)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -686,7 +686,7 @@ Windows Vista x64 Edition 中的 Internet Explorer 7
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=77287386-48eb-4aa9-9537-626a3093aaf7)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=77287386-48eb-4aa9-9537-626a3093aaf7)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -706,7 +706,7 @@ Windows XP Service Pack 2 的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=27cca556-0872-4803-b610-4c895ceb99aa)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=27cca556-0872-4803-b610-4c895ceb99aa)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -724,7 +724,7 @@ Windows XP Professional x64 Edition 中的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=1ea813bf-bddb-40f0-8960-b9debc8413e7)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=1ea813bf-bddb-40f0-8960-b9debc8413e7)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -742,7 +742,7 @@ Windows XP Professional x64 Edition Service Pack 2 中的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=1ea813bf-bddb-40f0-8960-b9debc8413e7)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=1ea813bf-bddb-40f0-8960-b9debc8413e7)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -760,7 +760,7 @@ Windows Server 2003 Service Pack 1 中的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[輕微](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=93808a74-035c-4ab7-9283-c693d7bd82be)
+[輕微](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=93808a74-035c-4ab7-9283-c693d7bd82be)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -778,7 +778,7 @@ Windows Server 2003 Service Pack 2 中的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[輕微](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=93808a74-035c-4ab7-9283-c693d7bd82be)
+[輕微](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=93808a74-035c-4ab7-9283-c693d7bd82be)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -796,7 +796,7 @@ Windows Server 2003 x64 Edition 中的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[中度](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=f63323a9-e285-45e5-84bd-71ae9da126e3)
+[中度](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=f63323a9-e285-45e5-84bd-71ae9da126e3)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -814,7 +814,7 @@ Windows Server 2003 x64 Edition Service Pack 2 中的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[中度](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=f63323a9-e285-45e5-84bd-71ae9da126e3)
+[中度](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=f63323a9-e285-45e5-84bd-71ae9da126e3)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -832,7 +832,7 @@ Windows Server 2003 SP1 for Itanium-based Systems 中的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[輕微](http://www.microsoft.com/downloads/details.aspx?familyid=2e62e96e-6571-437d-a612-99175ac39025)
+[輕微](https://www.microsoft.com/download/details.aspx?familyid=2e62e96e-6571-437d-a612-99175ac39025)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -850,7 +850,7 @@ Windows Server 2003 with SP2 for Itanium-based Systems 中的 Outlook Express 6
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[輕微](http://www.microsoft.com/downloads/details.aspx?familyid=2e62e96e-6571-437d-a612-99175ac39025)
+[輕微](https://www.microsoft.com/download/details.aspx?familyid=2e62e96e-6571-437d-a612-99175ac39025)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -868,7 +868,7 @@ Windows Vista 中的 Windows Mail
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=ee57de19-44ea-48f2-ae28-e76fd2018633)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=ee57de19-44ea-48f2-ae28-e76fd2018633)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -886,7 +886,7 @@ Windows Vista x64 Edition 中的 Windows Mail
 <td style="border:1px solid black;">
 </td>
 <td style="border:1px solid black;">
-[重大](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=343db20f-7794-4423-b11d-885329fbdf78)
+[重大](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=343db20f-7794-4423-b11d-885329fbdf78)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -901,7 +901,7 @@ Windows Vista x64 Edition 中的 Windows Mail
 Visio 2002 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=fc1d0483-27e8-4541-b81d-4a47973bea30)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=fc1d0483-27e8-4541-b81d-4a47973bea30)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -919,7 +919,7 @@ Visio 2002 Service Pack 2
 Visio 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=c47f432e-8538-42fd-92c9-7e0f1d643e8e)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=c47f432e-8538-42fd-92c9-7e0f1d643e8e)
 </td>
 <td style="border:1px solid black;">
 </td>

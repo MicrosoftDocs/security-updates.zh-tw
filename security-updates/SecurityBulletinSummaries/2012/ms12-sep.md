@@ -224,7 +224,7 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=967c9ef3-db48-4c2f-9a67-87851fd54962)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=967c9ef3-db48-4c2f-9a67-87851fd54962)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -232,7 +232,7 @@ Windows XP Service Pack 3
 (KB2744842)  
 (重大)  
 (中文更新連結程式)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=6ba78d4c-3657-4963-b2da-7a3763c6b5c9)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=6ba78d4c-3657-4963-b2da-7a3763c6b5c9)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -240,7 +240,7 @@ Windows XP Service Pack 3
 (KB2744842)  
 (重大)  
 (中文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ac71ffe3-f077-4753-a238-47a2e9623363)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ac71ffe3-f077-4753-a238-47a2e9623363)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -256,15 +256,15 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=020b36c6-7050-4458-8762-bae35eb713cd)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=020b36c6-7050-4458-8762-bae35eb713cd)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=1e2e412a-be97-407e-9f02-fc074db3bb07)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=1e2e412a-be97-407e-9f02-fc074db3bb07)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c727d956-be3e-4cd2-913c-f26cb6c33227)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c727d956-be3e-4cd2-913c-f26cb6c33227)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)
@@ -296,7 +296,7 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=7aaaa15b-87d8-4afc-b183-8ce5becda026)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=7aaaa15b-87d8-4afc-b183-8ce5becda026)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
@@ -304,7 +304,7 @@ Windows Server 2003 Service Pack 2
 (KB2744842)  
 (中度)  
 (中文更新連結程式)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=aef34ce4-a6ce-4f5e-9892-0a7fbd90c3b4)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=aef34ce4-a6ce-4f5e-9892-0a7fbd90c3b4)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
@@ -312,7 +312,7 @@ Windows Server 2003 Service Pack 2
 (KB2744842)  
 (中度)  
 (中文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d63e25ad-ab8c-425f-89cd-29cd2b7b69d6)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d63e25ad-ab8c-425f-89cd-29cd2b7b69d6)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
@@ -327,7 +327,7 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=366feacb-16ad-455c-b2ad-5038f998c432)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=366feacb-16ad-455c-b2ad-5038f998c432)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
@@ -335,7 +335,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 (KB2744842)  
 (中度)  
 (中文更新連結程式)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=baa47c53-2724-43ef-8590-d3733b47e75b)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=baa47c53-2724-43ef-8590-d3733b47e75b)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
@@ -343,7 +343,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 (KB2744842)  
 (中度)  
 (中文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=84144e56-f653-4c92-bf49-d44d9ba10489)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=84144e56-f653-4c92-bf49-d44d9ba10489)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
@@ -359,11 +359,11 @@ Windows Server 2003 x64 Edition Service Pack 2
 適用於 Itanium 型系統的 Windows Server 2003 SP2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=c28d6dc3-c2f0-4505-a545-85b7a0e3e2dc)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=c28d6dc3-c2f0-4505-a545-85b7a0e3e2dc)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=86c28695-86a5-4c17-82d6-7f98b3162aa6)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=86c28695-86a5-4c17-82d6-7f98b3162aa6)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)
@@ -395,7 +395,7 @@ Windows Vista
 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=053546fc-ed41-43c2-b4f2-b76334314f5c)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=053546fc-ed41-43c2-b4f2-b76334314f5c)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -403,7 +403,7 @@ Windows Vista Service Pack 2
 (KB2744842)  
 (重大)  
 (中文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=0a5a446d-0a48-4eec-b424-87339b34a3be)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=0a5a446d-0a48-4eec-b424-87339b34a3be)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -411,7 +411,7 @@ Windows Vista Service Pack 2
 (KB2744842)  
 (重大)  
 (中文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=daba1ef1-62db-43db-9d5b-495aa2d3550f)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=daba1ef1-62db-43db-9d5b-495aa2d3550f)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -426,7 +426,7 @@ Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=cbe5681b-c28e-4a6a-9b97-0bfe44acf077)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=cbe5681b-c28e-4a6a-9b97-0bfe44acf077)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -434,7 +434,7 @@ Windows Vista x64 Edition Service Pack 2
 (KB2744842)  
 (重大)  
 (中文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=5642136e-68f6-42e8-b48e-1549733c6e7d)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=5642136e-68f6-42e8-b48e-1549733c6e7d)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -442,7 +442,7 @@ Windows Vista x64 Edition Service Pack 2
 (KB2744842)  
 (重大)  
 (中文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=aae496ef-fca2-4632-9a8f-2108722d2b28)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=aae496ef-fca2-4632-9a8f-2108722d2b28)  
 (KB2744842)  
 (重大)
   
@@ -481,31 +481,31 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=df861b42-bcf2-4f7a-9019-f49e6725f5dc)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=df861b42-bcf2-4f7a-9019-f49e6725f5dc)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=df861b42-bcf2-4f7a-9019-f49e6725f5dc)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=df861b42-bcf2-4f7a-9019-f49e6725f5dc)  
 (KB2744842)  
 (中度)
   
 (中文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=1d4f0f25-9539-4c38-babb-4af7f0f4c6cf)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=1d4f0f25-9539-4c38-babb-4af7f0f4c6cf)  
 (KB2744842)  
 (中度)
   
 (英文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=1d4f0f25-9539-4c38-babb-4af7f0f4c6cf)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=1d4f0f25-9539-4c38-babb-4af7f0f4c6cf)  
 (KB2744842)  
 (中度)
   
 (中文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=0b2965d7-e0b2-4035-a9e4-f6badb389098)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=0b2965d7-e0b2-4035-a9e4-f6badb389098)  
 (KB2744842)  
 (中度)
   
 (英文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=0b2965d7-e0b2-4035-a9e4-f6badb389098)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=0b2965d7-e0b2-4035-a9e4-f6badb389098)  
 (KB2744842)  
 (中度)
   
@@ -518,7 +518,7 @@ Windows Server 2008
 適用於 x64 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=fa9878c0-b7e5-43ac-b1eb-679e62cf62fc)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=fa9878c0-b7e5-43ac-b1eb-679e62cf62fc)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
@@ -527,7 +527,7 @@ Windows Server 2008
 (中度)
   
 (中文更新連結程式)  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=10bab7d4-0dd8-4fa7-b26c-715a68553707)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=10bab7d4-0dd8-4fa7-b26c-715a68553707)  
 (KB2744842)  
 (中度)
   
@@ -537,7 +537,7 @@ Windows Server 2008
 (中度)
   
 (中文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=612a94ef-0950-41e8-9875-a8f0e71eba6f)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=612a94ef-0950-41e8-9875-a8f0e71eba6f)  
 (KB2744842)  
 (中度)
   
@@ -555,7 +555,7 @@ Windows Server 2008
 適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=ded887a4-a06d-4447-b19d-19d0f4928523)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=ded887a4-a06d-4447-b19d-19d0f4928523)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)
@@ -588,7 +588,7 @@ Windows 7
 適用於 32 位元系統的 Windows 7
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -597,7 +597,7 @@ Windows 7
 (重大)
   
 (中文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3)  
 (KB2744842)  
 (重大)
   
@@ -615,7 +615,7 @@ Windows 7
 適用於 32 位元系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -624,7 +624,7 @@ Windows 7
 (重大)
   
 (中文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3)  
 (KB2744842)  
 (重大)
   
@@ -642,7 +642,7 @@ Windows 7
 適用於 x64 型系統的 Windows 7
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -650,7 +650,7 @@ Windows 7
 (KB2744842)  
 (重大)  
 (中文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
@@ -667,11 +667,11 @@ Windows 7
 適用於 x64 型系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543)  
 (KB2744842)  
 (重大)  
 (英文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f)  
 (KB2744842)  
 (重大)
   
@@ -705,11 +705,11 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d)  
 (KB2744842)  
 (中度)
   
@@ -722,7 +722,7 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)  
@@ -731,7 +731,7 @@ Windows Server 2008 R2
 (中度)
   
 (中文更新連結程式)  
-[Internet Explorer 9](http://www.microsoft.com/downloads/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d)  
+[Internet Explorer 9](https://www.microsoft.com/download/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d)  
 (KB2744842)  
 (中度)
   
@@ -749,7 +749,7 @@ Windows Server 2008 R2
 適用於 Itanium 型系統的 Windows Server 2008 R2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)
@@ -761,7 +761,7 @@ Windows Server 2008 R2
 適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
 (KB2744842)  
 (中度)  
 (英文更新連結程式)
@@ -802,7 +802,7 @@ Microsoft Visual Studio Team Foundation Server
 Microsoft Visual Studio Team Foundation Server 2010 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio Team Foundation Server 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=721c4a38-b255-4792-83a5-7526a680a79a)<sup>[1]</sup>   
+[Microsoft Visual Studio Team Foundation Server 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=721c4a38-b255-4792-83a5-7526a680a79a)<sup>[1]</sup>   
 (KB2719584)   
 (重要)  
 (英文更新連結程式)  
@@ -851,7 +851,7 @@ Microsoft System Center Configuration Manager
 Microsoft Systems Management Server 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Systems Management Server 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=f3a3d8e1-d551-43b4-9d54-9536f30c074d)<sup>[1]</sup>   
+[Microsoft Systems Management Server 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=f3a3d8e1-d551-43b4-9d54-9536f30c074d)<sup>[1]</sup>   
 (KB2733631)   
 (重要)  
 (英文更新連結程式)
@@ -869,7 +869,7 @@ Microsoft Systems Management Server 2003 Service Pack 3
 Microsoft System Center Configuration Manager 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft System Center Configuration Manager 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=89890c0e-118b-49ea-9fd1-6d23c674f9e8)<sup>[1]</sup>   
+[Microsoft System Center Configuration Manager 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=89890c0e-118b-49ea-9fd1-6d23c674f9e8)<sup>[1]</sup>   
 (KB2721642)   
 (重要)  
 (英文更新連結程式)  
@@ -927,13 +927,13 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 注意：System Management Server 2003 自 2010 年 1 月 12 日起不受主流支援。如需更多有關產品生命週期的資訊，請造訪 [Microsoft 支援週期](http://support.microsoft.com/common/international.aspx?rdpath=gp;%5bln%5d;lifecycle)。現已推出新版的 SMS，System Center Configuration Manager；請參閱前段的＜System Center Configuration Manager＞一節。
 
-如需更多有關系統管理員如何使用 SMS 2003 來部署資訊安全更新的資訊，請參閱 [Microsoft Systems Management Server 2003 的案例與程序： 軟體發佈和補充程式管理](http://www.microsoft.com/downloads/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英文)。如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server 技術中心 (TechCenter)](http://technet.microsoft.com/systemcenter/bb545936)。
+如需更多有關系統管理員如何使用 SMS 2003 來部署資訊安全更新的資訊，請參閱 [Microsoft Systems Management Server 2003 的案例與程序： 軟體發佈和補充程式管理](https://www.microsoft.com/download/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英文)。如需 SMS 的相關資訊，請造訪 [Microsoft Systems Management Server 技術中心 (TechCenter)](http://technet.microsoft.com/systemcenter/bb545936)。
 
 注意 ：SMS 使用 Microsoft Baseline Security Analyzer 提供廣泛的資訊安全公告更新偵測與部署支援。不過這些工具可能無法偵測部分的軟體更新。在這些情況中，系統管理員可以利用 SMS 的清查功能，判斷特定系統所需要的更新程式。如需關於此程序的詳細資訊，請參閱使用 SMS 軟體發佈功能部署軟體更新 (英文)。某些資訊安全更新程式在電腦重新啟動之後，會需要系統管理員的權限。系統管理員可使用 Elevated Rights Deployment Tool (隨附於 [SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d)) 來安裝這些更新。
 
 Update Compatibility Evaluator 和 Application Compatibility Toolkit
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署資訊安全更新的時間。您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) 隨附的 [Update Compatibility Evaluator](http://technet.microsoft.com/library/cc749197) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署資訊安全更新的時間。您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) 隨附的 [Update Compatibility Evaluator](http://technet.microsoft.com/library/cc749197) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

@@ -154,21 +154,21 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=d8284bfa-ed6c-4647-9fb0-588e53173775)<sup>[1]</sup>
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=d8284bfa-ed6c-4647-9fb0-588e53173775)<sup>[1]</sup>
 (KB2479943)  
 (重大)  
-[Windows XP Media Center Edition 2005 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=b1be30de-7e88-467d-aee2-68f88e6a7355)  
+[Windows XP Media Center Edition 2005 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=b1be30de-7e88-467d-aee2-68f88e6a7355)  
 (KB2502898)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 5.2 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=1aed6080-feab-4b5e-9d26-6a3f4b92434d)  
+[遠端桌面連線 5.2 用戶端](https://www.microsoft.com/download/details.aspx?familyid=1aed6080-feab-4b5e-9d26-6a3f4b92434d)  
 (KB2483618)  
 (重要)  
-[遠端桌面連線 6.1 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=d67e4d8c-aeb9-45e6-9555-7456c5540475)  
+[遠端桌面連線 6.1 用戶端](https://www.microsoft.com/download/details.aspx?familyid=d67e4d8c-aeb9-45e6-9555-7456c5540475)  
 (KB2481109)  
 (重要)  
-[遠端桌面連線 7.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=6a01992e-c9a1-4dc9-a3ef-7410b81f17e6)  
+[遠端桌面連線 7.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=6a01992e-c9a1-4dc9-a3ef-7410b81f17e6)  
 (KB2483614)  
 (重要)
 </td>
@@ -178,12 +178,12 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5270b5d3-3720-42a2-a8cf-67089c0cc658)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5270b5d3-3720-42a2-a8cf-67089c0cc658)  
 (KB2479943)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 6.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=6d4539ef-4a05-4c7d-9489-436f7b7a3ebe)<sup>[1]</sup>
+[遠端桌面連線 6.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=6d4539ef-4a05-4c7d-9489-436f7b7a3ebe)<sup>[1]</sup>
 (KB2481109)  
 (重要)
 </td>
@@ -223,10 +223,10 @@ Windows Server 2003 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 6.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=641d5d12-0790-4551-831a-e78febad17a7)<sup>[1]</sup>
+[遠端桌面連線 6.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=641d5d12-0790-4551-831a-e78febad17a7)<sup>[1]</sup>
 (KB2481109)  
 (重要)  
-[遠端桌面連線 6.0 用戶端多語系使用者介面 (MUI)](http://www.microsoft.com/downloads/details.aspx?familyid=6fec0d06-042d-4e55-9843-009edd7d26ce)<sup>[2]</sup>
+[遠端桌面連線 6.0 用戶端多語系使用者介面 (MUI)](https://www.microsoft.com/download/details.aspx?familyid=6fec0d06-042d-4e55-9843-009edd7d26ce)<sup>[2]</sup>
 (KB2483619)  
 (重要)
 </td>
@@ -239,7 +239,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 6.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=78dbb9cf-8a18-4f0a-8edf-f1ce0c993c63)<sup>[1]</sup>
+[遠端桌面連線 6.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=78dbb9cf-8a18-4f0a-8edf-f1ce0c993c63)<sup>[1]</sup>
 (KB2481109)  
 (重要)
 </td>
@@ -276,18 +276,18 @@ Windows Vista
 Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f9f1dde2-2219-4bf1-a497-edd011577b96)<sup>[2]</sup>
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f9f1dde2-2219-4bf1-a497-edd011577b96)<sup>[2]</sup>
 (KB2479943)  
 (重大)  
-[適用於 Windows Vista (32 位元版本) 的 Windows Media Center TV Pack](http://www.microsoft.com/downloads/details.aspx?familyid=1bc240b3-1938-4350-b26f-67b81a79f8a0)<sup>[3]</sup>
+[適用於 Windows Vista (32 位元版本) 的 Windows Media Center TV Pack](https://www.microsoft.com/download/details.aspx?familyid=1bc240b3-1938-4350-b26f-67b81a79f8a0)<sup>[3]</sup>
 (KB2494132)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 6.1 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=e3ea7690-386b-4cdf-889f-b3914921c56f)  
+[遠端桌面連線 6.1 用戶端](https://www.microsoft.com/download/details.aspx?familyid=e3ea7690-386b-4cdf-889f-b3914921c56f)  
 (KB2481109)  
 (重要)  
-[遠端桌面連線 7.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=3c30f67e-7c31-4553-ba3e-e056df1bf8eb)  
+[遠端桌面連線 7.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=3c30f67e-7c31-4553-ba3e-e056df1bf8eb)  
 (KB2483614)  
 (重要)
 </td>
@@ -297,18 +297,18 @@ Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e11d00df-d1cf-4a33-a1be-6721cdff5995)<sup>[2]</sup>
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e11d00df-d1cf-4a33-a1be-6721cdff5995)<sup>[2]</sup>
 (KB2479943)  
 (重大)  
-[適用於 Windows Vista (64 位元版本) 的 Windows Media Center TV Pack](http://www.microsoft.com/downloads/details.aspx?familyid=cd4c5a80-db24-4696-a248-1286c3b9f550)<sup>[3]</sup>
+[適用於 Windows Vista (64 位元版本) 的 Windows Media Center TV Pack](https://www.microsoft.com/download/details.aspx?familyid=cd4c5a80-db24-4696-a248-1286c3b9f550)<sup>[3]</sup>
 (KB2494132)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 6.1 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=5735bed6-0e3d-46a4-85d0-14ec34a82edd)  
+[遠端桌面連線 6.1 用戶端](https://www.microsoft.com/download/details.aspx?familyid=5735bed6-0e3d-46a4-85d0-14ec34a82edd)  
 (KB2481109)  
 (重要)  
-[遠端桌面連線 7.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=8025482b-f58f-4f5a-a133-5563c65b21f6)  
+[遠端桌面連線 7.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=8025482b-f58f-4f5a-a133-5563c65b21f6)  
 (KB2483614)  
 (重要)
 </td>
@@ -348,7 +348,7 @@ Windows Server 2008
 不適用
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 6.1 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=31d790c9-92f9-4a2b-800b-8e8d2b570bb9)\*\*  
+[遠端桌面連線 6.1 用戶端](https://www.microsoft.com/download/details.aspx?familyid=31d790c9-92f9-4a2b-800b-8e8d2b570bb9)\*\*  
 (KB2481109)  
 (重要)
 </td>
@@ -361,7 +361,7 @@ Windows Server 2008
 不適用
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 6.1 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=5b0a8eb5-4bc2-4054-b952-58aa645afcf5)\*\*  
+[遠端桌面連線 6.1 用戶端](https://www.microsoft.com/download/details.aspx?familyid=5b0a8eb5-4bc2-4054-b952-58aa645afcf5)\*\*  
 (KB2481109)  
 (重要)
 </td>
@@ -374,7 +374,7 @@ Windows Server 2008
 不適用
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 6.1 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=25da7e00-745d-4d98-9dd8-52a8a4340404)  
+[遠端桌面連線 6.1 用戶端](https://www.microsoft.com/download/details.aspx?familyid=25da7e00-745d-4d98-9dd8-52a8a4340404)  
 (KB2481109)  
 (重要)
 </td>
@@ -411,13 +411,13 @@ Windows 7
 適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1be77daa-29b1-4dae-a87f-2cb8f7e6a305)  
+[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1be77daa-29b1-4dae-a87f-2cb8f7e6a305)  
 (KB2479943)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 僅適用於 32 位元系統的 Windows 7：  
-[遠端桌面連線 7.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=0768a5f4-da28-4b2e-8aff-d68f890df3e6)  
+[遠端桌面連線 7.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=0768a5f4-da28-4b2e-8aff-d68f890df3e6)  
 (KB2483614)  
 (重要)
 </td>
@@ -427,13 +427,13 @@ Windows 7
 適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=56fb24ce-65c7-4573-b613-e424ccc1a3a6)  
+[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=56fb24ce-65c7-4573-b613-e424ccc1a3a6)  
 (KB2479943)  
 (重大)
 </td>
 <td style="border:1px solid black;">
 僅適用於 x64 型系統的 Windows 7：  
-[遠端桌面連線 7.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=935adb10-1e7e-4501-b543-8247b88f6d18)  
+[遠端桌面連線 7.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=935adb10-1e7e-4501-b543-8247b88f6d18)  
 (KB2483614)  
 (重要)
 </td>
@@ -470,13 +470,13 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=6f45658a-1db8-4ef5-b840-4d0180d4d90e)\*\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=6f45658a-1db8-4ef5-b840-4d0180d4d90e)\*\*  
 (KB2479943)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 僅適用於 x64 型系統的 Windows Server 2008 R2：  
-[遠端桌面連線 7.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=3fcb2e11-591e-484a-a992-2f1d563e6d17)\*\*  
+[遠端桌面連線 7.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=3fcb2e11-591e-484a-a992-2f1d563e6d17)\*\*  
 (KB2483614)  
 (重要)
 </td>
@@ -489,7 +489,7 @@ Windows Server 2008 R2
 不適用
 </td>
 <td style="border:1px solid black;">
-[遠端桌面連線 7.0 用戶端](http://www.microsoft.com/downloads/details.aspx?familyid=c29b6487-78f0-421c-810c-c5e45d6a2352)  
+[遠端桌面連線 7.0 用戶端](https://www.microsoft.com/download/details.aspx?familyid=c29b6487-78f0-421c-810c-c5e45d6a2352)  
 (KB2483614)  
 (重要)
 </td>
@@ -551,7 +551,7 @@ Microsoft Office 程式
 Microsoft Groove 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Groove 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3981ab53-1082-4155-9000-11d8a976ff33)  
+[Microsoft Groove 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3981ab53-1082-4155-9000-11d8a976ff33)  
 (KB2494047)  
 (重要)
 </td>
@@ -605,7 +605,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和 Application Compatibility Toolkit**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

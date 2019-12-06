@@ -162,12 +162,12 @@ Microsoft Office 套件和元件
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=f32648e3-2fb5-472c-932f-360e5d3c0931&displaylang=zh-tw)  
+[Microsoft Office XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=f32648e3-2fb5-472c-932f-360e5d3c0931&displaylang=zh-tw)  
 (KB2289169)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=3efbf9f6-734a-46ac-8f92-87b6ec819bfa&displaylang=zh-tw)  
+[Microsoft PowerPoint 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=3efbf9f6-734a-46ac-8f92-87b6ec819bfa&displaylang=zh-tw)  
 (KB2413272)  
 (重要)
 </td>
@@ -177,12 +177,12 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=07a6cf76-2cea-4c54-b66d-50e9eed108ac&displaylang=zh-tw)  
+[Microsoft Office 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=07a6cf76-2cea-4c54-b66d-50e9eed108ac&displaylang=zh-tw)  
 (KB2289187)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=108286d4-fb68-40d6-a7b1-64b3a4eb87ee&displaylang=zh-tw)  
+[Microsoft PowerPoint 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=108286d4-fb68-40d6-a7b1-64b3a4eb87ee&displaylang=zh-tw)  
 (KB2413304)  
 (重要)
 </td>
@@ -192,7 +192,7 @@ Microsoft Office 2003 Service Pack 3
 Microsoft Office 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=be0c5878-60c0-4700-8836-50d369b51d04&displaylang=zh-tw)  
+[Microsoft Office 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=be0c5878-60c0-4700-8836-50d369b51d04&displaylang=zh-tw)  
 (KB2289158)  
 (重大)
 </td>
@@ -205,7 +205,7 @@ Microsoft Office 2007 Service Pack 2
 Microsoft Office 2010 (32 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2010 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=0b308508-0e1e-4e90-b2b8-7e32bfc5dbf4)  
+[Microsoft Office 2010 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=0b308508-0e1e-4e90-b2b8-7e32bfc5dbf4)  
 (KB2289161)  
 (重大)
 </td>
@@ -218,7 +218,7 @@ Microsoft Office 2010 (32 位元版本)
 Microsoft Office 2010 (64 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2010 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=534c6a2a-e7c6-4adf-8b81-e009a2b5fff4)  
+[Microsoft Office 2010 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=534c6a2a-e7c6-4adf-8b81-e009a2b5fff4)  
 (KB2289161)  
 (重大)
 </td>
@@ -283,7 +283,7 @@ Microsoft Office 2008 for Mac<sup>[1]</sup>
 Microsoft Office for Mac 2011
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office for Mac 2011](http://www.microsoft.com/downloads/details.aspx?familyid=8bd6ca3b-8004-4e8d-a09d-220dcbbce799)  
+[Microsoft Office for Mac 2011](https://www.microsoft.com/download/details.aspx?familyid=8bd6ca3b-8004-4e8d-a09d-220dcbbce799)  
 (KB2454823)  
 (重要)
 </td>
@@ -338,7 +338,7 @@ Microsoft PowerPoint Viewer
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft PowerPoint Viewer Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=df826b79-7398-45de-943c-6f6f0af1b4e3&displaylang=zh-tw)  
+[Microsoft PowerPoint Viewer Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=df826b79-7398-45de-943c-6f6f0af1b4e3&displaylang=zh-tw)  
 (KB2413381)  
 (重要)
 </td>
@@ -390,13 +390,13 @@ Microsoft Forefront Unified Access Gateway
 Microsoft Forefront Unified Access Gateway
 </td>
 <td style="border:1px solid black;">
-[Forefront Unified Access Gateway 2010](http://www.microsoft.com/downloads/details.aspx?familyid=5f2ee08e-e289-47db-bd3f-7b9cfc1eb985)<sup>[1]</sup>
+[Forefront Unified Access Gateway 2010](https://www.microsoft.com/download/details.aspx?familyid=5f2ee08e-e289-47db-bd3f-7b9cfc1eb985)<sup>[1]</sup>
 (KB2433585)  
 (重要)  
-[Forefront Unified Access Gateway 2010 Update 1](http://www.microsoft.com/downloads/details.aspx?familyid=db0b70c8-1fa5-4d92-9888-3500c7566b19)<sup>[1]</sup>
+[Forefront Unified Access Gateway 2010 Update 1](https://www.microsoft.com/download/details.aspx?familyid=db0b70c8-1fa5-4d92-9888-3500c7566b19)<sup>[1]</sup>
 (KB2433584)  
 (重要)  
-[Forefront Unified Access Gateway 2010 Update 2](http://www.microsoft.com/downloads/details.aspx?familyid=4e3ee07a-771c-46ee-959f-82389bab67d7)<sup>[1]</sup>
+[Forefront Unified Access Gateway 2010 Update 2](https://www.microsoft.com/download/details.aspx?familyid=4e3ee07a-771c-46ee-959f-82389bab67d7)<sup>[1]</sup>
 (KB2418933)  
 (重要)
 </td>
@@ -441,7 +441,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和 Application Compatibility Toolkit**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署資訊安全更新的時間。 您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 資訊安全更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

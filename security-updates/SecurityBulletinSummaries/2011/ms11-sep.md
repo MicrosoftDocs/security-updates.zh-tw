@@ -322,7 +322,7 @@ Windows XP Service Pack 3
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=70f944b0-9bf0-4168-b150-67d2ff68df2d)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=70f944b0-9bf0-4168-b150-67d2ff68df2d)  
 (重要)
 </td>
 </tr>
@@ -334,7 +334,7 @@ Windows XP Professional x64 Edition Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4b9debed-edbb-43e1-b755-0faf01980289)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4b9debed-edbb-43e1-b755-0faf01980289)  
 (重要)
 </td>
 </tr>
@@ -370,11 +370,11 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1e6ac3b2-752e-49a0-84e5-5a8dfe955299)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1e6ac3b2-752e-49a0-84e5-5a8dfe955299)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=d44274d2-0401-4fd8-bc4f-c59f6d81c34f)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=d44274d2-0401-4fd8-bc4f-c59f6d81c34f)  
 (重要)
 </td>
 </tr>
@@ -383,11 +383,11 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f9378339-c58e-4e84-9427-85aeb35b0d99)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f9378339-c58e-4e84-9427-85aeb35b0d99)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=935720ee-cee0-42c2-965e-ce1b07e95e1a)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=935720ee-cee0-42c2-965e-ce1b07e95e1a)  
 (重要)
 </td>
 </tr>
@@ -396,11 +396,11 @@ Windows Server 2003 x64 Edition Service Pack 2
 適用於 Itanium 型系統的 Windows Server 2003 SP2
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=c35c71a8-13b4-47a6-9763-06f6f65327b1)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=c35c71a8-13b4-47a6-9763-06f6f65327b1)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=78c2ac72-da89-42a4-bff9-79551b5d3c4e)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP2](https://www.microsoft.com/download/details.aspx?familyid=78c2ac72-da89-42a4-bff9-79551b5d3c4e)  
 (重要)
 </td>
 </tr>
@@ -439,7 +439,7 @@ Windows Vista Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=15840336-4886-4a1b-8c1e-2c535c3938f7)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=15840336-4886-4a1b-8c1e-2c535c3938f7)  
 (重要)
 </td>
 </tr>
@@ -451,7 +451,7 @@ Windows Vista x64 Edition Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e80739b4-89bb-4317-8381-991244a71cb8)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e80739b4-89bb-4317-8381-991244a71cb8)  
 (重要)
 </td>
 </tr>
@@ -487,11 +487,11 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a9039660-3cc2-470d-a0a5-a70f78074495)\*  
+[適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a9039660-3cc2-470d-a0a5-a70f78074495)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=05c39ab3-7b57-4147-8913-df5df6005799)\*  
+[適用於 32 位元系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=05c39ab3-7b57-4147-8913-df5df6005799)\*  
 (重要)
 </td>
 </tr>
@@ -500,11 +500,11 @@ Windows Server 2008
 適用於 x64 型系統的 Windows Server 2008 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 Service Pack 2\*](http://www.microsoft.com/downloads/details.aspx?familyid=5ea78a9b-b1f7-4e94-b69e-c984e1622ae9)  
+[適用於 x64 型系統的 Windows Server 2008 Service Pack 2\*](https://www.microsoft.com/download/details.aspx?familyid=5ea78a9b-b1f7-4e94-b69e-c984e1622ae9)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 Service Pack 2\*](http://www.microsoft.com/downloads/details.aspx?familyid=1499d988-fd55-4317-b859-ec170907d547)  
+[適用於 x64 型系統的 Windows Server 2008 Service Pack 2\*](https://www.microsoft.com/download/details.aspx?familyid=1499d988-fd55-4317-b859-ec170907d547)  
 (重要)
 </td>
 </tr>
@@ -516,7 +516,7 @@ Windows Server 2008
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6e2d2ea9-0af6-4d23-875d-3211722cd62f)  
+[適用於 Itanium 型系統的 Windows Server 2008 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6e2d2ea9-0af6-4d23-875d-3211722cd62f)  
 (重要)
 </td>
 </tr>
@@ -555,7 +555,7 @@ Windows 7
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=76b99ab2-7e99-4aad-a419-7996bae05c48)  
+[適用於 32 位元系統的 Windows 7 和適用於 32 位元系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=76b99ab2-7e99-4aad-a419-7996bae05c48)  
 (重要)
 </td>
 </tr>
@@ -567,7 +567,7 @@ Windows 7
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=0f6d32de-d3ff-4af9-9b26-a4f12581f5fe)  
+[適用於 x64 型系統的 Windows 7 和適用於 x64 型系統的 Windows 7 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=0f6d32de-d3ff-4af9-9b26-a4f12581f5fe)  
 (重要)
 </td>
 </tr>
@@ -603,11 +603,11 @@ Windows Server 2008 R2
 適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=f58cf343-946c-4e74-bd9c-40ac934a4986)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=f58cf343-946c-4e74-bd9c-40ac934a4986)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a8a451bd-3e5c-4845-9941-daabd9418776)\*  
+[適用於 x64 型系統的 Windows Server 2008 R2 和適用於 x64 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a8a451bd-3e5c-4845-9941-daabd9418776)\*  
 (重要)
 </td>
 </tr>
@@ -619,7 +619,7 @@ Windows Server 2008 R2
 不適用
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=0fdfb1f9-20b3-4d61-8019-33d1003290c8)  
+[適用於 Itanium 型系統的 Windows Server 2008 R2 和適用於 Itanium 型系統的 Windows Server 2008 R2 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=0fdfb1f9-20b3-4d61-8019-33d1003290c8)  
 (重要)
 </td>
 </tr>
@@ -672,12 +672,12 @@ Microsoft Office 套件和元件
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=dee4f3d7-bc4b-47fd-8e3f-9d2b0e82d0f6)  
+[Microsoft Excel 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=dee4f3d7-bc4b-47fd-8e3f-9d2b0e82d0f6)  
 (KB2553072)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=7faa2f90-2e64-4dbf-ac93-bb8cffc9b5fe)  
+[Microsoft Office 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=7faa2f90-2e64-4dbf-ac93-bb8cffc9b5fe)  
 (KB2584052)  
 (重要)
 </td>
@@ -690,18 +690,18 @@ Microsoft Office 2003 Service Pack 3
 Microsoft Office 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=498ac241-d728-4944-abac-ec8444ca6418)  
+[Microsoft Excel 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=498ac241-d728-4944-abac-ec8444ca6418)  
 (KB2553073)<sup>[1]</sup>
 (重要)  
-[Microsoft Office 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=df04b9ce-2daa-4b4d-a944-a873075656f9)  
+[Microsoft Office 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=df04b9ce-2daa-4b4d-a944-a873075656f9)  
 (KB2553089)<sup>[1]</sup>
 (重要)  
-[Microsoft Office 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=90eef02b-db1f-4fdd-bb1d-408063671e4d)  
+[Microsoft Office 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=90eef02b-db1f-4fdd-bb1d-408063671e4d)  
 (KB2553090)<sup>[1]</sup>
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=34bbee95-0e83-4705-8bfe-02e4fb22f8e7)  
+[Microsoft Office 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=34bbee95-0e83-4705-8bfe-02e4fb22f8e7)  
 (KB2584063)  
 (重要)
 </td>
@@ -714,18 +714,18 @@ Microsoft Office 2007 Service Pack 2
 Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (32 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2010 和 Microsoft Excel 2010 Service Pack 1 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=4612c6e4-ac29-4cc4-9da5-88779ea3643e)  
+[Microsoft Excel 2010 和 Microsoft Excel 2010 Service Pack 1 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=4612c6e4-ac29-4cc4-9da5-88779ea3643e)  
 (KB2553070)  
 (重要)  
-[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=1fd15144-5547-4927-8583-8d9b06819226)  
+[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=1fd15144-5547-4927-8583-8d9b06819226)  
 (KB2553091)  
 (重要)  
-[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=18840d78-944f-400a-addc-dce7e570a569)  
+[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=18840d78-944f-400a-addc-dce7e570a569)  
 (KB2553096)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=3c8fd04a-9df6-4726-a9bc-811f49665981)  
+[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=3c8fd04a-9df6-4726-a9bc-811f49665981)  
 (KB2584066)  
 (重要)
 </td>
@@ -738,18 +738,18 @@ Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (32 位元版本)
 Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (64 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel 2010 和 Microsoft Excel 2010 Service Pack 1 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=d40db27b-1318-4ca7-b44f-c90bb6342109)  
+[Microsoft Excel 2010 和 Microsoft Excel 2010 Service Pack 1 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=d40db27b-1318-4ca7-b44f-c90bb6342109)  
 (KB2553070)  
 (重要)  
-[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=f83800aa-6403-4341-afea-d363e54d5831)  
+[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=f83800aa-6403-4341-afea-d363e54d5831)  
 (KB2553091)  
 (重要)  
-[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=92787e00-6f30-4020-9c1a-70270be5a623)  
+[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=92787e00-6f30-4020-9c1a-70270be5a623)  
 (KB2553096)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=85360dc1-99e7-4e3e-be6f-3795e8a8122f)  
+[Microsoft Office 2010 和 Microsoft Office 2010 Service Pack 1 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=85360dc1-99e7-4e3e-be6f-3795e8a8122f)  
 (KB2584066)  
 (重要)
 </td>
@@ -795,7 +795,7 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=868f4d9f-3498-4d59-a017-59204553889c)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=868f4d9f-3498-4d59-a017-59204553889c)  
 (KB2598782)  
 (重要)
 </td>
@@ -811,7 +811,7 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=afa79cfc-6e8a-4d0b-88aa-0d7e05031e44)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=afa79cfc-6e8a-4d0b-88aa-0d7e05031e44)  
 (KB2598781)  
 (重要)
 </td>
@@ -827,7 +827,7 @@ Microsoft Office 2008 for Mac
 Microsoft Office for Mac 2011
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office for Mac 2011](http://www.microsoft.com/downloads/details.aspx?familyid=535fcf4a-eeb2-44eb-b2a6-9c512509c49d)  
+[Microsoft Office for Mac 2011](https://www.microsoft.com/download/details.aspx?familyid=535fcf4a-eeb2-44eb-b2a6-9c512509c49d)  
 (KB2598783)  
 (重要)
 </td>
@@ -843,7 +843,7 @@ Microsoft Office for Mac 2011
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=9796588d-238f-4694-9598-1aa8d2becb55)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=9796588d-238f-4694-9598-1aa8d2becb55)  
 (KB2598785)  
 (重要)
 </td>
@@ -898,7 +898,7 @@ Microsoft Office Groove 2007 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Groove 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5ea6192b-55e5-4ca4-8d91-cc768ede8277)  
+[Microsoft Office Groove 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5ea6192b-55e5-4ca4-8d91-cc768ede8277)  
 (KB2552997)  
 (重要)
 </td>
@@ -914,7 +914,7 @@ Microsoft SharePoint Workspace 2010 和 Microsoft SharePoint Workspace 2010 Serv
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Workspace 2010 和 Microsoft SharePoint Workspace 2010 Service Pack 1 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=f6ee7e43-9da9-4b96-abd0-390cfcacb885)  
+[Microsoft SharePoint Workspace 2010 和 Microsoft SharePoint Workspace 2010 Service Pack 1 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=f6ee7e43-9da9-4b96-abd0-390cfcacb885)  
 (KB2566445)  
 (重要)
 </td>
@@ -930,7 +930,7 @@ Microsoft SharePoint Workspace 2010 和 Microsoft SharePoint Workspace 2010 Serv
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Workspace 2010 和 Microsoft SharePoint Workspace 2010 Service Pack 1 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=234efac1-4f09-41f5-90a9-4a3c2e81c05e)  
+[Microsoft SharePoint Workspace 2010 和 Microsoft SharePoint Workspace 2010 Service Pack 1 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=234efac1-4f09-41f5-90a9-4a3c2e81c05e)  
 (KB2566445)  
 (重要)
 </td>
@@ -973,7 +973,7 @@ Microsoft SharePoint Workspace 2010 和 Microsoft SharePoint Workspace 2010 Serv
 Microsoft Excel Viewer Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel Viewer Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f82ca5da-a55a-487c-8170-46a40000c8e3)  
+[Microsoft Excel Viewer Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f82ca5da-a55a-487c-8170-46a40000c8e3)  
 (KB2553075)  
 (重要)
 </td>
@@ -989,7 +989,7 @@ Microsoft Excel Viewer Service Pack 2
 Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Word、Excel 與 PowerPoint 2007 檔案格式的 Microsoft Office 相容性套件 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=01093f22-06b7-4c9b-bff9-f54ac5d73bf8)  
+[Word、Excel 與 PowerPoint 2007 檔案格式的 Microsoft Office 相容性套件 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=01093f22-06b7-4c9b-bff9-f54ac5d73bf8)  
 (KB2553074)  
 (重要)
 </td>
@@ -1049,21 +1049,21 @@ Microsoft SharePoint Server
 Microsoft Office SharePoint Server 2007 Service Pack 2 (32 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel Services](http://www.microsoft.com/downloads/details.aspx?familyid=dd532201-485c-4270-88d3-63bd3f24327e)  
+[Microsoft Excel Services](https://www.microsoft.com/download/details.aspx?familyid=dd532201-485c-4270-88d3-63bd3f24327e)  
 (KB2553093)<sup>[2]</sup>
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 Service Pack 2 (coreserver) (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=ad52c341-13ce-4b53-87b4-269cb3f41275)  
+[Microsoft Office SharePoint Server 2007 Service Pack 2 (coreserver) (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=ad52c341-13ce-4b53-87b4-269cb3f41275)  
 (KB2508964)<sup>[1]</sup>
 (重要)  
-[Microsoft Office SharePoint Server 2007 Service Pack 2 (oserver) (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=fd6189c9-ab3b-441f-a901-6ac7f3b202aa)  
+[Microsoft Office SharePoint Server 2007 Service Pack 2 (oserver) (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=fd6189c9-ab3b-441f-a901-6ac7f3b202aa)  
 (KB2553001)<sup>[1]</sup>
 (重要)  
-[Microsoft Office SharePoint Server 2007 Service Pack 2 (sserverx) (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=d9601fae-4a80-45cd-a49b-ef441856d7e4)  
+[Microsoft Office SharePoint Server 2007 Service Pack 2 (sserverx) (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=d9601fae-4a80-45cd-a49b-ef441856d7e4)  
 (KB2553002)<sup>[1]</sup>
 (重要)  
-[Microsoft Office SharePoint Server 2007 Service Pack 2 (dlc) (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=55b60e2f-ec68-4ccb-803a-5d03add8a1f1)  
+[Microsoft Office SharePoint Server 2007 Service Pack 2 (dlc) (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=55b60e2f-ec68-4ccb-803a-5d03add8a1f1)  
 (KB2553003)<sup>[1]</sup>
 (重要)
 </td>
@@ -1073,21 +1073,21 @@ Microsoft Office SharePoint Server 2007 Service Pack 2 (32 位元版本)
 Microsoft Office SharePoint Server 2007 Service Pack 2 (64 位元版本)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel Services](http://www.microsoft.com/downloads/details.aspx?familyid=1086a5b0-e441-4e26-a8d1-924a20121dde)  
+[Microsoft Excel Services](https://www.microsoft.com/download/details.aspx?familyid=1086a5b0-e441-4e26-a8d1-924a20121dde)  
 (KB2553093)<sup>[2]</sup>
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 Service Pack 2 (coreserver) (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=e5e60751-242a-4fdb-9852-6d94050d3d0e)  
+[Microsoft Office SharePoint Server 2007 Service Pack 2 (coreserver) (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=e5e60751-242a-4fdb-9852-6d94050d3d0e)  
 (KB2508964)<sup>[1]</sup>
 (重要)  
-[Microsoft Office SharePoint Server 2007 Service Pack 2 (oserver) (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=b1466366-e2ae-498e-b964-135e034e7348)  
+[Microsoft Office SharePoint Server 2007 Service Pack 2 (oserver) (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=b1466366-e2ae-498e-b964-135e034e7348)  
 (KB2553001)<sup>[1]</sup>
 (重要)  
-[Microsoft Office SharePoint Server 2007 Service Pack 2 (sserverx) (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=bb788c8d-8383-4e53-ac05-2a7dd9b83e70)  
+[Microsoft Office SharePoint Server 2007 Service Pack 2 (sserverx) (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=bb788c8d-8383-4e53-ac05-2a7dd9b83e70)  
 (KB2553002)<sup>[1]</sup>
 (重要)  
-[Microsoft Office SharePoint Server 2007 Service Pack 2 (dlc) (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=e8e1a5bb-a552-45fe-8e81-e05fbfbb57ee)<sup>[1]</sup>
+[Microsoft Office SharePoint Server 2007 Service Pack 2 (dlc) (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=e8e1a5bb-a552-45fe-8e81-e05fbfbb57ee)<sup>[1]</sup>
 (重要)  
 (KB2553003)
 </td>
@@ -1097,30 +1097,30 @@ Microsoft Office SharePoint Server 2007 Service Pack 2 (64 位元版本)
 Microsoft Office SharePoint Server 2010 和 Microsoft Office SharePoint Server 2010 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel Services](http://www.microsoft.com/downloads/details.aspx?familyid=0c150328-6a15-4852-a09c-4063142bd946)  
+[Microsoft Excel Services](https://www.microsoft.com/download/details.aspx?familyid=0c150328-6a15-4852-a09c-4063142bd946)  
 (KB2553094)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (osrchwfe)](http://www.microsoft.com/downloads/details.aspx?familyid=c17eb04d-cbbc-457e-a424-4ee26b7a9654)  
+[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (osrchwfe)](https://www.microsoft.com/download/details.aspx?familyid=c17eb04d-cbbc-457e-a424-4ee26b7a9654)  
 (KB2494022)  
 (重要)  
-[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (osrv)](http://www.microsoft.com/downloads/details.aspx?familyid=2a80a849-b712-47d4-9def-9395ee54a265)  
+[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (osrv)](https://www.microsoft.com/download/details.aspx?familyid=2a80a849-b712-47d4-9def-9395ee54a265)  
 (KB2560885)  
 (重要)  
-[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (pplwfe)](http://www.microsoft.com/downloads/details.aspx?familyid=b84c2bcb-0327-4916-871e-7a5c19b8c41b)  
+[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (pplwfe)](https://www.microsoft.com/download/details.aspx?familyid=b84c2bcb-0327-4916-871e-7a5c19b8c41b)  
 (KB2560890)  
 (重要)  
-[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (ppsmawfe)](http://www.microsoft.com/downloads/details.aspx?familyid=1597f295-02a9-4479-9d52-f18f0e83eaba)  
+[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (ppsmawfe)](https://www.microsoft.com/download/details.aspx?familyid=1597f295-02a9-4479-9d52-f18f0e83eaba)  
 (KB2566456)  
 (重要)  
-[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (dlc)](http://www.microsoft.com/downloads/details.aspx?familyid=e6b666a4-a795-441c-9bda-23e2de2e7b05)  
+[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (dlc)](https://www.microsoft.com/download/details.aspx?familyid=e6b666a4-a795-441c-9bda-23e2de2e7b05)  
 (KB2566954)  
 (重要)  
-[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (ppsmamui)](http://www.microsoft.com/downloads/details.aspx?familyid=57592ce4-5d99-45c2-830f-380d67af8899)  
+[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (ppsmamui)](https://www.microsoft.com/download/details.aspx?familyid=57592ce4-5d99-45c2-830f-380d67af8899)  
 (KB2566958)  
 (重要)  
-[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (wosrv)](http://www.microsoft.com/downloads/details.aspx?familyid=dd64a635-1e55-4b4d-9718-9b94c31c5625)  
+[Microsoft Office SharePoint Server 2010 與 Microsoft Office SharePoint Server 2010 Service Pack 1 (wosrv)](https://www.microsoft.com/download/details.aspx?familyid=dd64a635-1e55-4b4d-9718-9b94c31c5625)  
 (KB2566960)  
 (重要)
 </td>
@@ -1160,7 +1160,7 @@ Microsoft Office Forms Server 2007 Service Pack 2 (32 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Forms Server 2007 Service Pack 2 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=c4c8ad7e-50bd-460e-9678-d8c72c6ee7ab)  
+[Microsoft Office Forms Server 2007 Service Pack 2 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=c4c8ad7e-50bd-460e-9678-d8c72c6ee7ab)  
 (KB2553005)  
 (重要)
 </td>
@@ -1173,7 +1173,7 @@ Microsoft Office Forms Server 2007 Service Pack 2 (64 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Forms Server 2007 Service Pack 2 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=7390b526-f411-45a4-8587-8077b473ac17)  
+[Microsoft Office Forms Server 2007 Service Pack 2 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=7390b526-f411-45a4-8587-8077b473ac17)  
 (KB2553005)  
 (重要)
 </td>
@@ -1213,7 +1213,7 @@ Microsoft Office Groove Data Bridge Server 2007 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Groove Data Bridge Server 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5958247e-204e-409c-bdc1-7aff06e854b8)  
+[Microsoft Office Groove Data Bridge Server 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5958247e-204e-409c-bdc1-7aff06e854b8)  
 (KB2552999)  
 (重要)
 </td>
@@ -1226,7 +1226,7 @@ Microsoft Office Groove Management Server 2007 Service Pack 2
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Groove Management Server 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6b5b4caf-6a95-487d-ac17-c4435225af3a)  
+[Microsoft Office Groove Management Server 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6b5b4caf-6a95-487d-ac17-c4435225af3a)  
 (KB2552998)  
 (重要)
 </td>
@@ -1239,7 +1239,7 @@ Microsoft Groove Server 2010 和 Microsoft Groove Server 2010 Service Pack 1
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Groove Server 2010 和 Microsoft Groove Server 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=71c0f217-5112-4dca-b9aa-46c69f6099e4)  
+[Microsoft Groove Server 2010 和 Microsoft Groove Server 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=71c0f217-5112-4dca-b9aa-46c69f6099e4)  
 (KB2508965)  
 (重要)
 </td>
@@ -1276,15 +1276,15 @@ Microsoft Office Web Apps
 Microsoft Office Web Apps 2010 和 Microsoft Office Web Apps 2010 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Excel Web App 2010 和 Microsoft Excel Web App 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=73d49094-a9cf-407e-8921-1b22fbc30427)  
+[Microsoft Excel Web App 2010 和 Microsoft Excel Web App 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=73d49094-a9cf-407e-8921-1b22fbc30427)  
 (KB2553095)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Web Apps 2010 和 Microsoft Office Web Apps 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=288a7394-b8d5-4445-bd4c-65bbf4b10eaf)  
+[Microsoft Office Web Apps 2010 和 Microsoft Office Web Apps 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=288a7394-b8d5-4445-bd4c-65bbf4b10eaf)  
 (KB2566449)  
 (重要)  
-[Microsoft Word Web App 2010 和 Microsoft Word Web App 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=152ff9f4-d720-41af-8f89-793133ece037)  
+[Microsoft Word Web App 2010 和 Microsoft Word Web App 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=152ff9f4-d720-41af-8f89-793133ece037)  
 (KB2566450)  
 (重要)
 </td>
@@ -1324,7 +1324,7 @@ Microsoft Windows SharePoint Services 2.0
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 2.0](http://www.microsoft.com/downloads/details.aspx?familyid=71e32745-cb05-4b87-a447-741ccdac7450)  
+[Microsoft Windows SharePoint Services 2.0](https://www.microsoft.com/download/details.aspx?familyid=71e32745-cb05-4b87-a447-741ccdac7450)  
 (KB2494007)  
 (重要)
 </td>
@@ -1337,7 +1337,7 @@ Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=0f306cbd-a652-4e77-b394-1a6dc38ba83c)  
+[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=0f306cbd-a652-4e77-b394-1a6dc38ba83c)  
 (KB2493987)  
 (重要)
 </td>
@@ -1350,7 +1350,7 @@ Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 位元版本)
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 位元版本)](http://www.microsoft.com/downloads/details.aspx?familyid=3137e4c6-783d-4461-88bd-90da064e3105)  
+[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 位元版本)](https://www.microsoft.com/download/details.aspx?familyid=3137e4c6-783d-4461-88bd-90da064e3105)  
 (KB2493987)  
 (重要)
 </td>
@@ -1363,7 +1363,7 @@ Microsoft SharePoint Foundation 2010 和 Microsoft SharePoint Foundation 2010 Se
 不適用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Foundation 2010 和 Microsoft SharePoint Foundation 2010 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=0db799e2-896f-464b-8cd5-ecf2014f0588)  
+[Microsoft SharePoint Foundation 2010 和 Microsoft SharePoint Foundation 2010 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=0db799e2-896f-464b-8cd5-ecf2014f0588)  
 (KB2494001)  
 (重要)
 </td>
@@ -1428,7 +1428,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和應用程式相容性工具組**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署安全性更新的時間。您可以使用 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。這可能會觸發不相容性，而拉長部署安全性更新的時間。您可以使用 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 安全性更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

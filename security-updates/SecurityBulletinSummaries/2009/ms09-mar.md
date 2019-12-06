@@ -166,17 +166,17 @@ Microsoft Windows 2000
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=98bb7d40-89a0-470a-8eb7-06f15072a635)  
+[Microsoft Windows 2000 Service Pack 4 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=98bb7d40-89a0-470a-8eb7-06f15072a635)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=bf7065bc-c183-4a78-8d46-72fe7385c07c)  
+[Microsoft Windows 2000 Service Pack 4 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=bf7065bc-c183-4a78-8d46-72fe7385c07c)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server Service Pack 4 上的 DNS 伺服器 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=110354f7-5ece-4c4d-b563-3adba6ac0116)  
+[Microsoft Windows 2000 Server Service Pack 4 上的 DNS 伺服器 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=110354f7-5ece-4c4d-b563-3adba6ac0116)  
 (重要)  
-[Microsoft Windows 2000 Server Service Pack 4 上的 WINS 伺服器 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4319abb3-1ea2-466a-a815-c0b3b86b4462)  
+[Microsoft Windows 2000 Server Service Pack 4 上的 WINS 伺服器 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4319abb3-1ea2-466a-a815-c0b3b86b4462)  
 (重要)
 </td>
 </tr>
@@ -218,11 +218,11 @@ Windows XP
 Windows XP Service Pack 2 及 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 與 Windows XP Service Pack 3 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=e09641ba-6cbe-4095-82b5-703d3a7dc33b)  
+[Windows XP Service Pack 2 與 Windows XP Service Pack 3 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=e09641ba-6cbe-4095-82b5-703d3a7dc33b)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 與 Windows XP Service Pack 3 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=942d87f6-3cb1-4d36-a70a-70d9c34488f3)  
+[Windows XP Service Pack 2 與 Windows XP Service Pack 3 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=942d87f6-3cb1-4d36-a70a-70d9c34488f3)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -234,11 +234,11 @@ Windows XP Service Pack 2 及 Windows XP Service Pack 3
 Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=d0d704c6-48c2-4907-b6c3-2455d7cf21c8)  
+[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=d0d704c6-48c2-4907-b6c3-2455d7cf21c8)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=6d02306e-9e2e-4ae8-bd21-8a2c1a229472)  
+[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=6d02306e-9e2e-4ae8-bd21-8a2c1a229472)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -283,17 +283,17 @@ Windows Server 2003
 Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=f5cfb8da-e7cc-4183-8631-507c2a406500)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=f5cfb8da-e7cc-4183-8631-507c2a406500)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=0b3f6fdd-276e-4267-99d8-8f00d91ad6a2)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=0b3f6fdd-276e-4267-99d8-8f00d91ad6a2)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 上的 DNS 伺服器 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=6cc42c9e-c34e-4577-8b23-9e07e2369878)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 上的 DNS 伺服器 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=6cc42c9e-c34e-4577-8b23-9e07e2369878)  
 (重要)  
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 上的 WINS 伺服器 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=049e5db5-7315-4188-99fd-4a54833e6bf2)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 上的 WINS 伺服器 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=049e5db5-7315-4188-99fd-4a54833e6bf2)  
 (重要)
 </td>
 </tr>
@@ -302,17 +302,17 @@ Windows Server 2003 Service Pack 1 與 Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=ecf75c70-8489-41ad-9759-3a07e13957be)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=ecf75c70-8489-41ad-9759-3a07e13957be)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=ce98ff55-f565-469d-bbd2-32b681faf908)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=ce98ff55-f565-469d-bbd2-32b681faf908)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 上的 DNS 伺服器 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=b1f81fd2-0099-4450-8543-0459561d22d0)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 上的 DNS 伺服器 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=b1f81fd2-0099-4450-8543-0459561d22d0)  
 (重要)  
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 上的 WINS 伺服器 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4a393c63-eff5-4c8c-9c3f-33ce45c32428)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 上的 WINS 伺服器 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4a393c63-eff5-4c8c-9c3f-33ce45c32428)  
 (重要)
 </td>
 </tr>
@@ -321,17 +321,17 @@ Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack
 Windows Server 2003 SP1 for Itanium-based Systems 和 Windows Server 2003 SP2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=04be3d7e-7dda-4dca-887a-e7a8156ede1c)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=04be3d7e-7dda-4dca-887a-e7a8156ede1c)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=5ca3c72c-cadb-4b0a-b3a3-fb81d0bfd7b3)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=5ca3c72c-cadb-4b0a-b3a3-fb81d0bfd7b3)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 上的 DNS 伺服器 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=d3ed7d9a-d652-4bd0-aecc-5a415bec6c59)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 上的 DNS 伺服器 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=d3ed7d9a-d652-4bd0-aecc-5a415bec6c59)  
 (重要)  
-[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 上的 WINS 伺服器 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=37e3a75e-0a5d-4df0-881f-cdb87efa4dcf)  
+[適用於 Itanium 型系統的 Windows Server 2003 SP1 和適用於 Itanium 型系統的 Windows Server 2003 SP2 上的 WINS 伺服器 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=37e3a75e-0a5d-4df0-881f-cdb87efa4dcf)  
 (重要)
 </td>
 </tr>
@@ -373,11 +373,11 @@ Windows Vista
 Windows Vista 和 Windows Vista Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=4b1aaaba-f355-4265-83c0-50b901856ced)  
+[Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=4b1aaaba-f355-4265-83c0-50b901856ced)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=21086a04-402a-4940-8358-7fa63508102b)  
+[Windows Vista 和 Windows Vista Service Pack 1 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=21086a04-402a-4940-8358-7fa63508102b)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -389,11 +389,11 @@ Windows Vista 和 Windows Vista Service Pack 1
 Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=0fcac480-d6db-4a94-8c7d-b7319282cf56)  
+[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=0fcac480-d6db-4a94-8c7d-b7319282cf56)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=c75a2ea9-b42f-457b-be09-5c8fa0339388)  
+[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=c75a2ea9-b42f-457b-be09-5c8fa0339388)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -438,15 +438,15 @@ Windows Server 2008
 適用於 32 位元系統的 Windows Server 2008
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=38851df2-4fb5-4d28-9d15-181c260cf8cf)\*  
+[適用於 32 位元系統的 Windows Server 2008 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=38851df2-4fb5-4d28-9d15-181c260cf8cf)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=47b361ce-624b-466c-b5c5-8703f6532615)\*  
+[適用於 32 位元系統的 Windows Server 2008 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=47b361ce-624b-466c-b5c5-8703f6532615)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 32 位元系統的 Windows Server 2008 上的 DNS 伺服器 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=92e89882-d656-4b61-a05c-3afb44895f08)\*  
+[適用於 32 位元系統的 Windows Server 2008 上的 DNS 伺服器 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=92e89882-d656-4b61-a05c-3afb44895f08)\*  
 (重要)
 </td>
 </tr>
@@ -455,15 +455,15 @@ Windows Server 2008
 適用於 x64 系統的 Windows Server 2008
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=ec15acc4-3e0f-4414-9383-61c122ff1382)\*  
+[適用於 x64 型系統的 Windows Server 2008 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=ec15acc4-3e0f-4414-9383-61c122ff1382)\*  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=5c81ac45-60e6-4121-ab6b-d3b3179aacc4)\*  
+[適用於 x64 型系統的 Windows Server 2008 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=5c81ac45-60e6-4121-ab6b-d3b3179aacc4)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[適用於 x64 型系統的 Windows Server 2008 上的 DNS 伺服器 (中文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=be068d06-5939-4ad8-8191-e85931ed610f)\*  
+[適用於 x64 型系統的 Windows Server 2008 上的 DNS 伺服器 (中文下載更新程式)](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=be068d06-5939-4ad8-8191-e85931ed610f)\*  
 (重要)
 </td>
 </tr>
@@ -472,11 +472,11 @@ Windows Server 2008
 適用於 Itanium 型系統的 Windows Server 2008
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=eead6f93-10fd-4492-8137-481d9876a5fe)  
+[適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=eead6f93-10fd-4492-8137-481d9876a5fe)  
 (重大)
 </td>
 <td style="border:1px solid black;">
-[適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)](http://www.microsoft.com/downloads/details.aspx?familyid=bf8f5a86-1757-4f9b-b632-d4aa7005a9f8)  
+[適用於 Itanium 型系統的 Windows Server 2008 (英文下載更新程式)](https://www.microsoft.com/download/details.aspx?familyid=bf8f5a86-1757-4f9b-b632-d4aa7005a9f8)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -523,7 +523,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和應用程式相容性工具組**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署安全性更新的時間。 您可以使用 [Application Compatibility Toolkit 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式，簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署安全性更新的時間。 您可以使用 [Application Compatibility Toolkit 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式，簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 安全性更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

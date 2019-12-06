@@ -240,7 +240,7 @@ Microsoft Office 套件、系統和元件
 Microsoft Office 2000 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2000 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=f443312a-ac74-4ebc-a4ac-7a756aa67894)  
+[Microsoft Office PowerPoint 2000 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=f443312a-ac74-4ebc-a4ac-7a756aa67894)  
 (KB957790)  
 (重大)
 </td>
@@ -250,7 +250,7 @@ Microsoft Office 2000 Service Pack 3
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=a24ec7ab-c1c7-4ddb-8b6e-107f1af67f49)  
+[Microsoft Office PowerPoint 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=a24ec7ab-c1c7-4ddb-8b6e-107f1af67f49)  
 (KB957781)  
 (重要)
 </td>
@@ -260,7 +260,7 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=ccfa978b-3340-40db-a45d-c880ba36b106)  
+[Microsoft Office PowerPoint 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=ccfa978b-3340-40db-a45d-c880ba36b106)  
 (KB957784)  
 (重要)
 </td>
@@ -270,7 +270,7 @@ Microsoft Office 2003 Service Pack 3
 2007 Microsoft Office System Service Pack 1 和 2007 Microsoft Office System Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2007 Service Pack 1 和 Microsoft Office PowerPoint 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=11f8380f-ffb6-4c22-a89c-3dc55d0f9834)\*  
+[Microsoft Office PowerPoint 2007 Service Pack 1 和 Microsoft Office PowerPoint 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=11f8380f-ffb6-4c22-a89c-3dc55d0f9834)\*  
 (KB957789)  
 (重要)
 </td>
@@ -301,7 +301,7 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=5557bfb7-ebb4-4c42-8042-41e830c4e550)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=5557bfb7-ebb4-4c42-8042-41e830c4e550)  
 (KB969661)  
 (重要)
 </td>
@@ -311,7 +311,7 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=58326da2-eb75-4b42-b1bc-e70319defb58)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=58326da2-eb75-4b42-b1bc-e70319defb58)  
 (KB971822)  
 (重要)
 </td>
@@ -321,7 +321,7 @@ Microsoft Office 2008 for Mac
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=9d6d9eaa-8442-4184-8886-faab2803bde6)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=9d6d9eaa-8442-4184-8886-faab2803bde6)  
 (KB971824)  
 (重要)
 </td>
@@ -352,10 +352,10 @@ Open XML File Format Converter for Mac
 PowerPoint Viewer
 </td>
 <td style="border:1px solid black;">
-[PowerPoint Viewer 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=6a57e6ed-bd24-406f-87bb-117391e083e0)  
+[PowerPoint Viewer 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=6a57e6ed-bd24-406f-87bb-117391e083e0)  
 (KB969615)  
 (重要)  
-[PowerPoint Viewer 2007 Service Pack 1 和 PowerPoint Viewer 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=141b8338-5c52-4326-a9e4-d2f2d8940d9c)  
+[PowerPoint Viewer 2007 Service Pack 1 和 PowerPoint Viewer 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=141b8338-5c52-4326-a9e4-d2f2d8940d9c)  
 (KB970059)  
 (重要)
 </td>
@@ -365,7 +365,7 @@ PowerPoint Viewer
 適用於 Word、Excel 及 PowerPoint 2007 檔案格式的 Microsoft Office 相容性套件
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 1 和 Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=e1d3a4c3-538a-4f98-8d60-250803a80e2a)  
+[Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 1 和 Microsoft Office Word、Excel 及 PowerPoint 2007 檔案格式相容性套件 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=e1d3a4c3-538a-4f98-8d60-250803a80e2a)  
 (KB969618)  
 (重要)
 </td>
@@ -375,7 +375,7 @@ PowerPoint Viewer
 Microsoft Works 8.5
 </td>
 <td style="border:1px solid black;">
-[Microsoft Works 8.5](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-tw&familyid=628280fe-e035-4274-85f2-393d9bad543c)  
+[Microsoft Works 8.5](https://www.microsoft.com/download/details.aspx?displaylang=zh-tw&familyid=628280fe-e035-4274-85f2-393d9bad543c)  
 (KB967043)  
 (重要)
 </td>
@@ -385,7 +385,7 @@ Microsoft Works 8.5
 Microsoft Works 9
 </td>
 <td style="border:1px solid black;">
-[Microsoft Works 9](http://www.microsoft.com/downloads/details.aspx?familyid=f6fa110e-45c6-450f-ae47-c89a06e3f762)  
+[Microsoft Works 9](https://www.microsoft.com/download/details.aspx?familyid=f6fa110e-45c6-450f-ae47-c89a06e3f762)  
 (KB967044)  
 (重要)
 </td>
@@ -432,7 +432,7 @@ Microsoft Systems Management Server (SMS) 提供了深具彈性的企業解決�
 
 **Update Compatibility Evaluator 和應用程式相容性工具組**
 
-更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署安全性更新的時間。 您可以使用 [Application Compatibility Toolkit 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式，簡化其測試和驗證 Windows 更新的過程。
+更新時常會寫入您應用程式執行所需的相同檔案和登錄設定。 這可能會觸發不相容性，而拉長部署安全性更新的時間。 您可以使用 [Application Compatibility Toolkit 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 隨附的 [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) 元件，針對所安裝的應用程式，簡化其測試和驗證 Windows 更新的過程。
 
 Application Compatibility Toolkit (ACT) 包含必要的工具和文件，可讓您在環境中部署 Microsoft Windows Vista、Windows Update、Microsoft 安全性更新或新版 Windows Internet Explorer 之前，評估及減輕應用程式相容性問題。
 

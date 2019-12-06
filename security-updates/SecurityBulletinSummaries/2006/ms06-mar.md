@@ -104,7 +104,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-mar(v=Security.10)
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b8d2d18f-8d2a-495b-83ff-1696ec1e5ea1">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=b8d2d18f-8d2a-495b-83ff-1696ec1e5ea1">中度</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
@@ -119,12 +119,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-mar(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Itanium 系統的 Windows Server 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b1ab9b42-80cd-4002-88fa-7a83ab15c2ee">中度</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=b1ab9b42-80cd-4002-88fa-7a83ab15c2ee">中度</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003 with SP1 for Itanium-based Systems</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=004d4492-08a5-445e-b5cd-bcc9162cc8f9">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=004d4492-08a5-445e-b5cd-bcc9162cc8f9">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>
 <tr class="odd">
@@ -175,87 +175,87 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-TW/library/ms06-mar(v=Security.10)
 <tr class="even">
 <td style="border:1px solid black;">Excel 2003</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ac22f83a-b409-4469-984e-6c19d8f5fe41">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ac22f83a-b409-4469-984e-6c19d8f5fe41">重要</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Excel 2003 Viewer</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7dbadbd1-0542-475b-91b5-90dd2af2c0fc">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7dbadbd1-0542-475b-91b5-90dd2af2c0fc">重要</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Word 2002</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8b98a5fe-7a26-45f0-8d28-c9618fa7a458">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8b98a5fe-7a26-45f0-8d28-c9618fa7a458">重要</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Excel 2002</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=643337c7-8a47-4fa3-ab58-7a916b33607d">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=643337c7-8a47-4fa3-ab58-7a916b33607d">重要</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Outlook 2002</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9b0d4441-4f88-4b59-a4f3-6fb558ef8135">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9b0d4441-4f88-4b59-a4f3-6fb558ef8135">重要</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">PowerPoint 2002</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c74cb45b-cf92-4efc-8dbe-dbf4bdebe215">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c74cb45b-cf92-4efc-8dbe-dbf4bdebe215">重要</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Office XP Multilingual User Interface Pack</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=589d9abb-6308-4208-881c-ce58d6972e1f">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=589d9abb-6308-4208-881c-ce58d6972e1f">重要</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Word 2000</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=cd2179fd-37f5-4d09-b653-0174651cf5e4">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=cd2179fd-37f5-4d09-b653-0174651cf5e4">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Excel 2000</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c9433440-31ef-4c18-a0c7-b595ea23f6fc">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c9433440-31ef-4c18-a0c7-b595ea23f6fc">重大</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Outlook 2000</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2b231231-ac83-4688-9c8d-dcdcb544fb3c">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2b231231-ac83-4688-9c8d-dcdcb544fb3c">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">PowerPoint 2000</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f24d4bd0-4771-4688-b52a-02d4eabb1574">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f24d4bd0-4771-4688-b52a-02d4eabb1574">重大</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Office 2000 Multilanguage Pack</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f24d4bd0-4771-4688-b52a-02d4eabb1574">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f24d4bd0-4771-4688-b52a-02d4eabb1574">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Works Suite 2000</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=cd2179fd-37f5-4d09-b653-0174651cf5e4">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=cd2179fd-37f5-4d09-b653-0174651cf5e4">重大</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Works Suite 2001</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=cd2179fd-37f5-4d09-b653-0174651cf5e4">重大</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=cd2179fd-37f5-4d09-b653-0174651cf5e4">重大</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Works Suite 2002</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8b98a5fe-7a26-45f0-8d28-c9618fa7a458">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8b98a5fe-7a26-45f0-8d28-c9618fa7a458">重要</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Works Suite 2003</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8b98a5fe-7a26-45f0-8d28-c9618fa7a458">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8b98a5fe-7a26-45f0-8d28-c9618fa7a458">重要</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Works Suite 2004</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=8b98a5fe-7a26-45f0-8d28-c9618fa7a458">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=8b98a5fe-7a26-45f0-8d28-c9618fa7a458">重要</a></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Excel X for Mac</td>
